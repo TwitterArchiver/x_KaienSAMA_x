@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1885049016939143446",
+    "created_at": "2025-01-30T19:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T20:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885049016939143446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 3,
+          "username": "overdose__jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885049016939143446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884557969934946726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose__jp: 七情六欲只剩下抑郁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1885049016939143446",
+        "created_at": "2025-01-30T19:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T20:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885049016939143446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 3,
+              "username": "overdose__jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885049016939143446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884557969934946726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose__jp: 七情六欲只剩下抑郁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797727504540807168",
+        "conversation_id": "1884557969934946726",
+        "created_at": "2025-01-29T11:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T12:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884557969934946726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884557969934946726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2208,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "七情六欲只剩下抑郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 122,
+          "like_count": 12221,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4025
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "https://t.co/y1xuCfsZoT是一个非盈利，并且储备od知识的网站.\n\n虽然这确实是od网站，但我们的目的是让人规避风险，防止意外",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "http://overdose.jp",
+                "start": 0,
+                "url": "https://t.co/y1xuCfsZoT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "https://overdose.jp/",
+                "start": 0,
+                "url": "https://t.co/nDuhQw7xW9"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose知识站点",
+        "pinned_tweet_id": "1884763670346915971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882317178176929792/xPYdiw7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 3451,
+          "like_count": 1495,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1235
+        },
+        "url": "https://t.co/nDuhQw7xW9",
+        "username": "overdose__jp",
+        "verified": false
+      }
+    ]
+  }
+}

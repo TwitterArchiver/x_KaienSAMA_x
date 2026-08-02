@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1917225159343411282",
+    "created_at": "2025-04-29T14:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T15:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917225159343411282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_kaiensama_x/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/x_kaiensama_x/status/1916551798858395896",
+          "start": 7,
+          "url": "https://t.co/onCWh4IoFS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917225159343411282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916551798858395896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我覺得不可以 https://t.co/onCWh4IoFS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1917225159343411282",
+        "created_at": "2025-04-29T14:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917225159343411282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_kaiensama_x/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/x_kaiensama_x/status/1916551798858395896",
+              "start": 7,
+              "url": "https://t.co/onCWh4IoFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917225159343411282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916551798858395896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我覺得不可以 https://t.co/onCWh4IoFS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1916551798858395896",
+        "created_at": "2025-04-27T17:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T18:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916551798858395896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916551798858395896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的可以擁有幸福嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 131,
+          "like_count": 12304,
+          "listed_count": 3,
+          "media_count": 231,
+          "tweet_count": 5299
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

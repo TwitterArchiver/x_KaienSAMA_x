@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981575487156559872"
+      ],
+      "media_source_tweet_id": [
+        "1981575499450368073"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1982102648296993244",
+    "created_at": "2025-10-25T15:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T16:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982102648296993244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1921600079070404608",
+          "start": 3,
+          "username": "Yoyonevergiveup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ksJ0mSZTUv",
+          "end": 47,
+          "expanded_url": "https://x.com/Yoyonevergiveup/status/1981575499450368073/photo/1",
+          "media_key": "3_1981575487156559872",
+          "start": 24,
+          "url": "https://t.co/ksJ0mSZTUv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982102648296993244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981575499450368073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yoyonevergiveup: 嗯😀 https://t.co/ksJ0mSZTUv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1981575487156559872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_4aB-WoAAul47.jpg",
+        "width": 903
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981575487156559872"
+          ],
+          "media_source_tweet_id": [
+            "1981575499450368073"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1982102648296993244",
+        "created_at": "2025-10-25T15:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T16:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982102648296993244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1921600079070404608",
+              "start": 3,
+              "username": "Yoyonevergiveup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksJ0mSZTUv",
+              "end": 47,
+              "expanded_url": "https://x.com/Yoyonevergiveup/status/1981575499450368073/photo/1",
+              "media_key": "3_1981575487156559872",
+              "start": 24,
+              "url": "https://t.co/ksJ0mSZTUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982102648296993244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981575499450368073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yoyonevergiveup: 嗯😀 https://t.co/ksJ0mSZTUv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981575487156559872"
+          ]
+        },
+        "author_id": "1921600079070404608",
+        "conversation_id": "1981575499450368073",
+        "created_at": "2025-10-24T04:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T05:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981575499450368073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksJ0mSZTUv",
+              "end": 26,
+              "expanded_url": "https://x.com/Yoyonevergiveup/status/1981575499450368073/photo/1",
+              "media_key": "3_1981575487156559872",
+              "start": 3,
+              "url": "https://t.co/ksJ0mSZTUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981575499450368073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 105013,
+          "like_count": 1873,
+          "quote_count": 13,
+          "reply_count": 32,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "嗯😀 https://t.co/ksJ0mSZTUv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 127,
+          "like_count": 12816,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 6554
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T16:15:48.000Z",
+        "description": "我的云端备忘录🤤嘻嘻 欢迎女宝找我互动😋 不礼貌的没有回复的想法 😈 高浓度碎碎念 介意的请直接双取 谢谢 生活愉快😁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8C%89%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8C%89%E8%8E%89%E4%BC%98",
+                "start": 0,
+                "url": "https://t.co/yNIbU2fmo4"
+              }
+            ]
+          }
+        },
+        "id": "1921600079070404608",
+        "location": "-16cm",
+        "name": "茉莉优",
+        "pinned_tweet_id": "1970763067396104335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926640450091253760/XcrjYKC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 490,
+          "like_count": 21333,
+          "listed_count": 0,
+          "media_count": 805,
+          "tweet_count": 6546
+        },
+        "url": "https://t.co/yNIbU2fmo4",
+        "username": "Yoyonevergiveup",
+        "verified": false
+      }
+    ]
+  }
+}

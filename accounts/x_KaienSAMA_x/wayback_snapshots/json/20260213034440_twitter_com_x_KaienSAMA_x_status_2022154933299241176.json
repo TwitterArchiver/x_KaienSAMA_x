@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021888669645234176"
+      ],
+      "media_source_tweet_id": [
+        "2022007796930343372"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "2022154933299241176",
+    "created_at": "2026-02-13T03:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022154933299241176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e5l4Mn12Td",
+          "end": 37,
+          "expanded_url": "https://x.com/youy1qwq/status/2022007796930343372/photo/1",
+          "media_key": "3_2021888669645234176",
+          "start": 14,
+          "url": "https://t.co/e5l4Mn12Td"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022154933299241176",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022007796930343372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: https://t.co/e5l4Mn12Td"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2021888669645234176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8xCFmXYAAhkOm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021888669645234176"
+          ],
+          "media_source_tweet_id": [
+            "2022007796930343372"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "2022154933299241176",
+        "created_at": "2026-02-13T03:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022154933299241176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5l4Mn12Td",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2022007796930343372/photo/1",
+              "media_key": "3_2021888669645234176",
+              "start": 14,
+              "url": "https://t.co/e5l4Mn12Td"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022154933299241176",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022007796930343372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: https://t.co/e5l4Mn12Td"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021888669645234176"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2022007796930343372",
+        "created_at": "2026-02-12T18:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022007796930343372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5l4Mn12Td",
+              "end": 23,
+              "expanded_url": "https://x.com/youy1qwq/status/2022007796930343372/photo/1",
+              "media_key": "3_2021888669645234176",
+              "start": 0,
+              "url": "https://t.co/e5l4Mn12Td"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022007796930343372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 6091,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/e5l4Mn12Td"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 123,
+          "like_count": 13010,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 6919
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3072,
+          "following_count": 894,
+          "like_count": 2197,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 616
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

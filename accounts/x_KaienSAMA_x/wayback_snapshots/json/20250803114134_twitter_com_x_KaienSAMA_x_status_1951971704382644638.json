@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1951971704382644638",
+    "created_at": "2025-08-03T11:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T12:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951971704382644638"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1951971704382644638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好難過 為什麼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1951971704382644638",
+        "created_at": "2025-08-03T11:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T12:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951971704382644638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951971704382644638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好難過 為什麼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "愛我請轉帳、 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 129,
+          "like_count": 12531,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 5996
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

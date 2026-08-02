@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992621647686414336"
+      ],
+      "media_source_tweet_id": [
+        "1992621672676171919"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1992835283554034053",
+    "created_at": "2025-11-24T05:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992835283554034053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1813606949927391232",
+          "start": 3,
+          "username": "Mika_x11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8xgfTwpaTM",
+          "end": 40,
+          "expanded_url": "https://x.com/Mika_x11/status/1992621672676171919/photo/1",
+          "media_key": "3_1992621647686414336",
+          "start": 17,
+          "url": "https://t.co/8xgfTwpaTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992835283554034053",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992621672676171919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mika_x11: 自主 https://t.co/8xgfTwpaTM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1212,
+        "media_key": "3_1992621647686414336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c21MoaMAA7RdD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992621647686414336"
+          ],
+          "media_source_tweet_id": [
+            "1992621672676171919"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1992835283554034053",
+        "created_at": "2025-11-24T05:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992835283554034053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1813606949927391232",
+              "start": 3,
+              "username": "Mika_x11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xgfTwpaTM",
+              "end": 40,
+              "expanded_url": "https://x.com/Mika_x11/status/1992621672676171919/photo/1",
+              "media_key": "3_1992621647686414336",
+              "start": 17,
+              "url": "https://t.co/8xgfTwpaTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992835283554034053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992621672676171919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mika_x11: 自主 https://t.co/8xgfTwpaTM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992621647686414336"
+          ]
+        },
+        "author_id": "1813606949927391232",
+        "conversation_id": "1992621672676171919",
+        "created_at": "2025-11-23T15:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992621672676171919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xgfTwpaTM",
+              "end": 26,
+              "expanded_url": "https://x.com/Mika_x11/status/1992621672676171919/photo/1",
+              "media_key": "3_1992621647686414336",
+              "start": 3,
+              "url": "https://t.co/8xgfTwpaTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992621672676171919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 17000,
+          "like_count": 1146,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "自主 https://t.co/8xgfTwpaTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1986012257122480303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 124,
+          "like_count": 12920,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 6703
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T16:09:39.000Z",
+        "description": "= @i_loxe_u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "i_loxe_u"
+              }
+            ]
+          }
+        },
+        "id": "1813606949927391232",
+        "location": "依頼 / DM",
+        "name": "ミカ",
+        "pinned_tweet_id": "1992621672676171919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990353675320283136/wj9LSxrb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 6,
+          "like_count": 1549,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "Mika_x11",
+        "verified": false
+      }
+    ]
+  }
+}

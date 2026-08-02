@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2024410430094135403",
+    "created_at": "2026-02-19T09:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024410430094135403"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "ふみわん",
+          "probability": 0.429,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 27,
+          "normalized_text": "Fumi汪",
+          "probability": 0.476,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550593157876060160",
+          "start": 3,
+          "username": "Fumi_uowou_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024410430094135403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020858399106248987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fumi_uowou_: ふみわん （Fumi汪）\n永遠の16歳です\n代表emoji :🦭🧊🩵\n誕生日0218 \n抑鬱症｜BPD |未成年確診品行障礙｜情緒極度不穩定\n自殘｜od｜地雷女｜社不 \n病み垢暴言 ★彡\n居在香港  \n想把香港變成東橫的友友請認識Fumi！ h…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024410430094135403].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024410430094135403",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024410430094135403"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2020858390554275840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuH_85a8AA62Ww.jpg",
+        "width": 828
+      },
+      {
+        "height": 811,
+        "media_key": "3_2020858390545883138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuH_83a4AISrGI.jpg",
+        "width": 828
+      },
+      {
+        "height": 1016,
+        "media_key": "3_2020858390541643776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuH_82aMAAhTGl.jpg",
+        "width": 1024
+      },
+      {
+        "height": 818,
+        "media_key": "3_2020858390571048960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuH_89a4AAV9I7.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020858390554275840",
+            "3_2020858390545883138",
+            "3_2020858390541643776",
+            "3_2020858390571048960"
+          ]
+        },
+        "author_id": "1550593157876060160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020858399106248987",
+        "created_at": "2026-02-09T13:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020858399106248987"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ふみわん",
+              "probability": 0.4696,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 10,
+              "normalized_text": "Fumi汪",
+              "probability": 0.4992,
+              "start": 6,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IDHKVoMfLN",
+              "end": 144,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2020858399106248987/photo/1",
+              "media_key": "3_2020858390554275840",
+              "start": 121,
+              "url": "https://t.co/IDHKVoMfLN"
+            },
+            {
+              "display_url": "pic.x.com/IDHKVoMfLN",
+              "end": 144,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2020858399106248987/photo/1",
+              "media_key": "3_2020858390545883138",
+              "start": 121,
+              "url": "https://t.co/IDHKVoMfLN"
+            },
+            {
+              "display_url": "pic.x.com/IDHKVoMfLN",
+              "end": 144,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2020858399106248987/photo/1",
+              "media_key": "3_2020858390541643776",
+              "start": 121,
+              "url": "https://t.co/IDHKVoMfLN"
+            },
+            {
+              "display_url": "pic.x.com/IDHKVoMfLN",
+              "end": 144,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2020858399106248987/photo/1",
+              "media_key": "3_2020858390571048960",
+              "start": 121,
+              "url": "https://t.co/IDHKVoMfLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020858399106248987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2229,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "ふみわん （Fumi汪）\n永遠の16歳です\n代表emoji :🦭🧊🩵\n誕生日0218 \n抑鬱症｜BPD |未成年確診品行障礙｜情緒極度不穩定\n自殘｜od｜地雷女｜社不 \n病み垢暴言 ★彡\n居在香港  \n想把香港變成東橫的友友請認識Fumi！ https://t.co/IDHKVoMfLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 123,
+          "like_count": 13061,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 6950
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷系｜永遠の16歳 ｜社不",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "ふみわんちゃん🦭🌧️",
+        "pinned_tweet_id": "2020858399106248987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990852953499185154/HwgnW6Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 132,
+          "like_count": 18335,
+          "listed_count": 4,
+          "media_count": 268,
+          "tweet_count": 2532
+        },
+        "username": "Fumi_uowou_",
+        "verified": false
+      }
+    ]
+  }
+}

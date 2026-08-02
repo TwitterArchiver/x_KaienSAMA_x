@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1850467998647341056",
+        "3_1850468000794804224",
+        "3_1850468000799023104",
+        "3_1850468000794873856"
+      ],
+      "media_source_tweet_id": [
+        "1850468053340897414",
+        "1850468053340897414",
+        "1850468053340897414",
+        "1850468053340897414"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1861536508441960588",
+    "created_at": "2024-11-26T22:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T23:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861536508441960588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370809768126783488",
+          "start": 3,
+          "username": "JULYSAMA2155282"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zwLIjJdVm0",
+          "end": 110,
+          "expanded_url": "https://x.com/JULYSAMA2155282/status/1850468053340897414/photo/1",
+          "media_key": "3_1850467998647341056",
+          "start": 87,
+          "url": "https://t.co/zwLIjJdVm0"
+        },
+        {
+          "display_url": "pic.x.com/zwLIjJdVm0",
+          "end": 110,
+          "expanded_url": "https://x.com/JULYSAMA2155282/status/1850468053340897414/photo/1",
+          "media_key": "3_1850468000794804224",
+          "start": 87,
+          "url": "https://t.co/zwLIjJdVm0"
+        },
+        {
+          "display_url": "pic.x.com/zwLIjJdVm0",
+          "end": 110,
+          "expanded_url": "https://x.com/JULYSAMA2155282/status/1850468053340897414/photo/1",
+          "media_key": "3_1850468000799023104",
+          "start": 87,
+          "url": "https://t.co/zwLIjJdVm0"
+        },
+        {
+          "display_url": "pic.x.com/zwLIjJdVm0",
+          "end": 110,
+          "expanded_url": "https://x.com/JULYSAMA2155282/status/1850468053340897414/photo/1",
+          "media_key": "3_1850468000794873856",
+          "start": 87,
+          "url": "https://t.co/zwLIjJdVm0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861536508441960588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850468053340897414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JULYSAMA2155282: 置頂\n我是七月\n×08高中生\n×抑鬱 自閉症 專注力不足\n×自殘 已戒od\n×門檻100（僅聊天）\n×以後不再接爸爸活\n愛看不看滾 https://t.co/zwLIjJdVm0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1861536508441960588].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1861536508441960588",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1861536508441960588"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1850467998647341056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga4u1y-aUAAcYgX.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1850468000794804224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga4u16-aAAAdBz1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1850468000799023104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga4u16_aYAArzC4.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1991,
+        "media_key": "3_1850468000794873856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga4u16-bEAAi_F6.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850467998647341056",
+            "3_1850468000794804224",
+            "3_1850468000799023104",
+            "3_1850468000794873856"
+          ]
+        },
+        "author_id": "1370809768126783488",
+        "conversation_id": "1850468053340897414",
+        "created_at": "2024-10-27T09:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T10:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850468053340897414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwLIjJdVm0",
+              "end": 89,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1850468053340897414/photo/1",
+              "media_key": "3_1850467998647341056",
+              "start": 66,
+              "url": "https://t.co/zwLIjJdVm0"
+            },
+            {
+              "display_url": "pic.x.com/zwLIjJdVm0",
+              "end": 89,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1850468053340897414/photo/1",
+              "media_key": "3_1850468000794804224",
+              "start": 66,
+              "url": "https://t.co/zwLIjJdVm0"
+            },
+            {
+              "display_url": "pic.x.com/zwLIjJdVm0",
+              "end": 89,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1850468053340897414/photo/1",
+              "media_key": "3_1850468000799023104",
+              "start": 66,
+              "url": "https://t.co/zwLIjJdVm0"
+            },
+            {
+              "display_url": "pic.x.com/zwLIjJdVm0",
+              "end": 89,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1850468053340897414/photo/1",
+              "media_key": "3_1850468000794873856",
+              "start": 66,
+              "url": "https://t.co/zwLIjJdVm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850468053340897414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5894,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "置頂\n我是七月\n×08高中生\n×抑鬱 自閉症 專注力不足\n×自殘 已戒od\n×門檻100（僅聊天）\n×以後不再接爸爸活\n愛看不看滾 https://t.co/zwLIjJdVm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩味薯條",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858797048113586176/qXOd1Vqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 86,
+          "like_count": 11467,
+          "listed_count": 0,
+          "tweet_count": 3160
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:51:43.000Z",
+        "description": "×芥川夢×喜歡我的可以給我打賞 討厭我的求你不要罵我 女孩子不用過門 @july_akuryu0409 裹垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "july_akuryu0409"
+              }
+            ]
+          }
+        },
+        "id": "1370809768126783488",
+        "location": "我在你後方100米",
+        "name": "七月",
+        "pinned_tweet_id": "1850468053340897414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829312777586155520/dh_zhKcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 250,
+          "like_count": 9120,
+          "listed_count": 0,
+          "tweet_count": 1094
+        },
+        "username": "JULYSAMA2155282",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1858181067867558239",
+    "created_at": "2024-11-17T22:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T23:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858274256184127516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1568115812489400321",
+          "start": 0,
+          "username": "topclassgourmet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858274256184127516",
+    "in_reply_to_user_id": "1568115812489400321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858244315774165079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@topclassgourmet 嗯嗯 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1858181067867558239",
+        "created_at": "2024-11-17T22:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T23:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858274256184127516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1568115812489400321",
+              "start": 0,
+              "username": "topclassgourmet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858274256184127516",
+        "in_reply_to_user_id": "1568115812489400321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858244315774165079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@topclassgourmet 嗯嗯 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568115812489400321",
+        "conversation_id": "1858181067867558239",
+        "created_at": "2024-11-17T20:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T21:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858244315774165079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858244315774165079",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858181067867558239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 這樣的傷口會很難貼膠布，記得用紗布覆蓋哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "泡爛的屍體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858185781292208128/RaG9ix7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 84,
+          "like_count": 11245,
+          "listed_count": 0,
+          "tweet_count": 3001
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T05:55:25.000Z",
+        "description": "主體應該是4i男生\n艾琳醬在這裡 @linyeshitoude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "linyeshitoude"
+              }
+            ]
+          }
+        },
+        "id": "1568115812489400321",
+        "name": "我不是艾琳是彤",
+        "pinned_tweet_id": "1856774460306817440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854215946489237505/_uzxYpxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 592,
+          "like_count": 14099,
+          "listed_count": 0,
+          "tweet_count": 3290
+        },
+        "username": "topclassgourmet",
+        "verified": false
+      }
+    ]
+  }
+}

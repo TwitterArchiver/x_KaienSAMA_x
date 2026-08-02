@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2060174808202305733",
+    "created_at": "2026-05-29T01:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060174808202305733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512834058820022281",
+          "start": 3,
+          "username": "yins_chan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060174808202305733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060049033675362781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @yins_chan_: 你真他媽幸運\n把我搞不開心也不會怎麼樣\n只會讓我一直哭一直難受到想死而已嘛^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2060174808202305733",
+        "created_at": "2026-05-29T01:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060174808202305733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512834058820022281",
+              "start": 3,
+              "username": "yins_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060174808202305733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060049033675362781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @yins_chan_: 你真他媽幸運\n把我搞不開心也不會怎麼樣\n只會讓我一直哭一直難受到想死而已嘛^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512834058820022281",
+        "conversation_id": "2060049033675362781",
+        "created_at": "2026-05-28T17:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060049033675362781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060049033675362781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "你真他媽幸運\n把我搞不開心也不會怎麼樣\n只會讓我一直哭一直難受到想死而已嘛^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 110,
+          "like_count": 13118,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 7320
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T16:45:27.000Z",
+        "description": "只是要對世界保持依戀實在太難了",
+        "id": "1512834058820022281",
+        "location": "Hell 距離你所在的地方100米以內",
+        "name": "為何花開卻無果",
+        "pinned_tweet_id": "1884301640192385506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545350024845881346/DZLFap_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 253,
+          "like_count": 93400,
+          "listed_count": 5,
+          "media_count": 627,
+          "tweet_count": 12590
+        },
+        "username": "yins_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

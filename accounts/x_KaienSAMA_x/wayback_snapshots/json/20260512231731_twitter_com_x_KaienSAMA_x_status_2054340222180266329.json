@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2054340222180266329",
+    "created_at": "2026-05-12T23:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T00:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054340222180266329"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054340222180266329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自從粉魔斷貨之後都沒怎麼喝魔爪了 現在喝咖啡好像比較多 雖然也想喝白魔 但真的沒錢了 哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2054340222180266329",
+        "created_at": "2026-05-12T23:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T00:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054340222180266329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054340222180266329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自從粉魔斷貨之後都沒怎麼喝魔爪了 現在喝咖啡好像比較多 雖然也想喝白魔 但真的沒錢了 哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 110,
+          "like_count": 13113,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 7239
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

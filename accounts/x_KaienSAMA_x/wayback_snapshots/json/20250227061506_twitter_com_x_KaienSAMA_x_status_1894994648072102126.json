@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1894994648072102126",
+    "created_at": "2025-02-27T06:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T07:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894994648072102126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 37,
+          "id": "1787170522381615104",
+          "start": 23,
+          "username": "x_KaienSAMA_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894994648072102126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想死你就去死啊 在這裡無病呻吟賣慘什麼的 賤逼@x_KaienSAMA_x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1894994648072102126",
+        "created_at": "2025-02-27T06:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T07:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894994648072102126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1787170522381615104",
+              "start": 23,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894994648072102126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想死你就去死啊 在這裡無病呻吟賣慘什麼的 賤逼@x_KaienSAMA_x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "@kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894730110961655808/e5CKLvjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 131,
+          "like_count": 12872,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 4472
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

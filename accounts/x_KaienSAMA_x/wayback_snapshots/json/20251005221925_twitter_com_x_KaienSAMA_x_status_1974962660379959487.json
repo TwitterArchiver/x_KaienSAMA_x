@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1974962660379959487",
+    "created_at": "2025-10-05T22:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T23:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974962660379959487"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1974962660379959487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像沼澤中伸出一隻隻手把我硬拉進去 越拉越深 我陷進去 出不來了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1974962660379959487",
+        "created_at": "2025-10-05T22:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T23:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974962660379959487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974962660379959487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像沼澤中伸出一隻隻手把我硬拉進去 越拉越深 我陷進去 出不來了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 127,
+          "like_count": 12761,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 6433
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

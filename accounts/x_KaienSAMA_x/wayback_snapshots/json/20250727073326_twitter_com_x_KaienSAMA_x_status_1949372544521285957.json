@@ -1,0 +1,682 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1095327230433972227",
+          "name": "Apex Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1095327230433972227",
+          "name": "Apex Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1949372544521285957",
+    "created_at": "2025-07-27T07:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T08:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949372544521285957"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "NEEDY_GIRL_OVERDOSE",
+          "probability": 0.7785,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 56,
+          "normalized_text": "あめちゃん",
+          "probability": 0.5687,
+          "start": 52,
+          "type": "Other"
+        },
+        {
+          "end": 85,
+          "normalized_text": "APEX-TOYS",
+          "probability": 0.3179,
+          "start": 77,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1227425485304451072",
+          "start": 3,
+          "username": "APEX_TOYS"
+        },
+        {
+          "end": 75,
+          "id": "194512166",
+          "start": 62,
+          "username": "youcapriccio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949372544521285957",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1502
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949281082937118901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APEX_TOYS: 〓原型公開〓\n\n人気ゲーム『NEEDY_GIRL_OVERDOSE』より『あめちゃん』が登場！@youcapriccio\n\nAPEX-TOYS　今回の日本ワンダーフェスティバル2025（夏）会場において、APEX-TOYS新作『NEEDY_GIRL…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1949101134192488449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwyZJ57asAEAopC.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1949372544521285957",
+        "created_at": "2025-07-27T07:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T08:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949372544521285957"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "NEEDY_GIRL_OVERDOSE",
+              "probability": 0.7785,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "あめちゃん",
+              "probability": 0.5687,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "APEX-TOYS",
+              "probability": 0.3179,
+              "start": 77,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1227425485304451072",
+              "start": 3,
+              "username": "APEX_TOYS"
+            },
+            {
+              "end": 75,
+              "id": "194512166",
+              "start": 62,
+              "username": "youcapriccio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949372544521285957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1502
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949281082937118901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APEX_TOYS: 〓原型公開〓\n\n人気ゲーム『NEEDY_GIRL_OVERDOSE』より『あめちゃん』が登場！@youcapriccio\n\nAPEX-TOYS　今回の日本ワンダーフェスティバル2025（夏）会場において、APEX-TOYS新作『NEEDY_GIRL…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949101134192488449"
+          ]
+        },
+        "author_id": "1227425485304451072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1949281082937118901",
+        "created_at": "2025-07-27T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949281082937118901"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "NEEDY_GIRL_OVERDOSE",
+              "probability": 0.8095,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "あめちゃん",
+              "probability": 0.5752,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "APEX-TOYS",
+              "probability": 0.3275,
+              "start": 62,
+              "type": "Organization"
+            },
+            {
+              "end": 138,
+              "normalized_text": "NEEDY_GIRL_OVERDOSE あめちゃん",
+              "probability": 0.7014,
+              "start": 114,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 60,
+              "id": "194512166",
+              "start": 47,
+              "username": "youcapriccio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QY57gk6ooG",
+              "end": 183,
+              "expanded_url": "https://x.com/APEX_TOYS/status/1949281082937118901/photo/1",
+              "media_key": "3_1949101134192488449",
+              "start": 160,
+              "url": "https://t.co/QY57gk6ooG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949281082937118901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 223,
+                "start": 214,
+                "tag": "APEXTOYS"
+              },
+              {
+                "end": 232,
+                "start": 224,
+                "tag": "WF2025S"
+              },
+              {
+                "end": 245,
+                "start": 233,
+                "tag": "超てんちゃんのはいしん"
+              },
+              {
+                "end": 266,
+                "start": 246,
+                "tag": "NEEDY_GIRL_OVERDOSE"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "id": "194512166",
+                "start": 47,
+                "username": "youcapriccio"
+              }
+            ]
+          },
+          "text": "〓原型公開〓\n\n人気ゲーム『NEEDY_GIRL_OVERDOSE』より『あめちゃん』が登場！@youcapriccio\n\nAPEX-TOYS　今回の日本ワンダーフェスティバル2025（夏）会場において、APEX-TOYS新作『NEEDY_GIRL_OVERDOSE あめちゃん』のフィギュア彩色原型を展示いたします！\n\nぜひ、ブース番号【7-09】へ足をお運びください！今後も最新情報をお届けして参りますので、お見逃しなく！\n#APEXTOYS #WF2025S #超てんちゃんのはいしん #NEEDY_GIRL_OVERDOSE"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 942,
+          "impression_count": 354471,
+          "like_count": 6585,
+          "quote_count": 361,
+          "reply_count": 9,
+          "retweet_count": 1502
+        },
+        "reply_settings": "everyone",
+        "text": "〓原型公開〓\n\n人気ゲーム『NEEDY_GIRL_OVERDOSE』より『あめちゃん』が登場！@youcapriccio\n\nAPEX-TOYS　今回の日本ワンダーフェスティバル2025（夏）会場において、APEX-TOYS新作『NEEDY_GIRL_OVERDOSE あめちゃん』のフィギュア彩色原型を展示いたします！ https://t.co/QY57gk6ooG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 129,
+          "like_count": 12507,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 5923
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T02:54:13.000Z",
+        "description": "APEX INNOVATION\n上海湃思文化科技发展有限公司\nThis is APEX_TOYS official account. Please follow us for upcoming products.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apex-toy.com",
+                "end": 23,
+                "expanded_url": "http://www.apex-toy.com",
+                "start": 0,
+                "url": "https://t.co/xHtu8KekXf"
+              }
+            ]
+          }
+        },
+        "id": "1227425485304451072",
+        "location": "CHINA",
+        "name": "APEX-TOYS",
+        "pinned_tweet_id": "1944275996917788988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1447411451912601602/VhinCCAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42665,
+          "following_count": 45,
+          "like_count": 129,
+          "listed_count": 306,
+          "media_count": 581,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/xHtu8KekXf",
+        "username": "APEX_TOYS",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-24T09:31:13.000Z",
+        "description": "yuu／Illustrator & Character designer ｜ 担当Vやお仕事実績まとめ▷https://t.co/XRmYDPnFDW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/youcapriccio",
+                "end": 75,
+                "expanded_url": "https://lit.link/youcapriccio",
+                "start": 52,
+                "url": "https://t.co/XRmYDPnFDW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youcapriccio.weebly.com",
+                "end": 23,
+                "expanded_url": "http://youcapriccio.weebly.com/",
+                "start": 0,
+                "url": "https://t.co/BVYRkYhqKp"
+              }
+            ]
+          }
+        },
+        "id": "194512166",
+        "location": "Tokyo",
+        "name": "裕🐧夏コミ2日目西あ-56a",
+        "pinned_tweet_id": "1949329823723291026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483274128702734337/eO2yEBhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383705,
+          "following_count": 1492,
+          "like_count": 26321,
+          "listed_count": 4302,
+          "media_count": 1572,
+          "tweet_count": 43117
+        },
+        "url": "https://t.co/BVYRkYhqKp",
+        "username": "youcapriccio",
+        "verified": true
+      }
+    ]
+  }
+}

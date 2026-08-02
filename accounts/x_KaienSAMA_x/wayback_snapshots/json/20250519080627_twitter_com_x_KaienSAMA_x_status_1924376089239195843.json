@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923994167107104768"
+      ],
+      "media_source_tweet_id": [
+        "1923994178910138657"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1924376089239195843",
+    "created_at": "2025-05-19T08:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T09:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924376089239195843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512834058820022281",
+          "start": 3,
+          "username": "yins_chan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7bmFav6NME",
+          "end": 55,
+          "expanded_url": "https://x.com/yins_chan_/status/1923994178910138657/photo/1",
+          "media_key": "3_1923994167107104768",
+          "start": 32,
+          "url": "https://t.co/7bmFav6NME"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924376089239195843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923994178910138657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yins_chan_: 雞蛋六隻糖呢就兩茶匙再加啲橙皮 https://t.co/7bmFav6NME"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923994167107104768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrNmgFBXsAAiSqv.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923994167107104768"
+          ],
+          "media_source_tweet_id": [
+            "1923994178910138657"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1924376089239195843",
+        "created_at": "2025-05-19T08:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T09:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924376089239195843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512834058820022281",
+              "start": 3,
+              "username": "yins_chan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bmFav6NME",
+              "end": 55,
+              "expanded_url": "https://x.com/yins_chan_/status/1923994178910138657/photo/1",
+              "media_key": "3_1923994167107104768",
+              "start": 32,
+              "url": "https://t.co/7bmFav6NME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924376089239195843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923994178910138657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yins_chan_: 雞蛋六隻糖呢就兩茶匙再加啲橙皮 https://t.co/7bmFav6NME"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923994167107104768"
+          ]
+        },
+        "author_id": "1512834058820022281",
+        "conversation_id": "1923994178910138657",
+        "created_at": "2025-05-18T06:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T07:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923994178910138657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bmFav6NME",
+              "end": 39,
+              "expanded_url": "https://x.com/yins_chan_/status/1923994178910138657/photo/1",
+              "media_key": "3_1923994167107104768",
+              "start": 16,
+              "url": "https://t.co/7bmFav6NME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923994178910138657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2517,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "雞蛋六隻糖呢就兩茶匙再加啲橙皮 https://t.co/7bmFav6NME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 131,
+          "like_count": 12201,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 5340
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T16:45:27.000Z",
+        "description": "只是要對世界保持依戀實在太難了",
+        "id": "1512834058820022281",
+        "location": "Hell 距離你所在的地方100米以內",
+        "name": "意志蠶食者",
+        "pinned_tweet_id": "1884301640192385506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545350024845881346/DZLFap_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 263,
+          "like_count": 92221,
+          "listed_count": 4,
+          "media_count": 498,
+          "tweet_count": 11420
+        },
+        "username": "yins_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

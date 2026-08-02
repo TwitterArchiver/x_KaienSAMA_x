@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1883507465083646114",
+    "created_at": "2025-01-26T13:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T14:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883507465083646114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864468641305251844",
+          "start": 3,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883507465083646114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882792761008767017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkaNpc: 原生家庭最让人最窒息的 不是父母一味地压制你 而是他们让你窒息的同时\n又让你感觉到他们内心是爱你的\n这时候你的内心就会有一种很强烈的负罪感\n\n这种感觉像一件湿透的棉袄\n穿上冷，脱下也冷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1883507465083646114",
+        "created_at": "2025-01-26T13:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T14:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883507465083646114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864468641305251844",
+              "start": 3,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883507465083646114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882792761008767017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkaNpc: 原生家庭最让人最窒息的 不是父母一味地压制你 而是他们让你窒息的同时\n又让你感觉到他们内心是爱你的\n这时候你的内心就会有一种很强烈的负罪感\n\n这种感觉像一件湿透的棉袄\n穿上冷，脱下也冷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1882792761008767017",
+        "created_at": "2025-01-24T14:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T15:08:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882792690146050500",
+          "1882792761008767017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882792761008767017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 54755,
+          "like_count": 1057,
+          "quote_count": 10,
+          "reply_count": 31,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "原生家庭最让人最窒息的 不是父母一味地压制你 而是他们让你窒息的同时\n又让你感觉到他们内心是爱你的\n这时候你的内心就会有一种很强烈的负罪感\n\n这种感觉像一件湿透的棉袄\n穿上冷，脱下也冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 120,
+          "like_count": 12137,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 3954
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️活着玩玩的，什么都没当真至少要见面上万次｜ 放个创可贴 ᕳᕲ 创飞随意拿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanpc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanpc",
+                "start": 0,
+                "url": "https://t.co/axvcrnKSfM"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "迷失表參道",
+        "name": "曼醬⛓︎",
+        "pinned_tweet_id": "1868660805266473000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872590302583926785/o3oKSA94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 39,
+          "like_count": 4763,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/axvcrnKSfM",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

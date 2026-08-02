@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1895834503039631397",
+    "created_at": "2025-03-01T13:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T14:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895834503039631397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1895834503039631397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已經不知道要怎樣做人\n我不懂要怎麼活著才對的\n我繼續活著又是為了什麼\n我好像不應該是這個樣子\n為什麼呢 到底"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1895834503039631397",
+        "created_at": "2025-03-01T13:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895834503039631397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895834503039631397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已經不知道要怎樣做人\n我不懂要怎麼活著才對的\n我繼續活著又是為了什麼\n我好像不應該是這個樣子\n為什麼呢 到底"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "@kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894730110961655808/e5CKLvjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 130,
+          "like_count": 12825,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 4483
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

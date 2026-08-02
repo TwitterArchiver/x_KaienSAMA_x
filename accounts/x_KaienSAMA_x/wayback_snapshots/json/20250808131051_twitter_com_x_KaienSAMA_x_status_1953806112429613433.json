@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953571938946715648"
+      ],
+      "media_source_tweet_id": [
+        "1953571941711020088"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1953806112429613433",
+    "created_at": "2025-08-08T13:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T14:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953806112429613433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777754630375567361",
+          "start": 3,
+          "username": "illmemorialx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zb3ghNDH3K",
+          "end": 41,
+          "expanded_url": "https://x.com/illmemorialx/status/1953571941711020088/photo/1",
+          "media_key": "3_1953571938946715648",
+          "start": 18,
+          "url": "https://t.co/Zb3ghNDH3K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953806112429613433",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 299
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953571941711020088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @illmemorialx: https://t.co/Zb3ghNDH3K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1953571938946715648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxx7U_gXEAASp7s.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953571938946715648"
+          ],
+          "media_source_tweet_id": [
+            "1953571941711020088"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1953806112429613433",
+        "created_at": "2025-08-08T13:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T14:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953806112429613433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777754630375567361",
+              "start": 3,
+              "username": "illmemorialx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zb3ghNDH3K",
+              "end": 41,
+              "expanded_url": "https://x.com/illmemorialx/status/1953571941711020088/photo/1",
+              "media_key": "3_1953571938946715648",
+              "start": 18,
+              "url": "https://t.co/Zb3ghNDH3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953806112429613433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953571941711020088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @illmemorialx: https://t.co/Zb3ghNDH3K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953571938946715648"
+          ]
+        },
+        "author_id": "1777754630375567361",
+        "conversation_id": "1953571941711020088",
+        "created_at": "2025-08-07T21:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T22:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953571941711020088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zb3ghNDH3K",
+              "end": 23,
+              "expanded_url": "https://x.com/illmemorialx/status/1953571941711020088/photo/1",
+              "media_key": "3_1953571938946715648",
+              "start": 0,
+              "url": "https://t.co/Zb3ghNDH3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953571941711020088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 26260,
+          "like_count": 1416,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 299
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zb3ghNDH3K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "愛我請轉帳、 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 129,
+          "like_count": 12549,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 6025
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T17:45:28.000Z",
+        "description": "all is fake / art purposes / dm for credits, removal or promo",
+        "id": "1777754630375567361",
+        "name": "ethereal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777756088303009792/4mT3k-1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43711,
+          "following_count": 6734,
+          "like_count": 133,
+          "listed_count": 73,
+          "media_count": 1058,
+          "tweet_count": 1927
+        },
+        "username": "illmemorialx",
+        "verified": true
+      }
+    ]
+  }
+}

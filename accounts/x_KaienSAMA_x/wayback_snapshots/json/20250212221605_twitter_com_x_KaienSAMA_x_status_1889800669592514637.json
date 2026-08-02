@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889670577721651200"
+      ],
+      "media_source_tweet_id": [
+        "1889670583853416511"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1889800669592514637",
+    "created_at": "2025-02-12T22:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T23:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889800669592514637"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 16,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776948408571531264",
+          "start": 3,
+          "username": "tareneko_3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z0sNO0lnKH",
+          "end": 60,
+          "expanded_url": "https://x.com/tareneko_3/status/1889670583853416511/photo/1",
+          "media_key": "3_1889670577721651200",
+          "start": 37,
+          "url": "https://t.co/z0sNO0lnKH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889800669592514637",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 397
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889670583853416511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tareneko_3: #NEEDY_GIRL_OVERDOSE https://t.co/z0sNO0lnKH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1339,
+        "media_key": "3_1889670577721651200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjl1YOebMAANC8O.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889670577721651200"
+          ],
+          "media_source_tweet_id": [
+            "1889670583853416511"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1889800669592514637",
+        "created_at": "2025-02-12T22:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T23:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889800669592514637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 16,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776948408571531264",
+              "start": 3,
+              "username": "tareneko_3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0sNO0lnKH",
+              "end": 60,
+              "expanded_url": "https://x.com/tareneko_3/status/1889670583853416511/photo/1",
+              "media_key": "3_1889670577721651200",
+              "start": 37,
+              "url": "https://t.co/z0sNO0lnKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889800669592514637",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 397
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889670583853416511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tareneko_3: #NEEDY_GIRL_OVERDOSE https://t.co/z0sNO0lnKH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889670577721651200"
+          ]
+        },
+        "author_id": "1776948408571531264",
+        "conversation_id": "1889670583853416511",
+        "created_at": "2025-02-12T13:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T14:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889670583853416511"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0sNO0lnKH",
+              "end": 44,
+              "expanded_url": "https://x.com/tareneko_3/status/1889670583853416511/photo/1",
+              "media_key": "3_1889670577721651200",
+              "start": 21,
+              "url": "https://t.co/z0sNO0lnKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889670583853416511",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 22932,
+          "like_count": 2626,
+          "quote_count": 12,
+          "reply_count": 10,
+          "retweet_count": 397
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE https://t.co/z0sNO0lnKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 128,
+          "like_count": 12652,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 4291
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T12:21:36.000Z",
+        "description": "サブ(@nyan_3su)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "nyan_3su"
+              }
+            ]
+          }
+        },
+        "id": "1776948408571531264",
+        "name": "❔",
+        "pinned_tweet_id": "1881238568670200076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835988953071280128/sh5uQkWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 15,
+          "like_count": 4013,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 66
+        },
+        "username": "tareneko_3",
+        "verified": false
+      }
+    ]
+  }
+}

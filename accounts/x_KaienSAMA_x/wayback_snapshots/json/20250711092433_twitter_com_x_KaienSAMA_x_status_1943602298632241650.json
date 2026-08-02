@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943049959441600516"
+      ],
+      "media_source_tweet_id": [
+        "1943225680956723709"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1943602298632241650",
+    "created_at": "2025-07-11T09:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T10:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943602298632241650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1402559292411052048",
+          "start": 3,
+          "username": "X_yO_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5afsYISL08",
+          "end": 48,
+          "expanded_url": "https://x.com/X_yO_1/status/1943225680956723709/photo/1",
+          "media_key": "3_1943049959441600516",
+          "start": 25,
+          "url": "https://t.co/5afsYISL08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943602298632241650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943225680956723709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X_yO_1: 超天きゅぴずむ 途中✝︎ https://t.co/5afsYISL08"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3377,
+        "media_key": "3_1943049959441600516",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvcZpLVakAQ8__8.jpg",
+        "width": 2520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943049959441600516"
+          ],
+          "media_source_tweet_id": [
+            "1943225680956723709"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1943602298632241650",
+        "created_at": "2025-07-11T09:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T10:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943602298632241650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1402559292411052048",
+              "start": 3,
+              "username": "X_yO_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5afsYISL08",
+              "end": 48,
+              "expanded_url": "https://x.com/X_yO_1/status/1943225680956723709/photo/1",
+              "media_key": "3_1943049959441600516",
+              "start": 25,
+              "url": "https://t.co/5afsYISL08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943602298632241650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943225680956723709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X_yO_1: 超天きゅぴずむ 途中✝︎ https://t.co/5afsYISL08"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943049959441600516"
+          ]
+        },
+        "author_id": "1402559292411052048",
+        "conversation_id": "1943225680956723709",
+        "created_at": "2025-07-10T08:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T09:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943225680956723709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5afsYISL08",
+              "end": 36,
+              "expanded_url": "https://x.com/X_yO_1/status/1943225680956723709/photo/1",
+              "media_key": "3_1943049959441600516",
+              "start": 13,
+              "url": "https://t.co/5afsYISL08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943225680956723709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 12748,
+          "like_count": 1041,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "超天きゅぴずむ 途中✝︎ https://t.co/5afsYISL08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937388734883995648/w12PLFKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 130,
+          "like_count": 12484,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 5800
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-09T09:32:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ye2_lo?utm_med…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ye2_lo?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/onqRArBBS0"
+              }
+            ]
+          }
+        },
+        "id": "1402559292411052048",
+        "location": "参考模倣✕ 健康終 i頂",
+        "name": "✕",
+        "pinned_tweet_id": "1910954271282987303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791766756283056128/xEbY1ydu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5456,
+          "following_count": 12,
+          "like_count": 3384,
+          "listed_count": 27,
+          "media_count": 53,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/onqRArBBS0",
+        "username": "X_yO_1",
+        "verified": false
+      }
+    ]
+  }
+}

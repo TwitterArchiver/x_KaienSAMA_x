@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867468506067054592"
+      ],
+      "media_source_tweet_id": [
+        "1867468645821268463"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1867518037030793220",
+    "created_at": "2024-12-13T10:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T11:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867518037030793220"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 13,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 45,
+          "start": 35,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1140204144625455107",
+          "start": 3,
+          "username": "mcore_8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hhjaPGuRT1",
+          "end": 73,
+          "expanded_url": "https://x.com/mcore_8/status/1867468645821268463/photo/1",
+          "media_key": "3_1867468506067054592",
+          "start": 50,
+          "url": "https://t.co/hhjaPGuRT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867518037030793220",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867468645821268463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mcore_8: #NEEDY_GIRL_OVERDOSE \n#NEEDY_pic \n💔💔 https://t.co/hhjaPGuRT1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1867468506067054592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeqUtkVbMAABxSN.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867468506067054592"
+          ],
+          "media_source_tweet_id": [
+            "1867468645821268463"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1867518037030793220",
+        "created_at": "2024-12-13T10:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T11:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867518037030793220"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 13,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 45,
+              "start": 35,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1140204144625455107",
+              "start": 3,
+              "username": "mcore_8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhjaPGuRT1",
+              "end": 73,
+              "expanded_url": "https://x.com/mcore_8/status/1867468645821268463/photo/1",
+              "media_key": "3_1867468506067054592",
+              "start": 50,
+              "url": "https://t.co/hhjaPGuRT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867518037030793220",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867468645821268463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mcore_8: #NEEDY_GIRL_OVERDOSE \n#NEEDY_pic \n💔💔 https://t.co/hhjaPGuRT1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867468506067054592"
+          ]
+        },
+        "author_id": "1140204144625455107",
+        "conversation_id": "1867468645821268463",
+        "created_at": "2024-12-13T07:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T08:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867468645821268463"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhjaPGuRT1",
+              "end": 60,
+              "expanded_url": "https://x.com/mcore_8/status/1867468645821268463/photo/1",
+              "media_key": "3_1867468506067054592",
+              "start": 37,
+              "url": "https://t.co/hhjaPGuRT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867468645821268463",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 9906,
+          "like_count": 1285,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic \n💔💔 https://t.co/hhjaPGuRT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 100,
+          "like_count": 11812,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 3402
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-16T10:27:06.000Z",
+        "description": "contact➡️ mcore734@gmail.com\nJPN/ENG/KR⭕️\n\nCOMMISSION➡️ @myucore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 56,
+                "username": "myucore"
+              }
+            ]
+          }
+        },
+        "id": "1140204144625455107",
+        "name": "メ",
+        "pinned_tweet_id": "1788579129820086381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861580927543189504/Cd3NzdO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22090,
+          "following_count": 13,
+          "like_count": 11702,
+          "listed_count": 80,
+          "media_count": 19,
+          "tweet_count": 4377
+        },
+        "username": "mcore_8",
+        "verified": false
+      }
+    ]
+  }
+}

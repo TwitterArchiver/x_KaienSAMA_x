@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2022591862864052724",
+    "created_at": "2026-02-14T08:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T09:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022591862864052724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906360034725961728",
+          "start": 3,
+          "username": "Xiaoyou_329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022591862864052724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022270326470484227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaoyou_329: 可以偏心我一点吗？可以把我当成重要的人吗？可以依赖我吗？可以对我占有欲吗？遇到有意思的事物可以第一个分享给我吗？可以告诉我在你心里的位置吗？可以不欺骗我吗？可以告诉我我这个人对你来说是否有意义吗？可以告诉我你需要我吗？可以一遍遍告诉我我很重要吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2022591862864052724",
+        "created_at": "2026-02-14T08:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022591862864052724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1906360034725961728",
+              "start": 3,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022591862864052724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022270326470484227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaoyou_329: 可以偏心我一点吗？可以把我当成重要的人吗？可以依赖我吗？可以对我占有欲吗？遇到有意思的事物可以第一个分享给我吗？可以告诉我在你心里的位置吗？可以不欺骗我吗？可以告诉我我这个人对你来说是否有意义吗？可以告诉我你需要我吗？可以一遍遍告诉我我很重要吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022270326470484227",
+        "created_at": "2026-02-13T11:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022270326470484227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022270326470484227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 10595,
+          "like_count": 431,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "可以偏心我一点吗？可以把我当成重要的人吗？可以依赖我吗？可以对我占有欲吗？遇到有意思的事物可以第一个分享给我吗？可以告诉我在你心里的位置吗？可以不欺骗我吗？可以告诉我我这个人对你来说是否有意义吗？可以告诉我你需要我吗？可以一遍遍告诉我我很重要吗？可以告诉我没我不行吗？可以爱我吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 123,
+          "like_count": 13025,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 6931
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12106,
+          "following_count": 162,
+          "like_count": 6636,
+          "listed_count": 19,
+          "media_count": 658,
+          "tweet_count": 5431
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

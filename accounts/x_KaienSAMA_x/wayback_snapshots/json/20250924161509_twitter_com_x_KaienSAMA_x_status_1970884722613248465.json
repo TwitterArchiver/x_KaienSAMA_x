@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1970881454247997717",
+    "created_at": "2025-09-24T16:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T17:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970884722613248465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774759734773690368",
+          "start": 0,
+          "username": "tang2780iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970884722613248465",
+    "in_reply_to_user_id": "1774759734773690368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970884619726893377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang2780iz 好🥺🥺🥺你也是！！🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970884619726893377].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1970884619726893377",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1970884619726893377"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1970881454247997717",
+        "created_at": "2025-09-24T16:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T17:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970884722613248465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774759734773690368",
+              "start": 0,
+              "username": "tang2780iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970884722613248465",
+        "in_reply_to_user_id": "1774759734773690368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970884619726893377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang2780iz 好🥺🥺🥺你也是！！🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 127,
+          "like_count": 12729,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 6371
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T11:24:49.000Z",
+        "description": "我希望一切都只是個噩夢",
+        "id": "1774759734773690368",
+        "location": "👁️",
+        "name": "膛",
+        "pinned_tweet_id": "1923792110962212891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774760031776559104/tFgInI7l_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 241,
+          "like_count": 15626,
+          "listed_count": 2,
+          "media_count": 679,
+          "tweet_count": 6495
+        },
+        "username": "tang2780iz",
+        "verified": false
+      }
+    ]
+  }
+}

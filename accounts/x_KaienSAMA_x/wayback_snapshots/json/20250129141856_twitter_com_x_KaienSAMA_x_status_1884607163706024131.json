@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1884607163706024131",
+    "created_at": "2025-01-29T14:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T15:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884607163706024131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512834058820022281",
+          "start": 3,
+          "username": "yins_chan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884607163706024131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884301640192385506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @yins_chan_: 我是煙硝\n☆烏鴉一隻 對 很吵\n★躁鬱\n☆現實認識的視姦我死全家\n★不收門檻不線下 私信隨心回 不加任何聯繫方式\n☆謝謝☆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1884607163706024131",
+        "created_at": "2025-01-29T14:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T15:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884607163706024131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512834058820022281",
+              "start": 3,
+              "username": "yins_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884607163706024131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884301640192385506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @yins_chan_: 我是煙硝\n☆烏鴉一隻 對 很吵\n★躁鬱\n☆現實認識的視姦我死全家\n★不收門檻不線下 私信隨心回 不加任何聯繫方式\n☆謝謝☆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512834058820022281",
+        "conversation_id": "1884301640192385506",
+        "created_at": "2025-01-28T18:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T19:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884301640192385506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884301640192385506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1553,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "我是煙硝\n☆烏鴉一隻 對 很吵\n★躁鬱\n☆現實認識的視姦我死全家\n★不收門檻不線下 私信隨心回 不加任何聯繫方式\n☆謝謝☆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 121,
+          "like_count": 12168,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3993
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T16:45:27.000Z",
+        "description": "只是要對世界保持依戀實在太難了",
+        "id": "1512834058820022281",
+        "location": "Hell 距離你所在的地方100米以內",
+        "name": "意志蠶食者",
+        "pinned_tweet_id": "1884301640192385506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545350024845881346/DZLFap_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 267,
+          "like_count": 92924,
+          "listed_count": 5,
+          "media_count": 446,
+          "tweet_count": 10991
+        },
+        "username": "yins_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

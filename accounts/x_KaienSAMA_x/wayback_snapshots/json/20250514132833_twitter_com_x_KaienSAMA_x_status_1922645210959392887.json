@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1922645210959392887",
+    "created_at": "2025-05-14T13:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T14:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922645210959392887"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922645210959392887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久沒有哭 但我也沒有過得好也沒有開心什麼的 每天都糟透了 搞一大堆東西掩蓋自己醜陋又頹廢的醜樣 每天都過得很辛苦\n可是我又憑什麼說我辛苦啊 明明我已經算過得很好了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1922645210959392887",
+        "created_at": "2025-05-14T13:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T14:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922645210959392887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922645210959392887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久沒有哭 但我也沒有過得好也沒有開心什麼的 每天都糟透了 搞一大堆東西掩蓋自己醜陋又頹廢的醜樣 每天都過得很辛苦\n可是我又憑什麼說我辛苦啊 明明我已經算過得很好了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 131,
+          "like_count": 12184,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 5294
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

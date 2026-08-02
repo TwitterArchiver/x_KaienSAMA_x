@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940832545773350912"
+      ],
+      "media_source_tweet_id": [
+        "1940832552211960120"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1940985549692850263",
+    "created_at": "2025-07-04T04:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T05:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940985549692850263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370809768126783488",
+          "start": 3,
+          "username": "JULYSAMA2155282"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CExEBSXbhH",
+          "end": 58,
+          "expanded_url": "https://x.com/JULYSAMA2155282/status/1940832552211960120/photo/1",
+          "media_key": "3_1940832545773350912",
+          "start": 35,
+          "url": "https://t.co/CExEBSXbhH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940985549692850263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940832552211960120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JULYSAMA2155282: 我想要的一定會得到 包括你 https://t.co/CExEBSXbhH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1940832545773350912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu846ttWcAARheG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940832545773350912"
+          ],
+          "media_source_tweet_id": [
+            "1940832552211960120"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1940985549692850263",
+        "created_at": "2025-07-04T04:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T05:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940985549692850263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1370809768126783488",
+              "start": 3,
+              "username": "JULYSAMA2155282"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CExEBSXbhH",
+              "end": 58,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1940832552211960120/photo/1",
+              "media_key": "3_1940832545773350912",
+              "start": 35,
+              "url": "https://t.co/CExEBSXbhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940985549692850263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940832552211960120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JULYSAMA2155282: 我想要的一定會得到 包括你 https://t.co/CExEBSXbhH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940832545773350912"
+          ]
+        },
+        "author_id": "1370809768126783488",
+        "conversation_id": "1940832552211960120",
+        "created_at": "2025-07-03T17:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T18:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940832552211960120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CExEBSXbhH",
+              "end": 37,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1940832552211960120/photo/1",
+              "media_key": "3_1940832545773350912",
+              "start": 14,
+              "url": "https://t.co/CExEBSXbhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940832552211960120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想要的一定會得到 包括你 https://t.co/CExEBSXbhH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937388734883995648/w12PLFKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 130,
+          "like_count": 12491,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 5739
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:51:43.000Z",
+        "description": "永遠  @july_akuryu0409 裹垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "july_akuryu0409"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/july._.cos_215…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/july._.cos_21552821",
+                "start": 0,
+                "url": "https://t.co/YC8Kl27WoJ"
+              }
+            ]
+          }
+        },
+        "id": "1370809768126783488",
+        "location": "我在你後方100米",
+        "name": "七月",
+        "pinned_tweet_id": "1850468053340897414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915012561466183680/CezeivVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 205,
+          "like_count": 9404,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/YC8Kl27WoJ",
+        "username": "JULYSAMA2155282",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1990204256193073374",
+    "created_at": "2025-11-16T23:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T00:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990204837351633203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547591420269064192",
+          "start": 0,
+          "username": "1revocable_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990204837351633203",
+    "in_reply_to_user_id": "1547591420269064192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990204760713290171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1revocable_ 死掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1990204256193073374",
+        "created_at": "2025-11-16T23:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990204837351633203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547591420269064192",
+              "start": 0,
+              "username": "1revocable_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990204837351633203",
+        "in_reply_to_user_id": "1547591420269064192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990204760713290171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1revocable_ 死掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547591420269064192",
+        "conversation_id": "1990204256193073374",
+        "created_at": "2025-11-16T23:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990204760713290171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990204760713290171",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990204256193073374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 砰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 124,
+          "like_count": 12869,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 6657
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T14:39:10.000Z",
+        "description": "你好嗎我奈落 精神狀態就這樣你也不能拿我怎樣",
+        "id": "1547591420269064192",
+        "name": "Ты мой мир.",
+        "pinned_tweet_id": "1823580797103956171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989950324652838912/7IjEAMJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 164,
+          "like_count": 7560,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 991
+        },
+        "username": "1revocable_",
+        "verified": false
+      }
+    ]
+  }
+}

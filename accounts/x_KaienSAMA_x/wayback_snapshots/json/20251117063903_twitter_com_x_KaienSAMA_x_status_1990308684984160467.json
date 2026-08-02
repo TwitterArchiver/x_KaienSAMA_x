@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1990308684984160467",
+    "created_at": "2025-11-17T06:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T07:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990308684984160467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "FoxKami_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990308684984160467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989710653188153847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxKami_: 既然和明知精神有问题的人谈恋爱那就坚持到底啊 谈一半受不了就跑路了你和杀了对方有什么区别 怎么当初表白的时候不考虑到对方的脑子有问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1990308684984160467",
+        "created_at": "2025-11-17T06:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990308684984160467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "FoxKami_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990308684984160467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989710653188153847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxKami_: 既然和明知精神有问题的人谈恋爱那就坚持到底啊 谈一半受不了就跑路了你和杀了对方有什么区别 怎么当初表白的时候不考虑到对方的脑子有问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1989710653188153847",
+        "created_at": "2025-11-15T15:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989710653188153847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989710653188153847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 14902,
+          "like_count": 240,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "既然和明知精神有问题的人谈恋爱那就坚持到底啊 谈一半受不了就跑路了你和杀了对方有什么区别 怎么当初表白的时候不考虑到对方的脑子有问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1986012257122480303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 124,
+          "like_count": 12881,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 6667
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "未来十年😎国家🇨🇳一定会👿把所有女的👩🏻都抓起来😡。每个成年👨‍🎓的男的👨🏻都能挑😍十个漂亮❤️的带回家🥰。到时候🤟还有人看👀不起我😎?他们🙋‍♀️还得争着🤓抢着给我生🤰儿子👶🏻。到时候😈我就选你🫵🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989687732013301760/toRO-wIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7547,
+          "following_count": 238,
+          "like_count": 31522,
+          "listed_count": 19,
+          "media_count": 184,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "FoxKami_",
+        "verified": false
+      }
+    ]
+  }
+}

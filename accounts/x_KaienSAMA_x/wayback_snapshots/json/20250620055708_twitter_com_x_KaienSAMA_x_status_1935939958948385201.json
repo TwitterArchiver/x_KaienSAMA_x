@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935932206976749568"
+      ],
+      "media_source_tweet_id": [
+        "1935932212655923286"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1935939958948385201",
+    "created_at": "2025-06-20T05:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T06:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935939958948385201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856548003978625024",
+          "start": 3,
+          "username": "gyaku_juji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BKaE7hog8n",
+          "end": 39,
+          "expanded_url": "https://x.com/gyaku_juji/status/1935932212655923286/photo/1",
+          "media_key": "3_1935932206976749568",
+          "start": 16,
+          "url": "https://t.co/BKaE7hog8n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935939958948385201",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935932212655923286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gyaku_juji: https://t.co/BKaE7hog8n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935932206976749568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3QFdIWUAA5F71.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935932206976749568"
+          ],
+          "media_source_tweet_id": [
+            "1935932212655923286"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1935939958948385201",
+        "created_at": "2025-06-20T05:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T06:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935939958948385201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856548003978625024",
+              "start": 3,
+              "username": "gyaku_juji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKaE7hog8n",
+              "end": 39,
+              "expanded_url": "https://x.com/gyaku_juji/status/1935932212655923286/photo/1",
+              "media_key": "3_1935932206976749568",
+              "start": 16,
+              "url": "https://t.co/BKaE7hog8n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935939958948385201",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935932212655923286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gyaku_juji: https://t.co/BKaE7hog8n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935932206976749568"
+          ]
+        },
+        "author_id": "1856548003978625024",
+        "conversation_id": "1935932212655923286",
+        "created_at": "2025-06-20T05:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T06:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935932212655923286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKaE7hog8n",
+              "end": 23,
+              "expanded_url": "https://x.com/gyaku_juji/status/1935932212655923286/photo/1",
+              "media_key": "3_1935932206976749568",
+              "start": 0,
+              "url": "https://t.co/BKaE7hog8n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935932212655923286",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BKaE7hog8n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 131,
+          "like_count": 12387,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 5620
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T04:02:26.000Z",
+        "description": "@reversecross_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "reversecross_"
+              }
+            ]
+          }
+        },
+        "id": "1856548003978625024",
+        "location": "天國",
+        "name": "逆十字",
+        "pinned_tweet_id": "1901242269665214567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861749285567787008/cuHduq33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 67,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 725
+        },
+        "username": "gyaku_juji",
+        "verified": false
+      }
+    ]
+  }
+}

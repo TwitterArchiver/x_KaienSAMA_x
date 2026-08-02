@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890808414890336256"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1890808422603382821",
+    "created_at": "2025-02-15T17:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T18:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890808422603382821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zCKkTh7XXW",
+          "end": 45,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1890808422603382821/photo/1",
+          "media_key": "3_1890808414890336256",
+          "start": 22,
+          "url": "https://t.co/zCKkTh7XXW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890808422603382821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手臂\n我說 出糖糖好像意外的挺還原...💀 https://t.co/zCKkTh7XXW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1890808422603382821].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1890808422603382821",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1890808422603382821"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2690,
+        "media_key": "3_1890808414890336256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj2APEPboAAjmoB.jpg",
+        "width": 1979
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 130,
+          "like_count": 12729,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 4353
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

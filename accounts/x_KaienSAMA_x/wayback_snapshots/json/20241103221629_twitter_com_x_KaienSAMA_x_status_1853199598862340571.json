@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1853199598862340571",
+    "created_at": "2024-11-03T22:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T23:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853199598862340571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_kaiensama_x/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/x_kaiensama_x/status/1853198902029336985",
+          "start": 15,
+          "url": "https://t.co/lTdgJPhcDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853199598862340571",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853198902029336985",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行吧 我妥協 暴食已批准👍🔥 https://t.co/lTdgJPhcDa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1853199598862340571",
+        "created_at": "2024-11-03T22:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T23:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853199598862340571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_kaiensama_x/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/x_kaiensama_x/status/1853198902029336985",
+              "start": 15,
+              "url": "https://t.co/lTdgJPhcDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853199598862340571",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853198902029336985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行吧 我妥協 暴食已批准👍🔥 https://t.co/lTdgJPhcDa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1853198902029336985",
+        "created_at": "2024-11-03T22:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T23:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853198902029336985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853198902029336985",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日想暴食是怎樣 這年已經從35-&gt;39了 我不敢暴食感覺真的會胖 對不起我是覺得35才是我最好看的身材..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "雨下被沖洗的塵埃",
+        "name": "海塩SAMA",
+        "pinned_tweet_id": "1852755428591177880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852738899996733440/96WoqhQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 82,
+          "like_count": 11097,
+          "listed_count": 0,
+          "tweet_count": 2820
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

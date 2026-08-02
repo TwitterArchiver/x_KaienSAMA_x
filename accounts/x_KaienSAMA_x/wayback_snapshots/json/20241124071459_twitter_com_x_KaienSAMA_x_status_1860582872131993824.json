@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1860582872131993824",
+    "created_at": "2024-11-24T07:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T08:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860582872131993824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1587448848636444672",
+          "start": 3,
+          "username": "mochi_1207_1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860582872131993824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860580785117626858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mochi_1207_1989: 被我這種人纏上是不是很討厭？是不是很無奈？是不是很噁心？是不是想擺脫？是不是懶得理我？是不是後悔開口和我說第一句話？很後悔吧。後悔又怎樣。\n我就這麼看你一輩子。你別想擺脫我，別想擺脫我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1860582872131993824",
+        "created_at": "2024-11-24T07:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T08:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860582872131993824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1587448848636444672",
+              "start": 3,
+              "username": "mochi_1207_1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860582872131993824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860580785117626858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mochi_1207_1989: 被我這種人纏上是不是很討厭？是不是很無奈？是不是很噁心？是不是想擺脫？是不是懶得理我？是不是後悔開口和我說第一句話？很後悔吧。後悔又怎樣。\n我就這麼看你一輩子。你別想擺脫我，別想擺脫我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587448848636444672",
+        "conversation_id": "1860580785117626858",
+        "created_at": "2024-11-24T07:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T08:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860580785117626858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860580785117626858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "被我這種人纏上是不是很討厭？是不是很無奈？是不是很噁心？是不是想擺脫？是不是懶得理我？是不是後悔開口和我說第一句話？很後悔吧。後悔又怎樣。\n我就這麼看你一輩子。你別想擺脫我，別想擺脫我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩味薯條",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858797048113586176/qXOd1Vqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 86,
+          "like_count": 11380,
+          "listed_count": 0,
+          "tweet_count": 3109
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T14:18:11.000Z",
+        "description": "想打賞我歡迎私訊(*^ω^*)",
+        "id": "1587448848636444672",
+        "name": "もち",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860016228691247106/razn0hqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 69,
+          "like_count": 1049,
+          "listed_count": 1,
+          "tweet_count": 299
+        },
+        "username": "mochi_1207_1989",
+        "verified": false
+      }
+    ]
+  }
+}

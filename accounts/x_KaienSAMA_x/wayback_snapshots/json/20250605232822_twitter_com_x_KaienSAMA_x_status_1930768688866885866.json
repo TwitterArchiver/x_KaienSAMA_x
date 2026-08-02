@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930580712933208064"
+      ],
+      "media_source_tweet_id": [
+        "1930580723196641510"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1930768688866885866",
+    "created_at": "2025-06-05T23:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T00:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930768688866885866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1798017061131874304",
+          "start": 3,
+          "username": "cupric_oxide_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yoPXePO2W6",
+          "end": 42,
+          "expanded_url": "https://x.com/cupric_oxide_/status/1930580723196641510/photo/1",
+          "media_key": "3_1930580712933208064",
+          "start": 19,
+          "url": "https://t.co/yoPXePO2W6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930768688866885866",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930580723196641510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cupric_oxide_: https://t.co/yoPXePO2W6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_1930580712933208064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrM7gSasAAteiM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930580712933208064"
+          ],
+          "media_source_tweet_id": [
+            "1930580723196641510"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1930768688866885866",
+        "created_at": "2025-06-05T23:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T00:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930768688866885866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1798017061131874304",
+              "start": 3,
+              "username": "cupric_oxide_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yoPXePO2W6",
+              "end": 42,
+              "expanded_url": "https://x.com/cupric_oxide_/status/1930580723196641510/photo/1",
+              "media_key": "3_1930580712933208064",
+              "start": 19,
+              "url": "https://t.co/yoPXePO2W6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930768688866885866",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930580723196641510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cupric_oxide_: https://t.co/yoPXePO2W6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930580712933208064"
+          ]
+        },
+        "author_id": "1798017061131874304",
+        "conversation_id": "1930580723196641510",
+        "created_at": "2025-06-05T11:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T12:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930580723196641510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yoPXePO2W6",
+              "end": 23,
+              "expanded_url": "https://x.com/cupric_oxide_/status/1930580723196641510/photo/1",
+              "media_key": "3_1930580712933208064",
+              "start": 0,
+              "url": "https://t.co/yoPXePO2W6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930580723196641510",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 21798,
+          "like_count": 549,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yoPXePO2W6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 132,
+          "like_count": 12255,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 5500
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "事你铜\n穹璃：@Qiongli_BAKA\n此方： @ci_shang85157\n提问 ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "Qiongli_BAKA"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cupric_oxide/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cupric_oxide/",
+                "start": 0,
+                "url": "https://t.co/KPi3tnq69a"
+              }
+            ]
+          }
+        },
+        "id": "1798017061131874304",
+        "location": "wherever",
+        "name": "氧化铜🍥",
+        "pinned_tweet_id": "1911043718855213290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908351908139638784/CvNsELNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 1382,
+          "like_count": 27037,
+          "listed_count": 5,
+          "media_count": 663,
+          "tweet_count": 4730
+        },
+        "url": "https://t.co/KPi3tnq69a",
+        "username": "cupric_oxide_",
+        "verified": true
+      }
+    ]
+  }
+}

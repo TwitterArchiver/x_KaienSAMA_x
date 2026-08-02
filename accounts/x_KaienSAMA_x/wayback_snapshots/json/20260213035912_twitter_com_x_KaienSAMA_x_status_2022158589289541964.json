@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2022158589289541964",
+    "created_at": "2026-02-13T03:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022158589289541964"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022158589289541964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有都是我的錯\n在你們眼裡我是變壞的女兒\n覺得我很壞很差 不當你們是父母 不當這個家是家\n從前我一直在腦袋裡幻想著逃離這一切\n直到如今我找到了突破口\n我開始尋找屬於我的幸福\n我「變壞」了 我得到了活著的支撐\n我的生活開始有點好轉\n可是你們 覺得我罪孽深重\n我就是罪人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2022158589289541964",
+        "created_at": "2026-02-13T03:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022158589289541964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022158589289541964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有都是我的錯\n在你們眼裡我是變壞的女兒\n覺得我很壞很差 不當你們是父母 不當這個家是家\n從前我一直在腦袋裡幻想著逃離這一切\n直到如今我找到了突破口\n我開始尋找屬於我的幸福\n我「變壞」了 我得到了活著的支撐\n我的生活開始有點好轉\n可是你們 覺得我罪孽深重\n我就是罪人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 123,
+          "like_count": 13010,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 6920
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

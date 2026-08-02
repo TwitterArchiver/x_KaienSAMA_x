@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1886402162730942614",
+    "created_at": "2025-02-03T13:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T14:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886402162730942614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_kaiensama_x/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/x_kaiensama_x/status/1886399611272827196",
+          "start": 19,
+          "url": "https://t.co/RQXC8tyxpU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886402162730942614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886399611272827196",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我儲左一小段時間嘅錢咁就揮發曬... https://t.co/RQXC8tyxpU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1886402162730942614",
+        "created_at": "2025-02-03T13:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T14:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886402162730942614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_kaiensama_x/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/x_kaiensama_x/status/1886399611272827196",
+              "start": 19,
+              "url": "https://t.co/RQXC8tyxpU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886402162730942614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886399611272827196",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我儲左一小段時間嘅錢咁就揮發曬... https://t.co/RQXC8tyxpU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886399604939476992",
+            "3_1886399604935249921"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1886399611272827196",
+        "created_at": "2025-02-03T13:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T14:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886399611272827196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhH5dhIz31",
+              "end": 106,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1886399611272827196/photo/1",
+              "media_key": "3_1886399604939476992",
+              "start": 83,
+              "url": "https://t.co/LhH5dhIz31"
+            },
+            {
+              "display_url": "pic.x.com/LhH5dhIz31",
+              "end": 106,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1886399611272827196/photo/1",
+              "media_key": "3_1886399604935249921",
+              "start": 83,
+              "url": "https://t.co/LhH5dhIz31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886399611272827196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日是我的破產之日🔥\n買左張cheki 60 然後我frd幫買左haru gsc黏土人349比唔曬仲差139\n我仲有之前買周邊尾款未補...oh shit\n（暗示） https://t.co/LhH5dhIz31"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 127,
+          "like_count": 12379,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 4125
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

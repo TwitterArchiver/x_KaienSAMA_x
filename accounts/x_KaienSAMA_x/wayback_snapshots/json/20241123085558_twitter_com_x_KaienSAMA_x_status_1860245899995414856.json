@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859963445887864832"
+      ],
+      "media_source_tweet_id": [
+        "1859963452451958966"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1860245899995414856",
+    "created_at": "2024-11-23T08:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T09:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860245899995414856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2711472528",
+          "start": 3,
+          "username": "ra1kaA"
+        },
+        {
+          "end": 40,
+          "id": "1582061058436435968",
+          "start": 24,
+          "username": "xyzatoganaihito"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zTL6RzrCfP",
+          "end": 64,
+          "expanded_url": "https://x.com/ra1kaA/status/1859963452451958966/photo/1",
+          "media_key": "3_1859963445887864832",
+          "start": 41,
+          "url": "https://t.co/zTL6RzrCfP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860245899995414856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859963452451958966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ra1kaA: ツインテールの日？\n📸 @xyzatoganaihito https://t.co/zTL6RzrCfP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1859963445887864832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc_q5kdbkAAj8M0.jpg",
+        "width": 1250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859963445887864832"
+          ],
+          "media_source_tweet_id": [
+            "1859963452451958966"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1860245899995414856",
+        "created_at": "2024-11-23T08:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T09:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860245899995414856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2711472528",
+              "start": 3,
+              "username": "ra1kaA"
+            },
+            {
+              "end": 40,
+              "id": "1582061058436435968",
+              "start": 24,
+              "username": "xyzatoganaihito"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zTL6RzrCfP",
+              "end": 64,
+              "expanded_url": "https://x.com/ra1kaA/status/1859963452451958966/photo/1",
+              "media_key": "3_1859963445887864832",
+              "start": 41,
+              "url": "https://t.co/zTL6RzrCfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860245899995414856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859963452451958966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ra1kaA: ツインテールの日？\n📸 @xyzatoganaihito https://t.co/zTL6RzrCfP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859963445887864832"
+          ]
+        },
+        "author_id": "2711472528",
+        "conversation_id": "1859963452451958966",
+        "created_at": "2024-11-22T14:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T15:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859963452451958966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1582061058436435968",
+              "start": 12,
+              "username": "xyzatoganaihito"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zTL6RzrCfP",
+              "end": 52,
+              "expanded_url": "https://x.com/ra1kaA/status/1859963452451958966/photo/1",
+              "media_key": "3_1859963445887864832",
+              "start": 29,
+              "url": "https://t.co/zTL6RzrCfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859963452451958966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 7487,
+          "like_count": 804,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "ツインテールの日？\n📸 @xyzatoganaihito https://t.co/zTL6RzrCfP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩味薯條",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858797048113586176/qXOd1Vqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 86,
+          "like_count": 11332,
+          "listed_count": 0,
+          "tweet_count": 3092
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-06T08:24:36.000Z",
+        "description": "ｦ!!活/関西 痛単車乗りｺｽﾌﾟﾚｲﾔｰ ☆タグ片思い3日",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2U1BEXGUT84ZW?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/5AGawAWG7r"
+              }
+            ]
+          }
+        },
+        "id": "2711472528",
+        "name": "あらち 1日目 東W-60b",
+        "pinned_tweet_id": "1855232388667974058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849239000458076161/aL77FKsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 159,
+          "like_count": 110374,
+          "listed_count": 7,
+          "tweet_count": 16577
+        },
+        "url": "https://t.co/5AGawAWG7r",
+        "username": "ra1kaA",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T17:28:57.000Z",
+        "description": "北陸⇄東海の底辺カメラマン📷 年内新規予定×作例はハイライト、メディアから",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/takara86239?ig…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/takara86239?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/gXI3Ti2G0M"
+              }
+            ]
+          }
+        },
+        "id": "1582061058436435968",
+        "location": "北陸⇆東海→関東関西も",
+        "name": "takara📸新規依頼1月〜",
+        "pinned_tweet_id": "1844717153246974382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826529546860199937/Mx4SWniH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 526,
+          "like_count": 11141,
+          "listed_count": 20,
+          "tweet_count": 9768
+        },
+        "url": "https://t.co/gXI3Ti2G0M",
+        "username": "xyzatoganaihito",
+        "verified": true
+      }
+    ]
+  }
+}

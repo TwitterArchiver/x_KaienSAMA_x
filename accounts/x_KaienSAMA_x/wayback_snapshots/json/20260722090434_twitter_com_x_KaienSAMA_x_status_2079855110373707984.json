@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2079855110373707984",
+    "created_at": "2026-07-22T09:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079855110373707984"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079855110373707984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然發現沒有什麼對我來說是重要的\n因為我沒有成為什麼重要的人\n人生就這樣漫無目的的一天又一天\n渾渾噩噩過著"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2079855110373707984",
+        "created_at": "2026-07-22T09:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079855110373707984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079855110373707984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然發現沒有什麼對我來說是重要的\n因為我沒有成為什麼重要的人\n人生就這樣漫無目的的一天又一天\n渾渾噩噩過著"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 107,
+          "like_count": 13091,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 7441
+        },
+        "url": "",
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

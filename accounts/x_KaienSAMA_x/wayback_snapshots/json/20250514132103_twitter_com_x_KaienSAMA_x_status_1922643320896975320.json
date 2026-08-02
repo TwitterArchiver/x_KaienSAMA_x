@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1922643320896975320",
+    "created_at": "2025-05-14T13:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T14:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922643320896975320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1787170522381615104",
+          "start": 3,
+          "username": "x_KaienSAMA_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922643320896975320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917200007603908804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_KaienSAMA_x: 雖然我已經很自私 但我想再自私點 直到我可以不管別人感受..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1922643320896975320",
+        "created_at": "2025-05-14T13:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T14:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922643320896975320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1787170522381615104",
+              "start": 3,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922643320896975320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917200007603908804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_KaienSAMA_x: 雖然我已經很自私 但我想再自私點 直到我可以不管別人感受..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1917200007603908804",
+        "created_at": "2025-04-29T12:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T13:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917200007603908804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917200007603908804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "雖然我已經很自私 但我想再自私點 直到我可以不管別人感受..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 131,
+          "like_count": 12183,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 5290
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

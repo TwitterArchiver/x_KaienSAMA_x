@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1945527601218420819",
+    "created_at": "2025-07-16T16:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T17:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945527601218420819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725683921763905536",
+          "start": 3,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945527601218420819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945450783849263505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luonbe69: 我们竭尽所能的表达爱意，却不知道真正的爱到底是什么\n爱欲，思念，温暖的热\n但你永远无法看到他的眼\n所有的心流在吐出口的一刹那就已经死亡\n我握着你的手，但惶然的悲哀依旧\n莫大的悲哀\n原来自己那么丑陋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1945527601218420819",
+        "created_at": "2025-07-16T16:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T17:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945527601218420819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725683921763905536",
+              "start": 3,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945527601218420819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945450783849263505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luonbe69: 我们竭尽所能的表达爱意，却不知道真正的爱到底是什么\n爱欲，思念，温暖的热\n但你永远无法看到他的眼\n所有的心流在吐出口的一刹那就已经死亡\n我握着你的手，但惶然的悲哀依旧\n莫大的悲哀\n原来自己那么丑陋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "1945450783849263505",
+        "created_at": "2025-07-16T11:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T12:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945450783849263505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945450783849263505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 663,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们竭尽所能的表达爱意，却不知道真正的爱到底是什么\n爱欲，思念，温暖的热\n但你永远无法看到他的眼\n所有的心流在吐出口的一刹那就已经死亡\n我握着你的手，但惶然的悲哀依旧\n莫大的悲哀\n原来自己那么丑陋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937388734883995648/w12PLFKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 130,
+          "like_count": 12505,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 5842
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 寂寞 世界 空心 呢喃 命运 废死 流浪 列车 白梦 闪烁 凝视 傲慢 节制 内脏 终焉 彷徨 憎恶 白躁 黄铜 血 糜烂 负荷 荒芜 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "罗伦贝尔🎫",
+        "pinned_tweet_id": "1945450783849263505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850527858571325440/tCL5f4k4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 6208,
+          "like_count": 44682,
+          "listed_count": 4,
+          "media_count": 603,
+          "tweet_count": 18225
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1881754262151262464",
+    "created_at": "2025-01-21T17:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T18:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881754262151262464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iwantmylildogg…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/iwantmylildoggy/status/1881206116325216261",
+          "start": 23,
+          "url": "https://t.co/i7KA3Xd3Gi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881754262151262464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881206116325216261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理想cbc\n實際bab/aabˊ_&gt;ˋ https://t.co/i7KA3Xd3Gi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1881754262151262464",
+        "created_at": "2025-01-21T17:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T18:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881754262151262464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iwantmylildogg…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/iwantmylildoggy/status/1881206116325216261",
+              "start": 23,
+              "url": "https://t.co/i7KA3Xd3Gi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881754262151262464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881206116325216261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理想cbc\n實際bab/aabˊ_&gt;ˋ https://t.co/i7KA3Xd3Gi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881206100072304640"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "conversation_id": "1881206116325216261",
+        "created_at": "2025-01-20T05:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T06:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881206116325216261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JdZsIejv46",
+              "end": 37,
+              "expanded_url": "https://x.com/IWantMyLilDoggy/status/1881206116325216261/photo/1",
+              "media_key": "3_1881206100072304640",
+              "start": 14,
+              "url": "https://t.co/JdZsIejv46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881206116325216261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 248024,
+          "like_count": 1731,
+          "quote_count": 150,
+          "reply_count": 561,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "请组合出你心中最完美的方案 https://t.co/JdZsIejv46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 118,
+          "like_count": 12100,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 3906
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "ftx/ftm/ASD/ADHD/S/Dom/我是发条 你的温柔赛博小黑猫/一般路过肥宅/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/很喜欢的微博博主是@奇思乱想吧 和@今日memes/我爱你 希望你幸福快乐 提问https://t.co/a4UYlpzxKj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "BakaHDT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ftmiao",
+                "end": 160,
+                "expanded_url": "https://ngl.link/ftmiao",
+                "start": 137,
+                "url": "https://t.co/a4UYlpzxKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5894,
+          "following_count": 2995,
+          "like_count": 145431,
+          "listed_count": 17,
+          "media_count": 2310,
+          "tweet_count": 25419
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "IWantMyLilDoggy",
+        "verified": false
+      }
+    ]
+  }
+}

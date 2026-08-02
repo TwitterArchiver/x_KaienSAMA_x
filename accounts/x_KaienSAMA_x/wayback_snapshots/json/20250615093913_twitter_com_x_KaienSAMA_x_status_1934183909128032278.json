@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934183896889147392"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1934183909128032278",
+    "created_at": "2025-06-15T09:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T10:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934183909128032278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2V2qZTT8gW",
+          "end": 31,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1934183909128032278/photo/1",
+          "media_key": "3_1934183896889147392",
+          "start": 8,
+          "url": "https://t.co/2V2qZTT8gW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934183909128032278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感謝qwq🙏🏻 https://t.co/2V2qZTT8gW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 259,
+        "media_key": "3_1934183896889147392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GteaAahbwAAEbQj.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934183896889147392"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1934183909128032278",
+        "created_at": "2025-06-15T09:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T10:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934183909128032278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2V2qZTT8gW",
+              "end": 31,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1934183909128032278/photo/1",
+              "media_key": "3_1934183896889147392",
+              "start": 8,
+              "url": "https://t.co/2V2qZTT8gW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934183909128032278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感謝qwq🙏🏻 https://t.co/2V2qZTT8gW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 130,
+          "like_count": 12360,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 5583
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

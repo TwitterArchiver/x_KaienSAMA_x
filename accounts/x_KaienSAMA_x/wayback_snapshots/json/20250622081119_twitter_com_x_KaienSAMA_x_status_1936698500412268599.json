@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936210441690075136"
+      ],
+      "media_source_tweet_id": [
+        "1936210448720052644"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1936698500412268599",
+    "created_at": "2025-06-22T08:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T09:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936698500412268599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t5wePqdGvd",
+          "end": 35,
+          "expanded_url": "https://x.com/hgds01/status/1936210448720052644/photo/1",
+          "media_key": "3_1936210441690075136",
+          "start": 12,
+          "url": "https://t.co/t5wePqdGvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936698500412268599",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 319
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936210448720052644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds01: https://t.co/t5wePqdGvd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_1936210441690075136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt7NI2NW0AAlcFC.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936210441690075136"
+          ],
+          "media_source_tweet_id": [
+            "1936210448720052644"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1936698500412268599",
+        "created_at": "2025-06-22T08:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T09:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936698500412268599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5wePqdGvd",
+              "end": 35,
+              "expanded_url": "https://x.com/hgds01/status/1936210448720052644/photo/1",
+              "media_key": "3_1936210441690075136",
+              "start": 12,
+              "url": "https://t.co/t5wePqdGvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936698500412268599",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 319
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936210448720052644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds01: https://t.co/t5wePqdGvd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936210441690075136"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1936210448720052644",
+        "created_at": "2025-06-20T23:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T00:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936210448720052644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5wePqdGvd",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds01/status/1936210448720052644/photo/1",
+              "media_key": "3_1936210441690075136",
+              "start": 0,
+              "url": "https://t.co/t5wePqdGvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936210448720052644",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 169546,
+          "like_count": 2669,
+          "quote_count": 32,
+          "reply_count": 19,
+          "retweet_count": 319
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/t5wePqdGvd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 131,
+          "like_count": 12400,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 5628
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1929579130711875675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83220,
+          "following_count": 2909,
+          "like_count": 43558,
+          "listed_count": 103,
+          "media_count": 2498,
+          "tweet_count": 6798
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

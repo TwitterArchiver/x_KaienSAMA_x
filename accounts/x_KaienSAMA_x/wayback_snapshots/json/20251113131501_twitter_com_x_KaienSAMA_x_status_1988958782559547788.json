@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988663218735312896"
+      ],
+      "media_source_tweet_id": [
+        "1988663228650639437"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1988958782559547788",
+    "created_at": "2025-11-13T13:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T14:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988958782559547788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920308340737126400",
+          "start": 3,
+          "username": "fusedjiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RQLBKIcR2O",
+          "end": 38,
+          "expanded_url": "https://x.com/fusedjiii/status/1988663228650639437/photo/1",
+          "media_key": "3_1988663218735312896",
+          "start": 15,
+          "url": "https://t.co/RQLBKIcR2O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988958782559547788",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988663228650639437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fusedjiii: https://t.co/RQLBKIcR2O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1988663218735312896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kmqTqacAAH63K.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988663218735312896"
+          ],
+          "media_source_tweet_id": [
+            "1988663228650639437"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1988958782559547788",
+        "created_at": "2025-11-13T13:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988958782559547788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920308340737126400",
+              "start": 3,
+              "username": "fusedjiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQLBKIcR2O",
+              "end": 38,
+              "expanded_url": "https://x.com/fusedjiii/status/1988663228650639437/photo/1",
+              "media_key": "3_1988663218735312896",
+              "start": 15,
+              "url": "https://t.co/RQLBKIcR2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988958782559547788",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988663228650639437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fusedjiii: https://t.co/RQLBKIcR2O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988663218735312896"
+          ]
+        },
+        "author_id": "1920308340737126400",
+        "conversation_id": "1988663228650639437",
+        "created_at": "2025-11-12T17:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988663228650639437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQLBKIcR2O",
+              "end": 23,
+              "expanded_url": "https://x.com/fusedjiii/status/1988663228650639437/photo/1",
+              "media_key": "3_1988663218735312896",
+              "start": 0,
+              "url": "https://t.co/RQLBKIcR2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988663228650639437",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 12795,
+          "like_count": 374,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RQLBKIcR2O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 125,
+          "like_count": 12858,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 6642
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "一般路过门槛妹，入门✉️私信，给我钱钱再说喜欢我好吗好耶。别偷我照片。",
+        "id": "1920308340737126400",
+        "location": "家",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1985925226824417303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984902758353469440/8z6LfT-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3116,
+          "following_count": 160,
+          "like_count": 405,
+          "listed_count": 7,
+          "media_count": 88,
+          "tweet_count": 1348
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

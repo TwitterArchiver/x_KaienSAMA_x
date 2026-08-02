@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2042966457609523340",
+    "created_at": "2026-04-11T14:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042966457609523340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_kaiensama_x/…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/x_kaiensama_x/status/2042235299728941170",
+          "start": 52,
+          "url": "https://t.co/18PBLjfa5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042966457609523340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042235299728941170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我媽看到後說 唔係因為爹啲媽咪㗎可\n你真的有夠厚臉皮 真的去死 那天我發病發得比以往都厲害 痛苦得要死 https://t.co/18PBLjfa5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2752,
+        "media_key": "3_2042235294397923328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFd6LhZagAAcMx6.jpg",
+        "width": 1548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2042966457609523340",
+        "created_at": "2026-04-11T14:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042966457609523340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_kaiensama_x/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/x_kaiensama_x/status/2042235299728941170",
+              "start": 52,
+              "url": "https://t.co/18PBLjfa5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042966457609523340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042235299728941170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我媽看到後說 唔係因為爹啲媽咪㗎可\n你真的有夠厚臉皮 真的去死 那天我發病發得比以往都厲害 痛苦得要死 https://t.co/18PBLjfa5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042235294397923328"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "2042235299728941170",
+        "created_at": "2026-04-09T13:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042235299728941170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UKPUb7OReA",
+              "end": 41,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/2042235299728941170/photo/1",
+              "media_key": "3_2042235294397923328",
+              "start": 18,
+              "url": "https://t.co/UKPUb7OReA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042235299728941170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "聰明如我 現在看起來只是一條小傷口 https://t.co/UKPUb7OReA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 116,
+          "like_count": 13125,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 7163
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

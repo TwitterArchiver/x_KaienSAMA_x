@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2033059895579390188",
+    "created_at": "2026-03-15T05:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T06:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033059895579390188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ll97515/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/ll97515/status/2032764069216924014",
+          "start": 15,
+          "url": "https://t.co/AHPRuscFzJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033059895579390188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032764069216924014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我人應該係左翼 心理係右翼（ https://t.co/AHPRuscFzJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_2032764064896790528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXUJaBaMAAtBVA.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2033059895579390188",
+        "created_at": "2026-03-15T05:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T06:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033059895579390188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ll97515/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ll97515/status/2032764069216924014",
+              "start": 15,
+              "url": "https://t.co/AHPRuscFzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033059895579390188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032764069216924014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我人應該係左翼 心理係右翼（ https://t.co/AHPRuscFzJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032764064896790528"
+          ]
+        },
+        "author_id": "1931634000453345280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032764069216924014",
+        "created_at": "2026-03-14T10:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032764069216924014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/En0l8qkbnA",
+              "end": 34,
+              "expanded_url": "https://x.com/ll97515/status/2032764069216924014/photo/1",
+              "media_key": "3_2032764064896790528",
+              "start": 11,
+              "url": "https://t.co/En0l8qkbnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032764069216924014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1911,
+          "impression_count": 364083,
+          "like_count": 7532,
+          "quote_count": 187,
+          "reply_count": 34,
+          "retweet_count": 744
+        },
+        "reply_settings": "everyone",
+        "text": "空间刷到这个笑崩溃了 https://t.co/En0l8qkbnA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 120,
+          "like_count": 13032,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 7021
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:46:56.000Z",
+        "description": "404notfound",
+        "id": "1931634000453345280",
+        "name": "(●─●)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987318821154324480/qCEPNWhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 470,
+          "like_count": 4388,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 927
+        },
+        "username": "ll97515",
+        "verified": false
+      }
+    ]
+  }
+}

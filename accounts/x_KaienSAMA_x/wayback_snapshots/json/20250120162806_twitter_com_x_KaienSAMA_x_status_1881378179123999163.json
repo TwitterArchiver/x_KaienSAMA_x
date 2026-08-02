@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1881378179123999163",
+    "created_at": "2025-01-20T16:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T17:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881378179123999163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700173709301166080",
+          "start": 3,
+          "username": "K423_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881378179123999163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881359407210254715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K423_404: 我只要一停止玩電話，我就會陷入自我懷疑、想起自己只是一個Band3差生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1881378179123999163",
+        "created_at": "2025-01-20T16:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T17:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881378179123999163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700173709301166080",
+              "start": 3,
+              "username": "K423_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881378179123999163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881359407210254715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K423_404: 我只要一停止玩電話，我就會陷入自我懷疑、想起自己只是一個Band3差生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700173709301166080",
+        "conversation_id": "1881359407210254715",
+        "created_at": "2025-01-20T15:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T16:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881359407210254715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881359407210254715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我只要一停止玩電話，我就會陷入自我懷疑、想起自己只是一個Band3差生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "再愛我多次。像最初那樣... 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 117,
+          "like_count": 12089,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 3886
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T15:46:42.000Z",
+        "description": "+852HKG 自傷癖 喜歡我請給我打錢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%98%BF%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%98%BF%E6%A2%85",
+                "start": 0,
+                "url": "https://t.co/xskqYhv9lS"
+              }
+            ]
+          }
+        },
+        "id": "1700173709301166080",
+        "location": "天国",
+        "name": "加入你的名稱",
+        "pinned_tweet_id": "1880666453348942239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814344102424784900/bEHjfTNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 407,
+          "like_count": 6178,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/xskqYhv9lS",
+        "username": "K423_404",
+        "verified": false
+      }
+    ]
+  }
+}

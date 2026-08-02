@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1867171871529308352",
+    "created_at": "2024-12-12T15:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T16:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867236610720616943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1285531839776436225",
+          "start": 0,
+          "username": "ka0402long"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867236610720616943",
+    "in_reply_to_user_id": "1285531839776436225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867236240514519307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ka0402long 🥺🥺謝謝七月🥺🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1867171871529308352",
+        "created_at": "2024-12-12T15:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T16:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867236610720616943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1285531839776436225",
+              "start": 0,
+              "username": "ka0402long"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867236610720616943",
+        "in_reply_to_user_id": "1285531839776436225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867236240514519307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ka0402long 🥺🥺謝謝七月🥺🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285531839776436225",
+        "conversation_id": "1867171871529308352",
+        "created_at": "2024-12-12T15:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T16:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867236240514519307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867236240514519307",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867171871529308352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 你好好睇~ （7月說的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 100,
+          "like_count": 11808,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 3395
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T11:07:43.000Z",
+        "description": "7月專用的哥布林奴隸🧌",
+        "id": "1285531839776436225",
+        "location": "7月心中",
+        "name": "LongLongTimeAgo",
+        "pinned_tweet_id": "1850698674688725432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852893107555348480/4e5TLZa6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 291,
+          "like_count": 3123,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1167
+        },
+        "username": "ka0402long",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1925610057523507401",
+    "created_at": "2025-05-22T17:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T18:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925610057523507401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1799066940381753344",
+          "start": 3,
+          "username": "91517283GTGT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925610057523507401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925607679088894210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @91517283GTGT: 千貓（已被翠翠統治～\n05🇭🇰\n—————————————————\n抑鬱｜焦慮｜ADHD（超熱愛社交！\n超雷：已讀不回、面具L、病態佔有慾\n酒後失控、OD亂言、普信男\n本貓只屬於翠翠\n非朋友勿擾｜長期放負地帶｜NO 色色\n腦裏只有翠翠和重視的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1925610057523507401",
+        "created_at": "2025-05-22T17:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T18:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925610057523507401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1799066940381753344",
+              "start": 3,
+              "username": "91517283GTGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925610057523507401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925607679088894210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @91517283GTGT: 千貓（已被翠翠統治～\n05🇭🇰\n—————————————————\n抑鬱｜焦慮｜ADHD（超熱愛社交！\n超雷：已讀不回、面具L、病態佔有慾\n酒後失控、OD亂言、普信男\n本貓只屬於翠翠\n非朋友勿擾｜長期放負地帶｜NO 色色\n腦裏只有翠翠和重視的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799066940381753344",
+        "conversation_id": "1925607679088894210",
+        "created_at": "2025-05-22T17:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T18:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925607679088894210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925607679088894210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "千貓（已被翠翠統治～\n05🇭🇰\n—————————————————\n抑鬱｜焦慮｜ADHD（超熱愛社交！\n超雷：已讀不回、面具L、病態佔有慾\n酒後失控、OD亂言、普信男\n本貓只屬於翠翠\n非朋友勿擾｜長期放負地帶｜NO 色色\n腦裏只有翠翠和重視的朋友\n唔啱key嘅歡迎block鳩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 130,
+          "like_count": 12194,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 5368
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T13:12:53.000Z",
+        "description": "",
+        "id": "1799066940381753344",
+        "name": "家庭裝消失欲",
+        "pinned_tweet_id": "1925607679088894210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864598018860961797/S3sgveGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 39,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 234
+        },
+        "username": "91517283GTGT",
+        "verified": false
+      }
+    ]
+  }
+}

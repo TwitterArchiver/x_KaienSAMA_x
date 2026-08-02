@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1866158769803313321",
+    "created_at": "2024-12-09T16:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T17:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866158769803313321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1836782122037874688",
+          "start": 3,
+          "username": "mio1738468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866158769803313321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866108121774776398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mio1738468: 自残我是怎么上瘾的？我到底是怎么对这种东西上瘾的。？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1866158769803313321",
+        "created_at": "2024-12-09T16:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T17:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866158769803313321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1836782122037874688",
+              "start": 3,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866158769803313321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866108121774776398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mio1738468: 自残我是怎么上瘾的？我到底是怎么对这种东西上瘾的。？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836782122037874688",
+        "conversation_id": "1866108121774776398",
+        "created_at": "2024-12-09T13:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T14:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866108121774776398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866108121774776398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 943,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自残我是怎么上瘾的？我到底是怎么对这种东西上瘾的。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 95,
+          "like_count": 11736,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 3351
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是今予/双相/碎碎念-分享日常/🚪20/50，好友位/纯绿陪聊，给的越多越热情/粥批/紫菜小号@jy3152509243 /谢谢你和我一起玩😽/手作围巾长期有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "jy3152509243"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被碳酸锂噎死",
+        "pinned_tweet_id": "1857845525556638103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848603443956748290/A5Wh6pB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3421,
+          "following_count": 470,
+          "like_count": 5962,
+          "listed_count": 5,
+          "media_count": 610,
+          "tweet_count": 5298
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

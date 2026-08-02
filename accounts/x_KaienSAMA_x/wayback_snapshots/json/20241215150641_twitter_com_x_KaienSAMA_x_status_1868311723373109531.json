@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1868311723373109531",
+    "created_at": "2024-12-15T15:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T16:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868311723373109531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743630480132771840",
+          "start": 3,
+          "username": "kuehcgniy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868311723373109531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868283399234109775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuehcgniy: 夠了我爸媽說話的聲音也好煩好煩好煩閉嘴為什麼這麼大矛盾的人會在一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1868311723373109531",
+        "created_at": "2024-12-15T15:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T16:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868311723373109531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743630480132771840",
+              "start": 3,
+              "username": "kuehcgniy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868311723373109531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868283399234109775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuehcgniy: 夠了我爸媽說話的聲音也好煩好煩好煩閉嘴為什麼這麼大矛盾的人會在一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743630480132771840",
+        "conversation_id": "1868283399234109775",
+        "created_at": "2024-12-15T13:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T14:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868283399234109775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868283399234109775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "夠了我爸媽說話的聲音也好煩好煩好煩閉嘴為什麼這麼大矛盾的人會在一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 100,
+          "like_count": 11827,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 3429
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T13:48:34.000Z",
+        "description": "🇭🇰｜戒割中｜有病｜素質不明｜日常💚動漫漫畫、🎶、💤、✏️，愛推油們^^短髮眼镜控…",
+        "id": "1743630480132771840",
+        "location": "Hong Kong",
+        "name": "阿🐟戒歌中",
+        "pinned_tweet_id": "1836738468971729388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809643642061221888/69GTPtBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 127,
+          "like_count": 15979,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1665
+        },
+        "username": "kuehcgniy",
+        "verified": false
+      }
+    ]
+  }
+}

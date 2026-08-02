@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936871435051409408"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1936871443989672099",
+    "created_at": "2025-06-22T19:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T20:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936871443989672099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pxGlOQ9HpD",
+          "end": 43,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1936871443989672099/photo/1",
+          "media_key": "3_1936871435051409408",
+          "start": 20,
+          "url": "https://t.co/pxGlOQ9HpD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936871443989672099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忍了兩個月 破戒\n好可悲 又割了... https://t.co/pxGlOQ9HpD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936871443989672099].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936871443989672099",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936871443989672099"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1090,
+        "media_key": "3_1936871435051409408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuEmTuXXIAAKDBD.jpg",
+        "width": 964
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 131,
+          "like_count": 12414,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 5640
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

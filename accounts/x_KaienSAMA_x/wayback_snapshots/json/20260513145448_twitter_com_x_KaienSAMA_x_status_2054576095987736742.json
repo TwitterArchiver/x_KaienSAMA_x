@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2054575786670297374",
+    "created_at": "2026-05-13T14:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054576095987736742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1082983512158855168",
+          "start": 0,
+          "username": "SansRyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054576095987736742",
+    "in_reply_to_user_id": "1082983512158855168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054575897416737003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SansRyan 我膽子小 說不定我真的不敢 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2054575786670297374",
+        "created_at": "2026-05-13T14:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054576095987736742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1082983512158855168",
+              "start": 0,
+              "username": "SansRyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054576095987736742",
+        "in_reply_to_user_id": "1082983512158855168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054575897416737003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SansRyan 我膽子小 說不定我真的不敢 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1082983512158855168",
+        "conversation_id": "2054575786670297374",
+        "created_at": "2026-05-13T14:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054575897416737003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054575897416737003",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054575786670297374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 不會吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 110,
+          "like_count": 13114,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 7248
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-09T12:52:44.000Z",
+        "description": "",
+        "id": "1082983512158855168",
+        "name": "彥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649605149642608640/7g3WCgVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 320,
+          "like_count": 4850,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 453
+        },
+        "username": "SansRyan",
+        "verified": false
+      }
+    ]
+  }
+}

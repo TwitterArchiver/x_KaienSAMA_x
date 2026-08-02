@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2020526777085431809"
+      ],
+      "media_source_tweet_id": [
+        "2020526797662691677"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "2020624671633522970",
+    "created_at": "2026-02-08T22:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T23:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020624671633522970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820467609722040320",
+          "start": 3,
+          "username": "ametic2u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FotzYXYAj8",
+          "end": 82,
+          "expanded_url": "https://x.com/ametic2u/status/2020526797662691677/photo/1",
+          "media_key": "16_2020526777085431809",
+          "start": 59,
+          "url": "https://t.co/FotzYXYAj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020624671633522970",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 511
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020526797662691677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ametic2u: im splitting so hard im splitting everywhere https://t.co/FotzYXYAj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2020526777085431809",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HApaZgdXkAEHV7U.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HApaZgdXkAEHV7U.mp4"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2020526777085431809"
+          ],
+          "media_source_tweet_id": [
+            "2020526797662691677"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "2020624671633522970",
+        "created_at": "2026-02-08T22:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T23:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020624671633522970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820467609722040320",
+              "start": 3,
+              "username": "ametic2u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FotzYXYAj8",
+              "end": 82,
+              "expanded_url": "https://x.com/ametic2u/status/2020526797662691677/photo/1",
+              "media_key": "16_2020526777085431809",
+              "start": 59,
+              "url": "https://t.co/FotzYXYAj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020624671633522970",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 511
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020526797662691677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ametic2u: im splitting so hard im splitting everywhere https://t.co/FotzYXYAj8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2020526777085431809"
+          ]
+        },
+        "author_id": "1820467609722040320",
+        "conversation_id": "2020526797662691677",
+        "created_at": "2026-02-08T15:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020526797662691677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FotzYXYAj8",
+              "end": 68,
+              "expanded_url": "https://x.com/ametic2u/status/2020526797662691677/photo/1",
+              "media_key": "16_2020526777085431809",
+              "start": 45,
+              "url": "https://t.co/FotzYXYAj8"
+            },
+            {
+              "display_url": "x.com/soaringtides/s…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/soaringtides/status/2020214800903524573",
+              "start": 69,
+              "url": "https://t.co/gyxqM4WabI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020526797662691677",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 719,
+          "impression_count": 62800,
+          "like_count": 3857,
+          "quote_count": 21,
+          "reply_count": 7,
+          "retweet_count": 511
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020214800903524573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "im splitting so hard im splitting everywhere https://t.co/FotzYXYAj8 https://t.co/gyxqM4WabI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 123,
+          "like_count": 13002,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 6907
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T14:31:33.000Z",
+        "description": "⋅˚₊‧ ₊˚ ⋅࣭ ⭑trauma bonded with many flaws⋅˚₊‧  ‧₊˚ ⋅ ๋ ࣭  ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ametic2u.straw.page",
+                "end": 23,
+                "expanded_url": "https://ametic2u.straw.page",
+                "start": 0,
+                "url": "https://t.co/RftrdCC1K0"
+              }
+            ]
+          }
+        },
+        "id": "1820467609722040320",
+        "location": "i ♡ my fp",
+        "name": "⋆˙⟡˚₊‧꒰ა໒꒱ ‧₊˚ ୨୧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927459394570067969/lDsicexL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 34,
+          "like_count": 3058,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 955
+        },
+        "url": "https://t.co/RftrdCC1K0",
+        "username": "ametic2u",
+        "verified": false
+      }
+    ]
+  }
+}

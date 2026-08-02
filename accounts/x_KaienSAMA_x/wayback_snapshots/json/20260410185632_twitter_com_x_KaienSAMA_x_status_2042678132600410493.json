@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2042003687279903040",
+    "created_at": "2026-04-10T18:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042678132600410493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1645857818808025090",
+          "start": 0,
+          "username": "choco_030_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042678132600410493",
+    "in_reply_to_user_id": "1645857818808025090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042647551019749689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choco_030_ovo 這次是因為od了🥺 本事上學還好 只是讀書真的好他媽痛苦、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2042003687279903040",
+        "created_at": "2026-04-10T18:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042678132600410493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1645857818808025090",
+              "start": 0,
+              "username": "choco_030_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042678132600410493",
+        "in_reply_to_user_id": "1645857818808025090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042647551019749689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choco_030_ovo 這次是因為od了🥺 本事上學還好 只是讀書真的好他媽痛苦、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645857818808025090",
+        "conversation_id": "2042003687279903040",
+        "created_at": "2026-04-10T16:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042647551019749689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042647551019749689",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042003687279903040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 你的身體對上學有不良反應 我之前也是 不上學ok 一上學就渾身出問題"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 116,
+          "like_count": 13122,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 7157
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T18:34:54.000Z",
+        "description": "可可🍫🍫 陰暗b一隻 經常發癲 萌新考蛇 地雷系女子    想和女孩子貼貼 成分複雜 雜食cp 死宅女 偶爾紫餐 \nweeeee(=｀ω´=) 夢想可以冬眠100年",
+        "id": "1645857818808025090",
+        "location": "香港",
+        "name": "可可choco",
+        "pinned_tweet_id": "1827782526200652098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796924195148009473/5Pl8xD7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 34,
+          "like_count": 11083,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1486
+        },
+        "username": "choco_030_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

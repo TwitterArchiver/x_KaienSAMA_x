@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1889634643726549492",
+    "created_at": "2025-02-12T11:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T12:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889634643726549492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1645154173707755520",
+          "start": 3,
+          "username": "lx101067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889634643726549492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889272447192699205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lx101067: 生命是一场由性行为传播的疾病，死亡率为100%"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1889634643726549492",
+        "created_at": "2025-02-12T11:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T12:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889634643726549492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1645154173707755520",
+              "start": 3,
+              "username": "lx101067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889634643726549492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889272447192699205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lx101067: 生命是一场由性行为传播的疾病，死亡率为100%"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645154173707755520",
+        "conversation_id": "1889272447192699205",
+        "created_at": "2025-02-11T11:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T12:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889272447192699205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889272447192699205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3576,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "生命是一场由性行为传播的疾病，死亡率为100%"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 127,
+          "like_count": 12640,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 4274
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T19:58:23.000Z",
+        "description": "喜欢自言自语发神经/死高p线下查无此人/互关随意加v爱你们 (*´ `*)/提问箱https://t.co/jGceOyoqYp防走丢小号:@in67luvNight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "in67luvNight"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/night74980/",
+                "end": 64,
+                "expanded_url": "https://ngl.link/night74980/",
+                "start": 41,
+                "url": "https://t.co/jGceOyoqYp"
+              }
+            ]
+          }
+        },
+        "id": "1645154173707755520",
+        "location": "🚪67陪聊and开放朋友圈",
+        "name": "Night",
+        "pinned_tweet_id": "1865760014247555294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887364570559438848/S5hihnZq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 639,
+          "like_count": 11040,
+          "listed_count": 6,
+          "media_count": 947,
+          "tweet_count": 8100
+        },
+        "username": "lx101067",
+        "verified": false
+      }
+    ]
+  }
+}

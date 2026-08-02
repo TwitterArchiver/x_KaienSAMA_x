@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1974882006929690971",
+    "created_at": "2025-10-05T16:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T17:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974882006929690971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906566164582612992",
+          "start": 3,
+          "username": "Yorutomei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974882006929690971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974880501438746817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yorutomei: 人家：相信自己 認識自己最有魅力的地方 這就已經足夠優秀了 我是我 不需要為任何人屈就自己 你其實也是這麼棒的人喔！\n\n我（一個平均陰角）：活著沒意思吧 別裝模作樣了 掐著脖子做愛好不好 我們酗完酒再一起跳樓 想著這樣的事真窩囊啊我真沒用啊抱歉是不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1974882006929690971",
+        "created_at": "2025-10-05T16:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T17:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974882006929690971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906566164582612992",
+              "start": 3,
+              "username": "Yorutomei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974882006929690971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974880501438746817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yorutomei: 人家：相信自己 認識自己最有魅力的地方 這就已經足夠優秀了 我是我 不需要為任何人屈就自己 你其實也是這麼棒的人喔！\n\n我（一個平均陰角）：活著沒意思吧 別裝模作樣了 掐著脖子做愛好不好 我們酗完酒再一起跳樓 想著這樣的事真窩囊啊我真沒用啊抱歉是不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906566164582612992",
+        "conversation_id": "1974880501438746817",
+        "created_at": "2025-10-05T16:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T17:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974880501438746817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974880501438746817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人家：相信自己 認識自己最有魅力的地方 這就已經足夠優秀了 我是我 不需要為任何人屈就自己 你其實也是這麼棒的人喔！\n\n我（一個平均陰角）：活著沒意思吧 別裝模作樣了 掐著脖子做愛好不好 我們酗完酒再一起跳樓 想著這樣的事真窩囊啊我真沒用啊抱歉是不是讓你不開心了\n\n這種感覺吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 127,
+          "like_count": 12759,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 6428
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-09T17:13:11.000Z",
+        "description": "ℂ𝕙𝕒𝕠𝕥𝕚𝕔｜ 𝕡𝕒𝕟 ｜𝕤𝕨𝕚𝕥𝕔𝕙｜網癮女大｜只看不做的變態 ｜分身@yorutorei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "yorutorei"
+              }
+            ]
+          }
+        },
+        "id": "906566164582612992",
+        "location": "Hong Kong",
+        "name": "澪♱",
+        "pinned_tweet_id": "1867974380489519528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832095718296723456/7uVswivY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21350,
+          "following_count": 621,
+          "like_count": 9533,
+          "listed_count": 32,
+          "media_count": 184,
+          "tweet_count": 2717
+        },
+        "username": "Yorutomei",
+        "verified": false
+      }
+    ]
+  }
+}

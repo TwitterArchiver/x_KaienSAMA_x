@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1929890942095441961",
+    "created_at": "2025-06-03T13:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T14:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929890942095441961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743630480132771840",
+          "start": 3,
+          "username": "kuehcgniy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929890942095441961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929885674360189425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuehcgniy: 当我意识到了不管我多努力 还是错的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1929890942095441961",
+        "created_at": "2025-06-03T13:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929890942095441961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743630480132771840",
+              "start": 3,
+              "username": "kuehcgniy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929890942095441961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929885674360189425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuehcgniy: 当我意识到了不管我多努力 还是错的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743630480132771840",
+        "conversation_id": "1929885674360189425",
+        "created_at": "2025-06-03T12:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T13:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929885674360189425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929885674360189425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当我意识到了不管我多努力 还是错的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 131,
+          "like_count": 12214,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 5459
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T13:48:34.000Z",
+        "description": "🇭🇰｜戒割中｜有病｜素質不明｜日常吐槽💚動漫漫畫、🎶、💤、🎨，愛推油們",
+        "id": "1743630480132771840",
+        "location": "HOME",
+        "name": "A🐟",
+        "pinned_tweet_id": "1836738468971729388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809643642061221888/69GTPtBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 135,
+          "like_count": 18315,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2476
+        },
+        "username": "kuehcgniy",
+        "verified": false
+      }
+    ]
+  }
+}

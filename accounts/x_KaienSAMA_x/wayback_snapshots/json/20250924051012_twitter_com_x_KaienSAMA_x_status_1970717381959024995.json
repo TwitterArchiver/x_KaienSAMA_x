@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970514395701878787"
+      ],
+      "media_source_tweet_id": [
+        "1970514402186273177"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1970717381959024995",
+    "created_at": "2025-09-24T05:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T06:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970717381959024995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370809768126783488",
+          "start": 3,
+          "username": "JULYSAMA2155282"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z63FwYVpxP",
+          "end": 59,
+          "expanded_url": "https://x.com/JULYSAMA2155282/status/1970514402186273177/photo/1",
+          "media_key": "3_1970514395701878787",
+          "start": 36,
+          "url": "https://t.co/z63FwYVpxP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970717381959024995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970514402186273177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JULYSAMA2155282: 天天被學校的同學煩 想全殺了 https://t.co/z63FwYVpxP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970514395701878787",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1isZxSaoAMhRh5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970514395701878787"
+          ],
+          "media_source_tweet_id": [
+            "1970514402186273177"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1970717381959024995",
+        "created_at": "2025-09-24T05:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T06:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970717381959024995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1370809768126783488",
+              "start": 3,
+              "username": "JULYSAMA2155282"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z63FwYVpxP",
+              "end": 59,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1970514402186273177/photo/1",
+              "media_key": "3_1970514395701878787",
+              "start": 36,
+              "url": "https://t.co/z63FwYVpxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970717381959024995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970514402186273177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JULYSAMA2155282: 天天被學校的同學煩 想全殺了 https://t.co/z63FwYVpxP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970514395701878787"
+          ]
+        },
+        "author_id": "1370809768126783488",
+        "conversation_id": "1970514402186273177",
+        "created_at": "2025-09-23T15:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T16:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970514402186273177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z63FwYVpxP",
+              "end": 38,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1970514402186273177/photo/1",
+              "media_key": "3_1970514395701878787",
+              "start": 15,
+              "url": "https://t.co/z63FwYVpxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970514402186273177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 650,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天被學校的同學煩 想全殺了 https://t.co/z63FwYVpxP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 127,
+          "like_count": 12719,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 6364
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:51:43.000Z",
+        "description": "永遠  @july_akuryu0409 裹垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "july_akuryu0409"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/july._.cos_215…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/july._.cos_21552821",
+                "start": 0,
+                "url": "https://t.co/YC8Kl27WoJ"
+              }
+            ]
+          }
+        },
+        "id": "1370809768126783488",
+        "location": "我在你後方100米",
+        "name": "七月",
+        "pinned_tweet_id": "1850468053340897414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915012561466183680/CezeivVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 201,
+          "like_count": 9408,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 1714
+        },
+        "url": "https://t.co/YC8Kl27WoJ",
+        "username": "JULYSAMA2155282",
+        "verified": false
+      }
+    ]
+  }
+}

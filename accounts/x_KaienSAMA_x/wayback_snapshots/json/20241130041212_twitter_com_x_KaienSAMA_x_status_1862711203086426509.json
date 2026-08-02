@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1862711203086426509",
+    "created_at": "2024-11-30T04:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T05:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862711203086426509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1724141656906297344",
+          "start": 3,
+          "username": "Aikoawa0016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862711203086426509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862626682664099902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aikoawa0016: 感覺聽到說喜歡地雷系的男生都是騙子\n你不懂 根本什麼都不懂\n不想相信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1862711203086426509",
+        "created_at": "2024-11-30T04:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T05:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862711203086426509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1724141656906297344",
+              "start": 3,
+              "username": "Aikoawa0016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862711203086426509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862626682664099902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aikoawa0016: 感覺聽到說喜歡地雷系的男生都是騙子\n你不懂 根本什麼都不懂\n不想相信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724141656906297344",
+        "conversation_id": "1862626682664099902",
+        "created_at": "2024-11-29T22:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T23:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862626682664099902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862626682664099902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "感覺聽到說喜歡地雷系的男生都是騙子\n你不懂 根本什麼都不懂\n不想相信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩味薯條",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858797048113586176/qXOd1Vqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 90,
+          "like_count": 11538,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 3202
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T19:06:27.000Z",
+        "description": "我不配活着",
+        "id": "1724141656906297344",
+        "location": "*･゜ﾟ*:.｡.｡.:*天国*:.｡. ｡.:*゜ﾟ･*",
+        "name": "沙耶",
+        "pinned_tweet_id": "1862631900164366761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793352582259421184/VkSdQ4dL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 517,
+          "like_count": 2197,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 970
+        },
+        "username": "Aikoawa0016",
+        "verified": false
+      }
+    ]
+  }
+}

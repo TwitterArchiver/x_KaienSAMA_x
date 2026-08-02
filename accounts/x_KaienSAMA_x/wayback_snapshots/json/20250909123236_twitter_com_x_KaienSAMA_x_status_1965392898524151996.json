@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1965392815455961091"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1965392898524151996",
+    "created_at": "2025-09-09T12:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T13:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965392898524151996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vt9BhIsNKQ",
+          "end": 55,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1965392898524151996/video/1",
+          "media_key": "13_1965392815455961091",
+          "start": 32,
+          "url": "https://t.co/Vt9BhIsNKQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965392898524151996",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "貴方解剖純愛歌 〜死ね〜\n試著唱了一小段（有唱錯的話抱歉qwq https://t.co/Vt9BhIsNKQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46088,
+        "height": 952,
+        "media_key": "13_1965392815455961091",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965392815455961091/img/Gia_QFFuEbYoUf2w.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965392815455961091/vid/avc1/320x422/5NsnA0KCTErq8jHW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965392815455961091/vid/avc1/480x634/JBmqP3VfpB8XHQXE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965392815455961091/vid/avc1/720x952/PCCcEn2SRsLlFyCi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965392815455961091/pl/1rCI9GrK9i-Jfzcv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965392815455961091"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1965392898524151996",
+        "created_at": "2025-09-09T12:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T13:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965392898524151996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vt9BhIsNKQ",
+              "end": 55,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1965392898524151996/video/1",
+              "media_key": "13_1965392815455961091",
+              "start": 32,
+              "url": "https://t.co/Vt9BhIsNKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965392898524151996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "貴方解剖純愛歌 〜死ね〜\n試著唱了一小段（有唱錯的話抱歉qwq https://t.co/Vt9BhIsNKQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 126,
+          "like_count": 12650,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 6291
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

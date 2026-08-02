@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2077039001224306741",
+    "created_at": "2026-07-14T14:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077039001224306741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725683921763905536",
+          "start": 3,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077039001224306741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076675279083495582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luonbe69: 我不想再乞求爱了\n我想就这样一个人\n我不想再受折磨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2077039001224306741",
+        "created_at": "2026-07-14T14:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077039001224306741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725683921763905536",
+              "start": 3,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077039001224306741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076675279083495582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luonbe69: 我不想再乞求爱了\n我想就这样一个人\n我不想再受折磨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "2076675279083495582",
+        "created_at": "2026-07-13T14:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076675279083495582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076675279083495582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 834,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我不想再乞求爱了\n我想就这样一个人\n我不想再受折磨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 107,
+          "like_count": 13103,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 7427
+        },
+        "url": "",
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 电子羊 寂寞 世界 空心 呢喃 命运 废死 流浪 列车 白梦 闪烁 凝视 傲慢 节制 内脏 终焉 彷徨 憎恶 白躁 黄铜 血 糜烂 负荷 荒芜 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "crow",
+        "pinned_tweet_id": "2073923059648733678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073112338748846080/jJl5Vgvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3536,
+          "following_count": 6636,
+          "like_count": 49159,
+          "listed_count": 8,
+          "media_count": 927,
+          "tweet_count": 20941
+        },
+        "url": "",
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

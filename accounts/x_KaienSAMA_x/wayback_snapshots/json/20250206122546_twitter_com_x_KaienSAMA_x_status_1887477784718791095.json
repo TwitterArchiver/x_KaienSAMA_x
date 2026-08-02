@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886954730934661120"
+      ],
+      "media_source_tweet_id": [
+        "1886954742900982035"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1887477784718791095",
+    "created_at": "2025-02-06T12:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T13:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887477784718791095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1294956284060422144",
+          "start": 3,
+          "username": "u7z2_xh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mhPWrMpBxj",
+          "end": 49,
+          "expanded_url": "https://x.com/u7z2_xh/status/1886954742900982035/photo/1",
+          "media_key": "3_1886954730934661120",
+          "start": 26,
+          "url": "https://t.co/mhPWrMpBxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887477784718791095",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2161
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886954742900982035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @u7z2_xh: りりむ概念ケースで可愛い https://t.co/mhPWrMpBxj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1886954730934661120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi_PVIyacAATczI.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886954730934661120"
+          ],
+          "media_source_tweet_id": [
+            "1886954742900982035"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1887477784718791095",
+        "created_at": "2025-02-06T12:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T13:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887477784718791095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1294956284060422144",
+              "start": 3,
+              "username": "u7z2_xh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhPWrMpBxj",
+              "end": 49,
+              "expanded_url": "https://x.com/u7z2_xh/status/1886954742900982035/photo/1",
+              "media_key": "3_1886954730934661120",
+              "start": 26,
+              "url": "https://t.co/mhPWrMpBxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887477784718791095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2161
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886954742900982035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @u7z2_xh: りりむ概念ケースで可愛い https://t.co/mhPWrMpBxj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886954730934661120"
+          ]
+        },
+        "author_id": "1294956284060422144",
+        "conversation_id": "1886954742900982035",
+        "created_at": "2025-02-05T01:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T02:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886954742900982035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhPWrMpBxj",
+              "end": 36,
+              "expanded_url": "https://x.com/u7z2_xh/status/1886954742900982035/photo/1",
+              "media_key": "3_1886954730934661120",
+              "start": 13,
+              "url": "https://t.co/mhPWrMpBxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886954742900982035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3878,
+          "impression_count": 1212110,
+          "like_count": 41905,
+          "quote_count": 505,
+          "reply_count": 5,
+          "retweet_count": 2161
+        },
+        "reply_settings": "everyone",
+        "text": "りりむ概念ケースで可愛い https://t.co/mhPWrMpBxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 129,
+          "like_count": 12467,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 4181
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T11:17:29.000Z",
+        "description": "",
+        "id": "1294956284060422144",
+        "location": "あほげふたりぐみ",
+        "name": "😵‍💫❤️‍🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431962687039176709/jziimJQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 79,
+          "like_count": 54320,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1386
+        },
+        "username": "u7z2_xh",
+        "verified": false
+      }
+    ]
+  }
+}

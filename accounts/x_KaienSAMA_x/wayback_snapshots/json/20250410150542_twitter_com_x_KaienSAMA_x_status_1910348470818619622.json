@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1910348470818619622",
+    "created_at": "2025-04-10T15:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T16:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910348470818619622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1639894055948816387",
+          "start": 3,
+          "username": "sakumamutsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910348470818619622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910346530663596222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakumamutsuki: 我嘗試把自己與外界割裂 直到外界所有事再也影響不到我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1910348470818619622",
+        "created_at": "2025-04-10T15:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T16:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910348470818619622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1639894055948816387",
+              "start": 3,
+              "username": "sakumamutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910348470818619622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910346530663596222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakumamutsuki: 我嘗試把自己與外界割裂 直到外界所有事再也影響不到我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639894055948816387",
+        "conversation_id": "1910346530663596222",
+        "created_at": "2025-04-10T14:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T15:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910346530663596222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910346530663596222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我嘗試把自己與外界割裂 直到外界所有事再也影響不到我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906626426033553408/DC8Yr8_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 131,
+          "like_count": 12351,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 5105
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T07:36:33.000Z",
+        "description": "不稱職的神明｜小賬退了人 不是討厭只是我感覺沒和我說過話就fo讓我很不安丨不喜歡回私訊，不喜歡回留言，再次感謝大家對我的同情和包容。會回但回的慢，看到我已讀了沒回不是討厭不是敷衍是我想在精力好的時候處理社交避免誤傷他人。和我聊天做好這個準備",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/9SYzg9xb83",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/9SYzg9xb83",
+                "start": 0,
+                "url": "https://t.co/sZHlu2ozaI"
+              }
+            ]
+          }
+        },
+        "id": "1639894055948816387",
+        "name": "kayo",
+        "pinned_tweet_id": "1901437958718455846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909038412721729536/ihaW0tM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 1561,
+          "like_count": 23410,
+          "listed_count": 7,
+          "media_count": 228,
+          "tweet_count": 8024
+        },
+        "url": "https://t.co/sZHlu2ozaI",
+        "username": "sakumamutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

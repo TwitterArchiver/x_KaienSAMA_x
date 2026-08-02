@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922268661211136000"
+      ],
+      "media_source_tweet_id": [
+        "1922268668840309001"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1922637129206640730",
+    "created_at": "2025-05-14T12:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T13:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922637129206640730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686395036139950080",
+          "start": 3,
+          "username": "Ichi5oxo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/07br20uviO",
+          "end": 52,
+          "expanded_url": "https://x.com/Ichi5oxo/status/1922268668840309001/photo/1",
+          "media_key": "3_1922268661211136000",
+          "start": 29,
+          "url": "https://t.co/07br20uviO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922637129206640730",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 309
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922268668840309001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ichi5oxo: (∩^o^)⊃━☆ﾟ.*･｡ https://t.co/07br20uviO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 818,
+        "media_key": "3_1922268661211136000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq1FKapbAAA84qP.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922268661211136000"
+          ],
+          "media_source_tweet_id": [
+            "1922268668840309001"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1922637129206640730",
+        "created_at": "2025-05-14T12:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T13:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922637129206640730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686395036139950080",
+              "start": 3,
+              "username": "Ichi5oxo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/07br20uviO",
+              "end": 52,
+              "expanded_url": "https://x.com/Ichi5oxo/status/1922268668840309001/photo/1",
+              "media_key": "3_1922268661211136000",
+              "start": 29,
+              "url": "https://t.co/07br20uviO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922637129206640730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 309
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922268668840309001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ichi5oxo: (∩^o^)⊃━☆ﾟ.*･｡ https://t.co/07br20uviO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922268661211136000"
+          ]
+        },
+        "author_id": "1686395036139950080",
+        "conversation_id": "1922268668840309001",
+        "created_at": "2025-05-13T12:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T13:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922268668840309001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07br20uviO",
+              "end": 38,
+              "expanded_url": "https://x.com/Ichi5oxo/status/1922268668840309001/photo/1",
+              "media_key": "3_1922268661211136000",
+              "start": 15,
+              "url": "https://t.co/07br20uviO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922268668840309001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 50619,
+          "like_count": 3407,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 309
+        },
+        "reply_settings": "everyone",
+        "text": "(∩^o^)⊃━☆ﾟ.*･｡ https://t.co/07br20uviO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 130,
+          "like_count": 12181,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 5285
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T15:15:12.000Z",
+        "description": "かあいいよ🫵🏻https://t.co/GIksvSbrEm おくすりれぽ(@x__15xx)︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "x__15xx"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tiktok.com/@mu_0xxx",
+                "end": 30,
+                "expanded_url": "http://www.tiktok.com/@mu_0xxx",
+                "start": 7,
+                "url": "https://t.co/GIksvSbrEm"
+              }
+            ]
+          }
+        },
+        "id": "1686395036139950080",
+        "location": "たまに過激だよ自衛してね",
+        "name": "苺 て ゃ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915680276489134080/8knfHNX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3653,
+          "following_count": 9,
+          "like_count": 156,
+          "listed_count": 17,
+          "media_count": 52,
+          "tweet_count": 213
+        },
+        "username": "Ichi5oxo",
+        "verified": false
+      }
+    ]
+  }
+}

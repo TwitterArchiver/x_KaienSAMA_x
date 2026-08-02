@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1883860566370128171",
+    "created_at": "2025-01-27T17:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T18:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883923238780297294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1547591420269064192",
+          "start": 0,
+          "username": "1uvraku_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883923238780297294",
+    "in_reply_to_user_id": "1547591420269064192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883901944739385369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1uvraku_ 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1883860566370128171",
+        "created_at": "2025-01-27T17:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T18:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883923238780297294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1547591420269064192",
+              "start": 0,
+              "username": "1uvraku_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883923238780297294",
+        "in_reply_to_user_id": "1547591420269064192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883901944739385369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1uvraku_ 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547591420269064192",
+        "conversation_id": "1883860566370128171",
+        "created_at": "2025-01-27T15:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T16:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883901944739385369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883901944739385369",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883860566370128171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 好想看呀海塩大人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 120,
+          "like_count": 12158,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3968
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T14:39:10.000Z",
+        "description": "",
+        "id": "1547591420269064192",
+        "name": "南边梁上奈落",
+        "pinned_tweet_id": "1883902098167005495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868680930187165697/J6A1euMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 139,
+          "like_count": 7482,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 931
+        },
+        "username": "1uvraku_",
+        "verified": false
+      }
+    ]
+  }
+}

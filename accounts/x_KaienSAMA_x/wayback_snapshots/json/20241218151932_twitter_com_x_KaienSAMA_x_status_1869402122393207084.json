@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1869402122393207084",
+    "created_at": "2024-12-18T15:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T16:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869402122393207084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581350595247865857",
+          "start": 3,
+          "username": "imbingqlin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869402122393207084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869363668313669812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imbingqlin: 被我喜欢上的人 你们要完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1869402122393207084",
+        "created_at": "2024-12-18T15:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T16:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869402122393207084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581350595247865857",
+              "start": 3,
+              "username": "imbingqlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869402122393207084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869363668313669812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imbingqlin: 被我喜欢上的人 你们要完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581350595247865857",
+        "conversation_id": "1869363668313669812",
+        "created_at": "2024-12-18T12:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T13:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869363668313669812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869363668313669812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被我喜欢上的人 你们要完蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868333295408410624/a-QiuFaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 103,
+          "like_count": 11802,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 3459
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T18:25:59.000Z",
+        "description": "enfp 天蝎座｜反差｜ 🇭🇰｜1i/4i switch｜好友位🚪 💚128/188/288｜線下🚪520｜很開心認識你哦😽",
+        "id": "1581350595247865857",
+        "name": "香芋味冰淇淋",
+        "pinned_tweet_id": "1863528860018770101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862530086194618368/5KAi0L9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 114,
+          "like_count": 1313,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 515
+        },
+        "username": "imbingqlin",
+        "verified": false
+      }
+    ]
+  }
+}

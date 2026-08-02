@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022178259488956416"
+      ],
+      "media_source_tweet_id": [
+        "2022178262135537961"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "2022368441857184085",
+    "created_at": "2026-02-13T17:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T18:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022368441857184085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966188117163134976",
+          "start": 3,
+          "username": "auawyzzk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SJnNTQ9s2A",
+          "end": 89,
+          "expanded_url": "https://x.com/auawyzzk/status/2022178262135537961/photo/1",
+          "media_key": "3_2022178259488956416",
+          "start": 66,
+          "url": "https://t.co/SJnNTQ9s2A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022368441857184085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022178262135537961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @auawyzzk: 如果很多事情发生的时候有人在我身边这样跟我说 并且我只需要轻轻按一下重试键就可以重来 那还会变成这样吗 https://t.co/SJnNTQ9s2A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_2022178259488956416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBA4ab1bYAAG2i6.jpg",
+        "width": 708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022178259488956416"
+          ],
+          "media_source_tweet_id": [
+            "2022178262135537961"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "2022368441857184085",
+        "created_at": "2026-02-13T17:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022368441857184085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966188117163134976",
+              "start": 3,
+              "username": "auawyzzk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJnNTQ9s2A",
+              "end": 89,
+              "expanded_url": "https://x.com/auawyzzk/status/2022178262135537961/photo/1",
+              "media_key": "3_2022178259488956416",
+              "start": 66,
+              "url": "https://t.co/SJnNTQ9s2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022368441857184085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022178262135537961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @auawyzzk: 如果很多事情发生的时候有人在我身边这样跟我说 并且我只需要轻轻按一下重试键就可以重来 那还会变成这样吗 https://t.co/SJnNTQ9s2A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022178259488956416"
+          ]
+        },
+        "author_id": "1966188117163134976",
+        "conversation_id": "2022178262135537961",
+        "created_at": "2026-02-13T05:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T06:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022178262135537961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJnNTQ9s2A",
+              "end": 75,
+              "expanded_url": "https://x.com/auawyzzk/status/2022178262135537961/photo/1",
+              "media_key": "3_2022178259488956416",
+              "start": 52,
+              "url": "https://t.co/SJnNTQ9s2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022178262135537961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2111,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "如果很多事情发生的时候有人在我身边这样跟我说 并且我只需要轻轻按一下重试键就可以重来 那还会变成这样吗 https://t.co/SJnNTQ9s2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 123,
+          "like_count": 13014,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 6928
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T17:12:39.000Z",
+        "description": "蝻的 神经病 家里蹲 性格恶劣 心智不成熟 负能很多 割手 od 00 188 70kg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/auawyzzk2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/auawyzzk2",
+                "start": 0,
+                "url": "https://t.co/vuAp5MrgmI"
+              }
+            ]
+          }
+        },
+        "id": "1966188117163134976",
+        "location": "墓地",
+        "name": "我一直在割",
+        "pinned_tweet_id": "2013257453979189458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966192998833860609/HNU7N_cG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 21,
+          "like_count": 10641,
+          "listed_count": 0,
+          "media_count": 501,
+          "tweet_count": 7519
+        },
+        "url": "https://t.co/vuAp5MrgmI",
+        "username": "auawyzzk",
+        "verified": false
+      }
+    ]
+  }
+}

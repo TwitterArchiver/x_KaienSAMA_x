@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1888537600610512985",
+    "created_at": "2025-02-09T11:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T12:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888548393506804027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1082983512158855168",
+          "start": 0,
+          "username": "SansRyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888548393506804027",
+    "in_reply_to_user_id": "1082983512158855168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888546680716533938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SansRyan 音聲要在官網買 香港地址買不到 試好多次都不行 得找代購 代購不買音聲..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1888537600610512985",
+        "created_at": "2025-02-09T11:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T12:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888548393506804027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1082983512158855168",
+              "start": 0,
+              "username": "SansRyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888548393506804027",
+        "in_reply_to_user_id": "1082983512158855168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888546680716533938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SansRyan 音聲要在官網買 香港地址買不到 試好多次都不行 得找代購 代購不買音聲..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1082983512158855168",
+        "conversation_id": "1888537600610512985",
+        "created_at": "2025-02-09T11:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T12:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888546680716533938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888546680716533938",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888537600610512985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 先把情人節語音買了👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 129,
+          "like_count": 12570,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 4233
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-09T12:52:44.000Z",
+        "description": "",
+        "id": "1082983512158855168",
+        "name": "彥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649605149642608640/7g3WCgVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 303,
+          "like_count": 2975,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 259
+        },
+        "username": "SansRyan",
+        "verified": false
+      }
+    ]
+  }
+}

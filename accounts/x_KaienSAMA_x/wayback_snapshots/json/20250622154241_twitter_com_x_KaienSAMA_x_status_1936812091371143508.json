@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936786179979870208",
+        "3_1936786179816599552"
+      ],
+      "media_source_tweet_id": [
+        "1936786193498489339",
+        "1936786193498489339"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1936812091371143508",
+    "created_at": "2025-06-22T15:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T16:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936812091371143508"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "ババ活"
+        },
+        {
+          "end": 65,
+          "start": 60,
+          "tag": "女高中生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1120022812842790913",
+          "start": 3,
+          "username": "justadeer_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rjheINtY9i",
+          "end": 89,
+          "expanded_url": "https://x.com/justadeer_/status/1936786193498489339/photo/1",
+          "media_key": "3_1936786179979870208",
+          "start": 66,
+          "url": "https://t.co/rjheINtY9i"
+        },
+        {
+          "display_url": "pic.x.com/rjheINtY9i",
+          "end": 89,
+          "expanded_url": "https://x.com/justadeer_/status/1936786193498489339/photo/1",
+          "media_key": "3_1936786179816599552",
+          "start": 66,
+          "url": "https://t.co/rjheINtY9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936812091371143508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936786193498489339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justadeer_: 🚪250/520/720/2500/5200\n加入會員解鎖更多捏\n\n#爸爸活 #ババ活 #女高中生 https://t.co/rjheINtY9i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1936786179979870208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDYxOeWAAA3NyY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936786179816599552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDYxN3asAA_PBG.jpg",
+        "width": 1396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936786179979870208",
+            "3_1936786179816599552"
+          ],
+          "media_source_tweet_id": [
+            "1936786193498489339",
+            "1936786193498489339"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1936812091371143508",
+        "created_at": "2025-06-22T15:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T16:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936812091371143508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "ババ活"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "女高中生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1120022812842790913",
+              "start": 3,
+              "username": "justadeer_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjheINtY9i",
+              "end": 89,
+              "expanded_url": "https://x.com/justadeer_/status/1936786193498489339/photo/1",
+              "media_key": "3_1936786179979870208",
+              "start": 66,
+              "url": "https://t.co/rjheINtY9i"
+            },
+            {
+              "display_url": "pic.x.com/rjheINtY9i",
+              "end": 89,
+              "expanded_url": "https://x.com/justadeer_/status/1936786193498489339/photo/1",
+              "media_key": "3_1936786179816599552",
+              "start": 66,
+              "url": "https://t.co/rjheINtY9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936812091371143508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936786193498489339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justadeer_: 🚪250/520/720/2500/5200\n加入會員解鎖更多捏\n\n#爸爸活 #ババ活 #女高中生 https://t.co/rjheINtY9i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936786179979870208",
+            "3_1936786179816599552"
+          ]
+        },
+        "author_id": "1120022812842790913",
+        "conversation_id": "1936786193498489339",
+        "created_at": "2025-06-22T13:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T14:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936786193498489339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "ババ活"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "女高中生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjheINtY9i",
+              "end": 73,
+              "expanded_url": "https://x.com/justadeer_/status/1936786193498489339/photo/1",
+              "media_key": "3_1936786179979870208",
+              "start": 50,
+              "url": "https://t.co/rjheINtY9i"
+            },
+            {
+              "display_url": "pic.x.com/rjheINtY9i",
+              "end": 73,
+              "expanded_url": "https://x.com/justadeer_/status/1936786193498489339/photo/1",
+              "media_key": "3_1936786179816599552",
+              "start": 50,
+              "url": "https://t.co/rjheINtY9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936786193498489339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🚪250/520/720/2500/5200\n加入會員解鎖更多捏\n\n#爸爸活 #ババ活 #女高中生 https://t.co/rjheINtY9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 131,
+          "like_count": 12408,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 5631
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-21T17:53:42.000Z",
+        "description": "shtwt 🚪250/520/720/2500/5200",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+rmLWalZOr8E5M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+rmLWalZOr8E5MmY1",
+                "start": 0,
+                "url": "https://t.co/5DYM3FSWBM"
+              }
+            ]
+          }
+        },
+        "id": "1120022812842790913",
+        "name": "暮",
+        "pinned_tweet_id": "1933143221787558304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832422272461635584/YhLLF9pF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3917,
+          "following_count": 538,
+          "like_count": 15213,
+          "listed_count": 7,
+          "media_count": 758,
+          "tweet_count": 8045
+        },
+        "url": "https://t.co/5DYM3FSWBM",
+        "username": "justadeer_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999067386952257536"
+      ],
+      "media_source_tweet_id": [
+        "1999067396846571625"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1999439032368136398",
+    "created_at": "2025-12-12T11:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T12:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999439032368136398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1601735483901751296",
+          "start": 3,
+          "username": "_kaname_03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yHJhWsOJgJ",
+          "end": 56,
+          "expanded_url": "https://x.com/_kaname_03/status/1999067396846571625/photo/1",
+          "media_key": "3_1999067386952257536",
+          "start": 33,
+          "url": "https://t.co/yHJhWsOJgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999439032368136398",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999067396846571625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_kaname_03: 怪我しちゃった超てんちゃん😿😿😿 https://t.co/yHJhWsOJgJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999067386952257536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74dMmlbkAAIJGz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999067386952257536"
+          ],
+          "media_source_tweet_id": [
+            "1999067396846571625"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1999439032368136398",
+        "created_at": "2025-12-12T11:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999439032368136398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1601735483901751296",
+              "start": 3,
+              "username": "_kaname_03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHJhWsOJgJ",
+              "end": 56,
+              "expanded_url": "https://x.com/_kaname_03/status/1999067396846571625/photo/1",
+              "media_key": "3_1999067386952257536",
+              "start": 33,
+              "url": "https://t.co/yHJhWsOJgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999439032368136398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999067396846571625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_kaname_03: 怪我しちゃった超てんちゃん😿😿😿 https://t.co/yHJhWsOJgJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999067386952257536"
+          ]
+        },
+        "author_id": "1601735483901751296",
+        "conversation_id": "1999067396846571625",
+        "created_at": "2025-12-11T10:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999067396846571625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHJhWsOJgJ",
+              "end": 40,
+              "expanded_url": "https://x.com/_kaname_03/status/1999067396846571625/photo/1",
+              "media_key": "3_1999067386952257536",
+              "start": 17,
+              "url": "https://t.co/yHJhWsOJgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999067396846571625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 18475,
+          "like_count": 822,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "怪我しちゃった超てんちゃん😿😿😿 https://t.co/yHJhWsOJgJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人之黑暗面 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 125,
+          "like_count": 12864,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 6752
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T00:28:03.000Z",
+        "description": "@_kaname_2 ↩︎鍵垢人選ぶ/@_kaname_12 ↩︎サブ垢/ほむらちゃんを愛してます😻/ツイ消し常習犯/あいどるです/下のリンクからTikTokフォローして😿😿😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "_kaname_2"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_kaname_12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@__kaname__03?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@__kaname__03?_t=ZS-8xHbaeN8iuW&_r=1",
+                "start": 0,
+                "url": "https://t.co/B4IofS0S0w"
+              }
+            ]
+          }
+        },
+        "id": "1601735483901751296",
+        "location": "見滝原⇔風見野",
+        "name": "かなめ",
+        "pinned_tweet_id": "1891318708607361134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774095561496707072/_O5OTRC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21897,
+          "following_count": 126,
+          "like_count": 6067,
+          "listed_count": 43,
+          "media_count": 727,
+          "tweet_count": 3138
+        },
+        "url": "https://t.co/B4IofS0S0w",
+        "username": "_kaname_03",
+        "verified": false
+      }
+    ]
+  }
+}

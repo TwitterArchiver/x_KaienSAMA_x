@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861818443395411968"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1861818460877234652",
+    "created_at": "2024-11-27T17:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T18:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861818460877234652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y2zJ9UZByR",
+          "end": 28,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1861818460877234652/photo/1",
+          "media_key": "3_1861818443395411968",
+          "start": 5,
+          "url": "https://t.co/Y2zJ9UZByR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861818460877234652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好噁心啊 https://t.co/Y2zJ9UZByR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1861818460877234652].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1861818460877234652",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1861818460877234652"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861818443395411968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdaCAorasAA5BY9.jpg",
+        "width": 1496
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩味薯條",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858797048113586176/qXOd1Vqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 88,
+          "like_count": 11498,
+          "listed_count": 0,
+          "tweet_count": 3178
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

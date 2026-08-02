@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1929172054101631224",
+    "created_at": "2025-06-01T13:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T14:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929172054101631224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790319108875227136",
+          "start": 3,
+          "username": "needygirl_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929172054101631224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928738223565557885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_o: ☔あめちゃん生誕祭2025ノベルティ☔\n\n5000円以上購入の方にあめちゃんのKVチェキをプレゼント！\nさらに！1万円以上で缶バッジ！\nさらに！1万5000円以上でバースデーカード💜\n\nノベルティ金額に送料は含まないから注意！詳しくはサイトをチ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3563,
+        "media_key": "3_1926944367903711232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3hsXbXIAAQUsv.jpg",
+        "width": 2698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1929172054101631224",
+        "created_at": "2025-06-01T13:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T14:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929172054101631224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790319108875227136",
+              "start": 3,
+              "username": "needygirl_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929172054101631224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928738223565557885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_o: ☔あめちゃん生誕祭2025ノベルティ☔\n\n5000円以上購入の方にあめちゃんのKVチェキをプレゼント！\nさらに！1万円以上で缶バッジ！\nさらに！1万5000円以上でバースデーカード💜\n\nノベルティ金額に送料は含まないから注意！詳しくはサイトをチ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926944367903711232"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "conversation_id": "1928738223565557885",
+        "created_at": "2025-05-31T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928738223565557885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NEEDY GIRL OVERDOSE OFFICIAL STOREオフィシャルグッズストアです。",
+              "display_url": "internetangel.shop",
+              "end": 162,
+              "expanded_url": "https://internetangel.shop/",
+              "images": [
+                {
+                  "height": 77,
+                  "url": "https://pbs.twimg.com/news_img/1928738277495898112/pbKa_Z_r?format=png&name=orig",
+                  "width": 143
+                },
+                {
+                  "height": 77,
+                  "url": "https://pbs.twimg.com/news_img/1928738277495898112/pbKa_Z_r?format=png&name=150x150",
+                  "width": 77
+                }
+              ],
+              "start": 139,
+              "status": 200,
+              "title": "NEEDY GIRL OVERDOSE OFFICIAL STORE",
+              "unwound_url": "https://internetangel.shop/",
+              "url": "https://t.co/zTIqopmyWs"
+            },
+            {
+              "display_url": "pic.x.com/EwUOBuEHXD",
+              "end": 186,
+              "expanded_url": "https://x.com/needygirl_o/status/1928738223565557885/photo/1",
+              "media_key": "3_1926944367903711232",
+              "start": 163,
+              "url": "https://t.co/EwUOBuEHXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928738223565557885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 18339,
+          "like_count": 1160,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "☔あめちゃん生誕祭2025ノベルティ☔\n\n5000円以上購入の方にあめちゃんのKVチェキをプレゼント！\nさらに！1万円以上で缶バッジ！\nさらに！1万5000円以上でバースデーカード💜\n\nノベルティ金額に送料は含まないから注意！詳しくはサイトをチェック！👀\n\n▼ご購入はこちら▼\nhttps://t.co/zTIqopmyWs https://t.co/EwUOBuEHXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 131,
+          "like_count": 12193,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 5427
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/nXwN8xhR49",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "angelkawaii.com",
+                "end": 137,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 114,
+                "url": "https://t.co/nXwN8xhR49"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48388,
+          "following_count": 7,
+          "like_count": 10,
+          "listed_count": 59,
+          "media_count": 412,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      }
+    ]
+  }
+}

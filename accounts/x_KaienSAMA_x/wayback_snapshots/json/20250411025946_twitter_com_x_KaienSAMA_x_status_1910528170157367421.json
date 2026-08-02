@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910528159763816448"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1910528170157367421",
+    "created_at": "2025-04-11T02:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T03:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910528170157367421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u0ObR5PKSP",
+          "end": 40,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1910528170157367421/photo/1",
+          "media_key": "3_1910528159763816448",
+          "start": 17,
+          "url": "https://t.co/u0ObR5PKSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910528170157367421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也希望我手中握著的是麥 不是刀 https://t.co/u0ObR5PKSP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1910528170157367421].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1910528170157367421",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1910528170157367421"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3519,
+        "media_key": "3_1910528159763816448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoOPPSgaYAAOGh-.jpg",
+        "width": 1979
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906626426033553408/DC8Yr8_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 131,
+          "like_count": 12358,
+          "listed_count": 3,
+          "media_count": 227,
+          "tweet_count": 5113
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

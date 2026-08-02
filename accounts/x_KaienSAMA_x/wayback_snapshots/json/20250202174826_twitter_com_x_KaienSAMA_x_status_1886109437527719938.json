@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1886105535080182204",
+    "created_at": "2025-02-02T17:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T18:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886109437527719938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814995732224700416",
+          "start": 0,
+          "username": "Wing1669965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886109437527719938",
+    "in_reply_to_user_id": "1814995732224700416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886105535080182204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wing1669965 好看很美麗😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1886105535080182204",
+        "created_at": "2025-02-02T17:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T18:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886109437527719938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814995732224700416",
+              "start": 0,
+              "username": "Wing1669965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886109437527719938",
+        "in_reply_to_user_id": "1814995732224700416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886105535080182204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wing1669965 好看很美麗😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886105529468215296"
+          ]
+        },
+        "author_id": "1814995732224700416",
+        "conversation_id": "1886105535080182204",
+        "created_at": "2025-02-02T17:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T18:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886105535080182204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RF8SJPNppM",
+              "end": 36,
+              "expanded_url": "https://x.com/Wing1669965/status/1886105535080182204/photo/1",
+              "media_key": "3_1886105529468215296",
+              "start": 13,
+              "url": "https://t.co/RF8SJPNppM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886105535080182204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不行了，水蛭真的很美😭😭 https://t.co/RF8SJPNppM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 122,
+          "like_count": 12337,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4094
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T12:08:14.000Z",
+        "description": "因為我很黏人，很醜，好嘔心，我是死肥婆，⚠️請勿網暴我，因為我像水蛭一樣，所以我叫水蛭，09高中生，#自傷 #抑鬱 #焦慮 #濫藥 #爸爸活 @wing_01117（裏垢",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "自傷"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "抑鬱"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "焦慮"
+              },
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "濫藥"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "爸爸活"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "wing_01117"
+              }
+            ]
+          }
+        },
+        "id": "1814995732224700416",
+        "location": "你懷裏",
+        "name": "我是水蛭",
+        "pinned_tweet_id": "1851187379916411143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856178485393534977/bDo2dqBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 18,
+          "like_count": 3520,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 1557
+        },
+        "username": "Wing1669965",
+        "verified": false
+      }
+    ]
+  }
+}

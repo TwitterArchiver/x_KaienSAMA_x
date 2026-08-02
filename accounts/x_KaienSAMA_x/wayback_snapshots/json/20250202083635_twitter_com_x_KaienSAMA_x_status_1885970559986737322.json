@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1885970559986737322",
+    "created_at": "2025-02-02T08:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T09:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885970559986737322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_kaiensama_x/…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/x_kaiensama_x/status/1885047893645812197",
+          "start": 55,
+          "url": "https://t.co/1RUCCRKWPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885970559986737322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885047893645812197",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我受夠了 這是我每天上學的回憶 我不知道我通宵炒的功課為了什麼 每天3分鐘跑去車站踩點坐22分那輛車為了什麼 https://t.co/1RUCCRKWPr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1885970559986737322",
+        "created_at": "2025-02-02T08:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T09:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885970559986737322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_kaiensama_x/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/x_kaiensama_x/status/1885047893645812197",
+              "start": 55,
+              "url": "https://t.co/1RUCCRKWPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885970559986737322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885047893645812197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我受夠了 這是我每天上學的回憶 我不知道我通宵炒的功課為了什麼 每天3分鐘跑去車站踩點坐22分那輛車為了什麼 https://t.co/1RUCCRKWPr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1885047893645812197",
+        "created_at": "2025-01-30T19:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T20:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885047893645812197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885047893645812197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天搭車看著窗外的景色 聽著haru的歌\n說實話那片天空 一樣的風景我都看膩了\n連歌詞我都快背熟了\n每次都說被haru拯救著 確實是\n但下一秒還是被去死的想法塞滿腦袋\n我已經找不到活著的意義 和 堅持的理由\n反正今天還是要裝出一副沒事的樣子\n反正明天還是一個人\n反正每個明天都過著一樣無趣的日子\n。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 123,
+          "like_count": 12296,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4066
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982469249948925952"
+      ],
+      "media_source_tweet_id": [
+        "1982469261399400727"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1982938775337803908",
+    "created_at": "2025-10-27T22:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T23:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982938775337803908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911390185473847296",
+          "start": 3,
+          "username": "RandoMEmos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A0b5DFrcKt",
+          "end": 43,
+          "expanded_url": "https://x.com/RandoMEmos/status/1982469261399400727/photo/1",
+          "media_key": "3_1982469249948925952",
+          "start": 20,
+          "url": "https://t.co/A0b5DFrcKt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982938775337803908",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982469261399400727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RandoMEmos: TwT https://t.co/A0b5DFrcKt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1354,
+        "media_key": "3_1982469249948925952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MlR31XQAAWA9X.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982469249948925952"
+          ],
+          "media_source_tweet_id": [
+            "1982469261399400727"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1982938775337803908",
+        "created_at": "2025-10-27T22:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T23:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982938775337803908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911390185473847296",
+              "start": 3,
+              "username": "RandoMEmos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0b5DFrcKt",
+              "end": 43,
+              "expanded_url": "https://x.com/RandoMEmos/status/1982469261399400727/photo/1",
+              "media_key": "3_1982469249948925952",
+              "start": 20,
+              "url": "https://t.co/A0b5DFrcKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982938775337803908",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982469261399400727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RandoMEmos: TwT https://t.co/A0b5DFrcKt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982469249948925952"
+          ]
+        },
+        "author_id": "1911390185473847296",
+        "conversation_id": "1982469261399400727",
+        "created_at": "2025-10-26T15:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982469261399400727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0b5DFrcKt",
+              "end": 27,
+              "expanded_url": "https://x.com/RandoMEmos/status/1982469261399400727/photo/1",
+              "media_key": "3_1982469249948925952",
+              "start": 4,
+              "url": "https://t.co/A0b5DFrcKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982469261399400727",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 159626,
+          "like_count": 1094,
+          "quote_count": 12,
+          "reply_count": 8,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "TwT https://t.co/A0b5DFrcKt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 127,
+          "like_count": 12831,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 6576
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T12:05:36.000Z",
+        "description": "⌯'ᵕ'⌯ 你好呀，谢谢你点进我的主页，我是岚冬！每条消息我都会看的，可以把我当成树洞哦，今天也辛苦啦！我的头像是iyowa画的足立零，我会每日更新情感/治愈/emo/文字/原创/翻译/meme，部分素材来源网络，如有侵权请联系我删除，点个关注就是老粉了哦▰ω▰. 我爱你，希望你能在这片互联网之海中得到幸福ど＞◡❛う♡",
+        "id": "1911390185473847296",
+        "name": "岚冬",
+        "pinned_tweet_id": "1951551115276984424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942181586503372800/4llPgBob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 21,
+          "like_count": 929,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 233
+        },
+        "username": "RandoMEmos",
+        "verified": false
+      }
+    ]
+  }
+}

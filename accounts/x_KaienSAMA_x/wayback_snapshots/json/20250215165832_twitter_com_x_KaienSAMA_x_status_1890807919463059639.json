@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1890807919463059639",
+    "created_at": "2025-02-15T16:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T17:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890807919463059639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767542307434516480",
+          "start": 3,
+          "username": "loser040128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890807919463059639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890788467224834454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loser040128: 折騰一番你們還是不過門。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1890807919463059639",
+        "created_at": "2025-02-15T16:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890807919463059639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767542307434516480",
+              "start": 3,
+              "username": "loser040128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890807919463059639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890788467224834454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loser040128: 折騰一番你們還是不過門。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767542307434516480",
+        "conversation_id": "1890788467224834454",
+        "created_at": "2025-02-15T15:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T16:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890788467224834454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890788467224834454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "折騰一番你們還是不過門。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 130,
+          "like_count": 12728,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 4352
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T13:25:18.000Z",
+        "description": "重生3.0 只接約拍有意私 @1nt3rn3tc4t",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "1nt3rn3tc4t"
+              }
+            ]
+          }
+        },
+        "id": "1767542307434516480",
+        "location": "🚪288/520/1314",
+        "name": "Lousia Samaaaaa 3.0（dse版）",
+        "pinned_tweet_id": "1880898990457385228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772156411482681344/n5mLzByK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 145,
+          "like_count": 16662,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 3796
+        },
+        "username": "loser040128",
+        "verified": false
+      }
+    ]
+  }
+}

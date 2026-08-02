@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1887455379787030612",
+    "created_at": "2025-02-06T11:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T12:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887461376198910160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767542307434516480",
+          "start": 0,
+          "username": "loser040128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887461376198910160",
+    "in_reply_to_user_id": "1767542307434516480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887455379787030612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loser040128 我要唔要同你哋傾計好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1887455379787030612",
+        "created_at": "2025-02-06T11:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T12:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887461376198910160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767542307434516480",
+              "start": 0,
+              "username": "loser040128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887461376198910160",
+        "in_reply_to_user_id": "1767542307434516480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887455379787030612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loser040128 我要唔要同你哋傾計好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767542307434516480",
+        "conversation_id": "1887455379787030612",
+        "created_at": "2025-02-06T10:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T11:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887455379787030612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "蘿夏Samaaaa3.0（dse版）’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1lPKq…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1lPKqMElWqQKb",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1887455381259231233/g2WoaaRv?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1887455381259231233/g2WoaaRv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 唔知講咩吹水台",
+              "unwound_url": "https://twitter.com/i/spaces/1lPKqMElWqQKb/peek",
+              "url": "https://t.co/9XYH698obr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887455379787030612",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9XYH698obr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 129,
+          "like_count": 12436,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 4178
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T13:25:18.000Z",
+        "description": "重生3.0 只接約拍有意私 @1nt3rn3tc4t",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "1nt3rn3tc4t"
+              }
+            ]
+          }
+        },
+        "id": "1767542307434516480",
+        "location": "🚪288/520/1314",
+        "name": "Lousia Samaaaaa 3.0（dse版）",
+        "pinned_tweet_id": "1880898990457385228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772156411482681344/n5mLzByK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 147,
+          "like_count": 15673,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 3645
+        },
+        "username": "loser040128",
+        "verified": false
+      }
+    ]
+  }
+}

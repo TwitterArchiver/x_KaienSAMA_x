@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860034487637409792"
+      ],
+      "media_source_tweet_id": [
+        "1860034490032357890"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1860269559523213668",
+    "created_at": "2024-11-23T10:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T11:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860269559523213668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1688486829014814722",
+          "start": 3,
+          "username": "TwoHandSixFish"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bPTjtmvQEG",
+          "end": 90,
+          "expanded_url": "https://x.com/TwoHandSixFish/status/1860034490032357890/photo/1",
+          "media_key": "3_1860034487637409792",
+          "start": 67,
+          "url": "https://t.co/bPTjtmvQEG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860269559523213668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860034490032357890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TwoHandSixFish: 還有除了自己加家長的情緒，還會導致我麻煩上升，並且沒有解決事情，也就是說任務難度至少得翻3倍 https://t.co/bPTjtmvQEG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 686,
+        "media_key": "3_1860034487637409792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdArgvmagAAEUSe.jpg",
+        "width": 706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860034487637409792"
+          ],
+          "media_source_tweet_id": [
+            "1860034490032357890"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1860269559523213668",
+        "created_at": "2024-11-23T10:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T11:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860269559523213668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1688486829014814722",
+              "start": 3,
+              "username": "TwoHandSixFish"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPTjtmvQEG",
+              "end": 90,
+              "expanded_url": "https://x.com/TwoHandSixFish/status/1860034490032357890/photo/1",
+              "media_key": "3_1860034487637409792",
+              "start": 67,
+              "url": "https://t.co/bPTjtmvQEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860269559523213668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860034490032357890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TwoHandSixFish: 還有除了自己加家長的情緒，還會導致我麻煩上升，並且沒有解決事情，也就是說任務難度至少得翻3倍 https://t.co/bPTjtmvQEG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860034487637409792"
+          ]
+        },
+        "author_id": "1688486829014814722",
+        "conversation_id": "1860034490032357890",
+        "created_at": "2024-11-22T18:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T19:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860034490032357890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPTjtmvQEG",
+              "end": 70,
+              "expanded_url": "https://x.com/TwoHandSixFish/status/1860034490032357890/photo/1",
+              "media_key": "3_1860034487637409792",
+              "start": 47,
+              "url": "https://t.co/bPTjtmvQEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860034490032357890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "還有除了自己加家長的情緒，還會導致我麻煩上升，並且沒有解決事情，也就是說任務難度至少得翻3倍 https://t.co/bPTjtmvQEG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩味薯條",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858797048113586176/qXOd1Vqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 86,
+          "like_count": 11337,
+          "listed_count": 0,
+          "tweet_count": 3096
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T09:47:03.000Z",
+        "description": "",
+        "id": "1688486829014814722",
+        "location": "Hong Kong",
+        "name": "兩手六魚",
+        "pinned_tweet_id": "1782790559150838269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782107955573440512/4aYrXrfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 99,
+          "like_count": 91,
+          "listed_count": 0,
+          "tweet_count": 828
+        },
+        "username": "TwoHandSixFish",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2043974179326964006",
+    "created_at": "2026-04-14T08:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043974179326964006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1723546829454032896",
+          "start": 3,
+          "username": "yeshsbxhjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043974179326964006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043552836143984657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yeshsbxhjs: 我们不要在这里，跟我回到出生前，躲到避孕套里，不要被命运找到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2043974179326964006",
+        "created_at": "2026-04-14T08:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043974179326964006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1723546829454032896",
+              "start": 3,
+              "username": "yeshsbxhjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043974179326964006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043552836143984657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yeshsbxhjs: 我们不要在这里，跟我回到出生前，躲到避孕套里，不要被命运找到。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723546829454032896",
+        "conversation_id": "2043552836143984657",
+        "created_at": "2026-04-13T04:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043552836143984657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043552836143984657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15245,
+          "like_count": 501,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "我们不要在这里，跟我回到出生前，躲到避孕套里，不要被命运找到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 115,
+          "like_count": 13143,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 7168
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T03:43:27.000Z",
+        "description": "这里是秋秋！09 （欢迎宝宝互fo 会查一下成分 ）我成分很复杂 我会视监每一个关注我的人🙌互fo的宝宝可以找我聊天🥹我很社恐 说话像人机 没回就是手机不在……或者我在睡觉 谢谢你们喜欢我呀！！",
+        "id": "1723546829454032896",
+        "location": "天堂",
+        "name": "秋秋OvO",
+        "pinned_tweet_id": "2038958911869555021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035225888196108288/aOw29pev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 168,
+          "like_count": 239,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 243
+        },
+        "username": "yeshsbxhjs",
+        "verified": false
+      }
+    ]
+  }
+}

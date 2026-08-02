@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1880125080891768964",
+    "created_at": "2025-01-17T05:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T06:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880125080891768964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843607857973047296",
+          "start": 3,
+          "username": "Namidaa02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880125080891768964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880070675127582743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Namidaa02: 不过我🚪的是有什么心事吗？我会让你们知道 浪费钱的感觉。———魚芋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1880125080891768964",
+        "created_at": "2025-01-17T05:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T06:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880125080891768964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843607857973047296",
+              "start": 3,
+              "username": "Namidaa02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880125080891768964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880070675127582743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Namidaa02: 不过我🚪的是有什么心事吗？我会让你们知道 浪费钱的感觉。———魚芋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843607857973047296",
+        "conversation_id": "1880070675127582743",
+        "created_at": "2025-01-17T01:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T02:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880070675127582743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880070675127582743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不过我🚪的是有什么心事吗？我会让你们知道 浪费钱的感觉。———魚芋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "再愛我多次。像最初那樣... 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 112,
+          "like_count": 12000,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 3849
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:02:40.000Z",
+        "description": "淚水打濕了信件 而你不在我身邊",
+        "id": "1843607857973047296",
+        "location": "你的心裡",
+        "name": "涙",
+        "pinned_tweet_id": "1878796781708021927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843607988847947778/XUhP47FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 192,
+          "like_count": 10069,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1058
+        },
+        "username": "Namidaa02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1867187182420865232",
+    "created_at": "2024-12-13T05:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T06:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867441434095497432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843607857973047296",
+          "start": 0,
+          "username": "Namidaa02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867441434095497432",
+    "in_reply_to_user_id": "1843607857973047296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867400450770972801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Namidaa02 我話同一堆同學出去玩 佢叫我影啲相比佢睇我少驚💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1867187182420865232",
+        "created_at": "2024-12-13T05:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T06:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867441434095497432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843607857973047296",
+              "start": 0,
+              "username": "Namidaa02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867441434095497432",
+        "in_reply_to_user_id": "1843607857973047296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867400450770972801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Namidaa02 我話同一堆同學出去玩 佢叫我影啲相比佢睇我少驚💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843607857973047296",
+        "conversation_id": "1867187182420865232",
+        "created_at": "2024-12-13T02:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T03:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867400450770972801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867400450770972801",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867187182420865232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 你說同學聚會"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 100,
+          "like_count": 11810,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 3397
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:02:40.000Z",
+        "description": "淚水打濕了信件 而你不在我身邊",
+        "id": "1843607857973047296",
+        "location": "你的心裡",
+        "name": "涙",
+        "pinned_tweet_id": "1851602654205825427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843607988847947778/XUhP47FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 176,
+          "like_count": 5685,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 666
+        },
+        "username": "Namidaa02",
+        "verified": false
+      }
+    ]
+  }
+}

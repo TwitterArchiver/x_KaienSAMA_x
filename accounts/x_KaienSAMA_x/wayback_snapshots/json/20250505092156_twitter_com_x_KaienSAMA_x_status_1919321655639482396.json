@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918611481010253824"
+      ],
+      "media_source_tweet_id": [
+        "1918611486764683266"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1919321655639482396",
+    "created_at": "2025-05-05T09:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T10:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919321655639482396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1467382460392808452",
+          "start": 3,
+          "username": "sato_aku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rd1K9JlOAH",
+          "end": 46,
+          "expanded_url": "https://x.com/sato_aku/status/1918611486764683266/photo/1",
+          "media_key": "3_1918611481010253824",
+          "start": 23,
+          "url": "https://t.co/rd1K9JlOAH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919321655639482396",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 893
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918611486764683266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sato_aku: ふたりぼっち世界 https://t.co/rd1K9JlOAH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918611481010253824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBG-guaMAA1DAt.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918611481010253824"
+          ],
+          "media_source_tweet_id": [
+            "1918611486764683266"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1919321655639482396",
+        "created_at": "2025-05-05T09:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T10:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919321655639482396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1467382460392808452",
+              "start": 3,
+              "username": "sato_aku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rd1K9JlOAH",
+              "end": 46,
+              "expanded_url": "https://x.com/sato_aku/status/1918611486764683266/photo/1",
+              "media_key": "3_1918611481010253824",
+              "start": 23,
+              "url": "https://t.co/rd1K9JlOAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919321655639482396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 893
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918611486764683266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sato_aku: ふたりぼっち世界 https://t.co/rd1K9JlOAH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918611481010253824"
+          ]
+        },
+        "author_id": "1467382460392808452",
+        "conversation_id": "1918611486764683266",
+        "created_at": "2025-05-03T10:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T11:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918611486764683266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rd1K9JlOAH",
+              "end": 32,
+              "expanded_url": "https://x.com/sato_aku/status/1918611486764683266/photo/1",
+              "media_key": "3_1918611481010253824",
+              "start": 9,
+              "url": "https://t.co/rd1K9JlOAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918611486764683266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 879,
+          "impression_count": 121161,
+          "like_count": 10596,
+          "quote_count": 22,
+          "reply_count": 1,
+          "retweet_count": 893
+        },
+        "reply_settings": "everyone",
+        "text": "ふたりぼっち世界 https://t.co/rd1K9JlOAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 130,
+          "like_count": 12326,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 5232
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T06:37:03.000Z",
+        "description": "好きな世界、生きる人達を描いてます skeb(募集中)→ https://t.co/z4IGdioaWl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sato_aku",
+                "end": 52,
+                "expanded_url": "https://skeb.jp/@sato_aku",
+                "start": 29,
+                "url": "https://t.co/z4IGdioaWl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/satoaku",
+                "end": 23,
+                "expanded_url": "https://lit.link/satoaku",
+                "start": 0,
+                "url": "https://t.co/zfRhIiI4s8"
+              }
+            ]
+          }
+        },
+        "id": "1467382460392808452",
+        "location": "DMでのご依頼は現在受け付けていません",
+        "name": "佐藤あくた",
+        "pinned_tweet_id": "1873206471695147157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863510712741720064/6dnWwFwr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8326,
+          "following_count": 384,
+          "like_count": 15736,
+          "listed_count": 40,
+          "media_count": 211,
+          "tweet_count": 599
+        },
+        "url": "https://t.co/zfRhIiI4s8",
+        "username": "sato_aku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1976519203659317753",
+    "created_at": "2025-10-10T05:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T06:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976519203659317753"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "shtwt"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "自傷"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "od"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "女僕"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1476134363989372934",
+          "start": 3,
+          "username": "pain4uuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976519203659317753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976378163384156645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pain4uuu: #shtwt #自傷 #od #女僕\n這裡翠翠3.0（被mks制裁一v一\n06 🇭🇰 \n80 🚪限聊天/朋友圈\n重鬱｜重焦（正在努力治療\n紋身穿孔｜壞習慣全沾\nwhen常駐（更表在ig\n男的先過門⚠️\n喜歡我就給我打錢吧！來財來財 https://t…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1976519203659317753].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1976519203659317753",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1976519203659317753"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 703,
+        "media_key": "3_1976378158690729987",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G22BdsqaAAMIHH5.jpg",
+        "width": 529
+      },
+      {
+        "height": 705,
+        "media_key": "3_1976378158699171840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G22Bdssa0AAWfzu.jpg",
+        "width": 529
+      },
+      {
+        "height": 529,
+        "media_key": "3_1976378158707507201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G22BdsuaAAEuUVq.jpg",
+        "width": 529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976378158690729987",
+            "3_1976378158699171840",
+            "3_1976378158707507201"
+          ]
+        },
+        "author_id": "1476134363989372934",
+        "conversation_id": "1976378163384156645",
+        "created_at": "2025-10-09T20:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T21:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976378163384156645"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            },
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "自傷"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "od"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "女僕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3pCys3UA29",
+              "end": 139,
+              "expanded_url": "https://x.com/pain4uuu/status/1976378163384156645/photo/1",
+              "media_key": "3_1976378158690729987",
+              "start": 116,
+              "url": "https://t.co/3pCys3UA29"
+            },
+            {
+              "display_url": "pic.x.com/3pCys3UA29",
+              "end": 139,
+              "expanded_url": "https://x.com/pain4uuu/status/1976378163384156645/photo/1",
+              "media_key": "3_1976378158699171840",
+              "start": 116,
+              "url": "https://t.co/3pCys3UA29"
+            },
+            {
+              "display_url": "pic.x.com/3pCys3UA29",
+              "end": 139,
+              "expanded_url": "https://x.com/pain4uuu/status/1976378163384156645/photo/1",
+              "media_key": "3_1976378158707507201",
+              "start": 116,
+              "url": "https://t.co/3pCys3UA29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976378163384156645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 328,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt #自傷 #od #女僕\n這裡翠翠3.0（被mks制裁一v一\n06 🇭🇰 \n80 🚪限聊天/朋友圈\n重鬱｜重焦（正在努力治療\n紋身穿孔｜壞習慣全沾\nwhen常駐（更表在ig\n男的先過門⚠️\n喜歡我就給我打錢吧！來財來財 https://t.co/3pCys3UA29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 127,
+          "like_count": 12768,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 6446
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T10:14:05.000Z",
+        "description": "shtwt⚠️愛來自瓷器 80🚪限聊天/朋友圈",
+        "id": "1476134363989372934",
+        "name": "朝我頭上開一槍3.0",
+        "pinned_tweet_id": "1905526675431194860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906948222331084800/qa51VwiF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217,
+          "following_count": 153,
+          "like_count": 5093,
+          "listed_count": 3,
+          "media_count": 590,
+          "tweet_count": 2383
+        },
+        "username": "pain4uuu",
+        "verified": false
+      }
+    ]
+  }
+}

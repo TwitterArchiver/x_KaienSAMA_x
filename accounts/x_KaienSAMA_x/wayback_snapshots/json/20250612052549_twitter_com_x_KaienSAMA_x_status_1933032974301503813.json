@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932699155253899266"
+      ],
+      "media_source_tweet_id": [
+        "1932699169548087364"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1933032974301503813",
+    "created_at": "2025-06-12T05:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T06:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933032974301503813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824339837283074048",
+          "start": 3,
+          "username": "xyhyc1201a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CwiIqOS0ic",
+          "end": 80,
+          "expanded_url": "https://x.com/xyhyc1201a/status/1932699169548087364/photo/1",
+          "media_key": "3_1932699155253899266",
+          "start": 57,
+          "url": "https://t.co/CwiIqOS0ic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933032974301503813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932699169548087364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xyhyc1201a: 恨死自己的粗心大意了，减肥没戴眼镜，以为吃的是全麦面包，吃完一看是芒果千层天塌了 https://t.co/CwiIqOS0ic"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_1932699155253899266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJTpE6bMAIbb3L.jpg",
+        "width": 2133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932699155253899266"
+          ],
+          "media_source_tweet_id": [
+            "1932699169548087364"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1933032974301503813",
+        "created_at": "2025-06-12T05:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T06:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933032974301503813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824339837283074048",
+              "start": 3,
+              "username": "xyhyc1201a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwiIqOS0ic",
+              "end": 80,
+              "expanded_url": "https://x.com/xyhyc1201a/status/1932699169548087364/photo/1",
+              "media_key": "3_1932699155253899266",
+              "start": 57,
+              "url": "https://t.co/CwiIqOS0ic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933032974301503813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932699169548087364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xyhyc1201a: 恨死自己的粗心大意了，减肥没戴眼镜，以为吃的是全麦面包，吃完一看是芒果千层天塌了 https://t.co/CwiIqOS0ic"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932699155253899266"
+          ]
+        },
+        "author_id": "1824339837283074048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1932699169548087364",
+        "created_at": "2025-06-11T07:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T08:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932699169548087364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwiIqOS0ic",
+              "end": 64,
+              "expanded_url": "https://x.com/xyhyc1201a/status/1932699169548087364/photo/1",
+              "media_key": "3_1932699155253899266",
+              "start": 41,
+              "url": "https://t.co/CwiIqOS0ic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932699169548087364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 53245,
+          "like_count": 679,
+          "quote_count": 2,
+          "reply_count": 86,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "恨死自己的粗心大意了，减肥没戴眼镜，以为吃的是全麦面包，吃完一看是芒果千层天塌了 https://t.co/CwiIqOS0ic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 130,
+          "like_count": 12317,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 5556
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T06:58:15.000Z",
+        "description": "cwxyml",
+        "id": "1824339837283074048",
+        "name": "我跟你说",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824339966710910976/U4gXYCTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 187,
+          "like_count": 1707,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 177
+        },
+        "username": "xyhyc1201a",
+        "verified": false
+      }
+    ]
+  }
+}

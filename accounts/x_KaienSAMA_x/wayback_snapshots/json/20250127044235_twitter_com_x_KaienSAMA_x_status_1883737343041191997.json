@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1883672139297177695",
+    "created_at": "2025-01-27T04:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T05:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883737343041191997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856548003978625024",
+          "start": 0,
+          "username": "gyaku_juji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883737343041191997",
+    "in_reply_to_user_id": "1856548003978625024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883717096963715157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gyaku_juji 謝謝你🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1883672139297177695",
+        "created_at": "2025-01-27T04:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T05:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883737343041191997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856548003978625024",
+              "start": 0,
+              "username": "gyaku_juji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883737343041191997",
+        "in_reply_to_user_id": "1856548003978625024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883717096963715157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gyaku_juji 謝謝你🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856548003978625024",
+        "conversation_id": "1883672139297177695",
+        "created_at": "2025-01-27T03:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T04:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883717096963715157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883717096963715157",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883672139297177695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 加油🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 120,
+          "like_count": 12157,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 3966
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T04:02:26.000Z",
+        "description": "你也會離我而去嗎   裏垢@reversecross_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "reversecross_"
+              }
+            ]
+          }
+        },
+        "id": "1856548003978625024",
+        "location": "天國",
+        "name": "逆十字",
+        "pinned_tweet_id": "1874135090881847331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861749285567787008/cuHduq33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 28,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 165
+        },
+        "username": "gyaku_juji",
+        "verified": false
+      }
+    ]
+  }
+}

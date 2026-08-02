@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1856475128118554968",
+    "created_at": "2024-11-12T23:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T00:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856475128118554968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906566164582612992",
+          "start": 3,
+          "username": "Yorutomei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856475128118554968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856403107787485267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yorutomei: 我難受的也不是什麼暈不暈船了\n反正我很清楚只是幻覺也不可能\n但是地位不再重要 不再可以參與了\n我真的\n我的價值感完全崩潰了\n\n這件事只是一個主因\n所累積的 \n憂鬱無望的生活\n近親的詭異氣氛\n有毒的社交\n這些 \n我好難過\n\n但是 \n我一個人也能夠好好…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1856475128118554968",
+        "created_at": "2024-11-12T23:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T00:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856475128118554968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906566164582612992",
+              "start": 3,
+              "username": "Yorutomei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856475128118554968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856403107787485267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yorutomei: 我難受的也不是什麼暈不暈船了\n反正我很清楚只是幻覺也不可能\n但是地位不再重要 不再可以參與了\n我真的\n我的價值感完全崩潰了\n\n這件事只是一個主因\n所累積的 \n憂鬱無望的生活\n近親的詭異氣氛\n有毒的社交\n這些 \n我好難過\n\n但是 \n我一個人也能夠好好…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906566164582612992",
+        "conversation_id": "1856403107787485267",
+        "created_at": "2024-11-12T18:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T19:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856403107787485267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856403107787485267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我難受的也不是什麼暈不暈船了\n反正我很清楚只是幻覺也不可能\n但是地位不再重要 不再可以參與了\n我真的\n我的價值感完全崩潰了\n\n這件事只是一個主因\n所累積的 \n憂鬱無望的生活\n近親的詭異氣氛\n有毒的社交\n這些 \n我好難過\n\n但是 \n我一個人也能夠好好的\n溫柔、力量\n我給自己就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "水池裡的屍體",
+        "name": "泡爛的屍體",
+        "pinned_tweet_id": "1852755428591177880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852738899996733440/96WoqhQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 85,
+          "like_count": 11176,
+          "listed_count": 0,
+          "tweet_count": 2932
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-09T17:13:11.000Z",
+        "description": "ℂ𝕙𝕒𝕠𝕥𝕚𝕔｜ 𝕡𝕒𝕟 ｜𝕤𝕨𝕚𝕥𝕔𝕙｜網癮女大｜只看不做的變態",
+        "id": "906566164582612992",
+        "location": "Hong Kong",
+        "name": "澪♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832095718296723456/7uVswivY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4179,
+          "following_count": 528,
+          "like_count": 4614,
+          "listed_count": 28,
+          "tweet_count": 1041
+        },
+        "username": "Yorutomei",
+        "verified": false
+      }
+    ]
+  }
+}

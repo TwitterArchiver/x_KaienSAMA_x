@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2049147263948324919",
+    "created_at": "2026-04-28T15:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049147263948324919"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049147263948324919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "學校那些垃圾蟲又要扣留我 好討厭啊\n自己淨講廢話 就說課時不夠 說放學沒空補就星期六補\n討厭死了 還經常用背書收手機來威脅學生 夾起頭髮 剪頭髮 什麼什麼的 天天只會罵人和陰陽學生\n好想離開這座監獄的其一最大原因就是有這樣的垃圾蟲。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2049147263948324919",
+        "created_at": "2026-04-28T15:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049147263948324919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049147263948324919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "學校那些垃圾蟲又要扣留我 好討厭啊\n自己淨講廢話 就說課時不夠 說放學沒空補就星期六補\n討厭死了 還經常用背書收手機來威脅學生 夾起頭髮 剪頭髮 什麼什麼的 天天只會罵人和陰陽學生\n好想離開這座監獄的其一最大原因就是有這樣的垃圾蟲。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 113,
+          "like_count": 13163,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 7217
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860448964786393088"
+      ],
+      "media_source_tweet_id": [
+        "1860448975066657190"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1860516682332266732",
+    "created_at": "2024-11-24T02:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T03:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860516682332266732"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 40,
+          "tag": "超てんちゃん"
+        },
+        {
+          "end": 63,
+          "start": 48,
+          "tag": "ニーディガールオーバードーズ"
+        },
+        {
+          "end": 74,
+          "start": 64,
+          "tag": "NEEDY_Pic"
+        },
+        {
+          "end": 95,
+          "start": 75,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1519096286053650433",
+          "start": 3,
+          "username": "azu2an"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CiNXhssboG",
+          "end": 121,
+          "expanded_url": "https://x.com/azu2an/status/1860448975066657190/photo/1",
+          "media_key": "3_1860448964786393088",
+          "start": 98,
+          "url": "https://t.co/CiNXhssboG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860516682332266732",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860448975066657190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azu2an: ˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚\n\n         ✧  #超てんちゃん #ニーディガールオーバードーズ #NEEDY_Pic #NEEDY_GIRL_OVERDOSE ⊹ https://t.co/CiNXhssboG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1860448964786393088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdGkefTWEAA6HwC.jpg",
+        "width": 3277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860448964786393088"
+          ],
+          "media_source_tweet_id": [
+            "1860448975066657190"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1860516682332266732",
+        "created_at": "2024-11-24T02:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T03:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860516682332266732"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "超てんちゃん"
+            },
+            {
+              "end": 63,
+              "start": 48,
+              "tag": "ニーディガールオーバードーズ"
+            },
+            {
+              "end": 74,
+              "start": 64,
+              "tag": "NEEDY_Pic"
+            },
+            {
+              "end": 95,
+              "start": 75,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1519096286053650433",
+              "start": 3,
+              "username": "azu2an"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiNXhssboG",
+              "end": 121,
+              "expanded_url": "https://x.com/azu2an/status/1860448975066657190/photo/1",
+              "media_key": "3_1860448964786393088",
+              "start": 98,
+              "url": "https://t.co/CiNXhssboG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860516682332266732",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860448975066657190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azu2an: ˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚\n\n         ✧  #超てんちゃん #ニーディガールオーバードーズ #NEEDY_Pic #NEEDY_GIRL_OVERDOSE ⊹ https://t.co/CiNXhssboG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860448964786393088"
+          ]
+        },
+        "author_id": "1519096286053650433",
+        "conversation_id": "1860448975066657190",
+        "created_at": "2024-11-23T22:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T23:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860448975066657190"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "超てんちゃん"
+            },
+            {
+              "end": 51,
+              "start": 36,
+              "tag": "ニーディガールオーバードーズ"
+            },
+            {
+              "end": 62,
+              "start": 52,
+              "tag": "NEEDY_Pic"
+            },
+            {
+              "end": 83,
+              "start": 63,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiNXhssboG",
+              "end": 109,
+              "expanded_url": "https://x.com/azu2an/status/1860448975066657190/photo/1",
+              "media_key": "3_1860448964786393088",
+              "start": 86,
+              "url": "https://t.co/CiNXhssboG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860448975066657190",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 3488,
+          "like_count": 466,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚\n\n         ✧  #超てんちゃん #ニーディガールオーバードーズ #NEEDY_Pic #NEEDY_GIRL_OVERDOSE ⊹ https://t.co/CiNXhssboG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩味薯條",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858797048113586176/qXOd1Vqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 86,
+          "like_count": 11363,
+          "listed_count": 0,
+          "tweet_count": 3104
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-26T23:29:21.000Z",
+        "description": "sparkling ball-jointed doll ✧ キラキラ球体関節人形 𓊆ྀི❤︎𓊇ྀི ENG/日本語/中文 || @jiraixne",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "jiraixne"
+              }
+            ]
+          }
+        },
+        "id": "1519096286053650433",
+        "name": "✧˚ 簕",
+        "pinned_tweet_id": "1857594135911317636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860449228859850752/Ss8XQZzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 10,
+          "like_count": 42,
+          "listed_count": 0,
+          "tweet_count": 25
+        },
+        "username": "azu2an",
+        "verified": false
+      }
+    ]
+  }
+}

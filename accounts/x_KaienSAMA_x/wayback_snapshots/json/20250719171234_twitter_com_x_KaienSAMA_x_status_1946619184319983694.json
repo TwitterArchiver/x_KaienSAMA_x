@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946461349132853248"
+      ],
+      "media_source_tweet_id": [
+        "1946461623402799440"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1946619184319983694",
+    "created_at": "2025-07-19T17:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T18:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946619184319983694"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "ニディガ東名阪 POP UP STORE",
+          "probability": 0.6358,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 51,
+          "normalized_text": "あめちゃん",
+          "probability": 0.4111,
+          "start": 47,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 66,
+          "tag": "ニディガ東名阪POPUPSTORE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2917607274",
+          "start": 3,
+          "username": "kisumirei41"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nsOlZl8zeJ",
+          "end": 108,
+          "expanded_url": "https://x.com/kisumirei41/status/1946461623402799440/photo/1",
+          "media_key": "3_1946461349132853248",
+          "start": 85,
+          "url": "https://t.co/nsOlZl8zeJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946619184319983694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1004
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946461623402799440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kisumirei41: 『ニディガ東名阪 POP UP STORE』\n超てんちゃんとあめちゃんを描かせていただきました🎀\n#ニディガ東名阪POPUPSTORE https://t.co/nsOlZl8zeJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2364,
+        "media_key": "3_1946461349132853248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwM4SMQXYAAg5a5.jpg",
+        "width": 2515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946461349132853248"
+          ],
+          "media_source_tweet_id": [
+            "1946461623402799440"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946619184319983694",
+        "created_at": "2025-07-19T17:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T18:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946619184319983694"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "ニディガ東名阪 POP UP STORE",
+              "probability": 0.6358,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "あめちゃん",
+              "probability": 0.4111,
+              "start": 47,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 66,
+              "tag": "ニディガ東名阪POPUPSTORE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2917607274",
+              "start": 3,
+              "username": "kisumirei41"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsOlZl8zeJ",
+              "end": 108,
+              "expanded_url": "https://x.com/kisumirei41/status/1946461623402799440/photo/1",
+              "media_key": "3_1946461349132853248",
+              "start": 85,
+              "url": "https://t.co/nsOlZl8zeJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946619184319983694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1004
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946461623402799440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kisumirei41: 『ニディガ東名阪 POP UP STORE』\n超てんちゃんとあめちゃんを描かせていただきました🎀\n#ニディガ東名阪POPUPSTORE https://t.co/nsOlZl8zeJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946461349132853248"
+          ]
+        },
+        "author_id": "2917607274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946461623402799440",
+        "created_at": "2025-07-19T06:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T07:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946461623402799440"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "ニディガ東名阪 POP UP STORE",
+              "probability": 0.7065,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "あめちゃん",
+              "probability": 0.4264,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 49,
+              "tag": "ニディガ東名阪POPUPSTORE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsOlZl8zeJ",
+              "end": 91,
+              "expanded_url": "https://x.com/kisumirei41/status/1946461623402799440/photo/1",
+              "media_key": "3_1946461349132853248",
+              "start": 68,
+              "url": "https://t.co/nsOlZl8zeJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946461623402799440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 643,
+          "impression_count": 203842,
+          "like_count": 6983,
+          "quote_count": 67,
+          "reply_count": 1,
+          "retweet_count": 1004
+        },
+        "reply_settings": "everyone",
+        "text": "『ニディガ東名阪 POP UP STORE』\n超てんちゃんとあめちゃんを描かせていただきました🎀\n#ニディガ東名阪POPUPSTORE https://t.co/nsOlZl8zeJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 128,
+          "like_count": 12500,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 5870
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-03T13:51:50.000Z",
+        "description": "きすみ れい / Kisumi Rei ｜✉️:ksmrei1206@gmail.com｜pixiv:https://t.co/lv4eXQRLJ9｜Skeb:https://t.co/K3zWBRpXal",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/5057400",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/5057400",
+                "start": 51,
+                "url": "https://t.co/lv4eXQRLJ9"
+              },
+              {
+                "display_url": "skeb.jp/@kisumirei41",
+                "end": 103,
+                "expanded_url": "https://skeb.jp/@kisumirei41",
+                "start": 80,
+                "url": "https://t.co/K3zWBRpXal"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seshop.com/product/detail…",
+                "end": 23,
+                "expanded_url": "https://www.seshop.com/product/detail/26719",
+                "start": 0,
+                "url": "https://t.co/lIUtTmSO2x"
+              }
+            ]
+          }
+        },
+        "id": "2917607274",
+        "location": "画集『あこがれ』",
+        "name": "木澄 玲生🥛画集「あこがれ」発売中",
+        "pinned_tweet_id": "1871851572063621488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942046838397517824/T-CKb-7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109966,
+          "following_count": 277,
+          "like_count": 12378,
+          "listed_count": 1129,
+          "media_count": 1047,
+          "tweet_count": 20375
+        },
+        "url": "https://t.co/lIUtTmSO2x",
+        "username": "kisumirei41",
+        "verified": false
+      }
+    ]
+  }
+}

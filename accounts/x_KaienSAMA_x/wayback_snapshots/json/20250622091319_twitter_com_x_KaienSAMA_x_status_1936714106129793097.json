@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1936714106129793097",
+    "created_at": "2025-06-22T09:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T10:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936714106129793097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754766580297379840",
+          "start": 3,
+          "username": "oTuTok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936714106129793097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 378
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935994392185389449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oTuTok: 钱，你回来吧我错了，我不该乱花你的，我一直在哭，我好后悔。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1936714106129793097",
+        "created_at": "2025-06-22T09:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T10:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936714106129793097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754766580297379840",
+              "start": 3,
+              "username": "oTuTok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936714106129793097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 378
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935994392185389449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oTuTok: 钱，你回来吧我错了，我不该乱花你的，我一直在哭，我好后悔。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754766580297379840",
+        "conversation_id": "1935994392185389449",
+        "created_at": "2025-06-20T09:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T10:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935994392185389449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935994392185389449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 131708,
+          "like_count": 2282,
+          "quote_count": 40,
+          "reply_count": 78,
+          "retweet_count": 378
+        },
+        "reply_settings": "everyone",
+        "text": "钱，你回来吧我错了，我不该乱花你的，我一直在哭，我好后悔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 131,
+          "like_count": 12406,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 5629
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:18:59.000Z",
+        "description": "🎚🩶ིྀ🪦",
+        "id": "1754766580297379840",
+        "location": "v188",
+        "name": "BlackStone",
+        "pinned_tweet_id": "1874308406489866534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765771028322791424/Lf6ihNhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16544,
+          "following_count": 122,
+          "like_count": 8265,
+          "listed_count": 24,
+          "media_count": 128,
+          "tweet_count": 3247
+        },
+        "username": "oTuTok",
+        "verified": false
+      }
+    ]
+  }
+}

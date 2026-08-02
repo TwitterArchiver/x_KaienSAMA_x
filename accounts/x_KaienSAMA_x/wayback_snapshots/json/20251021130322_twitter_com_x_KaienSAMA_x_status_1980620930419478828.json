@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980480155542822912"
+      ],
+      "media_source_tweet_id": [
+        "1980480158088999065"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1980620930419478828",
+    "created_at": "2025-10-21T13:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980620930419478828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725683921763905536",
+          "start": 3,
+          "username": "luonbe69"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ewwHQ1X7bp",
+          "end": 37,
+          "expanded_url": "https://x.com/luonbe69/status/1980480158088999065/photo/1",
+          "media_key": "3_1980480155542822912",
+          "start": 14,
+          "url": "https://t.co/ewwHQ1X7bp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980620930419478828",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980480158088999065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luonbe69: https://t.co/ewwHQ1X7bp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980620930419478828].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980620930419478828",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980620930419478828"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_1980480155542822912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wUNVvXIAA8-xy.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980480155542822912"
+          ]
+        },
+        "author_id": "1725683921763905536",
+        "conversation_id": "1980480158088999065",
+        "created_at": "2025-10-21T03:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T04:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980480158088999065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ewwHQ1X7bp",
+              "end": 23,
+              "expanded_url": "https://x.com/luonbe69/status/1980480158088999065/photo/1",
+              "media_key": "3_1980480155542822912",
+              "start": 0,
+              "url": "https://t.co/ewwHQ1X7bp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980480158088999065",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ewwHQ1X7bp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 127,
+          "like_count": 12796,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 6530
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 寂寞 世界 空心 呢喃 命运 废死 流浪 列车 白梦 闪烁 凝视 傲慢 节制 内脏 终焉 彷徨 憎恶 白躁 黄铜 血 糜烂 负荷 荒芜 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "发霉茄子",
+        "pinned_tweet_id": "1980222340962353648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850527858571325440/tCL5f4k4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 6458,
+          "like_count": 48005,
+          "listed_count": 8,
+          "media_count": 750,
+          "tweet_count": 19478
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

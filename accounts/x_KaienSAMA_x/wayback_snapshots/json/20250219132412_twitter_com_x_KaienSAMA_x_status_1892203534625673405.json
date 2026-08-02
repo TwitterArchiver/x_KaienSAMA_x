@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1892203534625673405",
+    "created_at": "2025-02-19T13:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T14:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892203534625673405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856548003978625024",
+          "start": 3,
+          "username": "gyaku_juji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892203534625673405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892201048531779931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gyaku_juji: 愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1892201033092546561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkJy0HUbwAEzpz8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1892203534625673405",
+        "created_at": "2025-02-19T13:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T14:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892203534625673405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856548003978625024",
+              "start": 3,
+              "username": "gyaku_juji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892203534625673405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892201048531779931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gyaku_juji: 愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892201033092546561"
+          ]
+        },
+        "author_id": "1856548003978625024",
+        "conversation_id": "1892201048531779931",
+        "created_at": "2025-02-19T13:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T14:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892201048531779931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gpKaEzoxK",
+              "end": 164,
+              "expanded_url": "https://x.com/gyaku_juji/status/1892201048531779931/photo/1",
+              "media_key": "3_1892201033092546561",
+              "start": 141,
+              "url": "https://t.co/8gpKaEzoxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892201048531779931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你愛你 https://t.co/8gpKaEzoxK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 130,
+          "like_count": 12797,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 4408
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T04:02:26.000Z",
+        "description": "每天都很想死   裏垢@reversecross_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "reversecross_"
+              }
+            ]
+          }
+        },
+        "id": "1856548003978625024",
+        "location": "天國",
+        "name": "逆十字",
+        "pinned_tweet_id": "1888622759280034136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861749285567787008/cuHduq33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 38,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 314
+        },
+        "username": "gyaku_juji",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1990056627379347683",
+    "created_at": "2025-11-16T13:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T14:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990056627379347683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1882077372012539904",
+          "start": 3,
+          "username": "7amas8ax2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990056627379347683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989935878513594642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7amas8ax2: 有人愛我\n但很奇怪\n我感受不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1990056627379347683",
+        "created_at": "2025-11-16T13:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990056627379347683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1882077372012539904",
+              "start": 3,
+              "username": "7amas8ax2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990056627379347683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989935878513594642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7amas8ax2: 有人愛我\n但很奇怪\n我感受不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882077372012539904",
+        "conversation_id": "1989935878513594642",
+        "created_at": "2025-11-16T05:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989935878513594642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989935878513594642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人愛我\n但很奇怪\n我感受不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 125,
+          "like_count": 12864,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 6656
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T14:46:39.000Z",
+        "description": "number 728. 躁鬱躁.",
+        "id": "1882077372012539904",
+        "name": "🩶",
+        "pinned_tweet_id": "1987456083674448216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895132072244846594/81cpJG31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 150,
+          "like_count": 7661,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 2530
+        },
+        "username": "7amas8ax2",
+        "verified": false
+      }
+    ]
+  }
+}

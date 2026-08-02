@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947640052978159616",
+        "3_1947640052789760000",
+        "3_1947640052798132224",
+        "3_1947640052969766919"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1947640061471953147",
+    "created_at": "2025-07-22T12:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T13:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947640061471953147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1518743656475156480",
+          "start": 6,
+          "username": "reversecross_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7jcbCRRqrT",
+          "end": 44,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1947640061471953147/photo/1",
+          "media_key": "3_1947640052978159616",
+          "start": 21,
+          "url": "https://t.co/7jcbCRRqrT"
+        },
+        {
+          "display_url": "pic.x.com/7jcbCRRqrT",
+          "end": 44,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1947640061471953147/photo/1",
+          "media_key": "3_1947640052789760000",
+          "start": 21,
+          "url": "https://t.co/7jcbCRRqrT"
+        },
+        {
+          "display_url": "pic.x.com/7jcbCRRqrT",
+          "end": 44,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1947640061471953147/photo/1",
+          "media_key": "3_1947640052798132224",
+          "start": 21,
+          "url": "https://t.co/7jcbCRRqrT"
+        },
+        {
+          "display_url": "pic.x.com/7jcbCRRqrT",
+          "end": 44,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1947640061471953147/photo/1",
+          "media_key": "3_1947640052969766919",
+          "start": 21,
+          "url": "https://t.co/7jcbCRRqrT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947640061471953147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日♡\n與 @reversecross_ https://t.co/7jcbCRRqrT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2049,
+        "media_key": "3_1947640052978159616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdoTyQWEAAI_y2.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2080,
+        "media_key": "3_1947640052789760000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdoTxjbUAA3cnE.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2029,
+        "media_key": "3_1947640052798132224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdoTxlbEAAQWCi.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1976,
+        "media_key": "3_1947640052969766919",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdoTyOWAAc0kOg.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947640052978159616",
+            "3_1947640052789760000",
+            "3_1947640052798132224",
+            "3_1947640052969766919"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1947640061471953147",
+        "created_at": "2025-07-22T12:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T13:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947640061471953147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1518743656475156480",
+              "start": 6,
+              "username": "reversecross_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jcbCRRqrT",
+              "end": 44,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1947640061471953147/photo/1",
+              "media_key": "3_1947640052978159616",
+              "start": 21,
+              "url": "https://t.co/7jcbCRRqrT"
+            },
+            {
+              "display_url": "pic.x.com/7jcbCRRqrT",
+              "end": 44,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1947640061471953147/photo/1",
+              "media_key": "3_1947640052789760000",
+              "start": 21,
+              "url": "https://t.co/7jcbCRRqrT"
+            },
+            {
+              "display_url": "pic.x.com/7jcbCRRqrT",
+              "end": 44,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1947640061471953147/photo/1",
+              "media_key": "3_1947640052798132224",
+              "start": 21,
+              "url": "https://t.co/7jcbCRRqrT"
+            },
+            {
+              "display_url": "pic.x.com/7jcbCRRqrT",
+              "end": 44,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1947640061471953147/photo/1",
+              "media_key": "3_1947640052969766919",
+              "start": 21,
+              "url": "https://t.co/7jcbCRRqrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947640061471953147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日♡\n與 @reversecross_ https://t.co/7jcbCRRqrT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 128,
+          "like_count": 12495,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 5872
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-26T00:08:06.000Z",
+        "description": "發洩用 這裡是我的垃圾桶",
+        "id": "1518743656475156480",
+        "location": "銀河列車",
+        "name": "倒十字",
+        "pinned_tweet_id": "1946578833135874273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746098313357864960/5buimFeG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 54,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1007
+        },
+        "username": "reversecross_",
+        "verified": false
+      }
+    ]
+  }
+}

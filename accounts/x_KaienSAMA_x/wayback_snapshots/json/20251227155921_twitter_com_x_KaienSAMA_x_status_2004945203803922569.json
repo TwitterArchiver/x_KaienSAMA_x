@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2004945203803922569",
+    "created_at": "2025-12-27T15:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T16:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004945203803922569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931634000453345280",
+          "start": 3,
+          "username": "ll97515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004945203803922569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004666348765602166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ll97515: 以前心疼爸爸 觉得妈妈歇斯底里\n后来心疼妈妈 觉得爸爸不靠谱\n现在觉得他俩都有病\n我也有病 越长大越发现\n自己的暴躁失控全部是他们的影子\n自卑怯懦 敏感多思\n像黑暗中抓不到的影子 始终围绕在身边"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2004945203803922569",
+        "created_at": "2025-12-27T15:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T16:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004945203803922569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1931634000453345280",
+              "start": 3,
+              "username": "ll97515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004945203803922569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004666348765602166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ll97515: 以前心疼爸爸 觉得妈妈歇斯底里\n后来心疼妈妈 觉得爸爸不靠谱\n现在觉得他俩都有病\n我也有病 越长大越发现\n自己的暴躁失控全部是他们的影子\n自卑怯懦 敏感多思\n像黑暗中抓不到的影子 始终围绕在身边"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931634000453345280",
+        "conversation_id": "2004666348765602166",
+        "created_at": "2025-12-26T21:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T22:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004666348765602166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004666348765602166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 39883,
+          "like_count": 1148,
+          "quote_count": 14,
+          "reply_count": 43,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "以前心疼爸爸 觉得妈妈歇斯底里\n后来心疼妈妈 觉得爸爸不靠谱\n现在觉得他俩都有病\n我也有病 越长大越发现\n自己的暴躁失控全部是他们的影子\n自卑怯懦 敏感多思\n像黑暗中抓不到的影子 始终围绕在身边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人之黑暗面 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 126,
+          "like_count": 12887,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 6783
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:46:56.000Z",
+        "description": "自残 | 应该是地雷女来的。？|  不定时崩溃 喜欢互动 玩一些舞萌 可以来找我互fo聊天˃ʍ˂",
+        "id": "1931634000453345280",
+        "name": "(●─●)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987318821154324480/qCEPNWhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 443,
+          "like_count": 3818,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 994
+        },
+        "username": "ll97515",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1916399400743829705",
+    "created_at": "2025-04-27T08:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T09:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916410926653198812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865261052474343424",
+          "start": 0,
+          "username": "4Sh1n8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916410926653198812",
+    "in_reply_to_user_id": "1865261052474343424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916410678816215490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4Sh1n8 😭好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1916410678816215490].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1916410678816215490",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1916410678816215490"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1916399400743829705",
+        "created_at": "2025-04-27T08:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T09:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916410926653198812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865261052474343424",
+              "start": 0,
+              "username": "4Sh1n8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916410926653198812",
+        "in_reply_to_user_id": "1865261052474343424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916410678816215490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4Sh1n8 😭好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 131,
+          "like_count": 12376,
+          "listed_count": 3,
+          "media_count": 231,
+          "tweet_count": 5276
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T05:04:31.000Z",
+        "description": "。isfp 雞泡魚",
+        "id": "1865261052474343424",
+        "name": "捉刀客",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915772679472472064/z0Zb7U8t_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 656
+        },
+        "username": "4Sh1n8",
+        "verified": false
+      }
+    ]
+  }
+}

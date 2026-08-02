@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960722184722374664"
+      ],
+      "media_source_tweet_id": [
+        "1960722188585329066"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1960741358735647085",
+    "created_at": "2025-08-27T16:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T17:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960741358735647085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512834058820022281",
+          "start": 3,
+          "username": "yins_chan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hq9QmL9byn",
+          "end": 79,
+          "expanded_url": "https://x.com/yins_chan_/status/1960722188585329066/photo/1",
+          "media_key": "3_1960722184722374664",
+          "start": 56,
+          "url": "https://t.co/hq9QmL9byn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960741358735647085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960722188585329066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yins_chan_: 我們不要在這裡，\n和我回去16歲，\n躲到記憶中永不變質的夏天，\n不要被命運找到 https://t.co/hq9QmL9byn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960722184722374664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXicEua4Agig_n.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960722184722374664"
+          ],
+          "media_source_tweet_id": [
+            "1960722188585329066"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1960741358735647085",
+        "created_at": "2025-08-27T16:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960741358735647085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512834058820022281",
+              "start": 3,
+              "username": "yins_chan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hq9QmL9byn",
+              "end": 79,
+              "expanded_url": "https://x.com/yins_chan_/status/1960722188585329066/photo/1",
+              "media_key": "3_1960722184722374664",
+              "start": 56,
+              "url": "https://t.co/hq9QmL9byn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960741358735647085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960722188585329066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yins_chan_: 我們不要在這裡，\n和我回去16歲，\n躲到記憶中永不變質的夏天，\n不要被命運找到 https://t.co/hq9QmL9byn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960722184722374664"
+          ]
+        },
+        "author_id": "1512834058820022281",
+        "conversation_id": "1960722188585329066",
+        "created_at": "2025-08-27T15:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960722188585329066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hq9QmL9byn",
+              "end": 63,
+              "expanded_url": "https://x.com/yins_chan_/status/1960722188585329066/photo/1",
+              "media_key": "3_1960722184722374664",
+              "start": 40,
+              "url": "https://t.co/hq9QmL9byn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960722188585329066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我們不要在這裡，\n和我回去16歲，\n躲到記憶中永不變質的夏天，\n不要被命運找到 https://t.co/hq9QmL9byn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 127,
+          "like_count": 12620,
+          "listed_count": 3,
+          "media_count": 153,
+          "tweet_count": 6186
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T16:45:27.000Z",
+        "description": "只是要對世界保持依戀實在太難了",
+        "id": "1512834058820022281",
+        "location": "Hell 距離你所在的地方100米以內",
+        "name": "意志蠶食者",
+        "pinned_tweet_id": "1884301640192385506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545350024845881346/DZLFap_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 261,
+          "like_count": 94597,
+          "listed_count": 4,
+          "media_count": 539,
+          "tweet_count": 11898
+        },
+        "username": "yins_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

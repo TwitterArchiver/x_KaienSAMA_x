@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1887418726427009472",
+    "created_at": "2025-02-06T10:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T11:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887452886126494017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1370809768126783488",
+          "start": 0,
+          "username": "JULYSAMA2155282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887452886126494017",
+    "in_reply_to_user_id": "1370809768126783488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887418726427009472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JULYSAMA2155282 我想看可愛的七月🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1887418726427009472",
+        "created_at": "2025-02-06T10:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T11:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887452886126494017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1370809768126783488",
+              "start": 0,
+              "username": "JULYSAMA2155282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887452886126494017",
+        "in_reply_to_user_id": "1370809768126783488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887418726427009472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JULYSAMA2155282 我想看可愛的七月🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370809768126783488",
+        "conversation_id": "1887418726427009472",
+        "created_at": "2025-02-06T08:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T09:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887418726427009472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "七月’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1vOxw…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1vOxwXlDaBLKB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1887418728440340486/IlHXPQzx?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1887418728440340486/IlHXPQzx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 七月刷牙台",
+              "unwound_url": "https://twitter.com/i/spaces/1vOxwXlDaBLKB/peek",
+              "url": "https://t.co/G5ppwDC735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887418726427009472",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/G5ppwDC735"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 129,
+          "like_count": 12433,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 4176
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:51:43.000Z",
+        "description": "×芥川夢×喜歡我的可以給我打賞 討厭我的求你不要罵我 女孩子不用過門 @july_akuryu0409 裹垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "july_akuryu0409"
+              }
+            ]
+          }
+        },
+        "id": "1370809768126783488",
+        "location": "我在你後方100米",
+        "name": "七月",
+        "pinned_tweet_id": "1850468053340897414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829312777586155520/dh_zhKcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 204,
+          "like_count": 9337,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 1271
+        },
+        "username": "JULYSAMA2155282",
+        "verified": false
+      }
+    ]
+  }
+}

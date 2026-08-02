@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960391949669818374",
+        "3_1960391949644652545",
+        "3_1960391949644664832"
+      ],
+      "media_source_tweet_id": [
+        "1960391957328326821",
+        "1960391957328326821",
+        "1960391957328326821"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1960392177709932997",
+    "created_at": "2025-08-26T17:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T18:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960392177709932997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1120022812842790913",
+          "start": 3,
+          "username": "justadeer_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2qbGVqK8gQ",
+          "end": 78,
+          "expanded_url": "https://x.com/justadeer_/status/1960391957328326821/photo/1",
+          "media_key": "3_1960391949669818374",
+          "start": 55,
+          "url": "https://t.co/2qbGVqK8gQ"
+        },
+        {
+          "display_url": "pic.x.com/2qbGVqK8gQ",
+          "end": 78,
+          "expanded_url": "https://x.com/justadeer_/status/1960391957328326821/photo/1",
+          "media_key": "3_1960391949644652545",
+          "start": 55,
+          "url": "https://t.co/2qbGVqK8gQ"
+        },
+        {
+          "display_url": "pic.x.com/2qbGVqK8gQ",
+          "end": 78,
+          "expanded_url": "https://x.com/justadeer_/status/1960391957328326821/photo/1",
+          "media_key": "3_1960391949644664832",
+          "start": 55,
+          "url": "https://t.co/2qbGVqK8gQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960392177709932997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960391957328326821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justadeer_: 也沒有錢買起好一點的睡衣了把我的胸型整成怎樣了\n誰可以幫我解鎖好一點的皮膚🥺 https://t.co/2qbGVqK8gQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960391949669818374",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzS2F3Sa4AYyqTY.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960391949644652545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzS2F3Ma4AEfceT.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960391949644664832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzS2F3MbEAAULUi.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960391949669818374",
+            "3_1960391949644652545",
+            "3_1960391949644664832"
+          ],
+          "media_source_tweet_id": [
+            "1960391957328326821",
+            "1960391957328326821",
+            "1960391957328326821"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1960392177709932997",
+        "created_at": "2025-08-26T17:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960392177709932997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1120022812842790913",
+              "start": 3,
+              "username": "justadeer_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qbGVqK8gQ",
+              "end": 78,
+              "expanded_url": "https://x.com/justadeer_/status/1960391957328326821/photo/1",
+              "media_key": "3_1960391949669818374",
+              "start": 55,
+              "url": "https://t.co/2qbGVqK8gQ"
+            },
+            {
+              "display_url": "pic.x.com/2qbGVqK8gQ",
+              "end": 78,
+              "expanded_url": "https://x.com/justadeer_/status/1960391957328326821/photo/1",
+              "media_key": "3_1960391949644652545",
+              "start": 55,
+              "url": "https://t.co/2qbGVqK8gQ"
+            },
+            {
+              "display_url": "pic.x.com/2qbGVqK8gQ",
+              "end": 78,
+              "expanded_url": "https://x.com/justadeer_/status/1960391957328326821/photo/1",
+              "media_key": "3_1960391949644664832",
+              "start": 55,
+              "url": "https://t.co/2qbGVqK8gQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960392177709932997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960391957328326821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justadeer_: 也沒有錢買起好一點的睡衣了把我的胸型整成怎樣了\n誰可以幫我解鎖好一點的皮膚🥺 https://t.co/2qbGVqK8gQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960391949669818374",
+            "3_1960391949644652545",
+            "3_1960391949644664832"
+          ]
+        },
+        "author_id": "1120022812842790913",
+        "conversation_id": "1960391957328326821",
+        "created_at": "2025-08-26T17:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960391957328326821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qbGVqK8gQ",
+              "end": 62,
+              "expanded_url": "https://x.com/justadeer_/status/1960391957328326821/photo/1",
+              "media_key": "3_1960391949669818374",
+              "start": 39,
+              "url": "https://t.co/2qbGVqK8gQ"
+            },
+            {
+              "display_url": "pic.x.com/2qbGVqK8gQ",
+              "end": 62,
+              "expanded_url": "https://x.com/justadeer_/status/1960391957328326821/photo/1",
+              "media_key": "3_1960391949644652545",
+              "start": 39,
+              "url": "https://t.co/2qbGVqK8gQ"
+            },
+            {
+              "display_url": "pic.x.com/2qbGVqK8gQ",
+              "end": 62,
+              "expanded_url": "https://x.com/justadeer_/status/1960391957328326821/photo/1",
+              "media_key": "3_1960391949644664832",
+              "start": 39,
+              "url": "https://t.co/2qbGVqK8gQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960391957328326821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "也沒有錢買起好一點的睡衣了把我的胸型整成怎樣了\n誰可以幫我解鎖好一點的皮膚🥺 https://t.co/2qbGVqK8gQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 127,
+          "like_count": 12617,
+          "listed_count": 3,
+          "media_count": 153,
+          "tweet_count": 6178
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-21T17:53:42.000Z",
+        "description": "失戀推 🚪250/520/720/2500/5200",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+rmLWalZOr8E5M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+rmLWalZOr8E5MmY1",
+                "start": 0,
+                "url": "https://t.co/5DYM3FSWBM"
+              }
+            ]
+          }
+        },
+        "id": "1120022812842790913",
+        "name": "暮",
+        "pinned_tweet_id": "1941893045286531273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832422272461635584/YhLLF9pF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4614,
+          "following_count": 538,
+          "like_count": 15256,
+          "listed_count": 7,
+          "media_count": 36,
+          "tweet_count": 4952
+        },
+        "url": "https://t.co/5DYM3FSWBM",
+        "username": "justadeer_",
+        "verified": true
+      }
+    ]
+  }
+}

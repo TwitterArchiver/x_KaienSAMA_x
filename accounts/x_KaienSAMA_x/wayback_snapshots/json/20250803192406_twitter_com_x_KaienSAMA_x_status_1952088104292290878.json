@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952088095240912896",
+        "3_1952088095245127680",
+        "3_1952088095245156352",
+        "3_1952088095249305600"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1952088104292290878",
+    "created_at": "2025-08-03T19:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T20:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952088104292290878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CFroBp675p",
+          "end": 30,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1952088104292290878/photo/1",
+          "media_key": "3_1952088095240912896",
+          "start": 7,
+          "url": "https://t.co/CFroBp675p"
+        },
+        {
+          "display_url": "pic.x.com/CFroBp675p",
+          "end": 30,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1952088104292290878/photo/1",
+          "media_key": "3_1952088095245127680",
+          "start": 7,
+          "url": "https://t.co/CFroBp675p"
+        },
+        {
+          "display_url": "pic.x.com/CFroBp675p",
+          "end": 30,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1952088104292290878/photo/1",
+          "media_key": "3_1952088095245156352",
+          "start": 7,
+          "url": "https://t.co/CFroBp675p"
+        },
+        {
+          "display_url": "pic.x.com/CFroBp675p",
+          "end": 30,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1952088104292290878/photo/1",
+          "media_key": "3_1952088095249305600",
+          "start": 7,
+          "url": "https://t.co/CFroBp675p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952088104292290878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "✝︎升天✝︎ https://t.co/CFroBp675p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3405,
+        "media_key": "3_1952088095240912896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxc1x68agAAwOvG.jpg",
+        "width": 2456
+      },
+      {
+        "height": 2312,
+        "media_key": "3_1952088095245127680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxc1x69a0AAR-rk.jpg",
+        "width": 3082
+      },
+      {
+        "height": 3444,
+        "media_key": "3_1952088095245156352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxc1x69bQAA1g7g.jpg",
+        "width": 2404
+      },
+      {
+        "height": 2085,
+        "media_key": "3_1952088095249305600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxc1x6-akAAIhwW.jpg",
+        "width": 2780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952088095240912896",
+            "3_1952088095245127680",
+            "3_1952088095245156352",
+            "3_1952088095249305600"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1952088104292290878",
+        "created_at": "2025-08-03T19:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T20:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952088104292290878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFroBp675p",
+              "end": 30,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1952088104292290878/photo/1",
+              "media_key": "3_1952088095240912896",
+              "start": 7,
+              "url": "https://t.co/CFroBp675p"
+            },
+            {
+              "display_url": "pic.x.com/CFroBp675p",
+              "end": 30,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1952088104292290878/photo/1",
+              "media_key": "3_1952088095245127680",
+              "start": 7,
+              "url": "https://t.co/CFroBp675p"
+            },
+            {
+              "display_url": "pic.x.com/CFroBp675p",
+              "end": 30,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1952088104292290878/photo/1",
+              "media_key": "3_1952088095245156352",
+              "start": 7,
+              "url": "https://t.co/CFroBp675p"
+            },
+            {
+              "display_url": "pic.x.com/CFroBp675p",
+              "end": 30,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1952088104292290878/photo/1",
+              "media_key": "3_1952088095249305600",
+              "start": 7,
+              "url": "https://t.co/CFroBp675p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952088104292290878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✝︎升天✝︎ https://t.co/CFroBp675p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "愛我請轉帳、 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 129,
+          "like_count": 12534,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 6006
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

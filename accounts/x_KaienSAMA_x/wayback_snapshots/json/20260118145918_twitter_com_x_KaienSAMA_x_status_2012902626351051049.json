@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2012898297191534959",
+    "created_at": "2026-01-18T14:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012902626351051049"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012902626351051049",
+    "in_reply_to_user_id": "1787170522381615104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012898297191534959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎麼看起來這麼像賣慘（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2336,
+        "media_key": "3_2012898289566232576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9AVF6WMAAg4h4.jpg",
+        "width": 1313
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2012898297191534959",
+        "created_at": "2026-01-18T14:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012902626351051049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012902626351051049",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012898297191534959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎麼看起來這麼像賣慘（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012898289566232576"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "2012898297191534959",
+        "created_at": "2026-01-18T14:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012898297191534959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcTDIOg9l9",
+              "end": 39,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/2012898297191534959/photo/1",
+              "media_key": "3_2012898289566232576",
+              "start": 16,
+              "url": "https://t.co/fcTDIOg9l9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012898297191534959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是思考著這一切到底有什麼意義 https://t.co/fcTDIOg9l9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人之黑暗面 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 126,
+          "like_count": 12955,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 6846
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

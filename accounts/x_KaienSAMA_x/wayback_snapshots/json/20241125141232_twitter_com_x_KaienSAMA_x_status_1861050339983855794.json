@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1860691867719119317",
+    "created_at": "2024-11-25T14:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T15:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861050339983855794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1743630480132771840",
+          "start": 0,
+          "username": "kuehcgniy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861050339983855794",
+    "in_reply_to_user_id": "1743630480132771840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860691867719119317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuehcgniy 抱抱你寶寶...幸苦了...🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1860691867719119317",
+        "created_at": "2024-11-25T14:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T15:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861050339983855794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1743630480132771840",
+              "start": 0,
+              "username": "kuehcgniy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861050339983855794",
+        "in_reply_to_user_id": "1743630480132771840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860691867719119317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuehcgniy 抱抱你寶寶...幸苦了...🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743630480132771840",
+        "conversation_id": "1860691867719119317",
+        "created_at": "2024-11-24T14:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T15:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860691867719119317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860691867719119317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手抖的寫不了字的時候你看不見\n耳鳴的聽不見的時候你看不見\n在學校發病發瘋大哭的時候你看不見\n嚴重驚恐發作的時候你看不見\n聞到食物就忍不住作嘔的時候你看不見\n天天在學校犯病只能跑去校務處後還要裝沒事人一樣的時候你看不見\n你永遠不知道我的痛苦與經歷\n一想起這種事和你說過的話語我就難受的想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩味薯條",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858797048113586176/qXOd1Vqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 87,
+          "like_count": 11459,
+          "listed_count": 0,
+          "tweet_count": 3150
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T13:48:34.000Z",
+        "description": "🇭🇰｜戒割中｜有病｜素質不明｜雜 💚動漫漫畫、🎶、💤、✏️，愛推油們^^短髮眼镜控…",
+        "id": "1743630480132771840",
+        "location": "Hong Kong",
+        "name": "阿🐟戒歌中",
+        "pinned_tweet_id": "1836738468971729388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809643642061221888/69GTPtBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 122,
+          "like_count": 15328,
+          "listed_count": 1,
+          "tweet_count": 1567
+        },
+        "username": "kuehcgniy",
+        "verified": false
+      }
+    ]
+  }
+}

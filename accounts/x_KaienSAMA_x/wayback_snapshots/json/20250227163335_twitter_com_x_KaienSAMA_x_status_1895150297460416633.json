@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1895095237175058777",
+    "created_at": "2025-02-27T16:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T17:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895150297460416633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774759734773690368",
+          "start": 0,
+          "username": "tang2780iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895150297460416633",
+    "in_reply_to_user_id": "1774759734773690368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895095237175058777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang2780iz 同款！！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_1895095234205491206",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gky7EypaoAYcIrS.jpg",
+        "width": 897
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1895095237175058777",
+        "created_at": "2025-02-27T16:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T17:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895150297460416633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774759734773690368",
+              "start": 0,
+              "username": "tang2780iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895150297460416633",
+        "in_reply_to_user_id": "1774759734773690368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895095237175058777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang2780iz 同款！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895095234205491206"
+          ]
+        },
+        "author_id": "1774759734773690368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1895095237175058777",
+        "created_at": "2025-02-27T12:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895095237175058777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1XGTTz5DI",
+              "end": 30,
+              "expanded_url": "https://x.com/tang2780iz/status/1895095237175058777/photo/1",
+              "media_key": "3_1895095234205491206",
+              "start": 7,
+              "url": "https://t.co/M1XGTTz5DI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895095237175058777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新ipad殼 https://t.co/M1XGTTz5DI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "@kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894730110961655808/e5CKLvjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 131,
+          "like_count": 12823,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 4469
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T11:24:49.000Z",
+        "description": "思想是循環 溫飽思淫慾",
+        "id": "1774759734773690368",
+        "location": "冥界",
+        "name": "膛",
+        "pinned_tweet_id": "1828799084041568325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774760031776559104/tFgInI7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 252,
+          "like_count": 15405,
+          "listed_count": 3,
+          "media_count": 626,
+          "tweet_count": 5827
+        },
+        "username": "tang2780iz",
+        "verified": false
+      }
+    ]
+  }
+}

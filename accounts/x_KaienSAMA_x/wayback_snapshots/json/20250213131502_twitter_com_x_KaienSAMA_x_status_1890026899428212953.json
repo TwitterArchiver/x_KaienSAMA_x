@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889952887834550275"
+      ],
+      "media_source_tweet_id": [
+        "1889952900530708583"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1890026899428212953",
+    "created_at": "2025-02-13T13:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T14:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890026899428212953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802720725310345216",
+          "start": 3,
+          "username": "Xxxtac_17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Hi8xjyPMo",
+          "end": 50,
+          "expanded_url": "https://x.com/Xxxtac_17/status/1889952900530708583/photo/1",
+          "media_key": "3_1889952887834550275",
+          "start": 27,
+          "url": "https://t.co/5Hi8xjyPMo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890026899428212953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889952900530708583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxxtac_17: 为什么我要生活在三次元 https://t.co/5Hi8xjyPMo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889952887834550275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjp2I1maIAMR2vQ.jpg",
+        "width": 1682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889952887834550275"
+          ],
+          "media_source_tweet_id": [
+            "1889952900530708583"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1890026899428212953",
+        "created_at": "2025-02-13T13:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T14:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890026899428212953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802720725310345216",
+              "start": 3,
+              "username": "Xxxtac_17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Hi8xjyPMo",
+              "end": 50,
+              "expanded_url": "https://x.com/Xxxtac_17/status/1889952900530708583/photo/1",
+              "media_key": "3_1889952887834550275",
+              "start": 27,
+              "url": "https://t.co/5Hi8xjyPMo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890026899428212953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889952900530708583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxxtac_17: 为什么我要生活在三次元 https://t.co/5Hi8xjyPMo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889952887834550275"
+          ]
+        },
+        "author_id": "1802720725310345216",
+        "conversation_id": "1889952900530708583",
+        "created_at": "2025-02-13T08:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T09:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889952900530708583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Hi8xjyPMo",
+              "end": 35,
+              "expanded_url": "https://x.com/Xxxtac_17/status/1889952900530708583/photo/1",
+              "media_key": "3_1889952887834550275",
+              "start": 12,
+              "url": "https://t.co/5Hi8xjyPMo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889952900530708583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1936,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我要生活在三次元 https://t.co/5Hi8xjyPMo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 130,
+          "like_count": 12688,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 4308
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T15:11:36.000Z",
+        "description": "我叫败狗 06 日语专业在读（休学状态 ）O/自伤 门槛52/88 半绿",
+        "id": "1802720725310345216",
+        "location": "0.01km",
+        "name": "三次元败狗",
+        "pinned_tweet_id": "1889202618003869970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802720863877570560/vEGrNwL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 102,
+          "like_count": 302,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 357
+        },
+        "username": "Xxxtac_17",
+        "verified": false
+      }
+    ]
+  }
+}

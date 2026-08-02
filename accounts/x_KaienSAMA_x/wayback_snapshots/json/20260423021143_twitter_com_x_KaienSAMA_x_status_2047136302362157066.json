@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2047136302362157066",
+    "created_at": "2026-04-23T02:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047136302362157066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_kaiensama_x/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/x_kaiensama_x/status/2038480948506063141",
+          "start": 12,
+          "url": "https://t.co/5yxmQlDB6U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047136302362157066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038480948506063141",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "again 剩一蚊了。 https://t.co/5yxmQlDB6U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2047136302362157066",
+        "created_at": "2026-04-23T02:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047136302362157066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_kaiensama_x/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/x_kaiensama_x/status/2038480948506063141",
+              "start": 12,
+              "url": "https://t.co/5yxmQlDB6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047136302362157066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038480948506063141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "again 剩一蚊了。 https://t.co/5yxmQlDB6U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2038480948506063141",
+        "created_at": "2026-03-30T04:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038480948506063141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038480948506063141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有煙食啦！！！但係冇曬錢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 114,
+          "like_count": 13163,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 7211
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1981716715995005075",
+    "created_at": "2025-10-24T13:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T14:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981716715995005075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864468641305251844",
+          "start": 3,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981716715995005075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981607711075893730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkaNpc: 根本没人恨你 也没人爱你 所有人都懒得理你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1981716715995005075",
+        "created_at": "2025-10-24T13:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T14:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981716715995005075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864468641305251844",
+              "start": 3,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981716715995005075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981607711075893730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkaNpc: 根本没人恨你 也没人爱你 所有人都懒得理你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1981607711075893730",
+        "created_at": "2025-10-24T06:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981607711075893730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981607711075893730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11522,
+          "like_count": 330,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "根本没人恨你 也没人爱你 所有人都懒得理你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 127,
+          "like_count": 12810,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 6544
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️全是网上段子&日常美食🍽️ 唯一大号｜小号@AkaNpc2｜仅此两号慎防受骗 ☺︎｜｜粤/国｜叫我小曼就好🗿｜📸｜🎧｜保持禮貌 唔該",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/AM3r3Y",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/AM3r3Y",
+                "start": 0,
+                "url": "https://t.co/xpg16bPmSN"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "CK律師樓",
+        "name": "曼醬⋆౨ৎ˚⟡˖ ࣪",
+        "pinned_tweet_id": "1909985102790349042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919715132814581760/ArvfnMh0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9501,
+          "following_count": 102,
+          "like_count": 8386,
+          "listed_count": 14,
+          "media_count": 110,
+          "tweet_count": 2185
+        },
+        "url": "https://t.co/xpg16bPmSN",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

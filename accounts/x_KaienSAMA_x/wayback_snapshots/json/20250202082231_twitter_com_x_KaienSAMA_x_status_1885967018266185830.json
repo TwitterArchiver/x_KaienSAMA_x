@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1885967018266185830",
+    "created_at": "2025-02-02T08:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T09:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885967018266185830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370809768126783488",
+          "start": 3,
+          "username": "JULYSAMA2155282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885967018266185830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885960378938798558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JULYSAMA2155282: 那天在幫別人吸\n吸一吸突然一粒硬硬的被吸出來\n那個是那個人的尿結石\n看著對方錯愕的神情\n我為了安慰他說了一句\n「哇~第一口就喝到珠珠了❤️」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1885967018266185830",
+        "created_at": "2025-02-02T08:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T09:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885967018266185830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1370809768126783488",
+              "start": 3,
+              "username": "JULYSAMA2155282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885967018266185830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885960378938798558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JULYSAMA2155282: 那天在幫別人吸\n吸一吸突然一粒硬硬的被吸出來\n那個是那個人的尿結石\n看著對方錯愕的神情\n我為了安慰他說了一句\n「哇~第一口就喝到珠珠了❤️」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370809768126783488",
+        "conversation_id": "1885960378938798558",
+        "created_at": "2025-02-02T07:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T08:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885960378938798558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885960378938798558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那天在幫別人吸\n吸一吸突然一粒硬硬的被吸出來\n那個是那個人的尿結石\n看著對方錯愕的神情\n我為了安慰他說了一句\n「哇~第一口就喝到珠珠了❤️」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 123,
+          "like_count": 12295,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4059
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:51:43.000Z",
+        "description": "×芥川夢×喜歡我的可以給我打賞 討厭我的求你不要罵我 女孩子不用過門 @july_akuryu0409 裹垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "july_akuryu0409"
+              }
+            ]
+          }
+        },
+        "id": "1370809768126783488",
+        "location": "我在你後方100米",
+        "name": "七月",
+        "pinned_tweet_id": "1850468053340897414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829312777586155520/dh_zhKcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 200,
+          "like_count": 9271,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 1239
+        },
+        "username": "JULYSAMA2155282",
+        "verified": false
+      }
+    ]
+  }
+}

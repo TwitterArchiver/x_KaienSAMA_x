@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1909979998775362019",
+    "created_at": "2025-04-09T14:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T15:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909979998775362019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1787170522381615104",
+          "start": 3,
+          "username": "x_KaienSAMA_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909979998775362019",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909562895480111310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_KaienSAMA_x: ＫＡＩＥＮ▼\n\n⊹海塩様ですよ//海鹽 かいえん（大人）\n本人留個推來吐苦水放負碎唸\n熟人請繞路_\n\nHK｜10｜精神病｜自殘｜地雷系\n\n私信大部分不回喔抱歉\n//不營業 不私影 不線下//\n收款碼為自願捐款喔 不設退\n喜歡我的可以打打賞.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2948,
+        "media_key": "3_1909562874894467075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoAhUUJbwAM1yjI.jpg",
+        "width": 2211
+      },
+      {
+        "height": 2948,
+        "media_key": "3_1909562874902814720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoAhUULbIAAm54q.jpg",
+        "width": 2211
+      },
+      {
+        "height": 1101,
+        "media_key": "3_1909562875297120258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoAhUVpbwAIqX9m.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1909979998775362019",
+        "created_at": "2025-04-09T14:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T15:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909979998775362019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1787170522381615104",
+              "start": 3,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909979998775362019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909562895480111310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_KaienSAMA_x: ＫＡＩＥＮ▼\n\n⊹海塩様ですよ//海鹽 かいえん（大人）\n本人留個推來吐苦水放負碎唸\n熟人請繞路_\n\nHK｜10｜精神病｜自殘｜地雷系\n\n私信大部分不回喔抱歉\n//不營業 不私影 不線下//\n收款碼為自願捐款喔 不設退\n喜歡我的可以打打賞.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909562874894467075",
+            "3_1909562874902814720",
+            "3_1909562875297120258"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1909562895480111310",
+        "created_at": "2025-04-08T11:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T12:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909562895480111310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZxEHQnLUVM",
+              "end": 151,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1909562895480111310/photo/1",
+              "media_key": "3_1909562874894467075",
+              "start": 128,
+              "url": "https://t.co/ZxEHQnLUVM"
+            },
+            {
+              "display_url": "pic.x.com/ZxEHQnLUVM",
+              "end": 151,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1909562895480111310/photo/1",
+              "media_key": "3_1909562874902814720",
+              "start": 128,
+              "url": "https://t.co/ZxEHQnLUVM"
+            },
+            {
+              "display_url": "pic.x.com/ZxEHQnLUVM",
+              "end": 151,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1909562895480111310/photo/1",
+              "media_key": "3_1909562875297120258",
+              "start": 128,
+              "url": "https://t.co/ZxEHQnLUVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909562895480111310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1083,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "ＫＡＩＥＮ▼\n\n⊹海塩様ですよ//海鹽 かいえん（大人）\n本人留個推來吐苦水放負碎唸\n熟人請繞路_\n\nHK｜10｜精神病｜自殘｜地雷系\n\n私信大部分不回喔抱歉\n//不營業 不私影 不線下//\n收款碼為自願捐款喔 不設退\n喜歡我的可以打打賞...拜託了很窮 https://t.co/ZxEHQnLUVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906626426033553408/DC8Yr8_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 131,
+          "like_count": 12341,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 5093
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2022952745247084792",
+    "created_at": "2026-02-15T08:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T09:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022952745247084792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1957104304034394112",
+          "start": 3,
+          "username": "cunyuanyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022952745247084792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022242884251230517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cunyuanyu: 内耗要是能燃脂的话我早就瘦死了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2022952745247084792",
+        "created_at": "2026-02-15T08:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022952745247084792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1957104304034394112",
+              "start": 3,
+              "username": "cunyuanyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022952745247084792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022242884251230517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cunyuanyu: 内耗要是能燃脂的话我早就瘦死了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957104304034394112",
+        "conversation_id": "2022242884251230517",
+        "created_at": "2026-02-13T09:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022242884251230517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022242884251230517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19645,
+          "like_count": 806,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "内耗要是能燃脂的话我早就瘦死了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 123,
+          "like_count": 13036,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 6937
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T15:37:11.000Z",
+        "description": "祝福我真的可以睡得好",
+        "id": "1957104304034394112",
+        "location": "🚪88/188纯绿没区别",
+        "name": "我不可爱还很坏",
+        "pinned_tweet_id": "1988238113731436642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008227971606409216/ZzX24tOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 65,
+          "like_count": 2866,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 3094
+        },
+        "username": "cunyuanyu",
+        "verified": false
+      }
+    ]
+  }
+}

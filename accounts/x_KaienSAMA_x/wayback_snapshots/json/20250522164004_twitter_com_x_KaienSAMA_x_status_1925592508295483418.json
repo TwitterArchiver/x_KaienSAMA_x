@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925090823911440385"
+      ],
+      "media_source_tweet_id": [
+        "1925090829632471487"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1925592508295483418",
+    "created_at": "2025-05-22T16:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T17:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925592508295483418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767542307434516480",
+          "start": 3,
+          "username": "loser040128"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2OH2Vlo2t0",
+          "end": 42,
+          "expanded_url": "https://x.com/loser040128/status/1925090829632471487/photo/1",
+          "media_key": "3_1925090823911440385",
+          "start": 19,
+          "url": "https://t.co/2OH2Vlo2t0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925592508295483418",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925090829632471487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loser040128: 👅 https://t.co/2OH2Vlo2t0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925592508295483418].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925592508295483418",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925592508295483418"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925090823911440385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdL55-bAAElBV4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925090823911440385"
+          ]
+        },
+        "author_id": "1767542307434516480",
+        "conversation_id": "1925090829632471487",
+        "created_at": "2025-05-21T07:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T08:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925090829632471487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2OH2Vlo2t0",
+              "end": 25,
+              "expanded_url": "https://x.com/loser040128/status/1925090829632471487/photo/1",
+              "media_key": "3_1925090823911440385",
+              "start": 2,
+              "url": "https://t.co/2OH2Vlo2t0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925090829632471487",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 89209,
+          "like_count": 1882,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "👅 https://t.co/2OH2Vlo2t0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 130,
+          "like_count": 12193,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 5367
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T13:25:18.000Z",
+        "description": "@1nt3rn3tc4t 重生3.0 16+ 只接約拍有意私 打錢屬於自願性質不設退換",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "1nt3rn3tc4t"
+              }
+            ]
+          }
+        },
+        "id": "1767542307434516480",
+        "location": "在你心裡面",
+        "name": "家庭裝貧乳3.0",
+        "pinned_tweet_id": "1908508513862922561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772156411482681344/n5mLzByK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3501,
+          "following_count": 163,
+          "like_count": 20990,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 4374
+        },
+        "username": "loser040128",
+        "verified": false
+      }
+    ]
+  }
+}

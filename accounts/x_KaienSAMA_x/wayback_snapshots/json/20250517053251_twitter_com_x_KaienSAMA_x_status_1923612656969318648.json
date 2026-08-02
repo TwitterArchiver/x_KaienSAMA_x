@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923371708477763584"
+      ],
+      "media_source_tweet_id": [
+        "1923371721567936542"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1923612656969318648",
+    "created_at": "2025-05-17T05:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T06:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923612656969318648"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "てんちゃん",
+          "probability": 0.4511,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 27,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 59,
+          "start": 49,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "893489787411222528",
+          "start": 3,
+          "username": "kuren_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NqqcsPIwUB",
+          "end": 83,
+          "expanded_url": "https://x.com/kuren_chan/status/1923371721567936542/photo/1",
+          "media_key": "3_1923371708477763584",
+          "start": 60,
+          "url": "https://t.co/NqqcsPIwUB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923612656969318648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923371721567936542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuren_chan: 中華🐼超てんちゃん\n\n#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/NqqcsPIwUB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923371708477763584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrEwYN7acAAys2H.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923371708477763584"
+          ],
+          "media_source_tweet_id": [
+            "1923371721567936542"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1923612656969318648",
+        "created_at": "2025-05-17T05:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T06:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923612656969318648"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "てんちゃん",
+              "probability": 0.4511,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 27,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 59,
+              "start": 49,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "893489787411222528",
+              "start": 3,
+              "username": "kuren_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NqqcsPIwUB",
+              "end": 83,
+              "expanded_url": "https://x.com/kuren_chan/status/1923371721567936542/photo/1",
+              "media_key": "3_1923371708477763584",
+              "start": 60,
+              "url": "https://t.co/NqqcsPIwUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923612656969318648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923371721567936542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuren_chan: 中華🐼超てんちゃん\n\n#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/NqqcsPIwUB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923371708477763584"
+          ]
+        },
+        "author_id": "893489787411222528",
+        "conversation_id": "1923371721567936542",
+        "created_at": "2025-05-16T13:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T14:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923371721567936542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 11,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NqqcsPIwUB",
+              "end": 67,
+              "expanded_url": "https://x.com/kuren_chan/status/1923371721567936542/photo/1",
+              "media_key": "3_1923371708477763584",
+              "start": 44,
+              "url": "https://t.co/NqqcsPIwUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923371721567936542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 18718,
+          "like_count": 1702,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "中華🐼超てんちゃん\n\n#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/NqqcsPIwUB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 131,
+          "like_count": 12207,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 5315
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-04T15:12:20.000Z",
+        "description": "まくらです(՞ . .՞)੭” / Chinese cosplayer / @hiodoshiao 青くんの火女読者🖋️ガチ恋勢💙眩しい君が世界一! / 時々変な日本語しゃべる‼︎メンタル弱い。 Link必読🔗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "hiodoshiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/hanasakimak…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/hanasakimakura",
+                "start": 0,
+                "url": "https://t.co/YE30KRnuWS"
+              }
+            ]
+          }
+        },
+        "id": "893489787411222528",
+        "location": "写真、お仕事、 企業案件はDMへお願いします。",
+        "name": "花崎Makura",
+        "pinned_tweet_id": "1894767279096856825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912857052915052544/lNQpSEIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181116,
+          "following_count": 898,
+          "like_count": 91455,
+          "listed_count": 706,
+          "media_count": 1066,
+          "tweet_count": 26406
+        },
+        "url": "https://t.co/YE30KRnuWS",
+        "username": "kuren_chan",
+        "verified": true
+      }
+    ]
+  }
+}

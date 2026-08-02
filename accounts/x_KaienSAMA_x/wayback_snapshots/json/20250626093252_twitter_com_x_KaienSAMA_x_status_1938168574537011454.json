@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938129886952259584"
+      ],
+      "media_source_tweet_id": [
+        "1938129894212571221"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1938168574537011454",
+    "created_at": "2025-06-26T09:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T10:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938168574537011454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370809768126783488",
+          "start": 3,
+          "username": "JULYSAMA2155282"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F2Jgwx6hgf",
+          "end": 56,
+          "expanded_url": "https://x.com/JULYSAMA2155282/status/1938129894212571221/photo/1",
+          "media_key": "3_1938129886952259584",
+          "start": 33,
+          "url": "https://t.co/F2Jgwx6hgf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938168574537011454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938129894212571221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JULYSAMA2155282: 公主大人 謝謝你的指名 https://t.co/F2Jgwx6hgf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938129886952259584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWe3RBbgAAKe-b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938129886952259584"
+          ],
+          "media_source_tweet_id": [
+            "1938129894212571221"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1938168574537011454",
+        "created_at": "2025-06-26T09:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T10:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938168574537011454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1370809768126783488",
+              "start": 3,
+              "username": "JULYSAMA2155282"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2Jgwx6hgf",
+              "end": 56,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1938129894212571221/photo/1",
+              "media_key": "3_1938129886952259584",
+              "start": 33,
+              "url": "https://t.co/F2Jgwx6hgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938168574537011454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938129894212571221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JULYSAMA2155282: 公主大人 謝謝你的指名 https://t.co/F2Jgwx6hgf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938129886952259584"
+          ]
+        },
+        "author_id": "1370809768126783488",
+        "conversation_id": "1938129894212571221",
+        "created_at": "2025-06-26T06:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T07:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938129894212571221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2Jgwx6hgf",
+              "end": 35,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1938129894212571221/photo/1",
+              "media_key": "3_1938129886952259584",
+              "start": 12,
+              "url": "https://t.co/F2Jgwx6hgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938129894212571221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "公主大人 謝謝你的指名 https://t.co/F2Jgwx6hgf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937388734883995648/w12PLFKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 130,
+          "like_count": 12442,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 5680
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:51:43.000Z",
+        "description": "永遠  @july_akuryu0409 裹垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "july_akuryu0409"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/july._.cos_215…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/july._.cos_21552821",
+                "start": 0,
+                "url": "https://t.co/YC8Kl27WoJ"
+              }
+            ]
+          }
+        },
+        "id": "1370809768126783488",
+        "location": "我在你後方100米",
+        "name": "七月",
+        "pinned_tweet_id": "1850468053340897414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915012561466183680/CezeivVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 204,
+          "like_count": 9383,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 1550
+        },
+        "url": "https://t.co/YC8Kl27WoJ",
+        "username": "JULYSAMA2155282",
+        "verified": false
+      }
+    ]
+  }
+}

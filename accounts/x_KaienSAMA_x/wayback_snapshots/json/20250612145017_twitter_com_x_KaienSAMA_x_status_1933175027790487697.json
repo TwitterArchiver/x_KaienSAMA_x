@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1933167691441074346",
+    "created_at": "2025-06-12T14:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T15:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933175027790487697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1499945353512034304",
+          "start": 0,
+          "username": "TszfaiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933175027790487697",
+    "in_reply_to_user_id": "1499945353512034304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933168967360925917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TszfaiL 不是啦不是啦💀wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1933167691441074346",
+        "created_at": "2025-06-12T14:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933175027790487697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1499945353512034304",
+              "start": 0,
+              "username": "TszfaiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933175027790487697",
+        "in_reply_to_user_id": "1499945353512034304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933168967360925917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TszfaiL 不是啦不是啦💀wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499945353512034304",
+        "conversation_id": "1933167691441074346",
+        "created_at": "2025-06-12T14:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933168967360925917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933168967360925917",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933167691441074346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 例如強逼你飲白爪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 130,
+          "like_count": 12324,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 5569
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-05T03:10:40.000Z",
+        "description": "",
+        "id": "1499945353512034304",
+        "name": "rrrsk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830312941620772864/dphb0SD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 237,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 62
+        },
+        "username": "TszfaiL",
+        "verified": false
+      }
+    ]
+  }
+}

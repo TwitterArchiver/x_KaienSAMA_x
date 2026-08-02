@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1989374967566233600"
+      ],
+      "media_source_tweet_id": [
+        "1989375062324220051"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "2022600524915503164",
+    "created_at": "2026-02-14T09:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T10:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022600524915503164"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "タニア・ガラホワ氏",
+          "probability": 0.7542,
+          "start": 28,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1599045921555517440",
+          "start": 3,
+          "username": "depression1203"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ejxRFbbI11",
+          "end": 86,
+          "expanded_url": "https://x.com/Sincero_Dinero/status/1989375062324220051/video/1",
+          "media_key": "13_1989374967566233600",
+          "start": 63,
+          "url": "https://t.co/ejxRFbbI11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022600524915503164",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022482385431109885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @depression1203: ウクライナ人女優タニア・ガラホワ氏が描く\n「うつ病と共に生きるとはどういうことか」\n https://t.co/ejxRFbbI11"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23846,
+        "height": 1280,
+        "media_key": "13_1989374967566233600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989374967566233600/img/mTQff66269_kKbs_.jpg",
+        "public_metrics": {
+          "view_count": 5572873
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989374967566233600/vid/avc1/320x568/v6Mex35pl4j6w5NJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989374967566233600/vid/avc1/480x852/OlnFbrceV10r_e4Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989374967566233600/vid/avc1/720x1280/kXzMdJZQbBdbkEkH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989374967566233600/pl/6uCt3G4O3UGqt6pL.m3u8?v=2e7"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989374967566233600"
+          ],
+          "media_source_tweet_id": [
+            "1989375062324220051"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "2022600524915503164",
+        "created_at": "2026-02-14T09:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022600524915503164"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "タニア・ガラホワ氏",
+              "probability": 0.7542,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1599045921555517440",
+              "start": 3,
+              "username": "depression1203"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejxRFbbI11",
+              "end": 86,
+              "expanded_url": "https://x.com/Sincero_Dinero/status/1989375062324220051/video/1",
+              "media_key": "13_1989374967566233600",
+              "start": 63,
+              "url": "https://t.co/ejxRFbbI11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022600524915503164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022482385431109885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @depression1203: ウクライナ人女優タニア・ガラホワ氏が描く\n「うつ病と共に生きるとはどういうことか」\n https://t.co/ejxRFbbI11"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989374967566233600"
+          ],
+          "media_source_tweet_id": [
+            "1989375062324220051"
+          ]
+        },
+        "author_id": "1599045921555517440",
+        "conversation_id": "2022482385431109885",
+        "created_at": "2026-02-14T01:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T02:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022482385431109885"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ウクライナ",
+              "probability": 0.4375,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 16,
+              "normalized_text": "タニア・ガラホワ氏",
+              "probability": 0.759,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejxRFbbI11",
+              "end": 66,
+              "expanded_url": "https://x.com/Sincero_Dinero/status/1989375062324220051/video/1",
+              "media_key": "13_1989374967566233600",
+              "start": 43,
+              "url": "https://t.co/ejxRFbbI11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022482385431109885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 204984,
+          "like_count": 1631,
+          "quote_count": 18,
+          "reply_count": 6,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "ウクライナ人女優タニア・ガラホワ氏が描く\n「うつ病と共に生きるとはどういうことか」\n https://t.co/ejxRFbbI11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 123,
+          "like_count": 13027,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 6932
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T14:21:12.000Z",
+        "description": "「生きた証」で繋がる夢の世界🧙‍♂️🪄✨心を癒し合う居場所🌌素敵な出逢いと安心安全な交流を実現する夢ミル活動(ミル活)💐/会わないオフ会で刹那の夢のような体験🚀/「ストレート睡眠」に♡/星になるまで同じ空の下で🤝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/depression1203…",
+                "end": 23,
+                "expanded_url": "https://x.com/depression1203/status/1936221416514633786?s=46&t=iu-om0y2xJ0tS_FCPaTjYw",
+                "start": 0,
+                "url": "https://t.co/4brhrZERPf"
+              }
+            ]
+          }
+        },
+        "id": "1599045921555517440",
+        "location": "繋がる空の下",
+        "name": "ミル🥺",
+        "pinned_tweet_id": "1667904866814164997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599208739445567488/p2bK5PG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28070,
+          "following_count": 14204,
+          "like_count": 320535,
+          "listed_count": 120,
+          "media_count": 4000,
+          "tweet_count": 129584
+        },
+        "url": "https://t.co/4brhrZERPf",
+        "username": "depression1203",
+        "verified": true
+      }
+    ]
+  }
+}

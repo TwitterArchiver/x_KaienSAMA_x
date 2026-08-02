@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1893682346215292928"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1893682362589876708",
+    "created_at": "2025-02-23T15:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T16:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893682362589876708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5D4n58KO7a",
+          "end": 31,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1893682362589876708/video/1",
+          "media_key": "13_1893682346215292928",
+          "start": 8,
+          "url": "https://t.co/5D4n58KO7a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893682362589876708",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "永遠のあくる日 https://t.co/5D4n58KO7a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44335,
+        "height": 70,
+        "media_key": "13_1893682346215292928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1893682346215292928/img/ByTceyM79LS8gZRy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893682346215292928/vid/avc1/84x70/W498Yi2S8exoZtHv.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1893682346215292928/pl/gd7cqbLe-7MUxdm1.m3u8?tag=14"
+          }
+        ],
+        "width": 84
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1893682346215292928"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1893682362589876708",
+        "created_at": "2025-02-23T15:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T16:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893682362589876708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5D4n58KO7a",
+              "end": 31,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1893682362589876708/video/1",
+              "media_key": "13_1893682346215292928",
+              "start": 8,
+              "url": "https://t.co/5D4n58KO7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893682362589876708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永遠のあくる日 https://t.co/5D4n58KO7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "🚪50 只閒聊 不接線下 不過門不回訊息喔 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892603333623652352/BKs0FQpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 130,
+          "like_count": 12839,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 4448
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

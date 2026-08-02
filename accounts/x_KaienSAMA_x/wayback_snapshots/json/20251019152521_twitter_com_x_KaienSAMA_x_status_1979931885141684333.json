@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1979931885141684333",
+    "created_at": "2025-10-19T15:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T16:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979931885141684333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1711376538950856704",
+          "start": 3,
+          "username": "404_erro_tily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/bpQY",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/bpQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979931885141684333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979931073246265827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @404_erro_tily: —-交友貼—\nKAKA🫀\n\n🐣5.6\n\n地雷系IHKl重焦|藥物依賴同校請避雷\n\n🚪50（仅限于男的 過了門只會被動聊天 但是在聊天過程要尊重 ）\n\n好說話（你的態度等於我的態度😉）\n熟起來比較像AHDH https://t.co/bpQY…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979931064475729920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3og0CHWQAAPVBJ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979931064509292546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3og0CPWYAIW6u2.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1979931885141684333",
+        "created_at": "2025-10-19T15:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979931885141684333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1711376538950856704",
+              "start": 3,
+              "username": "404_erro_tily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/bpQY",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/bpQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979931885141684333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979931073246265827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @404_erro_tily: —-交友貼—\nKAKA🫀\n\n🐣5.6\n\n地雷系IHKl重焦|藥物依賴同校請避雷\n\n🚪50（仅限于男的 過了門只會被動聊天 但是在聊天過程要尊重 ）\n\n好說話（你的態度等於我的態度😉）\n熟起來比較像AHDH https://t.co/bpQY…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979931064475729920",
+            "3_1979931064509292546"
+          ]
+        },
+        "author_id": "1711376538950856704",
+        "conversation_id": "1979931073246265827",
+        "created_at": "2025-10-19T15:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979931073246265827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpQYxr68WU",
+              "end": 126,
+              "expanded_url": "https://x.com/404_erro_tily/status/1979931073246265827/photo/1",
+              "media_key": "3_1979931064475729920",
+              "start": 103,
+              "url": "https://t.co/bpQYxr68WU"
+            },
+            {
+              "display_url": "pic.x.com/bpQYxr68WU",
+              "end": 126,
+              "expanded_url": "https://x.com/404_erro_tily/status/1979931073246265827/photo/1",
+              "media_key": "3_1979931064509292546",
+              "start": 103,
+              "url": "https://t.co/bpQYxr68WU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979931073246265827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "—-交友貼—\nKAKA🫀\n\n🐣5.6\n\n地雷系IHKl重焦|藥物依賴同校請避雷\n\n🚪50（仅限于男的 過了門只會被動聊天 但是在聊天過程要尊重 ）\n\n好說話（你的態度等於我的態度😉）\n熟起來比較像AHDH https://t.co/bpQYxr68WU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 127,
+          "like_count": 12787,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 6521
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T13:42:30.000Z",
+        "description": "屍體想要得到幸福",
+        "id": "1711376538950856704",
+        "name": "kakaaaaa",
+        "pinned_tweet_id": "1979931073246265827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896206054675099648/PGQ0tfBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 149,
+          "like_count": 1543,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 236
+        },
+        "username": "404_erro_tily",
+        "verified": false
+      }
+    ]
+  }
+}

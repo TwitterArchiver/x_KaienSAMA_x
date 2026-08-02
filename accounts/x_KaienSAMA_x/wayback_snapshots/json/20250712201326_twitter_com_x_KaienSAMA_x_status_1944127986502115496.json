@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943920703163535360"
+      ],
+      "media_source_tweet_id": [
+        "1943920713762845179"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1944127986502115496",
+    "created_at": "2025-07-12T20:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T21:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944127986502115496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ByyGIl1FfM",
+          "end": 42,
+          "expanded_url": "https://x.com/hgds01/status/1943920713762845179/photo/1",
+          "media_key": "3_1943920703163535360",
+          "start": 19,
+          "url": "https://t.co/ByyGIl1FfM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944127986502115496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943920713762845179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds01: 人生真理打卡 https://t.co/ByyGIl1FfM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 319,
+        "media_key": "3_1943920703163535360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvoxlIeXEAAaWgv.jpg",
+        "width": 514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943920703163535360"
+          ],
+          "media_source_tweet_id": [
+            "1943920713762845179"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1944127986502115496",
+        "created_at": "2025-07-12T20:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T21:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944127986502115496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByyGIl1FfM",
+              "end": 42,
+              "expanded_url": "https://x.com/hgds01/status/1943920713762845179/photo/1",
+              "media_key": "3_1943920703163535360",
+              "start": 19,
+              "url": "https://t.co/ByyGIl1FfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944127986502115496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943920713762845179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds01: 人生真理打卡 https://t.co/ByyGIl1FfM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943920703163535360"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943920713762845179",
+        "created_at": "2025-07-12T06:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943920713762845179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByyGIl1FfM",
+              "end": 30,
+              "expanded_url": "https://x.com/hgds01/status/1943920713762845179/photo/1",
+              "media_key": "3_1943920703163535360",
+              "start": 7,
+              "url": "https://t.co/ByyGIl1FfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943920713762845179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11740,
+          "like_count": 247,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "人生真理打卡 https://t.co/ByyGIl1FfM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937388734883995648/w12PLFKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 130,
+          "like_count": 12492,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 5818
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1942894626144420132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84567,
+          "following_count": 2905,
+          "like_count": 43651,
+          "listed_count": 104,
+          "media_count": 2611,
+          "tweet_count": 6914
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

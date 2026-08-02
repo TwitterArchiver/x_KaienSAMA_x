@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1889620956831711698",
+    "created_at": "2025-02-12T10:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T11:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889623212691980386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679826755014791168",
+          "start": 0,
+          "username": "BruhNg326311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889623212691980386",
+    "in_reply_to_user_id": "1679826755014791168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889622581797347546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BruhNg326311 比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1889620956831711698",
+        "created_at": "2025-02-12T10:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T11:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889623212691980386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679826755014791168",
+              "start": 0,
+              "username": "BruhNg326311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889623212691980386",
+        "in_reply_to_user_id": "1679826755014791168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889622581797347546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BruhNg326311 比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢我比錢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679826755014791168",
+        "conversation_id": "1889620956831711698",
+        "created_at": "2025-02-12T10:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T11:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889622581797347546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889622581797347546",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889621911287595504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 冇錢啊，邊有錢呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 127,
+          "like_count": 12635,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 4269
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T12:15:08.000Z",
+        "description": "",
+        "id": "1679826755014791168",
+        "name": "麥當勞漢堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873731242518290432/DzCttx-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 13
+        },
+        "username": "BruhNg326311",
+        "verified": true
+      }
+    ]
+  }
+}

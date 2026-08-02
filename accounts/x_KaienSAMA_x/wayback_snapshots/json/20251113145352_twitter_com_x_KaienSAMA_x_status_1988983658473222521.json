@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1988964745580589434",
+    "created_at": "2025-11-13T14:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T15:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988983658473222521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857559547151360000",
+          "start": 0,
+          "username": "yi_ji16412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988983658473222521",
+    "in_reply_to_user_id": "1857559547151360000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988979426777002387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_ji16412 我有在吃了 感覺沒啥用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1988964745580589434",
+        "created_at": "2025-11-13T14:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T15:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988983658473222521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857559547151360000",
+              "start": 0,
+              "username": "yi_ji16412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988983658473222521",
+        "in_reply_to_user_id": "1857559547151360000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988979426777002387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_ji16412 我有在吃了 感覺沒啥用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857559547151360000",
+        "conversation_id": "1988964745580589434",
+        "created_at": "2025-11-13T14:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T15:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988979426777002387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988979426777002387",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988964745580589434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 找朋友倾诉下，去医院看看老老实实吃医生开的药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 125,
+          "like_count": 12860,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 6646
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T23:01:32.000Z",
+        "description": "頭像是玩推刷到的，覺得好看就用了/.\n我是男的，別發🐔我自己有，別跟沒見過女的一樣，我是男的，我是男的，我是男的/.\n玩推就是看瑟瑟的，有時候說話如果傷到你了可以私聊讓我道謙/.",
+        "id": "1857559547151360000",
+        "location": "距离你1.3km",
+        "name": "卿卿我我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983960173829091329/qj6dGqOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 152,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 186
+        },
+        "username": "yi_ji16412",
+        "verified": false
+      }
+    ]
+  }
+}

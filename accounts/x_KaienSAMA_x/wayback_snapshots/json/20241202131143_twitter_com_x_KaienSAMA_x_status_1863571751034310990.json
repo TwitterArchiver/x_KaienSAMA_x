@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1863571751034310990",
+    "created_at": "2024-12-02T13:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T14:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863571751034310990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845129556400930820",
+          "start": 3,
+          "username": "lilisu_0708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863571751034310990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 414
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863225271475978525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilisu_0708: 躁鬱ルーレット〜!!\n\n　　　　　　　　鬱\n　　　　躁　　　　　　　躁\n　　鬱　　　　　　　　　　　鬱\n\n　躁　　　　　　　　　　　　　躁\n\n 鬱　　　　　　　➹　　　　　    鬱\n\n　躁　　　　　　　　　　　　   躁\n\n　　鬱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1863571751034310990",
+        "created_at": "2024-12-02T13:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T14:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863571751034310990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845129556400930820",
+              "start": 3,
+              "username": "lilisu_0708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863571751034310990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 414
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863225271475978525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilisu_0708: 躁鬱ルーレット〜!!\n\n　　　　　　　　鬱\n　　　　躁　　　　　　　躁\n　　鬱　　　　　　　　　　　鬱\n\n　躁　　　　　　　　　　　　　躁\n\n 鬱　　　　　　　➹　　　　　    鬱\n\n　躁　　　　　　　　　　　　   躁\n\n　　鬱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845129556400930820",
+        "conversation_id": "1863225271475978525",
+        "created_at": "2024-12-01T14:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T15:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863225271475978525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863225271475978525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 42041,
+          "like_count": 4276,
+          "quote_count": 24,
+          "reply_count": 2,
+          "retweet_count": 414
+        },
+        "reply_settings": "everyone",
+        "text": "躁鬱ルーレット〜!!\n\n　　　　　　　　鬱\n　　　　躁　　　　　　　躁\n　　鬱　　　　　　　　　　　鬱\n\n　躁　　　　　　　　　　　　　躁\n\n 鬱　　　　　　　➹　　　　　    鬱\n\n　躁　　　　　　　　　　　　   躁\n\n　　鬱　　　　　　　　　　　鬱\n　　　　躁　　　　　　　躁\n　　　　　　　　鬱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 91,
+          "like_count": 11587,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 3242
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T15:50:09.000Z",
+        "description": "神聖かまってちゃん/ 絵！⇢@suiside__42 / にーらぶ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "suiside__42"
+              }
+            ]
+          }
+        },
+        "id": "1845129556400930820",
+        "location": "ダンくんへ",
+        "name": "ヨーコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858184774441111552/DFNWrrcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 117,
+          "like_count": 1992,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 345
+        },
+        "username": "lilisu_0708",
+        "verified": false
+      }
+    ]
+  }
+}

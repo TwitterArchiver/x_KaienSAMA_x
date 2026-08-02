@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1917205528960442506",
+    "created_at": "2025-04-29T13:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T14:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917205528960442506"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "ルビィちゃん",
+          "probability": 0.8005,
+          "start": 21,
+          "type": "Person"
+        },
+        {
+          "end": 72,
+          "normalized_text": "歩夢ちゃん",
+          "probability": 0.5568,
+          "start": 68,
+          "type": "Person"
+        },
+        {
+          "end": 120,
+          "normalized_text": "四季ちゃん",
+          "probability": 0.6636,
+          "start": 116,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370809768126783488",
+          "start": 3,
+          "username": "JULYSAMA2155282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917205528960442506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916911902971850932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JULYSAMA2155282: ルビィちゃん🍭はーい！🙋🏻‍♀️なにが好き❓チョコミント🍫🍃よりも💖あ♡な♡た💖歩夢ちゃん🐰はーい！🙋🏻‍♀️何が好き❓ストロベリーフレイバー🍓よりも💖あ♡な♡た💖四季ちゃん🧪はーい！🙋🏻‍♀️何が好き❓クッキー&amp;クリーム🍪🧁よりも💖あ…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1917205528960442506].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1917205528960442506",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1917205528960442506"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30966,
+        "height": 1280,
+        "media_key": "13_1916911834218852352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1916911834218852352/img/tB_wH4SKmdZTkVDS.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916911834218852352/vid/avc1/320x568/HvuwdW2Kc2Ys9vUp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916911834218852352/vid/avc1/480x852/IE1ZdBoai1BYsSpo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916911834218852352/vid/avc1/720x1280/zKKOTCYKbAlp9-XG.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1916911834218852352/pl/oL_ILyARGueXLza-.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1916911834218852352"
+          ]
+        },
+        "author_id": "1370809768126783488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1916911902971850932",
+        "created_at": "2025-04-28T17:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T18:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916911902971850932"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "ルビィちゃん",
+              "probability": 0.8378,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 51,
+              "normalized_text": "歩夢ちゃん",
+              "probability": 0.5475,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 99,
+              "normalized_text": "四季ちゃん",
+              "probability": 0.6861,
+              "start": 95,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXZUcHUcwb",
+              "end": 188,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1916911902971850932/video/1",
+              "media_key": "13_1916911834218852352",
+              "start": 165,
+              "url": "https://t.co/RXZUcHUcwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916911902971850932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ルビィちゃん🍭はーい！🙋🏻‍♀️なにが好き❓チョコミント🍫🍃よりも💖あ♡な♡た💖歩夢ちゃん🐰はーい！🙋🏻‍♀️何が好き❓ストロベリーフレイバー🍓よりも💖あ♡な♡た💖四季ちゃん🧪はーい！🙋🏻‍♀️何が好き❓クッキー&amp;クリーム🍪🧁よりも💖あ♡な♡た💖みんな📢はーい！！🙋🏻‍♀️何が好き❓モチロン😈大好き😻AiScReam🍨 https://t.co/RXZUcHUcwb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 131,
+          "like_count": 12304,
+          "listed_count": 3,
+          "media_count": 231,
+          "tweet_count": 5296
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:51:43.000Z",
+        "description": "×芥川夢×喜歡我的可以給我打賞 討厭我的求你不要罵我 女孩子不用過門 @july_akuryu0409 裹垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "july_akuryu0409"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/july._.cos_215…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/july._.cos_21552821",
+                "start": 0,
+                "url": "https://t.co/YC8Kl27WoJ"
+              }
+            ]
+          }
+        },
+        "id": "1370809768126783488",
+        "location": "我在你後方100米",
+        "name": "七月",
+        "pinned_tweet_id": "1850468053340897414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915012561466183680/CezeivVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 199,
+          "like_count": 9291,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/YC8Kl27WoJ",
+        "username": "JULYSAMA2155282",
+        "verified": false
+      }
+    ]
+  }
+}

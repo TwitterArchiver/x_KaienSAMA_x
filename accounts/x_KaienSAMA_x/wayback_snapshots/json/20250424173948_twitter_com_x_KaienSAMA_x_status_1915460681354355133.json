@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915358728339283970"
+      ],
+      "media_source_tweet_id": [
+        "1915360332614447416"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1395440209873887237",
+          "name": "Niconico Chokaigi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1915460681354355133",
+    "created_at": "2025-04-24T17:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T18:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915460681354355133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B1CaGJncmU",
+          "end": 44,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/1915360332614447416/photo/1",
+          "media_key": "3_1915358728339283970",
+          "start": 21,
+          "url": "https://t.co/B1CaGJncmU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915460681354355133",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 770
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915360332614447416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: https://t.co/B1CaGJncmU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 833,
+        "media_key": "3_1915358728339283970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpS4nYwbYAI9gJh.jpg",
+        "width": 1483
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915358728339283970"
+          ],
+          "media_source_tweet_id": [
+            "1915360332614447416"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395440209873887237",
+              "name": "Niconico Chokaigi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1915460681354355133",
+        "created_at": "2025-04-24T17:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T18:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915460681354355133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1CaGJncmU",
+              "end": 44,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/1915360332614447416/photo/1",
+              "media_key": "3_1915358728339283970",
+              "start": 21,
+              "url": "https://t.co/B1CaGJncmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915460681354355133",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 770
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915360332614447416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: https://t.co/B1CaGJncmU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915358728339283970"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395440209873887237",
+              "name": "Niconico Chokaigi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1915360332614447416",
+        "created_at": "2025-04-24T11:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T12:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915360332614447416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1CaGJncmU",
+              "end": 23,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/1915360332614447416/photo/1",
+              "media_key": "3_1915358728339283970",
+              "start": 0,
+              "url": "https://t.co/B1CaGJncmU"
+            },
+            {
+              "display_url": "x.com/needygirl_o/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/needygirl_o/status/1915357550842720587",
+              "start": 24,
+              "url": "https://t.co/KJnkqDnPsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915360332614447416",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 137762,
+          "like_count": 4892,
+          "quote_count": 31,
+          "reply_count": 9,
+          "retweet_count": 770
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915357550842720587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/B1CaGJncmU https://t.co/KJnkqDnPsx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 131,
+          "like_count": 12353,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 5242
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリやめられないね https://t.co/vvQuMSgTJf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 52,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 29,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/x.angelkawaii.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/x.angelkawaii.x/",
+                "start": 0,
+                "url": "https://t.co/XaUNcD4kIo"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483494206371155973/8L2Fs4p0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549759,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 1229,
+          "media_count": 755,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/XaUNcD4kIo",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

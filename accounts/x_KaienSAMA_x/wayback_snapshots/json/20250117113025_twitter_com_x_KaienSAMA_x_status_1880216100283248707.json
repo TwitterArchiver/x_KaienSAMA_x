@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1880216100283248707",
+    "created_at": "2025-01-17T11:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T12:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880216100283248707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1581350595247865857",
+          "start": 3,
+          "username": "rainyuyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880216100283248707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879940367518503067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rainyuyuu: 我也想抱抱你 可是我的几把会先顶到你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1880216100283248707",
+        "created_at": "2025-01-17T11:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T12:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880216100283248707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1581350595247865857",
+              "start": 3,
+              "username": "rainyuyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880216100283248707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879940367518503067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rainyuyuu: 我也想抱抱你 可是我的几把会先顶到你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581350595247865857",
+        "conversation_id": "1879940367518503067",
+        "created_at": "2025-01-16T17:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T18:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879940367518503067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879940367518503067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1483,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想抱抱你 可是我的几把会先顶到你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "再愛我多次。像最初那樣... 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 112,
+          "like_count": 12014,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 3858
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T18:25:59.000Z",
+        "description": "叫我芋芋/雨雨/魚魚｜🚪 💚128/288｜線下🚪520❌非綠｜小女孩快來和我互fol｜ @Diedinrain_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Diedinrain_"
+              }
+            ]
+          }
+        },
+        "id": "1581350595247865857",
+        "location": "你的手心^⌯𖥦⌯^ ੭",
+        "name": "芋雨",
+        "pinned_tweet_id": "1863528860018770101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876683246505009152/9l0L-9aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 205,
+          "like_count": 3384,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1506
+        },
+        "username": "rainyuyuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061402392898445312"
+      ],
+      "media_source_tweet_id": [
+        "2061402400615964994"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "2061812316115718391",
+    "created_at": "2026-06-02T14:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061812316115718391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1579432746778517504",
+          "start": 3,
+          "username": "niihai39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aLSOmHo5h7",
+          "end": 78,
+          "expanded_url": "https://x.com/niihai39/status/2061402400615964994/photo/1",
+          "media_key": "3_2061402392898445312",
+          "start": 55,
+          "url": "https://t.co/aLSOmHo5h7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061812316115718391",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061402400615964994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niihai39: ⠀ ⠀ ⠀\nほんとうは幸せを知っているのに\n不幸なフリやめられないね\n⠀ ⠀ ⠀ https://t.co/aLSOmHo5h7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061402392898445312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuSjffaIAA3H_r.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061402392898445312"
+          ],
+          "media_source_tweet_id": [
+            "2061402400615964994"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "2061812316115718391",
+        "created_at": "2026-06-02T14:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061812316115718391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1579432746778517504",
+              "start": 3,
+              "username": "niihai39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLSOmHo5h7",
+              "end": 78,
+              "expanded_url": "https://x.com/niihai39/status/2061402400615964994/photo/1",
+              "media_key": "3_2061402392898445312",
+              "start": 55,
+              "url": "https://t.co/aLSOmHo5h7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061812316115718391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061402400615964994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niihai39: ⠀ ⠀ ⠀\nほんとうは幸せを知っているのに\n不幸なフリやめられないね\n⠀ ⠀ ⠀ https://t.co/aLSOmHo5h7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061402392898445312"
+          ]
+        },
+        "author_id": "1579432746778517504",
+        "conversation_id": "2061402400615964994",
+        "created_at": "2026-06-01T11:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061402400615964994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLSOmHo5h7",
+              "end": 64,
+              "expanded_url": "https://x.com/niihai39/status/2061402400615964994/photo/1",
+              "media_key": "3_2061402392898445312",
+              "start": 41,
+              "url": "https://t.co/aLSOmHo5h7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061402400615964994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 12836,
+          "like_count": 1542,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "⠀ ⠀ ⠀\nほんとうは幸せを知っているのに\n不幸なフリやめられないね\n⠀ ⠀ ⠀ https://t.co/aLSOmHo5h7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 110,
+          "like_count": 13128,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 7328
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T11:24:57.000Z",
+        "description": "架空の人物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/niihai39",
+                "end": 23,
+                "expanded_url": "https://lit.link/niihai39",
+                "start": 0,
+                "url": "https://t.co/72HhM0nf5u"
+              }
+            ]
+          }
+        },
+        "id": "1579432746778517504",
+        "name": "にーはい",
+        "pinned_tweet_id": "1983846503715324292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055404675571265536/Re5TUPI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25647,
+          "following_count": 191,
+          "like_count": 6942,
+          "listed_count": 92,
+          "media_count": 260,
+          "tweet_count": 5321
+        },
+        "url": "https://t.co/72HhM0nf5u",
+        "username": "niihai39",
+        "verified": true
+      }
+    ]
+  }
+}

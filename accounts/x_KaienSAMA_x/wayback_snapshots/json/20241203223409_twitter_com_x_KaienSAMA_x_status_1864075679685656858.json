@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1864075679685656858",
+    "created_at": "2024-12-03T22:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T23:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864075679685656858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856548003978625024",
+          "start": 3,
+          "username": "gyaku_juji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864075679685656858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862832124547780939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gyaku_juji: 置頂2.0 歡轉\n✙可以叫我逆十字\n✙香港 誕生日2009.08.12\n✙經常放負，發癲\n✙🚪100/200/300\n✙過門後開放好友位\n✙給我錢我會很感謝你\n✙接線下純綠/電子女友 過門查詢\n✙討厭我請去死\n✙歡迎互fol🥺🥺 \n我會努力㗎啦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1864075679685656858",
+        "created_at": "2024-12-03T22:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T23:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864075679685656858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856548003978625024",
+              "start": 3,
+              "username": "gyaku_juji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864075679685656858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862832124547780939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gyaku_juji: 置頂2.0 歡轉\n✙可以叫我逆十字\n✙香港 誕生日2009.08.12\n✙經常放負，發癲\n✙🚪100/200/300\n✙過門後開放好友位\n✙給我錢我會很感謝你\n✙接線下純綠/電子女友 過門查詢\n✙討厭我請去死\n✙歡迎互fol🥺🥺 \n我會努力㗎啦…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862832111121731584",
+            "3_1862832112203927552",
+            "3_1862832121129148416"
+          ]
+        },
+        "author_id": "1856548003978625024",
+        "conversation_id": "1862832124547780939",
+        "created_at": "2024-11-30T12:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T13:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862832124547780939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "地雷妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3IKkCTXwD",
+              "end": 151,
+              "expanded_url": "https://x.com/gyaku_juji/status/1862832124547780939/photo/1",
+              "media_key": "3_1862832111121731584",
+              "start": 128,
+              "url": "https://t.co/g3IKkCTXwD"
+            },
+            {
+              "display_url": "pic.x.com/g3IKkCTXwD",
+              "end": 151,
+              "expanded_url": "https://x.com/gyaku_juji/status/1862832124547780939/photo/1",
+              "media_key": "3_1862832112203927552",
+              "start": 128,
+              "url": "https://t.co/g3IKkCTXwD"
+            },
+            {
+              "display_url": "pic.x.com/g3IKkCTXwD",
+              "end": 151,
+              "expanded_url": "https://x.com/gyaku_juji/status/1862832124547780939/photo/1",
+              "media_key": "3_1862832121129148416",
+              "start": 128,
+              "url": "https://t.co/g3IKkCTXwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862832124547780939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 800,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "置頂2.0 歡轉\n✙可以叫我逆十字\n✙香港 誕生日2009.08.12\n✙經常放負，發癲\n✙🚪100/200/300\n✙過門後開放好友位\n✙給我錢我會很感謝你\n✙接線下純綠/電子女友 過門查詢\n✙討厭我請去死\n✙歡迎互fol🥺🥺 \n我會努力㗎啦\n#地雷妹 https://t.co/g3IKkCTXwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 94,
+          "like_count": 11628,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 3281
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T04:02:26.000Z",
+        "description": "🇭🇰 09 地雷妹經常放負 過門開放好友位",
+        "id": "1856548003978625024",
+        "name": "逆十字",
+        "pinned_tweet_id": "1862832124547780939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861749285567787008/cuHduq33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 14,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 48
+        },
+        "username": "gyaku_juji",
+        "verified": false
+      }
+    ]
+  }
+}

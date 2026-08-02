@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1883105689847091200"
+      ],
+      "media_source_tweet_id": [
+        "1883105712710283281"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1883507571757355140",
+    "created_at": "2025-01-26T13:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T14:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883507571757355140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761106331896033283",
+          "start": 3,
+          "username": "nemurikamisama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kiR2IYaa7z",
+          "end": 54,
+          "expanded_url": "https://x.com/nemurikamisama/status/1883105712710283281/video/1",
+          "media_key": "7_1883105689847091200",
+          "start": 31,
+          "url": "https://t.co/kiR2IYaa7z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883507571757355140",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883105712710283281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nemurikamisama: 太好了又可以意淫了! https://t.co/kiR2IYaa7z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28807,
+        "height": 720,
+        "media_key": "7_1883105689847091200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883105689847091200/pu/img/-e8oxx5z-G9SMol2.jpg",
+        "public_metrics": {
+          "view_count": 11042
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883105689847091200/pu/vid/avc1/360x270/GzLwkMWwgZJ-tRt6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883105689847091200/pu/vid/avc1/480x360/QY27KRvibyYKdG5r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883105689847091200/pu/vid/avc1/960x720/t01eFUsF8AvLqZhm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883105689847091200/pu/pl/49jfhsntn6f33QaC.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883105689847091200"
+          ],
+          "media_source_tweet_id": [
+            "1883105712710283281"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1883507571757355140",
+        "created_at": "2025-01-26T13:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T14:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883507571757355140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761106331896033283",
+              "start": 3,
+              "username": "nemurikamisama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kiR2IYaa7z",
+              "end": 54,
+              "expanded_url": "https://x.com/nemurikamisama/status/1883105712710283281/video/1",
+              "media_key": "7_1883105689847091200",
+              "start": 31,
+              "url": "https://t.co/kiR2IYaa7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883507571757355140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883105712710283281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nemurikamisama: 太好了又可以意淫了! https://t.co/kiR2IYaa7z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883105689847091200"
+          ]
+        },
+        "author_id": "1761106331896033283",
+        "conversation_id": "1883105712710283281",
+        "created_at": "2025-01-25T10:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T11:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883105712710283281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kiR2IYaa7z",
+              "end": 34,
+              "expanded_url": "https://x.com/nemurikamisama/status/1883105712710283281/video/1",
+              "media_key": "7_1883105689847091200",
+              "start": 11,
+              "url": "https://t.co/kiR2IYaa7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883105712710283281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 20929,
+          "like_count": 1396,
+          "quote_count": 34,
+          "reply_count": 8,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "太好了又可以意淫了! https://t.co/kiR2IYaa7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 120,
+          "like_count": 12138,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 3955
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく\n\n@kanakosama0223☜雙胞胎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "kanakosama0223"
+              }
+            ]
+          }
+        },
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "眠大人🪦",
+        "pinned_tweet_id": "1878098084397478005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823308623491330048/nVophlpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8561,
+          "following_count": 25,
+          "like_count": 3358,
+          "listed_count": 11,
+          "media_count": 254,
+          "tweet_count": 1712
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      }
+    ]
+  }
+}

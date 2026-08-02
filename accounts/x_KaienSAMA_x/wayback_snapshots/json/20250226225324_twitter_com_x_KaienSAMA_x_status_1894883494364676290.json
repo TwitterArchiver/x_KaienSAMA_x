@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1894882211780010217",
+    "created_at": "2025-02-26T22:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T23:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894883494364676290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774759734773690368",
+          "start": 0,
+          "username": "tang2780iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894883494364676290",
+    "in_reply_to_user_id": "1774759734773690368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894883340043591970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang2780iz 🫂🫂🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1894882211780010217",
+        "created_at": "2025-02-26T22:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T23:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894883494364676290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774759734773690368",
+              "start": 0,
+              "username": "tang2780iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894883494364676290",
+        "in_reply_to_user_id": "1774759734773690368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894883340043591970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang2780iz 🫂🫂🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774759734773690368",
+        "conversation_id": "1894882211780010217",
+        "created_at": "2025-02-26T22:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T23:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894883340043591970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894883340043591970",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894883278206943677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 謝謝你😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "@kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894730110961655808/e5CKLvjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 131,
+          "like_count": 12870,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 4466
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T11:24:49.000Z",
+        "description": "思想是循環 溫飽思淫慾",
+        "id": "1774759734773690368",
+        "location": "冥界",
+        "name": "膛",
+        "pinned_tweet_id": "1828799084041568325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774760031776559104/tFgInI7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 252,
+          "like_count": 15440,
+          "listed_count": 3,
+          "media_count": 624,
+          "tweet_count": 5802
+        },
+        "username": "tang2780iz",
+        "verified": false
+      }
+    ]
+  }
+}

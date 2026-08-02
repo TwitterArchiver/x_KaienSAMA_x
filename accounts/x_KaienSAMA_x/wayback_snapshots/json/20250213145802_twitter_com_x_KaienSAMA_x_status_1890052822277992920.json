@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889529932050489344"
+      ],
+      "media_source_tweet_id": [
+        "1889529936060248164"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1890052822277992920",
+    "created_at": "2025-02-13T14:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T15:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890052822277992920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1876091920889344000",
+          "start": 3,
+          "username": "bulimiaraivosa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wXocWpn3F5",
+          "end": 43,
+          "expanded_url": "https://x.com/bulimiaraivosa/status/1889529936060248164/photo/1",
+          "media_key": "3_1889529932050489344",
+          "start": 20,
+          "url": "https://t.co/wXocWpn3F5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890052822277992920",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889529936060248164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bulimiaraivosa: https://t.co/wXocWpn3F5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_1889529932050489344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjj1dkhWYAANwap.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889529932050489344"
+          ],
+          "media_source_tweet_id": [
+            "1889529936060248164"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1890052822277992920",
+        "created_at": "2025-02-13T14:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T15:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890052822277992920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1876091920889344000",
+              "start": 3,
+              "username": "bulimiaraivosa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXocWpn3F5",
+              "end": 43,
+              "expanded_url": "https://x.com/bulimiaraivosa/status/1889529936060248164/photo/1",
+              "media_key": "3_1889529932050489344",
+              "start": 20,
+              "url": "https://t.co/wXocWpn3F5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890052822277992920",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889529936060248164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bulimiaraivosa: https://t.co/wXocWpn3F5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889529932050489344"
+          ]
+        },
+        "author_id": "1876091920889344000",
+        "conversation_id": "1889529936060248164",
+        "created_at": "2025-02-12T04:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T05:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889529936060248164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXocWpn3F5",
+              "end": 23,
+              "expanded_url": "https://x.com/bulimiaraivosa/status/1889529936060248164/photo/1",
+              "media_key": "3_1889529932050489344",
+              "start": 0,
+              "url": "https://t.co/wXocWpn3F5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889529936060248164",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 583,
+          "impression_count": 137707,
+          "like_count": 15662,
+          "quote_count": 31,
+          "reply_count": 7,
+          "retweet_count": 3135
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wXocWpn3F5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 130,
+          "like_count": 12695,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 4313
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T02:22:38.000Z",
+        "description": "⋅˚  ₊‧ ୨  ୧ ‧ ₊  ˚\n                                                           🍽                                 #edtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 112,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "1876091920889344000",
+        "location": "𝑩𝒆 𝒂 𝒅𝒐𝒍𝒍",
+        "name": "୨ৎ",
+        "pinned_tweet_id": "1877395658325266461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307936978350080/I5YrSrSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 256,
+          "like_count": 731,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 763
+        },
+        "username": "bulimiaraivosa",
+        "verified": false
+      }
+    ]
+  }
+}

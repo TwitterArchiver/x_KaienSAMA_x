@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1857440251729395834",
+    "created_at": "2024-11-15T15:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T16:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857440251729395834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1568115812489400321",
+          "start": 3,
+          "username": "topclassgourmet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857440251729395834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856585232620884342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @topclassgourmet: 我是隻刺猬，會平等地傷心每個願意靠近我的人，所以到現在沒人願意再靠近我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1857440251729395834",
+        "created_at": "2024-11-15T15:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T16:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857440251729395834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1568115812489400321",
+              "start": 3,
+              "username": "topclassgourmet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857440251729395834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856585232620884342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @topclassgourmet: 我是隻刺猬，會平等地傷心每個願意靠近我的人，所以到現在沒人願意再靠近我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568115812489400321",
+        "conversation_id": "1856585232620884342",
+        "created_at": "2024-11-13T06:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T07:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856585232620884342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856585232620884342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是隻刺猬，會平等地傷心每個願意靠近我的人，所以到現在沒人願意再靠近我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "水池裡的屍體",
+        "name": "泡爛的屍體",
+        "pinned_tweet_id": "1852755428591177880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852738899996733440/96WoqhQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 84,
+          "like_count": 11214,
+          "listed_count": 0,
+          "tweet_count": 2966
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T05:55:25.000Z",
+        "description": "艾琳醬在這裡@linyeshitoude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "linyeshitoude"
+              }
+            ]
+          }
+        },
+        "id": "1568115812489400321",
+        "name": "我不是艾琳是彤",
+        "pinned_tweet_id": "1856774460306817440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854215946489237505/_uzxYpxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 592,
+          "like_count": 13879,
+          "listed_count": 0,
+          "tweet_count": 3265
+        },
+        "username": "topclassgourmet",
+        "verified": false
+      }
+    ]
+  }
+}

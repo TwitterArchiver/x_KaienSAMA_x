@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1896141904544399513",
+    "created_at": "2025-03-02T10:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T11:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896141904544399513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1711376538950856704",
+          "start": 3,
+          "username": "404_erro_tily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896141904544399513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896097822350672050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @404_erro_tily: ———交友貼———\nКАКА🫀\n\n🐣5.6\n\n|地雷系| HK |重焦| 藥物依賴|\n\n同校請避雷🙂‍↕️\n好說話🗣️熟起來比較像AHDH 💩\n沒有特長沒有優點\n請給我多多的愛吧..\n\n女的請和我玩🤲🏻男的別找我謝謝 https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896097815392395264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlBK6snboAAquZ8.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1896141904544399513",
+        "created_at": "2025-03-02T10:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T11:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896141904544399513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1711376538950856704",
+              "start": 3,
+              "username": "404_erro_tily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896141904544399513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896097822350672050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @404_erro_tily: ———交友貼———\nКАКА🫀\n\n🐣5.6\n\n|地雷系| HK |重焦| 藥物依賴|\n\n同校請避雷🙂‍↕️\n好說話🗣️熟起來比較像AHDH 💩\n沒有特長沒有優點\n請給我多多的愛吧..\n\n女的請和我玩🤲🏻男的別找我謝謝 https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896097815392395264"
+          ]
+        },
+        "author_id": "1711376538950856704",
+        "conversation_id": "1896097822350672050",
+        "created_at": "2025-03-02T07:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T08:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896097822350672050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/POtYaEBIKn",
+              "end": 132,
+              "expanded_url": "https://x.com/404_erro_tily/status/1896097822350672050/photo/1",
+              "media_key": "3_1896097815392395264",
+              "start": 109,
+              "url": "https://t.co/POtYaEBIKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896097822350672050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "———交友貼———\nКАКА🫀\n\n🐣5.6\n\n|地雷系| HK |重焦| 藥物依賴|\n\n同校請避雷🙂‍↕️\n好說話🗣️熟起來比較像AHDH 💩\n沒有特長沒有優點\n請給我多多的愛吧..\n\n女的請和我玩🤲🏻男的別找我謝謝 https://t.co/POtYaEBIKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "@kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894730110961655808/e5CKLvjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 128,
+          "like_count": 12834,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 4494
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T13:42:30.000Z",
+        "description": "",
+        "id": "1711376538950856704",
+        "name": "提燈賣肉包",
+        "pinned_tweet_id": "1896096556413223141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712614308679704576/igmqfYFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 63,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "404_erro_tily",
+        "verified": false
+      }
+    ]
+  }
+}

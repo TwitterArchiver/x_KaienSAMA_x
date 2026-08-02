@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1939367235799392260",
+    "created_at": "2025-06-29T16:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T17:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939367235799392260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1787170522381615104",
+          "start": 3,
+          "username": "x_KaienSAMA_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939367235799392260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936867265917710420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_KaienSAMA_x: 真的好討厭自己 我如果完美一點 再完美一點就好了 好討厭這樣的自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1939367235799392260",
+        "created_at": "2025-06-29T16:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T17:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939367235799392260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1787170522381615104",
+              "start": 3,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939367235799392260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936867265917710420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_KaienSAMA_x: 真的好討厭自己 我如果完美一點 再完美一點就好了 好討厭這樣的自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1936867265917710420",
+        "created_at": "2025-06-22T19:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T20:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936867265917710420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936867265917710420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真的好討厭自己 我如果完美一點 再完美一點就好了 好討厭這樣的自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937388734883995648/w12PLFKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 129,
+          "like_count": 12486,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 5729
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

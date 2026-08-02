@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1883139512588763357",
+    "created_at": "2025-01-25T16:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T17:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883190067453468821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856548003978625024",
+          "start": 0,
+          "username": "gyaku_juji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883190067453468821",
+    "in_reply_to_user_id": "1856548003978625024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883139512588763357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gyaku_juji 好看！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1883139512588763357",
+        "created_at": "2025-01-25T16:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T17:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883190067453468821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856548003978625024",
+              "start": 0,
+              "username": "gyaku_juji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883190067453468821",
+        "in_reply_to_user_id": "1856548003978625024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883139512588763357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gyaku_juji 好看！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883139508964921345"
+          ]
+        },
+        "author_id": "1856548003978625024",
+        "conversation_id": "1883139512588763357",
+        "created_at": "2025-01-25T13:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T14:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883139512588763357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/colWFGG7R9",
+              "end": 28,
+              "expanded_url": "https://x.com/gyaku_juji/status/1883139512588763357/photo/1",
+              "media_key": "3_1883139508964921345",
+              "start": 5,
+              "url": "https://t.co/colWFGG7R9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883139512588763357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做好了! https://t.co/colWFGG7R9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 120,
+          "like_count": 12120,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 3938
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T04:02:26.000Z",
+        "description": "你也會離我而去嗎   裏垢@reversecross_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "reversecross_"
+              }
+            ]
+          }
+        },
+        "id": "1856548003978625024",
+        "location": "天國",
+        "name": "逆十字",
+        "pinned_tweet_id": "1874135090881847331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861749285567787008/cuHduq33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 27,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 163
+        },
+        "username": "gyaku_juji",
+        "verified": false
+      }
+    ]
+  }
+}

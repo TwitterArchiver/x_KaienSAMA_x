@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072678281158291458"
+      ],
+      "media_source_tweet_id": [
+        "2072678515095589303"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "2072748681372340627",
+    "created_at": "2026-07-02T18:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072748681372340627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6z7VNM89z5",
+          "end": 46,
+          "expanded_url": "https://x.com/hgds0/status/2072678515095589303/photo/1",
+          "media_key": "3_2072678281158291458",
+          "start": 23,
+          "url": "https://t.co/6z7VNM89z5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072748681372340627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072678515095589303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: : 我的永久人生态度： https://t.co/6z7VNM89z5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_2072678281158291458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOh6kobcAIyu2x.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072678281158291458"
+          ],
+          "media_source_tweet_id": [
+            "2072678515095589303"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "2072748681372340627",
+        "created_at": "2026-07-02T18:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072748681372340627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6z7VNM89z5",
+              "end": 46,
+              "expanded_url": "https://x.com/hgds0/status/2072678515095589303/photo/1",
+              "media_key": "3_2072678281158291458",
+              "start": 23,
+              "url": "https://t.co/6z7VNM89z5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072748681372340627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072678515095589303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: : 我的永久人生态度： https://t.co/6z7VNM89z5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072678281158291458"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2072678515095589303",
+        "created_at": "2026-07-02T13:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072678515095589303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6z7VNM89z5",
+              "end": 35,
+              "expanded_url": "https://x.com/hgds0/status/2072678515095589303/photo/1",
+              "media_key": "3_2072678281158291458",
+              "start": 12,
+              "url": "https://t.co/6z7VNM89z5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072678515095589303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5456,
+          "like_count": 309,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": ": 我的永久人生态度： https://t.co/6z7VNM89z5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 110,
+          "like_count": 13103,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 7383
+        },
+        "url": "",
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97487,
+          "following_count": 2433,
+          "like_count": 45157,
+          "listed_count": 140,
+          "media_count": 4480,
+          "tweet_count": 8892
+        },
+        "url": "",
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

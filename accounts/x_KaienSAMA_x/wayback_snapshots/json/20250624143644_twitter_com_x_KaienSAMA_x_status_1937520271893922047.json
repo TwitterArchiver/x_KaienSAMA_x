@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927655403271159808"
+      ],
+      "media_source_tweet_id": [
+        "1927655414331547885"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1937520271893922047",
+    "created_at": "2025-06-24T14:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T15:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937520271893922047"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 19,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 50,
+          "start": 40,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1813666701030182912",
+          "start": 3,
+          "username": "wyuhi1_kamiro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9KsGBCPgSS",
+          "end": 74,
+          "expanded_url": "https://x.com/wyuhi1_kamiro/status/1927655414331547885/photo/1",
+          "media_key": "3_1927655403271159808",
+          "start": 51,
+          "url": "https://t.co/9KsGBCPgSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937520271893922047",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 241
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927655414331547885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wyuhi1_kamiro: #NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/9KsGBCPgSS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927655403271159808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsBoYElXAAA5llv.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927655403271159808"
+          ],
+          "media_source_tweet_id": [
+            "1927655414331547885"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1937520271893922047",
+        "created_at": "2025-06-24T14:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T15:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937520271893922047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 19,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1813666701030182912",
+              "start": 3,
+              "username": "wyuhi1_kamiro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KsGBCPgSS",
+              "end": 74,
+              "expanded_url": "https://x.com/wyuhi1_kamiro/status/1927655414331547885/photo/1",
+              "media_key": "3_1927655403271159808",
+              "start": 51,
+              "url": "https://t.co/9KsGBCPgSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937520271893922047",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 241
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927655414331547885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wyuhi1_kamiro: #NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/9KsGBCPgSS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927655403271159808"
+          ]
+        },
+        "author_id": "1813666701030182912",
+        "conversation_id": "1927655414331547885",
+        "created_at": "2025-05-28T09:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T10:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927655414331547885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KsGBCPgSS",
+              "end": 55,
+              "expanded_url": "https://x.com/wyuhi1_kamiro/status/1927655414331547885/photo/1",
+              "media_key": "3_1927655403271159808",
+              "start": 32,
+              "url": "https://t.co/9KsGBCPgSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927655414331547885",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 24824,
+          "like_count": 1803,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 241
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/9KsGBCPgSS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937388734883995648/w12PLFKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 130,
+          "like_count": 12435,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 5667
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T20:07:10.000Z",
+        "description": "カミロ|cosplayer ｜日常：@wyuhi1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "wyuhi1"
+              }
+            ]
+          }
+        },
+        "id": "1813666701030182912",
+        "location": "🇨🇳中國人",
+        "name": "Kamiro无忧海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932044098883780608/v1h2c2Xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 245,
+          "like_count": 203,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 102
+        },
+        "username": "wyuhi1_kamiro",
+        "verified": false
+      }
+    ]
+  }
+}

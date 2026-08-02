@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2040591077909176815",
+    "created_at": "2026-04-05T00:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T01:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040591077909176815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550593157876060160",
+          "start": 3,
+          "username": "Fumi_uowou_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040591077909176815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039898456580587631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fumi_uowou_: 說抽煙自私的禁煙逼沒有資格講話\n這麼怕死 不要外出留在家好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2040591077909176815",
+        "created_at": "2026-04-05T00:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040591077909176815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550593157876060160",
+              "start": 3,
+              "username": "Fumi_uowou_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040591077909176815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039898456580587631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fumi_uowou_: 說抽煙自私的禁煙逼沒有資格講話\n這麼怕死 不要外出留在家好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550593157876060160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2039898456580587631",
+        "created_at": "2026-04-03T02:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039898456580587631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039898456580587631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "說抽煙自私的禁煙逼沒有資格講話\n這麼怕死 不要外出留在家好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "哪怕有一天我撐不住了 也請不要恨我 請原諒我 好嗎\n此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 119,
+          "like_count": 13068,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 7096
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷系｜永遠の16歳 ｜社不",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "ふみわんちゃん🦭🌧️",
+        "pinned_tweet_id": "2020858399106248987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990852953499185154/HwgnW6Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 137,
+          "like_count": 19112,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 2598
+        },
+        "username": "Fumi_uowou_",
+        "verified": false
+      }
+    ]
+  }
+}

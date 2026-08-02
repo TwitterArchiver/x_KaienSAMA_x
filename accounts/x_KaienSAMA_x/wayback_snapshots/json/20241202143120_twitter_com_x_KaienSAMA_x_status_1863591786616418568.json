@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1863591786616418568",
+    "created_at": "2024-12-02T14:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T15:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863591786616418568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1225762999488503809",
+          "start": 3,
+          "username": "StelleAymond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863591786616418568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863441575080321218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StelleAymond: 一个无足轻重的人, 一个内心空虚, 令人反感的人，这个卑贱无足轻重的人, 对生活充满了怎样的渴望和幢憬！选择死亡并非难事，关干死亡我一无所知，为什么在苍穹中闪亮的星星总是那么的遥不可及？或许只有死亡才能到达那浩瀚的星河！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1863591786616418568",
+        "created_at": "2024-12-02T14:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T15:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863591786616418568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1225762999488503809",
+              "start": 3,
+              "username": "StelleAymond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863591786616418568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863441575080321218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StelleAymond: 一个无足轻重的人, 一个内心空虚, 令人反感的人，这个卑贱无足轻重的人, 对生活充满了怎样的渴望和幢憬！选择死亡并非难事，关干死亡我一无所知，为什么在苍穹中闪亮的星星总是那么的遥不可及？或许只有死亡才能到达那浩瀚的星河！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225762999488503809",
+        "conversation_id": "1863441575080321218",
+        "created_at": "2024-12-02T04:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T05:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863441575080321218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863441575080321218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个无足轻重的人, 一个内心空虚, 令人反感的人，这个卑贱无足轻重的人, 对生活充满了怎样的渴望和幢憬！选择死亡并非难事，关干死亡我一无所知，为什么在苍穹中闪亮的星星总是那么的遥不可及？或许只有死亡才能到达那浩瀚的星河！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 93,
+          "like_count": 11617,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 3254
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-07T12:47:36.000Z",
+        "description": "rain_meow砂糖｜画画｜化学｜药理｜毒理｜拉康｜精分｜后朋克｜神经兮兮｜静脉放血｜自残狂热｜精神病院在逃人员｜屯钱留日｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Over_Dose_Wiki",
+                "end": 23,
+                "expanded_url": "https://t.me/Over_Dose_Wiki",
+                "start": 0,
+                "url": "https://t.co/jCH2zcFk5e"
+              }
+            ]
+          }
+        },
+        "id": "1225762999488503809",
+        "location": "Hell",
+        "name": "StelleAymond",
+        "pinned_tweet_id": "1863460537222447356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821011122113404929/OgK6xPtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 171,
+          "like_count": 1907,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/jCH2zcFk5e",
+        "username": "StelleAymond",
+        "verified": false
+      }
+    ]
+  }
+}

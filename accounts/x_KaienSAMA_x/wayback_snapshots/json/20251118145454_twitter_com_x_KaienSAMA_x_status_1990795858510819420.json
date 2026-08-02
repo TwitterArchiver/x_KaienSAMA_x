@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1990795858510819420",
+    "created_at": "2025-11-18T14:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T15:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990795858510819420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856548003978625024",
+          "start": 3,
+          "username": "gyaku_juji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990795858510819420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990705049627144517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gyaku_juji: 逆十字です\n\n🇭🇰 | 0812 | 地雷妹 | Coser\n\n✬請叫我逆十字 叫逆十字大人我更開心\n✩容貌焦慮max 高P仔 線下很醜\n✬經常發瘋 請安慰我不然我會傷心\n✩喜歡我請給我錢 長期缺錢  \n✬門檻100 求你了入我門吧🥺 https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990705039753818115",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Bnr7sbMAMBX36.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990705039703465985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Bnr7ga4AEKPh2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990705039653154818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Bnr7UbMAITf-t.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1990795858510819420",
+        "created_at": "2025-11-18T14:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990795858510819420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856548003978625024",
+              "start": 3,
+              "username": "gyaku_juji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990795858510819420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990705049627144517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gyaku_juji: 逆十字です\n\n🇭🇰 | 0812 | 地雷妹 | Coser\n\n✬請叫我逆十字 叫逆十字大人我更開心\n✩容貌焦慮max 高P仔 線下很醜\n✬經常發瘋 請安慰我不然我會傷心\n✩喜歡我請給我錢 長期缺錢  \n✬門檻100 求你了入我門吧🥺 https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990705039753818115",
+            "3_1990705039703465985",
+            "3_1990705039653154818"
+          ]
+        },
+        "author_id": "1856548003978625024",
+        "conversation_id": "1990705049627144517",
+        "created_at": "2025-11-18T08:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990705049627144517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L18M2PzKA1",
+              "end": 141,
+              "expanded_url": "https://x.com/gyaku_juji/status/1990705049627144517/photo/1",
+              "media_key": "3_1990705039753818115",
+              "start": 118,
+              "url": "https://t.co/L18M2PzKA1"
+            },
+            {
+              "display_url": "pic.x.com/L18M2PzKA1",
+              "end": 141,
+              "expanded_url": "https://x.com/gyaku_juji/status/1990705049627144517/photo/1",
+              "media_key": "3_1990705039703465985",
+              "start": 118,
+              "url": "https://t.co/L18M2PzKA1"
+            },
+            {
+              "display_url": "pic.x.com/L18M2PzKA1",
+              "end": 141,
+              "expanded_url": "https://x.com/gyaku_juji/status/1990705049627144517/photo/1",
+              "media_key": "3_1990705039653154818",
+              "start": 118,
+              "url": "https://t.co/L18M2PzKA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990705049627144517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1211,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "逆十字です\n\n🇭🇰 | 0812 | 地雷妹 | Coser\n\n✬請叫我逆十字 叫逆十字大人我更開心\n✩容貌焦慮max 高P仔 線下很醜\n✬經常發瘋 請安慰我不然我會傷心\n✩喜歡我請給我錢 長期缺錢  \n✬門檻100 求你了入我門吧🥺 https://t.co/L18M2PzKA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1986012257122480303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 124,
+          "like_count": 12895,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 6681
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T04:02:26.000Z",
+        "description": "🇭🇰｜裏垢@reversecross_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "reversecross_"
+              }
+            ]
+          }
+        },
+        "id": "1856548003978625024",
+        "location": "天國",
+        "name": "逆十字",
+        "pinned_tweet_id": "1990705049627144517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861749285567787008/cuHduq33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 74,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 803
+        },
+        "username": "gyaku_juji",
+        "verified": false
+      }
+    ]
+  }
+}

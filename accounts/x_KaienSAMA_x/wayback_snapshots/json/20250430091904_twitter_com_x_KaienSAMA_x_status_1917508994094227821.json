@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1917225159343411282",
+    "created_at": "2025-04-30T09:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T10:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917508994094227821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838523253230571521",
+          "start": 0,
+          "username": "54mlXN82Zl30826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917508994094227821",
+    "in_reply_to_user_id": "1838523253230571521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917226088096514254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@54mlXN82Zl30826 不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1917225159343411282",
+        "created_at": "2025-04-30T09:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T10:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917508994094227821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838523253230571521",
+              "start": 0,
+              "username": "54mlXN82Zl30826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917508994094227821",
+        "in_reply_to_user_id": "1838523253230571521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917226088096514254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@54mlXN82Zl30826 不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838523253230571521",
+        "conversation_id": "1917225159343411282",
+        "created_at": "2025-04-29T14:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917226088096514254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917226088096514254",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917225159343411282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x Why"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 130,
+          "like_count": 12304,
+          "listed_count": 3,
+          "media_count": 231,
+          "tweet_count": 5300
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T10:18:18.000Z",
+        "description": "",
+        "id": "1838523253230571521",
+        "location": "Hong Kong",
+        "name": "zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875182492594188288/Nn0-xEXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 177,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 49
+        },
+        "username": "54mlXN82Zl30826",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869050012170387456"
+      ],
+      "media_source_tweet_id": [
+        "1869050022777778333"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1869395954191024312",
+    "created_at": "2024-12-18T14:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T15:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869395954191024312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1815972055008804864",
+          "start": 3,
+          "username": "kaerudesu8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QKJD1XKSWG",
+          "end": 96,
+          "expanded_url": "https://x.com/kaerudesu8964/status/1869050022777778333/photo/1",
+          "media_key": "3_1869050012170387456",
+          "start": 73,
+          "url": "https://t.co/QKJD1XKSWG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869395954191024312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869050022777778333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaerudesu8964: 好不容易16歲生日啦啊啊！\n妳萌看看我主頁可不可以戳氣球捏\n我花了四天指繪完成的這幅畫，推友萌可以轉一轉🥺 https://t.co/QKJD1XKSWG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1869050012170387456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfAzFVrbAAAwr_M.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869050012170387456"
+          ],
+          "media_source_tweet_id": [
+            "1869050022777778333"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1869395954191024312",
+        "created_at": "2024-12-18T14:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T15:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869395954191024312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1815972055008804864",
+              "start": 3,
+              "username": "kaerudesu8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKJD1XKSWG",
+              "end": 96,
+              "expanded_url": "https://x.com/kaerudesu8964/status/1869050022777778333/photo/1",
+              "media_key": "3_1869050012170387456",
+              "start": 73,
+              "url": "https://t.co/QKJD1XKSWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869395954191024312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869050022777778333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaerudesu8964: 好不容易16歲生日啦啊啊！\n妳萌看看我主頁可不可以戳氣球捏\n我花了四天指繪完成的這幅畫，推友萌可以轉一轉🥺 https://t.co/QKJD1XKSWG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869050012170387456"
+          ]
+        },
+        "author_id": "1815972055008804864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1869050022777778333",
+        "created_at": "2024-12-17T16:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T17:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869050022777778333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKJD1XKSWG",
+              "end": 77,
+              "expanded_url": "https://x.com/kaerudesu8964/status/1869050022777778333/photo/1",
+              "media_key": "3_1869050012170387456",
+              "start": 54,
+              "url": "https://t.co/QKJD1XKSWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869050022777778333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1709,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "好不容易16歲生日啦啊啊！\n妳萌看看我主頁可不可以戳氣球捏\n我花了四天指繪完成的這幅畫，推友萌可以轉一轉🥺 https://t.co/QKJD1XKSWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868333295408410624/a-QiuFaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 103,
+          "like_count": 11794,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 3457
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T04:47:53.000Z",
+        "description": "👁️",
+        "id": "1815972055008804864",
+        "location": "賽博空間",
+        "name": "歌絵イキル",
+        "pinned_tweet_id": "1867959325550952949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863601722901299200/0zlt0D7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 350,
+          "like_count": 19742,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2030
+        },
+        "username": "kaerudesu8964",
+        "verified": false
+      }
+    ]
+  }
+}

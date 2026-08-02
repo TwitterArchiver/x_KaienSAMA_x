@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1890701245850980469",
+    "created_at": "2025-02-15T09:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T10:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890701245850980469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774759734773690368",
+          "start": 3,
+          "username": "tang2780iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890701245850980469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890632661523132676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tang2780iz: 學數學就是腦子被輪姦還戴套 操難受了知識也沒滲進來"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1890701245850980469",
+        "created_at": "2025-02-15T09:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T10:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890701245850980469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774759734773690368",
+              "start": 3,
+              "username": "tang2780iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890701245850980469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890632661523132676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tang2780iz: 學數學就是腦子被輪姦還戴套 操難受了知識也沒滲進來"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774759734773690368",
+        "conversation_id": "1890632661523132676",
+        "created_at": "2025-02-15T05:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T06:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890632661523132676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890632661523132676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "學數學就是腦子被輪姦還戴套 操難受了知識也沒滲進來"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 130,
+          "like_count": 12713,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 4348
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T11:24:49.000Z",
+        "description": "思想是循環 溫飽思淫慾",
+        "id": "1774759734773690368",
+        "location": "冥界",
+        "name": "膛",
+        "pinned_tweet_id": "1828799084041568325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774760031776559104/tFgInI7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 251,
+          "like_count": 15311,
+          "listed_count": 3,
+          "media_count": 622,
+          "tweet_count": 5750
+        },
+        "username": "tang2780iz",
+        "verified": false
+      }
+    ]
+  }
+}

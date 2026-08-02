@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919099276225093632"
+      ],
+      "media_source_tweet_id": [
+        "1919099278477381772"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1919241309681766710",
+    "created_at": "2025-05-05T04:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T05:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919241309681766710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512834058820022281",
+          "start": 3,
+          "username": "yins_chan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7dp4111YJ5",
+          "end": 47,
+          "expanded_url": "https://x.com/yins_chan_/status/1919099278477381772/photo/1",
+          "media_key": "3_1919099276225093632",
+          "start": 24,
+          "url": "https://t.co/7dp4111YJ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919241309681766710",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919099278477381772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yins_chan_: 👅\n呢張好得意 https://t.co/7dp4111YJ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1766,
+        "media_key": "3_1919099276225093632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqICn7gbIAAUmjM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919099276225093632"
+          ],
+          "media_source_tweet_id": [
+            "1919099278477381772"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1919241309681766710",
+        "created_at": "2025-05-05T04:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T05:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919241309681766710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512834058820022281",
+              "start": 3,
+              "username": "yins_chan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dp4111YJ5",
+              "end": 47,
+              "expanded_url": "https://x.com/yins_chan_/status/1919099278477381772/photo/1",
+              "media_key": "3_1919099276225093632",
+              "start": 24,
+              "url": "https://t.co/7dp4111YJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919241309681766710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919099278477381772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yins_chan_: 👅\n呢張好得意 https://t.co/7dp4111YJ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919099276225093632"
+          ]
+        },
+        "author_id": "1512834058820022281",
+        "conversation_id": "1919099278477381772",
+        "created_at": "2025-05-04T18:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T19:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919099278477381772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dp4111YJ5",
+              "end": 31,
+              "expanded_url": "https://x.com/yins_chan_/status/1919099278477381772/photo/1",
+              "media_key": "3_1919099276225093632",
+              "start": 8,
+              "url": "https://t.co/7dp4111YJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919099278477381772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 279,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "👅\n呢張好得意 https://t.co/7dp4111YJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 130,
+          "like_count": 12314,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 5222
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T16:45:27.000Z",
+        "description": "只是要對世界保持依戀實在太難了",
+        "id": "1512834058820022281",
+        "location": "Hell 距離你所在的地方100米以內",
+        "name": "意志蠶食者",
+        "pinned_tweet_id": "1884301640192385506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545350024845881346/DZLFap_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 261,
+          "like_count": 91962,
+          "listed_count": 4,
+          "media_count": 486,
+          "tweet_count": 11392
+        },
+        "username": "yins_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

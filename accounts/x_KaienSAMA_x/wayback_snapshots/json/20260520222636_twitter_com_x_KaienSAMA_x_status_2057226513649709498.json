@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2056712552978202813",
+    "created_at": "2026-05-20T22:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T23:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057226513649709498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "93881424",
+          "start": 0,
+          "username": "ManJamesChow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057226513649709498",
+    "in_reply_to_user_id": "93881424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056744615395622933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ManJamesChow 有人想我戒、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2056712552978202813",
+        "created_at": "2026-05-20T22:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057226513649709498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "93881424",
+              "start": 0,
+              "username": "ManJamesChow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057226513649709498",
+        "in_reply_to_user_id": "93881424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056744615395622933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ManJamesChow 有人想我戒、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "93881424",
+        "conversation_id": "2056712552978202813",
+        "created_at": "2026-05-19T14:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056744615395622933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056744615395622933",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056712552978202813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 點解要戒煙？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 110,
+          "like_count": 13111,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 7291
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-01T15:33:56.000Z",
+        "description": "",
+        "id": "93881424",
+        "location": "Hong Kong",
+        "name": "肉隨長白山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891752015891730432/VVJn6YKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 393,
+          "like_count": 851,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 1133
+        },
+        "username": "ManJamesChow",
+        "verified": false
+      }
+    ]
+  }
+}

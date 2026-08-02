@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2040738037924282781",
+    "created_at": "2026-04-05T10:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T11:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040738037924282781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1952381617391226880",
+          "start": 3,
+          "username": "shukatsuoba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040738037924282781",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5551
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040059933102858413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @shukatsuoba: 死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ね…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2040738037924282781",
+        "created_at": "2026-04-05T10:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040738037924282781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952381617391226880",
+              "start": 3,
+              "username": "shukatsuoba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040738037924282781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5551
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040059933102858413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @shukatsuoba: 死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ね…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952381617391226880",
+        "conversation_id": "2040059933102858413",
+        "created_at": "2026-04-03T13:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040059933102858413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040059933102858413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1134,
+          "impression_count": 1113783,
+          "like_count": 33996,
+          "quote_count": 485,
+          "reply_count": 37,
+          "retweet_count": 5551
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決\n死ねば全部解決"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "哪怕有一天我撐不住了 也請不要恨我 請原諒我 好嗎\n此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 119,
+          "like_count": 13078,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 7099
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T14:50:48.000Z",
+        "description": "死の大ファン　安楽死したい",
+        "id": "1952381617391226880",
+        "name": "歩(アユム)",
+        "pinned_tweet_id": "1983153601926365659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984560850116726784/rT_9uTqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 60,
+          "like_count": 25714,
+          "listed_count": 9,
+          "media_count": 81,
+          "tweet_count": 1774
+        },
+        "username": "shukatsuoba",
+        "verified": false
+      }
+    ]
+  }
+}

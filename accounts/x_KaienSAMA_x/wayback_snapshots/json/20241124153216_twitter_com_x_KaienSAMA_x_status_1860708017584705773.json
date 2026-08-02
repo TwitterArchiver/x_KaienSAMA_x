@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1860708017584705773",
+    "created_at": "2024-11-24T15:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T16:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860708017584705773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776244998289412096",
+          "start": 3,
+          "username": "Linn__xiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860708017584705773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860547842487800268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Linn__xiii: 總是有種「這個人生不是我的人生」的感覺，我就快要死在這樣的迷茫與焦慮中了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1860708017584705773",
+        "created_at": "2024-11-24T15:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T16:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860708017584705773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776244998289412096",
+              "start": 3,
+              "username": "Linn__xiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860708017584705773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860547842487800268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Linn__xiii: 總是有種「這個人生不是我的人生」的感覺，我就快要死在這樣的迷茫與焦慮中了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776244998289412096",
+        "conversation_id": "1860547842487800268",
+        "created_at": "2024-11-24T04:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T05:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860547842487800268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860547842487800268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "總是有種「這個人生不是我的人生」的感覺，我就快要死在這樣的迷茫與焦慮中了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩味薯條",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858797048113586176/qXOd1Vqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 87,
+          "like_count": 11416,
+          "listed_count": 0,
+          "tweet_count": 3121
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T13:46:30.000Z",
+        "description": "#shtwt 06｜台灣｜自傷｜OD｜CN/EN｜DM⭕️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1776244998289412096",
+        "name": "綾溪",
+        "pinned_tweet_id": "1843875536965382149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825870665834225664/TRFH3xb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 98,
+          "like_count": 1362,
+          "listed_count": 0,
+          "tweet_count": 528
+        },
+        "username": "Linn__xiii",
+        "verified": false
+      }
+    ]
+  }
+}

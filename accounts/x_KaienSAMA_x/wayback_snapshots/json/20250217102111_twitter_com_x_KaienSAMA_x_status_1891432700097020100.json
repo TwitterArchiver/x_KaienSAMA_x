@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1891432700097020100",
+    "created_at": "2025-02-17T10:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T11:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891432700097020100"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 85,
+          "tag": "女主播重度依賴"
+        },
+        {
+          "end": 112,
+          "start": 94,
+          "tag": "needygirloverdose"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "糖糖"
+        },
+        {
+          "end": 123,
+          "start": 117,
+          "tag": "糖糖cos"
+        },
+        {
+          "end": 133,
+          "start": 124,
+          "tag": "絕對最可愛超天醬"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "超天醬"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1476134363989372934",
+          "start": 3,
+          "username": "pain4uuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891432700097020100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824809347089654242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pain4uuu: p～吶🥺吃蛋糕嚕🎀\n. (\\ーーー(\\.ﾟ+:｡ 　\n.′　　　 　 `．☆ \n!　､､＞ω＜, ！.+ ｡ \n *、＿u＿_u,ノみゅ♡ \n#女主播重度依賴 #needygirloverdose #糖糖 #糖糖cos #絕對最可愛超天醬 #超天醬…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1891432700097020100].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1891432700097020100",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1891432700097020100"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824809304366673920"
+          ]
+        },
+        "author_id": "1476134363989372934",
+        "conversation_id": "1824809347089654242",
+        "created_at": "2024-08-17T14:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T15:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824809347089654242"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 71,
+              "tag": "女主播重度依賴"
+            },
+            {
+              "end": 98,
+              "start": 80,
+              "tag": "needygirloverdose"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "糖糖"
+            },
+            {
+              "end": 109,
+              "start": 103,
+              "tag": "糖糖cos"
+            },
+            {
+              "end": 119,
+              "start": 110,
+              "tag": "絕對最可愛超天醬"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "超天醬"
+            },
+            {
+              "end": 132,
+              "start": 125,
+              "tag": "超天醬cos"
+            },
+            {
+              "end": 140,
+              "start": 133,
+              "tag": "kangel"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "ame"
+            },
+            {
+              "end": 161,
+              "start": 146,
+              "tag": "internetyamero"
+            },
+            {
+              "end": 168,
+              "start": 162,
+              "tag": "あめちゃん"
+            },
+            {
+              "end": 174,
+              "start": 169,
+              "tag": "rain"
+            },
+            {
+              "end": 197,
+              "start": 175,
+              "tag": "needystreameroverload"
+            },
+            {
+              "end": 206,
+              "start": 198,
+              "tag": "女主播重度依赖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiLLmfpE31",
+              "end": 230,
+              "expanded_url": "https://x.com/pain4uuu/status/1824809347089654242/photo/1",
+              "media_key": "3_1824809304366673920",
+              "start": 207,
+              "url": "https://t.co/CiLLmfpE31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824809347089654242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3289,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "p～吶🥺吃蛋糕嚕🎀\n. (\\ーーー(\\.ﾟ+:｡ 　\n.′　　　 　 `．☆ \n!　､､＞ω＜, ！.+ ｡ \n *、＿u＿_u,ノみゅ♡ \n#女主播重度依賴 #needygirloverdose #糖糖 #糖糖cos #絕對最可愛超天醬 #超天醬 #超天醬cos #kangel #ame\n#internetyamero #あめちゃん #rain\n#needystreameroverload #女主播重度依赖 https://t.co/CiLLmfpE31"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 130,
+          "like_count": 12765,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 4379
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T10:14:05.000Z",
+        "description": "shtwt⚠️愛來自瓷器 80🚪限聊天/朋友圈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+lOMIDR2igJQ5O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+lOMIDR2igJQ5OTk9",
+                "start": 0,
+                "url": "https://t.co/7LmFW3czDB"
+              }
+            ]
+          }
+        },
+        "id": "1476134363989372934",
+        "name": "朝我頭上開一槍3.0",
+        "pinned_tweet_id": "1888621038646517922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888608647800074241/zFTZlJF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 138,
+          "like_count": 5393,
+          "listed_count": 3,
+          "media_count": 522,
+          "tweet_count": 2081
+        },
+        "url": "https://t.co/7LmFW3czDB",
+        "username": "pain4uuu",
+        "verified": false
+      }
+    ]
+  }
+}

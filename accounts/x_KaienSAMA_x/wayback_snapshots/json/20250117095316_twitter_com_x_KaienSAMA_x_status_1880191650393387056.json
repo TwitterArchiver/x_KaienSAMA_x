@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1880191650393387056",
+    "created_at": "2025-01-17T09:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T10:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880191650393387056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812797664347717632",
+          "start": 3,
+          "username": "kurushi_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880191650393387056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880178966709039489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurushi_qwq: 我覺得自己好醜，誒🥲好想變靚女😞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1880191650393387056",
+        "created_at": "2025-01-17T09:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T10:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880191650393387056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812797664347717632",
+              "start": 3,
+              "username": "kurushi_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880191650393387056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880178966709039489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurushi_qwq: 我覺得自己好醜，誒🥲好想變靚女😞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812797664347717632",
+        "conversation_id": "1880178966709039489",
+        "created_at": "2025-01-17T09:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T10:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880178966709039489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880178966709039489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我覺得自己好醜，誒🥲好想變靚女😞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "再愛我多次。像最初那樣... 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 112,
+          "like_count": 12005,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 3855
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T10:33:49.000Z",
+        "description": "來自香港的血液草莓",
+        "id": "1812797664347717632",
+        "location": "蒼白天國",
+        "name": "usagi",
+        "pinned_tweet_id": "1869870325779099838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861727078774898691/AWUBOMVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 251,
+          "like_count": 3267,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 711
+        },
+        "username": "kurushi_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

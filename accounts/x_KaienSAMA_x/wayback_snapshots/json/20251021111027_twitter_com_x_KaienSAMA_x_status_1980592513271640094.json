@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1980592513271640094",
+    "created_at": "2025-10-21T11:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T12:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980592513271640094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1285531839776436225",
+          "start": 3,
+          "username": "ka0402long"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980592513271640094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979977138054091066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ka0402long: 一直以來自己一個人的過\n\n雖然我對人都是很真誠的\n可能是我喜歡的 都不喜歡我\n或是不會當我是對象吧\n\n有期望才會失望吧\n沒辦法..世界不改變... 改變自己好了\n不抱期望的活着其實不太差的\n是有點像行屍走肉吧\n\n直至你的出現\n雖然我們開始很奇怪…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980592513271640094].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980592513271640094",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980592513271640094"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1057,
+        "media_key": "3_1979977133637185536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3pKtnHXMAAALou.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979977133637185536"
+          ]
+        },
+        "author_id": "1285531839776436225",
+        "conversation_id": "1979977138054091066",
+        "created_at": "2025-10-19T18:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T19:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979977138054091066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 160,
+              "id": "1370809768126783488",
+              "start": 144,
+              "username": "JULYSAMA2155282"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bv5oDzi3wc",
+              "end": 184,
+              "expanded_url": "https://x.com/ka0402long/status/1979977138054091066/photo/1",
+              "media_key": "3_1979977133637185536",
+              "start": 161,
+              "url": "https://t.co/bv5oDzi3wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979977138054091066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 636,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "一直以來自己一個人的過\n\n雖然我對人都是很真誠的\n可能是我喜歡的 都不喜歡我\n或是不會當我是對象吧\n\n有期望才會失望吧\n沒辦法..世界不改變... 改變自己好了\n不抱期望的活着其實不太差的\n是有點像行屍走肉吧\n\n直至你的出現\n雖然我們開始很奇怪\n未來如何我也不知道\n\n但 謝謝你\n我愛你\n@JULYSAMA2155282 https://t.co/bv5oDzi3wc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 127,
+          "like_count": 12787,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 6526
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T11:07:43.000Z",
+        "description": "神經很大條：\n節瓜咁大條\n你點頂得了",
+        "id": "1285531839776436225",
+        "location": "是非之地",
+        "name": "防側漏夜用裝B男",
+        "pinned_tweet_id": "1850698674688725432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925192125790269440/WAzLZVT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 310,
+          "like_count": 4318,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1474
+        },
+        "username": "ka0402long",
+        "verified": false
+      }
+    ]
+  }
+}

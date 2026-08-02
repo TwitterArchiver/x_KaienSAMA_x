@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966714834256592896"
+      ],
+      "media_source_tweet_id": [
+        "1966714842796175637"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1966899484539163134",
+    "created_at": "2025-09-13T16:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T17:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966899484539163134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1565912505200693248",
+          "start": 3,
+          "username": "sabanose_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mvynoAnCM0",
+          "end": 42,
+          "expanded_url": "https://x.com/sabanose_/status/1966714842796175637/photo/1",
+          "media_key": "3_1966714834256592896",
+          "start": 19,
+          "url": "https://t.co/mvynoAnCM0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966899484539163134",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966714842796175637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sabanose_: ⟡.· https://t.co/mvynoAnCM0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_1966714834256592896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ssuL5bAAAbWqd.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966714834256592896"
+          ],
+          "media_source_tweet_id": [
+            "1966714842796175637"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1966899484539163134",
+        "created_at": "2025-09-13T16:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T17:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966899484539163134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565912505200693248",
+              "start": 3,
+              "username": "sabanose_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvynoAnCM0",
+              "end": 42,
+              "expanded_url": "https://x.com/sabanose_/status/1966714842796175637/photo/1",
+              "media_key": "3_1966714834256592896",
+              "start": 19,
+              "url": "https://t.co/mvynoAnCM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966899484539163134",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966714842796175637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sabanose_: ⟡.· https://t.co/mvynoAnCM0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966714834256592896"
+          ]
+        },
+        "author_id": "1565912505200693248",
+        "conversation_id": "1966714842796175637",
+        "created_at": "2025-09-13T04:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966714842796175637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvynoAnCM0",
+              "end": 27,
+              "expanded_url": "https://x.com/sabanose_/status/1966714842796175637/photo/1",
+              "media_key": "3_1966714834256592896",
+              "start": 4,
+              "url": "https://t.co/mvynoAnCM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966714842796175637",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 15363,
+          "like_count": 1415,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "⟡.· https://t.co/mvynoAnCM0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 126,
+          "like_count": 12685,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 6309
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T04:00:48.000Z",
+        "description": "｜ﾌｧﾝﾏ【🌐🐟】｜ FA ｸﾞｯｽﾞ #𓆜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 20,
+                "tag": "𓆜"
+              }
+            ]
+          }
+        },
+        "id": "1565912505200693248",
+        "location": "無断転載 無断使用 ✖️",
+        "name": "鯖ノ瀬",
+        "pinned_tweet_id": "1956330313556107331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922660405882552320/SgrPyW5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12309,
+          "following_count": 58,
+          "like_count": 10379,
+          "listed_count": 59,
+          "media_count": 299,
+          "tweet_count": 11239
+        },
+        "username": "sabanose_",
+        "verified": false
+      }
+    ]
+  }
+}

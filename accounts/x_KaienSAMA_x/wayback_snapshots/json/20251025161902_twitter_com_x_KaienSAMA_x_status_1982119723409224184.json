@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1982119723409224184",
+    "created_at": "2025-10-25T16:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T17:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982119723409224184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906566164582612992",
+          "start": 3,
+          "username": "Yorutomei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982119723409224184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980600598585307610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yorutomei: 雖說適量切割比抽煙健康\n\n可是自身的痛苦很難說完全由自己造成的 因為他人的欺壓在自己身上留痛留疤痕 自尊慢慢地不允許了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1982119723409224184",
+        "created_at": "2025-10-25T16:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T17:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982119723409224184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906566164582612992",
+              "start": 3,
+              "username": "Yorutomei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982119723409224184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980600598585307610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yorutomei: 雖說適量切割比抽煙健康\n\n可是自身的痛苦很難說完全由自己造成的 因為他人的欺壓在自己身上留痛留疤痕 自尊慢慢地不允許了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906566164582612992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1980600598585307610",
+        "created_at": "2025-10-21T11:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980600598585307610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980600598585307610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1843,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "雖說適量切割比抽煙健康\n\n可是自身的痛苦很難說完全由自己造成的 因為他人的欺壓在自己身上留痛留疤痕 自尊慢慢地不允許了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 127,
+          "like_count": 12822,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 6556
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-09T17:13:11.000Z",
+        "description": "ℂ𝕙𝕒𝕠𝕥𝕚𝕔｜ 𝕡𝕒𝕟 ｜𝕤𝕨𝕚𝕥𝕔𝕙｜網癮女大｜只看不做的變態 ｜分身@yorutorei｜我是正版盜圖者斷腳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "yorutorei"
+              }
+            ]
+          }
+        },
+        "id": "906566164582612992",
+        "location": "Hong Kong",
+        "name": "澪♱",
+        "pinned_tweet_id": "1867974380489519528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832095718296723456/7uVswivY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21716,
+          "following_count": 625,
+          "like_count": 9869,
+          "listed_count": 36,
+          "media_count": 192,
+          "tweet_count": 2800
+        },
+        "username": "Yorutomei",
+        "verified": false
+      }
+    ]
+  }
+}

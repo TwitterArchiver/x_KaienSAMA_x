@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990796230751105026"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1990796246328684580",
+    "created_at": "2025-11-18T14:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T15:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990796246328684580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7qeA0pkWDr",
+          "end": 26,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1990796246328684580/photo/1",
+          "media_key": "3_1990796230751105026",
+          "start": 3,
+          "url": "https://t.co/7qeA0pkWDr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990796246328684580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前 https://t.co/7qeA0pkWDr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1990796230751105026",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6C6n8obMAIi_AX.jpg",
+        "width": 2732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990796230751105026"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1990796246328684580",
+        "created_at": "2025-11-18T14:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990796246328684580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qeA0pkWDr",
+              "end": 26,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1990796246328684580/photo/1",
+              "media_key": "3_1990796230751105026",
+              "start": 3,
+              "url": "https://t.co/7qeA0pkWDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990796246328684580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前 https://t.co/7qeA0pkWDr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1986012257122480303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 124,
+          "like_count": 12895,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 6682
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

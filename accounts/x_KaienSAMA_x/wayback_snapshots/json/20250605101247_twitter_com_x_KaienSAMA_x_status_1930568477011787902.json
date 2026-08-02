@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930284366367694848"
+      ],
+      "media_source_tweet_id": [
+        "1930284369215652287"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1930568477011787902",
+    "created_at": "2025-06-05T10:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T11:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930568477011787902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1515328873105436675",
+          "start": 3,
+          "username": "gruuvymix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jOIua19Vxv",
+          "end": 38,
+          "expanded_url": "https://x.com/gruuvymix/status/1930284369215652287/photo/1",
+          "media_key": "3_1930284366367694848",
+          "start": 15,
+          "url": "https://t.co/jOIua19Vxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930568477011787902",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930284369215652287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gruuvymix: https://t.co/jOIua19Vxv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 283,
+        "media_key": "3_1930284366367694848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsm_Z3TWIAA8yrN.jpg",
+        "width": 283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930284366367694848"
+          ],
+          "media_source_tweet_id": [
+            "1930284369215652287"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1930568477011787902",
+        "created_at": "2025-06-05T10:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T11:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930568477011787902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1515328873105436675",
+              "start": 3,
+              "username": "gruuvymix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOIua19Vxv",
+              "end": 38,
+              "expanded_url": "https://x.com/gruuvymix/status/1930284369215652287/photo/1",
+              "media_key": "3_1930284366367694848",
+              "start": 15,
+              "url": "https://t.co/jOIua19Vxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930568477011787902",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930284369215652287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gruuvymix: https://t.co/jOIua19Vxv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930284366367694848"
+          ]
+        },
+        "author_id": "1515328873105436675",
+        "conversation_id": "1930284369215652287",
+        "created_at": "2025-06-04T15:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930284369215652287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOIua19Vxv",
+              "end": 23,
+              "expanded_url": "https://x.com/gruuvymix/status/1930284369215652287/photo/1",
+              "media_key": "3_1930284366367694848",
+              "start": 0,
+              "url": "https://t.co/jOIua19Vxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930284369215652287",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3357,
+          "like_count": 348,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jOIua19Vxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 132,
+          "like_count": 12239,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 5488
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T13:59:05.000Z",
+        "description": "°❀⋆.ೃ࿔*:･ miss chievous ! !     ㅤㅤㅤㅤㅤ                    \n\n   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤi really like d4djㅤㅤㅤㅤ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "popepic.straw.page",
+                "end": 23,
+                "expanded_url": "https://popepic.straw.page",
+                "start": 0,
+                "url": "https://t.co/KMpOD7oDw7"
+              }
+            ]
+          }
+        },
+        "id": "1515328873105436675",
+        "location": "DJ⋆˚࿔ Sophia yume❤︎",
+        "name": "Perle",
+        "pinned_tweet_id": "1926621903155867777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930214303241510912/ypC_EGwp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7818,
+          "following_count": 3568,
+          "like_count": 39478,
+          "listed_count": 24,
+          "media_count": 1723,
+          "tweet_count": 7252
+        },
+        "url": "https://t.co/KMpOD7oDw7",
+        "username": "gruuvymix",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1858110199892218037",
+    "created_at": "2024-11-18T12:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T13:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858494689806258499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688486829014814722",
+          "start": 0,
+          "username": "TwoHandSixFish"
+        },
+        {
+          "end": 25,
+          "id": "1249609709968998400",
+          "start": 16,
+          "username": "cheeywip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858494689806258499",
+    "in_reply_to_user_id": "1688486829014814722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858112414799253962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TwoHandSixFish @cheeywip 欸？？好厲害！加油加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1858110199892218037",
+        "created_at": "2024-11-18T12:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T13:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858494689806258499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688486829014814722",
+              "start": 0,
+              "username": "TwoHandSixFish"
+            },
+            {
+              "end": 25,
+              "id": "1249609709968998400",
+              "start": 16,
+              "username": "cheeywip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858494689806258499",
+        "in_reply_to_user_id": "1688486829014814722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858112414799253962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TwoHandSixFish @cheeywip 欸？？好厲害！加油加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688486829014814722",
+        "conversation_id": "1858110199892218037",
+        "created_at": "2024-11-17T11:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T12:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858112414799253962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1249609709968998400",
+              "start": 0,
+              "username": "cheeywip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858112414799253962",
+        "in_reply_to_user_id": "1249609709968998400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858111413170176267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheeywip 直接化身小學數學老師 (希望成功)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "泡爛的屍體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858185781292208128/RaG9ix7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 84,
+          "like_count": 11256,
+          "listed_count": 0,
+          "tweet_count": 3020
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T09:47:03.000Z",
+        "description": "",
+        "id": "1688486829014814722",
+        "location": "Hong Kong",
+        "name": "兩手六魚",
+        "pinned_tweet_id": "1782790559150838269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782107955573440512/4aYrXrfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 101,
+          "like_count": 89,
+          "listed_count": 0,
+          "tweet_count": 793
+        },
+        "username": "TwoHandSixFish",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-13T08:05:53.000Z",
+        "description": "無處安放的碎碎念碎碎念",
+        "id": "1249609709968998400",
+        "name": "霧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777704906054643712/2amX8ccS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 684,
+          "like_count": 96268,
+          "listed_count": 0,
+          "tweet_count": 2084
+        },
+        "username": "cheeywip",
+        "verified": false
+      }
+    ]
+  }
+}

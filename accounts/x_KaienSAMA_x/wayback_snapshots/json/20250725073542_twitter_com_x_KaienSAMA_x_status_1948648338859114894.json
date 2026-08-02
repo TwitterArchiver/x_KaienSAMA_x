@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1948648338859114894",
+    "created_at": "2025-07-25T07:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T08:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948648338859114894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1645857818808025090",
+          "start": 3,
+          "username": "choco_030_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948648338859114894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948459627471143253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @choco_030_ovo: 世界沒有色彩 但有時候莫名其妙笑 又收拾房間又到處跑又說很多話 朱波不知道自己有沒有轉雙 但燥期比鬱期好點 增生太麻煩也不想歌手 有時候OD喝酒爽一下算了 媽呀ACG結束我要睡十幾個小時 現在每天睡不着只睡幾小時真的好養胃 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1948459624652570630",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwpRtIqbgAYmC5E.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1948648338859114894",
+        "created_at": "2025-07-25T07:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T08:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948648338859114894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1645857818808025090",
+              "start": 3,
+              "username": "choco_030_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948648338859114894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948459627471143253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @choco_030_ovo: 世界沒有色彩 但有時候莫名其妙笑 又收拾房間又到處跑又說很多話 朱波不知道自己有沒有轉雙 但燥期比鬱期好點 增生太麻煩也不想歌手 有時候OD喝酒爽一下算了 媽呀ACG結束我要睡十幾個小時 現在每天睡不着只睡幾小時真的好養胃 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948459624652570630"
+          ]
+        },
+        "author_id": "1645857818808025090",
+        "conversation_id": "1948459627471143253",
+        "created_at": "2025-07-24T19:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T20:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948459627471143253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHcC33SThb",
+              "end": 135,
+              "expanded_url": "https://x.com/choco_030_ovo/status/1948459627471143253/photo/1",
+              "media_key": "3_1948459624652570630",
+              "start": 112,
+              "url": "https://t.co/XHcC33SThb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948459627471143253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界沒有色彩 但有時候莫名其妙笑 又收拾房間又到處跑又說很多話 朱波不知道自己有沒有轉雙 但燥期比鬱期好點 增生太麻煩也不想歌手 有時候OD喝酒爽一下算了 媽呀ACG結束我要睡十幾個小時 現在每天睡不着只睡幾小時真的好養胃 https://t.co/XHcC33SThb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 129,
+          "like_count": 12507,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 5914
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T18:34:54.000Z",
+        "description": "可可🍫🍫 陰暗b一隻 經常發癲 萌新考蛇 地雷系女子    想和女孩子貼貼 成分複雜 雜食cp 死宅女 偶爾紫餐 \nweeeee(=｀ω´=) 夢想可以冬眠100年",
+        "id": "1645857818808025090",
+        "location": "香港",
+        "name": "可可choco",
+        "pinned_tweet_id": "1827782526200652098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796924195148009473/5Pl8xD7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 24,
+          "like_count": 7278,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1048
+        },
+        "username": "choco_030_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

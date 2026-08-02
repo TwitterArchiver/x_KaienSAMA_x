@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1884306665367035907"
+      ],
+      "media_source_tweet_id": [
+        "1884306704957075679"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1884655777820090499",
+    "created_at": "2025-01-29T17:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T18:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884655777820090499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bjsBHgewzu",
+          "end": 44,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/1884306704957075679/video/1",
+          "media_key": "7_1884306665367035907",
+          "start": 21,
+          "url": "https://t.co/bjsBHgewzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884655777820090499",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 543
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884306704957075679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: https://t.co/bjsBHgewzu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69009,
+        "height": 360,
+        "media_key": "7_1884306665367035907",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1884306665367035907/pu/img/2GS-L7-0kCZZct_X.jpg",
+        "public_metrics": {
+          "view_count": 26442
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1884306665367035907/pu/vid/avc1/480x270/p1CbXcXOlg-tV2lt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1884306665367035907/pu/vid/avc1/640x360/rEcFTLB02hIUSqUE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1884306665367035907/pu/pl/ERvPukLyMZjveGhF.m3u8?tag=12"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1884306665367035907"
+          ],
+          "media_source_tweet_id": [
+            "1884306704957075679"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884655777820090499",
+        "created_at": "2025-01-29T17:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T18:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884655777820090499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjsBHgewzu",
+              "end": 44,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/1884306704957075679/video/1",
+              "media_key": "7_1884306665367035907",
+              "start": 21,
+              "url": "https://t.co/bjsBHgewzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884655777820090499",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 543
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884306704957075679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: https://t.co/bjsBHgewzu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1884306665367035907"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "conversation_id": "1884306704957075679",
+        "created_at": "2025-01-28T18:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T19:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884306704957075679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjsBHgewzu",
+              "end": 23,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/1884306704957075679/video/1",
+              "media_key": "7_1884306665367035907",
+              "start": 0,
+              "url": "https://t.co/bjsBHgewzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884306704957075679",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 86681,
+          "like_count": 3324,
+          "quote_count": 29,
+          "reply_count": 10,
+          "retweet_count": 543
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bjsBHgewzu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 121,
+          "like_count": 12168,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3995
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリやめられないね https://t.co/vvQuMSgTJf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 52,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 29,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/x.angelkawaii.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/x.angelkawaii.x/",
+                "start": 0,
+                "url": "https://t.co/XaUNcD4kIo"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483494206371155973/8L2Fs4p0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547531,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 1236,
+          "media_count": 723,
+          "tweet_count": 1601
+        },
+        "url": "https://t.co/XaUNcD4kIo",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

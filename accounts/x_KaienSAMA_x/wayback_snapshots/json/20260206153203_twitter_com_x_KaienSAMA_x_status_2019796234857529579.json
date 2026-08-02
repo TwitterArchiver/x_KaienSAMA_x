@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019301507448066048",
+        "3_2019301511214559233"
+      ],
+      "media_source_tweet_id": [
+        "2019301523533230547",
+        "2019301523533230547"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "2019796234857529579",
+    "created_at": "2026-02-06T15:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T16:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019796234857529579"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "門檻"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1120022812842790913",
+          "start": 3,
+          "username": "justadeer_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KtgHpjExwc",
+          "end": 56,
+          "expanded_url": "https://x.com/justadeer_/status/2019301523533230547/photo/1",
+          "media_key": "3_2019301507448066048",
+          "start": 33,
+          "url": "https://t.co/KtgHpjExwc"
+        },
+        {
+          "display_url": "pic.x.com/KtgHpjExwc",
+          "end": 56,
+          "expanded_url": "https://x.com/justadeer_/status/2019301523533230547/photo/1",
+          "media_key": "3_2019301511214559233",
+          "start": 33,
+          "url": "https://t.co/KtgHpjExwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019796234857529579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019301523533230547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justadeer_: 拍攝會有人陪同\n#爸爸活 #門檻 https://t.co/KtgHpjExwc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2019796234857529579].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2019796234857529579",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2019796234857529579"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_2019301507448066048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYABbXaUAAD6ts.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019301511214559233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYABpZacAERDFx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019301507448066048",
+            "3_2019301511214559233"
+          ]
+        },
+        "author_id": "1120022812842790913",
+        "conversation_id": "2019301523533230547",
+        "created_at": "2026-02-05T06:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019301523533230547"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "門檻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtgHpjExwc",
+              "end": 40,
+              "expanded_url": "https://x.com/justadeer_/status/2019301523533230547/photo/1",
+              "media_key": "3_2019301507448066048",
+              "start": 17,
+              "url": "https://t.co/KtgHpjExwc"
+            },
+            {
+              "display_url": "pic.x.com/KtgHpjExwc",
+              "end": 40,
+              "expanded_url": "https://x.com/justadeer_/status/2019301523533230547/photo/1",
+              "media_key": "3_2019301511214559233",
+              "start": 17,
+              "url": "https://t.co/KtgHpjExwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019301523533230547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2142,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "拍攝會有人陪同\n#爸爸活 #門檻 https://t.co/KtgHpjExwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 123,
+          "like_count": 12993,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 6899
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-21T17:53:42.000Z",
+        "description": "｜ｶﾐ ｜你是我唯一的初めから終わりで｜私信只回覆門檻250",
+        "id": "1120022812842790913",
+        "name": "はじめ",
+        "pinned_tweet_id": "2018910390126862512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986299895268188163/uSDgDKiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5200,
+          "following_count": 363,
+          "like_count": 14959,
+          "listed_count": 11,
+          "media_count": 80,
+          "tweet_count": 5360
+        },
+        "username": "justadeer_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935157399989665793"
+      ],
+      "media_source_tweet_id": [
+        "1935157406100812001"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1935668077569749267",
+    "created_at": "2025-06-19T11:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T12:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935668077569749267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1654515421025021952",
+          "start": 3,
+          "username": "puritako8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9NxDlURmPK",
+          "end": 38,
+          "expanded_url": "https://x.com/puritako8/status/1935157406100812001/photo/1",
+          "media_key": "3_1935157399989665793",
+          "start": 15,
+          "url": "https://t.co/9NxDlURmPK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935668077569749267",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1255
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935157406100812001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @puritako8: https://t.co/9NxDlURmPK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1935157399989665793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtsPZwLaQAELTrx.jpg",
+        "width": 1292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935157399989665793"
+          ],
+          "media_source_tweet_id": [
+            "1935157406100812001"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1935668077569749267",
+        "created_at": "2025-06-19T11:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T12:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935668077569749267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1654515421025021952",
+              "start": 3,
+              "username": "puritako8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NxDlURmPK",
+              "end": 38,
+              "expanded_url": "https://x.com/puritako8/status/1935157406100812001/photo/1",
+              "media_key": "3_1935157399989665793",
+              "start": 15,
+              "url": "https://t.co/9NxDlURmPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935668077569749267",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1255
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935157406100812001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @puritako8: https://t.co/9NxDlURmPK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935157399989665793"
+          ]
+        },
+        "author_id": "1654515421025021952",
+        "conversation_id": "1935157406100812001",
+        "created_at": "2025-06-18T02:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T03:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935157406100812001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NxDlURmPK",
+              "end": 23,
+              "expanded_url": "https://x.com/puritako8/status/1935157406100812001/photo/1",
+              "media_key": "3_1935157399989665793",
+              "start": 0,
+              "url": "https://t.co/9NxDlURmPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935157406100812001",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1379,
+          "impression_count": 142612,
+          "like_count": 13657,
+          "quote_count": 13,
+          "reply_count": 2,
+          "retweet_count": 1255
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/9NxDlURmPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 131,
+          "like_count": 12377,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 5614
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T15:56:41.000Z",
+        "description": "oc",
+        "id": "1654515421025021952",
+        "name": "犬丸八王",
+        "pinned_tweet_id": "1779868897619161175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894650706667114496/tYvU_QwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4763,
+          "following_count": 0,
+          "like_count": 541,
+          "listed_count": 26,
+          "media_count": 390,
+          "tweet_count": 468
+        },
+        "username": "puritako8",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1858144827621429376",
+    "created_at": "2024-11-17T13:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T14:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858144827621429376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774759734773690368",
+          "start": 3,
+          "username": "tang2780iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858144827621429376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857780666592899478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tang2780iz: 點解要比我出世"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1858144827621429376",
+        "created_at": "2024-11-17T13:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T14:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858144827621429376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774759734773690368",
+              "start": 3,
+              "username": "tang2780iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858144827621429376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857780666592899478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tang2780iz: 點解要比我出世"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774759734773690368",
+        "conversation_id": "1857780666592899478",
+        "created_at": "2024-11-16T13:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T14:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857780666592899478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857780666592899478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "點解要比我出世"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "泡爛的屍體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858144314830016512/fh5rb-bQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 84,
+          "like_count": 11202,
+          "listed_count": 0,
+          "tweet_count": 2988
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T11:24:49.000Z",
+        "description": "只是來發癲的",
+        "id": "1774759734773690368",
+        "location": "冥界",
+        "name": "膛",
+        "pinned_tweet_id": "1828799084041568325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774760031776559104/tFgInI7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 205,
+          "like_count": 11254,
+          "listed_count": 0,
+          "tweet_count": 4261
+        },
+        "username": "tang2780iz",
+        "verified": false
+      }
+    ]
+  }
+}

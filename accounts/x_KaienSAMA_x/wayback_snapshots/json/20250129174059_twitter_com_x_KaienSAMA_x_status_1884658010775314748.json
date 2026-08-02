@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884552751352590336"
+      ],
+      "media_source_tweet_id": [
+        "1884552756394086789"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1884658010775314748",
+    "created_at": "2025-01-29T17:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T18:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884658010775314748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817116928961572865",
+          "start": 3,
+          "username": "SinizokoNyai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dMDQgdRDWC",
+          "end": 41,
+          "expanded_url": "https://x.com/SinizokoNyai/status/1884552756394086789/photo/1",
+          "media_key": "3_1884552751352590336",
+          "start": 18,
+          "url": "https://t.co/dMDQgdRDWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884658010775314748",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884552756394086789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SinizokoNyai: https://t.co/dMDQgdRDWC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 934,
+        "media_key": "3_1884552751352590336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GidGvhjbMAAHFpV.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884552751352590336"
+          ],
+          "media_source_tweet_id": [
+            "1884552756394086789"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1884658010775314748",
+        "created_at": "2025-01-29T17:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T18:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884658010775314748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817116928961572865",
+              "start": 3,
+              "username": "SinizokoNyai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMDQgdRDWC",
+              "end": 41,
+              "expanded_url": "https://x.com/SinizokoNyai/status/1884552756394086789/photo/1",
+              "media_key": "3_1884552751352590336",
+              "start": 18,
+              "url": "https://t.co/dMDQgdRDWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884658010775314748",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884552756394086789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SinizokoNyai: https://t.co/dMDQgdRDWC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884552751352590336"
+          ]
+        },
+        "author_id": "1817116928961572865",
+        "conversation_id": "1884552756394086789",
+        "created_at": "2025-01-29T10:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T11:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884552756394086789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMDQgdRDWC",
+              "end": 23,
+              "expanded_url": "https://x.com/SinizokoNyai/status/1884552756394086789/photo/1",
+              "media_key": "3_1884552751352590336",
+              "start": 0,
+              "url": "https://t.co/dMDQgdRDWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884552756394086789",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 6423,
+          "like_count": 798,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dMDQgdRDWC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 122,
+          "like_count": 12171,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3996
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:37:01.000Z",
+        "description": "",
+        "id": "1817116928961572865",
+        "name": "猫ﾁｬﾝ",
+        "pinned_tweet_id": "1880603029411676519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884089364139159552/Kg20LdaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 23,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 75
+        },
+        "username": "SinizokoNyai",
+        "verified": false
+      }
+    ]
+  }
+}

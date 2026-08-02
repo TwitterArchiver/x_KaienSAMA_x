@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1988121181682364825",
+    "created_at": "2025-11-11T05:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T06:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988121181682364825"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 112,
+          "normalized_text": "NEEDY GIRL OVERDOSE",
+          "probability": 0.9036,
+          "start": 94,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988121181682364825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23481
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987807692820521120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: ────•✦•────\n\n       第1弾PV 解禁\n\n────•✦•────\n\nジェルばんは。\nさあ、おとぎ話の始まりだよ。\n\nTVアニメ「NEEDY GIRL OVERDOSE」\n2026年4月放送🧬\nhttps://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77452,
+        "height": 450,
+        "media_key": "13_1987799356150587392",
+        "preview_image_url": "https://pbs.twimg.com/media/G5YVMpebAAANEaV.jpg",
+        "public_metrics": {
+          "view_count": 896487
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987799356150587392/vid/avc1/1920x1080/jJftTMb6r2dAMPsN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987799356150587392/vid/avc1/640x360/WVzjOlSGdUZquiVw.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987799356150587392/vid/avc1/480x270/udlOUIYHKVZGj3wm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987799356150587392/vid/avc1/1280x720/RAr-NOW59_3scGWD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987799356150587392/pl/N6fePV3PySo-Y8yL.m3u8?v=f21"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1988121181682364825",
+        "created_at": "2025-11-11T05:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988121181682364825"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 112,
+              "normalized_text": "NEEDY GIRL OVERDOSE",
+              "probability": 0.9036,
+              "start": 94,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988121181682364825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23481
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987807692820521120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: ────•✦•────\n\n       第1弾PV 解禁\n\n────•✦•────\n\nジェルばんは。\nさあ、おとぎ話の始まりだよ。\n\nTVアニメ「NEEDY GIRL OVERDOSE」\n2026年4月放送🧬\nhttps://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987799356150587392"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1987807692820521120",
+        "created_at": "2025-11-10T09:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987807692820521120"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 91,
+              "normalized_text": "NEEDY GIRL OVERDOSE",
+              "probability": 0.9042,
+              "start": 73,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 168,
+              "start": 163,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/30PHTrJldFk",
+              "end": 128,
+              "expanded_url": "https://youtu.be/30PHTrJldFk",
+              "start": 105,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=30PHTrJldFk&feature=youtu.be",
+              "url": "https://t.co/wOSn59SVzS"
+            },
+            {
+              "description": "超絶最かわてんしちゃんがみんなの視線＆話題をかっさらう！　TVアニメ『NEEDY GIRL OVERDOSE』（ニディガ）2026年4月放送開始！",
+              "display_url": "needygirl-anime.com",
+              "end": 161,
+              "expanded_url": "https://needygirl-anime.com",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1987805536864358400/WTnGn3yH?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1987805536864358400/WTnGn3yH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 138,
+              "status": 200,
+              "title": "TVアニメ『NEEDY GIRL OVERDOSE』公式サイト",
+              "unwound_url": "https://needygirl-anime.com",
+              "url": "https://t.co/4Js8XmmBjh"
+            },
+            {
+              "display_url": "pic.x.com/uLcDfJFxnt",
+              "end": 200,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/1987807692820521120/video/1",
+              "media_key": "13_1987799356150587392",
+              "start": 177,
+              "url": "https://t.co/uLcDfJFxnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987807692820521120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8552,
+          "impression_count": 3661099,
+          "like_count": 65066,
+          "quote_count": 5163,
+          "reply_count": 214,
+          "retweet_count": 23481
+        },
+        "reply_settings": "everyone",
+        "text": "────•✦•────\n\n       第1弾PV 解禁\n\n────•✦•────\n\nジェルばんは。\nさあ、おとぎ話の始まりだよ。\n\nTVアニメ「NEEDY GIRL OVERDOSE」\n2026年4月放送🧬\nhttps://t.co/wOSn59SVzS\n\n✧ 公式サイト\nhttps://t.co/4Js8XmmBjh\n\n#ニディガ （STAFF） https://t.co/uLcDfJFxnt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 125,
+          "like_count": 12842,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 6616
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "私が主役のアニメとかゲームの『NEEDY GIRL OVERDOSE』の情報を出していくよ。\nこのアカウントはおとなたちに貸してやってるよ。アニメ公式サイト：https://t.co/KhVI5ZuTKP\n#ニディガ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 108,
+                "start": 103,
+                "tag": "ニディガ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "needygirl-anime.com",
+                "end": 102,
+                "expanded_url": "https://needygirl-anime.com",
+                "start": 79,
+                "url": "https://t.co/KhVI5ZuTKP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/8bCc8wu0UK"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "アニメ化🎀超絶最かわ🎀てんしちゃん│2026年4月放送開始",
+        "pinned_tweet_id": "1987807692820521120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987807917307998208/xdClZTpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550395,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 1192,
+          "media_count": 777,
+          "tweet_count": 1718
+        },
+        "url": "https://t.co/8bCc8wu0UK",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

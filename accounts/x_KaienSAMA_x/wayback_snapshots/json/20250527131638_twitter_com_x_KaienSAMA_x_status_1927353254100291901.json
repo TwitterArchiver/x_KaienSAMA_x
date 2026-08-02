@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908508507386896385"
+      ],
+      "media_source_tweet_id": [
+        "1908508513862922561"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1927353254100291901",
+    "created_at": "2025-05-27T13:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T14:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927353254100291901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767542307434516480",
+          "start": 3,
+          "username": "loser040128"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bo0CVvbyAm",
+          "end": 57,
+          "expanded_url": "https://x.com/loser040128/status/1908508513862922561/photo/1",
+          "media_key": "3_1908508507386896385",
+          "start": 34,
+          "url": "https://t.co/bo0CVvbyAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927353254100291901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908508513862922561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loser040128: 看情況再調整 求轉推 謝謝你們！ https://t.co/bo0CVvbyAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1908508507386896385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnxiYDGbYAEOMcT.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908508507386896385"
+          ],
+          "media_source_tweet_id": [
+            "1908508513862922561"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1927353254100291901",
+        "created_at": "2025-05-27T13:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927353254100291901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767542307434516480",
+              "start": 3,
+              "username": "loser040128"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bo0CVvbyAm",
+              "end": 57,
+              "expanded_url": "https://x.com/loser040128/status/1908508513862922561/photo/1",
+              "media_key": "3_1908508507386896385",
+              "start": 34,
+              "url": "https://t.co/bo0CVvbyAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927353254100291901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908508513862922561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loser040128: 看情況再調整 求轉推 謝謝你們！ https://t.co/bo0CVvbyAm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908508507386896385"
+          ]
+        },
+        "author_id": "1767542307434516480",
+        "conversation_id": "1908508513862922561",
+        "created_at": "2025-04-05T13:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T14:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908508513862922561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bo0CVvbyAm",
+              "end": 40,
+              "expanded_url": "https://x.com/loser040128/status/1908508513862922561/photo/1",
+              "media_key": "3_1908508507386896385",
+              "start": 17,
+              "url": "https://t.co/bo0CVvbyAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908508513862922561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 26111,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "看情況再調整 求轉推 謝謝你們！ https://t.co/bo0CVvbyAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 131,
+          "like_count": 12187,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 5380
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T13:25:18.000Z",
+        "description": "@1nt3rn3tc4t 重生3.0 16+ 只接約拍有意私 打錢屬於自願性質不設退換",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "1nt3rn3tc4t"
+              }
+            ]
+          }
+        },
+        "id": "1767542307434516480",
+        "location": "在你心裡面",
+        "name": "家庭裝貧乳3.0",
+        "pinned_tweet_id": "1908508513862922561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772156411482681344/n5mLzByK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4088,
+          "following_count": 166,
+          "like_count": 21237,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 4412
+        },
+        "username": "loser040128",
+        "verified": false
+      }
+    ]
+  }
+}

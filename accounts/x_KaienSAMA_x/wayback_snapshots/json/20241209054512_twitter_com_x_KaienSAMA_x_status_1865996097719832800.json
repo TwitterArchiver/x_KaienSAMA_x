@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1865988544738783360",
+    "created_at": "2024-12-09T05:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T06:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865996097719832800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814995732224700416",
+          "start": 0,
+          "username": "Wing1669965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865996097719832800",
+    "in_reply_to_user_id": "1814995732224700416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865996025544298843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wing1669965 謝謝寶寶🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1865988544738783360",
+        "created_at": "2024-12-09T05:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T06:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865996097719832800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814995732224700416",
+              "start": 0,
+              "username": "Wing1669965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865996097719832800",
+        "in_reply_to_user_id": "1814995732224700416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865996025544298843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wing1669965 謝謝寶寶🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814995732224700416",
+        "conversation_id": "1865988544738783360",
+        "created_at": "2024-12-09T05:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T06:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865996025544298843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865996025544298843",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865988544738783360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 沒事哒，抱住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 95,
+          "like_count": 11709,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 3329
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T12:08:14.000Z",
+        "description": "因為我很黏人，很醜，好嘔心，我是死肥婆，⚠️請勿網暴我，因為我像水蛭一樣，所以我叫水蛭，09高中生，#自傷 #抑鬱 #焦慮 #濫藥 #爸爸活",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "自傷"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "抑鬱"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "焦慮"
+              },
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "濫藥"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "爸爸活"
+              }
+            ]
+          }
+        },
+        "id": "1814995732224700416",
+        "location": "天堂",
+        "name": "我是水蛭",
+        "pinned_tweet_id": "1851187379916411143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856178485393534977/bDo2dqBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 15,
+          "like_count": 1551,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 524
+        },
+        "username": "Wing1669965",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1885368126331904125",
+    "created_at": "2025-01-31T16:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T17:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885368126331904125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843607857973047296",
+          "start": 3,
+          "username": "Namidaa02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885368126331904125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885364951684088006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Namidaa02: 小心這個地雷妹 在上班期間去廁所割手od 說好的戒o結果還是一次30t成功把我和我粉絲嚇到了 到底想怎麼樣你潔身自愛一點好不好 被內射完還要在我群裡面說被內射好雙是不是被人操多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1885368126331904125",
+        "created_at": "2025-01-31T16:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T17:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885368126331904125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843607857973047296",
+              "start": 3,
+              "username": "Namidaa02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885368126331904125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885364951684088006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Namidaa02: 小心這個地雷妹 在上班期間去廁所割手od 說好的戒o結果還是一次30t成功把我和我粉絲嚇到了 到底想怎麼樣你潔身自愛一點好不好 被內射完還要在我群裡面說被內射好雙是不是被人操多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843607857973047296",
+        "conversation_id": "1885364951684088006",
+        "created_at": "2025-01-31T16:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T17:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885364951684088006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/julysama215528…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/julysama2155282/status/1850468053340897414",
+              "start": 90,
+              "url": "https://t.co/idBkBwjPvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885364951684088006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850468053340897414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小心這個地雷妹 在上班期間去廁所割手od 說好的戒o結果還是一次30t成功把我和我粉絲嚇到了 到底想怎麼樣你潔身自愛一點好不好 被內射完還要在我群裡面說被內射好雙是不是被人操多了 https://t.co/idBkBwjPvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 122,
+          "like_count": 12254,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4035
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:02:40.000Z",
+        "description": "淚水打濕了信件 而你不在我身邊 永遠追隨@Maorou_K8M🐭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Maorou_K8M"
+              }
+            ]
+          }
+        },
+        "id": "1843607857973047296",
+        "location": "你的心裡",
+        "name": "涙",
+        "pinned_tweet_id": "1878796781708021927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843607988847947778/XUhP47FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 241,
+          "like_count": 12348,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1301
+        },
+        "username": "Namidaa02",
+        "verified": false
+      }
+    ]
+  }
+}

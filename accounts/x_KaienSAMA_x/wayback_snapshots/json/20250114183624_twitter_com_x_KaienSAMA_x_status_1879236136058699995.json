@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1879236136058699995",
+    "created_at": "2025-01-14T18:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T19:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879236136058699995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1267537918022868996",
+          "start": 3,
+          "username": "christi32132890"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879236136058699995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857714119459127415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @christi32132890: 🔝坐标安徽 江苏 \n🦷小正 enfp 165 96   4i\n🦷地雷系 cos 舞萌痴 纯宅\n🦷长期接爸爸活妈妈活\n🦷接纯绿 安徽江苏上海杭州\n🦷喜欢我请投喂ㅠ ⩊ ㅠ\n🦷欢迎女生找我玩互fo\n🦷请帮忙转发感谢 https://t.co…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1879236136058699995].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1879236136058699995",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1879236136058699995"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857714111326695424",
+            "3_1857714116221349890"
+          ]
+        },
+        "author_id": "1267537918022868996",
+        "conversation_id": "1857714119459127415",
+        "created_at": "2024-11-16T09:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T10:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857714119459127415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sRiAaRZIn2",
+              "end": 129,
+              "expanded_url": "https://x.com/christi32132890/status/1857714119459127415/photo/1",
+              "media_key": "3_1857714111326695424",
+              "start": 106,
+              "url": "https://t.co/sRiAaRZIn2"
+            },
+            {
+              "display_url": "pic.x.com/sRiAaRZIn2",
+              "end": 129,
+              "expanded_url": "https://x.com/christi32132890/status/1857714119459127415/photo/1",
+              "media_key": "3_1857714116221349890",
+              "start": 106,
+              "url": "https://t.co/sRiAaRZIn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857714119459127415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 46408,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "🔝坐标安徽 江苏 \n🦷小正 enfp 165 96   4i\n🦷地雷系 cos 舞萌痴 纯宅\n🦷长期接爸爸活妈妈活\n🦷接纯绿 安徽江苏上海杭州\n🦷喜欢我请投喂ㅠ ⩊ ㅠ\n🦷欢迎女生找我玩互fo\n🦷请帮忙转发感谢 https://t.co/sRiAaRZIn2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "推是我的發洩地方垃圾桶嘔吐袋 熟人繞路別逼我改名重生 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 110,
+          "like_count": 11943,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 3803
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-01T19:26:15.000Z",
+        "description": "私信前请先看置顶 具体坐标10不闲聊      \n                  只接纯绿不h其他问题勿扰默认不回",
+        "id": "1267537918022868996",
+        "location": "3.2km",
+        "name": "PpPp🎶",
+        "pinned_tweet_id": "1857714119459127415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878047398884499456/6auIZcGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 100,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 485
+        },
+        "username": "christi32132890",
+        "verified": false
+      }
+    ]
+  }
+}

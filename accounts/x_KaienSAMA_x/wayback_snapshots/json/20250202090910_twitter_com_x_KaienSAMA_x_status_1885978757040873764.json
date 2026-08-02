@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885977798361436161",
+        "3_1885977798415896576",
+        "3_1885977798365646848",
+        "13_1885977798373994496"
+      ],
+      "media_source_tweet_id": [
+        "1885977818376651263",
+        "1885977818376651263",
+        "1885977818376651263",
+        "1885977818376651263"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1885978757040873764",
+    "created_at": "2025-02-02T09:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T10:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885978757040873764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843607857973047296",
+          "start": 3,
+          "username": "Namidaa02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OKudnJCWyR",
+          "end": 90,
+          "expanded_url": "https://x.com/Namidaa02/status/1885977818376651263/video/1",
+          "media_key": "3_1885977798361436161",
+          "start": 67,
+          "url": "https://t.co/OKudnJCWyR"
+        },
+        {
+          "display_url": "pic.x.com/OKudnJCWyR",
+          "end": 90,
+          "expanded_url": "https://x.com/Namidaa02/status/1885977818376651263/video/1",
+          "media_key": "3_1885977798415896576",
+          "start": 67,
+          "url": "https://t.co/OKudnJCWyR"
+        },
+        {
+          "display_url": "pic.x.com/OKudnJCWyR",
+          "end": 90,
+          "expanded_url": "https://x.com/Namidaa02/status/1885977818376651263/video/1",
+          "media_key": "3_1885977798365646848",
+          "start": 67,
+          "url": "https://t.co/OKudnJCWyR"
+        },
+        {
+          "display_url": "pic.x.com/OKudnJCWyR",
+          "end": 90,
+          "expanded_url": "https://x.com/Namidaa02/status/1885977818376651263/video/1",
+          "media_key": "13_1885977798373994496",
+          "start": 67,
+          "url": "https://t.co/OKudnJCWyR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885978757040873764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885977818376651263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Namidaa02: 這是一個單獨給這條的澄清 不信謠不傳謠哈 你可以質疑我胖但你絕對不可以質疑我化妝的技術就是如此牛逼🌚👍 https://t.co/OKudnJCWyR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1885978757040873764].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1885978757040873764",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1885978757040873764"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "3_1885977798361436161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GixW0LWbUAEQC0v.jpg",
+        "width": 1136
+      },
+      {
+        "height": 1686,
+        "media_key": "3_1885977798415896576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GixW0LjaUAA427F.jpg",
+        "width": 1265
+      },
+      {
+        "height": 1699,
+        "media_key": "3_1885977798365646848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GixW0LXbkAA8LGT.jpg",
+        "width": 1290
+      },
+      {
+        "duration_ms": 2500,
+        "height": 1280,
+        "media_key": "13_1885977798373994496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1885977798373994496/img/wIOMbdEt-u-_Yf5P.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1885977798373994496/vid/avc1/320x568/vkMshCbqKmwBl4Z8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1885977798373994496/vid/avc1/480x852/gCOXENdZaBpkcWxS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1885977798373994496/vid/avc1/720x1280/G0Il7ILfdLr5EjW6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1885977798373994496/pl/V-hj1P-HxFE2UWOL.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885977798361436161",
+            "3_1885977798415896576",
+            "3_1885977798365646848",
+            "13_1885977798373994496"
+          ]
+        },
+        "author_id": "1843607857973047296",
+        "conversation_id": "1885977818376651263",
+        "created_at": "2025-02-02T09:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T10:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885977818376651263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKudnJCWyR",
+              "end": 75,
+              "expanded_url": "https://x.com/Namidaa02/status/1885977818376651263/video/1",
+              "media_key": "3_1885977798361436161",
+              "start": 52,
+              "url": "https://t.co/OKudnJCWyR"
+            },
+            {
+              "display_url": "pic.x.com/OKudnJCWyR",
+              "end": 75,
+              "expanded_url": "https://x.com/Namidaa02/status/1885977818376651263/video/1",
+              "media_key": "3_1885977798415896576",
+              "start": 52,
+              "url": "https://t.co/OKudnJCWyR"
+            },
+            {
+              "display_url": "pic.x.com/OKudnJCWyR",
+              "end": 75,
+              "expanded_url": "https://x.com/Namidaa02/status/1885977818376651263/video/1",
+              "media_key": "3_1885977798365646848",
+              "start": 52,
+              "url": "https://t.co/OKudnJCWyR"
+            },
+            {
+              "display_url": "pic.x.com/OKudnJCWyR",
+              "end": 75,
+              "expanded_url": "https://x.com/Namidaa02/status/1885977818376651263/video/1",
+              "media_key": "13_1885977798373994496",
+              "start": 52,
+              "url": "https://t.co/OKudnJCWyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885977818376651263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "這是一個單獨給這條的澄清 不信謠不傳謠哈 你可以質疑我胖但你絕對不可以質疑我化妝的技術就是如此牛逼🌚👍 https://t.co/OKudnJCWyR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 123,
+          "like_count": 12308,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4073
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:02:40.000Z",
+        "description": "淚水打濕了信件 而你不在我身邊 永遠追隨@Maorou_K8M🐭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Maorou_K8M"
+              }
+            ]
+          }
+        },
+        "id": "1843607857973047296",
+        "location": "你的心裡",
+        "name": "涙",
+        "pinned_tweet_id": "1885740008738615550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843607988847947778/XUhP47FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 246,
+          "like_count": 12524,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1358
+        },
+        "username": "Namidaa02",
+        "verified": false
+      }
+    ]
+  }
+}

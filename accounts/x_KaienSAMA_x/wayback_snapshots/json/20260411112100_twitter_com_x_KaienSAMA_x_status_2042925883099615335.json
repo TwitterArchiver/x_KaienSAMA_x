@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2042925883099615335",
+    "created_at": "2026-04-11T11:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T12:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042925883099615335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_kaiensama_x/…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/x_kaiensama_x/status/2042003687279903040",
+          "start": 48,
+          "url": "https://t.co/L2D2Tf35sl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042925883099615335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042003687279903040",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上次o了在吃的藥是escitalopram 然後就這樣了 有沒有人告訴我這個藥其實能不能od（ https://t.co/L2D2Tf35sl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2042925883099615335",
+        "created_at": "2026-04-11T11:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042925883099615335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_kaiensama_x/…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/x_kaiensama_x/status/2042003687279903040",
+              "start": 48,
+              "url": "https://t.co/L2D2Tf35sl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042925883099615335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042003687279903040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次o了在吃的藥是escitalopram 然後就這樣了 有沒有人告訴我這個藥其實能不能od（ https://t.co/L2D2Tf35sl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2042003687279903040",
+        "created_at": "2026-04-08T22:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042003687279903040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042003687279903040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘔到七彩...好麻 雜訊好多 我走不了路 好多雜聲 怎麼辦 我上不了學"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 116,
+          "like_count": 13124,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 7161
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

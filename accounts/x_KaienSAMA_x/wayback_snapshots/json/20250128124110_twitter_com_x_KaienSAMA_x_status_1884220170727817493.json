@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884183773656539140"
+      ],
+      "media_source_tweet_id": [
+        "1884183783471271959"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1884220170727817493",
+    "created_at": "2025-01-28T12:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T13:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884220170727817493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1174304550229950465",
+          "start": 3,
+          "username": "nyonye_nya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4SD5vKhsb2",
+          "end": 48,
+          "expanded_url": "https://x.com/nyonye_nya/status/1884183783471271959/photo/1",
+          "media_key": "3_1884183773656539140",
+          "start": 25,
+          "url": "https://t.co/4SD5vKhsb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884220170727817493",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 327
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884183783471271959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyonye_nya: ニディガ展3 🎀 https://t.co/4SD5vKhsb2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1884183773656539140",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiX3KMhaYAQ8Cwt.jpg",
+        "width": 1578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884183773656539140"
+          ],
+          "media_source_tweet_id": [
+            "1884183783471271959"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1884220170727817493",
+        "created_at": "2025-01-28T12:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T13:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884220170727817493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1174304550229950465",
+              "start": 3,
+              "username": "nyonye_nya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4SD5vKhsb2",
+              "end": 48,
+              "expanded_url": "https://x.com/nyonye_nya/status/1884183783471271959/photo/1",
+              "media_key": "3_1884183773656539140",
+              "start": 25,
+              "url": "https://t.co/4SD5vKhsb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884220170727817493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 327
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884183783471271959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyonye_nya: ニディガ展3 🎀 https://t.co/4SD5vKhsb2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884183773656539140"
+          ]
+        },
+        "author_id": "1174304550229950465",
+        "conversation_id": "1884183783471271959",
+        "created_at": "2025-01-28T10:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T11:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884183783471271959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4SD5vKhsb2",
+              "end": 32,
+              "expanded_url": "https://x.com/nyonye_nya/status/1884183783471271959/photo/1",
+              "media_key": "3_1884183773656539140",
+              "start": 9,
+              "url": "https://t.co/4SD5vKhsb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884183783471271959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 33656,
+          "like_count": 3436,
+          "quote_count": 11,
+          "reply_count": 9,
+          "retweet_count": 327
+        },
+        "reply_settings": "everyone",
+        "text": "ニディガ展3 🎀 https://t.co/4SD5vKhsb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 120,
+          "like_count": 12159,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3969
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-18T12:50:03.000Z",
+        "description": "insta @ nyo_nyenya",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanding.kr/@SXP4KcViIEpd",
+                "end": 23,
+                "expanded_url": "https://fanding.kr/@SXP4KcViIEpd",
+                "start": 0,
+                "url": "https://t.co/hcg8JWSPhy"
+              }
+            ]
+          }
+        },
+        "id": "1174304550229950465",
+        "location": "🪦すんのものです",
+        "name": "ニョ",
+        "pinned_tweet_id": "1883499719391150177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665757923715457024/HROSOGlu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375028,
+          "following_count": 296,
+          "like_count": 49702,
+          "listed_count": 1161,
+          "media_count": 238,
+          "tweet_count": 19594
+        },
+        "url": "https://t.co/hcg8JWSPhy",
+        "username": "nyonye_nya",
+        "verified": true
+      }
+    ]
+  }
+}

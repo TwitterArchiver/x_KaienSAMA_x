@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1866118469839888553",
+    "created_at": "2024-12-09T13:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T14:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866118469839888553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1499461699904376834",
+          "start": 3,
+          "username": "oliviaisolive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866118469839888553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866076718601318416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oliviaisolive: 我刀呢我刀呢\n哦，原來我沒眉刀\n啊？那怎麼自殘？\n我要過量我要過量～\n不如拿煙頭燙自己？\n不不，燒傷多難處理\n快給我想想辦法\n這是我的想法嗎？我是這麼吵的人嗎？\n喝酒～\n天哪這啤酒到底幾%，怎麼都沒寫\n快把里希涅德叫出來，撐不住了\n哈哈哈哈…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1866118469839888553",
+        "created_at": "2024-12-09T13:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T14:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866118469839888553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1499461699904376834",
+              "start": 3,
+              "username": "oliviaisolive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866118469839888553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866076718601318416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oliviaisolive: 我刀呢我刀呢\n哦，原來我沒眉刀\n啊？那怎麼自殘？\n我要過量我要過量～\n不如拿煙頭燙自己？\n不不，燒傷多難處理\n快給我想想辦法\n這是我的想法嗎？我是這麼吵的人嗎？\n喝酒～\n天哪這啤酒到底幾%，怎麼都沒寫\n快把里希涅德叫出來，撐不住了\n哈哈哈哈…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499461699904376834",
+        "conversation_id": "1866076718601318416",
+        "created_at": "2024-12-09T11:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T12:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866076718601318416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866076718601318416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我刀呢我刀呢\n哦，原來我沒眉刀\n啊？那怎麼自殘？\n我要過量我要過量～\n不如拿煙頭燙自己？\n不不，燒傷多難處理\n快給我想想辦法\n這是我的想法嗎？我是這麼吵的人嗎？\n喝酒～\n天哪這啤酒到底幾%，怎麼都沒寫\n快把里希涅德叫出來，撐不住了\n哈哈哈哈哈哈哈哈哈哈哈\n室友救救我\n該死真的要上藥嗎？\n去死嘻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 95,
+          "like_count": 11721,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 3340
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T19:08:36.000Z",
+        "description": "病み垢｜04｜在搞笑和搞事業之間選擇了搞陰鬱｜Lesbian｜網黃勿擾｜過門（給錢）才回訊息｜不搞黃｜只接線下純綠｜不喜歡跟你聊天會直接拉黑｜ @richenied 一個在嘗試搬去地面居住的笨孩子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "richenied"
+              }
+            ]
+          }
+        },
+        "id": "1499461699904376834",
+        "location": "🚪50",
+        "name": "橄欖樹上的奧莉薇婭",
+        "pinned_tweet_id": "1841756856089509942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794755562846220288/AxldaX8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 354,
+          "like_count": 23068,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 2927
+        },
+        "username": "oliviaisolive",
+        "verified": true
+      }
+    ]
+  }
+}

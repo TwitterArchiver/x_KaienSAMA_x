@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1992470218485137606",
+    "created_at": "2025-11-23T14:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992596470005117234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774759734773690368",
+          "start": 0,
+          "username": "tang2780iz"
+        },
+        {
+          "end": 26,
+          "id": "1518743656475156480",
+          "start": 12,
+          "username": "reversecross_"
+        },
+        {
+          "end": 38,
+          "id": "1856548003978625024",
+          "start": 27,
+          "username": "gyaku_juji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992596470005117234",
+    "in_reply_to_user_id": "1774759734773690368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992546769008255396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang2780iz @reversecross_ @gyaku_juji 荃灣個間唔多味 去幾次都冇想買嘅qq"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1992546769008255396].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1992546769008255396",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1992546769008255396"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1992470218485137606",
+        "created_at": "2025-11-23T14:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992596470005117234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774759734773690368",
+              "start": 0,
+              "username": "tang2780iz"
+            },
+            {
+              "end": 26,
+              "id": "1518743656475156480",
+              "start": 12,
+              "username": "reversecross_"
+            },
+            {
+              "end": 38,
+              "id": "1856548003978625024",
+              "start": 27,
+              "username": "gyaku_juji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992596470005117234",
+        "in_reply_to_user_id": "1774759734773690368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992546769008255396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang2780iz @reversecross_ @gyaku_juji 荃灣個間唔多味 去幾次都冇想買嘅qq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1986012257122480303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 125,
+          "like_count": 12904,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 6698
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T11:24:49.000Z",
+        "description": "我希望一切都只是個噩夢",
+        "id": "1774759734773690368",
+        "location": "👁️",
+        "name": "膛",
+        "pinned_tweet_id": "1923792110962212891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774760031776559104/tFgInI7l_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 237,
+          "like_count": 15668,
+          "listed_count": 2,
+          "media_count": 694,
+          "tweet_count": 6618
+        },
+        "username": "tang2780iz",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-26T00:08:06.000Z",
+        "description": "發洩用 這裡是我的垃圾桶",
+        "id": "1518743656475156480",
+        "location": "銀河列車",
+        "name": "倒十字",
+        "pinned_tweet_id": "1950451303160897612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746098313357864960/5buimFeG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 84,
+          "like_count": 1411,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1353
+        },
+        "username": "reversecross_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T04:02:26.000Z",
+        "description": "🇭🇰｜謝謝你喜歡我",
+        "id": "1856548003978625024",
+        "location": "天國",
+        "name": "逆十字",
+        "pinned_tweet_id": "1990705049627144517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861749285567787008/cuHduq33_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 74,
+          "like_count": 1069,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 818
+        },
+        "username": "gyaku_juji",
+        "verified": false
+      }
+    ]
+  }
+}

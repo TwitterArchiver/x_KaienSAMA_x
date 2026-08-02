@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052268171915333632"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "2052268197248950303",
+    "created_at": "2026-05-07T06:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052268197248950303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pSNnvlHk8E",
+          "end": 23,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/2052268197248950303/photo/1",
+          "media_key": "3_2052268171915333632",
+          "start": 0,
+          "url": "https://t.co/pSNnvlHk8E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052268197248950303",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/pSNnvlHk8E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052268171915333632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsfB2rakAAzgwK.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052268171915333632"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "2052268197248950303",
+        "created_at": "2026-05-07T06:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052268197248950303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSNnvlHk8E",
+              "end": 23,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/2052268197248950303/photo/1",
+              "media_key": "3_2052268171915333632",
+              "start": 0,
+              "url": "https://t.co/pSNnvlHk8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052268197248950303",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pSNnvlHk8E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 111,
+          "like_count": 13132,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 7233
+        },
+        "url": "",
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1964669511979905242",
+    "created_at": "2025-09-07T12:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T13:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964669511979905242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906566164582612992",
+          "start": 3,
+          "username": "Yorutomei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964669511979905242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964410899017715824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yorutomei: 媽媽說 不要那麼懂事 活著會很辛苦的 為什麼不像一些人那樣向父母索取\n\nw 想給的話會主動吧 也不會吵架吧\n我乖乖自己撐就開始講好聽的說話\n覺得女兒像垃圾之後就自責自己沒好好培養\n\n很討厭 為什麼要包裝給自己看\n這些包裝會刺到我啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1964669511979905242",
+        "created_at": "2025-09-07T12:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T13:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964669511979905242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906566164582612992",
+              "start": 3,
+              "username": "Yorutomei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964669511979905242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964410899017715824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yorutomei: 媽媽說 不要那麼懂事 活著會很辛苦的 為什麼不像一些人那樣向父母索取\n\nw 想給的話會主動吧 也不會吵架吧\n我乖乖自己撐就開始講好聽的說話\n覺得女兒像垃圾之後就自責自己沒好好培養\n\n很討厭 為什麼要包裝給自己看\n這些包裝會刺到我啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906566164582612992",
+        "conversation_id": "1964410899017715824",
+        "created_at": "2025-09-06T19:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T20:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964410899017715824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964410899017715824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1949,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "媽媽說 不要那麼懂事 活著會很辛苦的 為什麼不像一些人那樣向父母索取\n\nw 想給的話會主動吧 也不會吵架吧\n我乖乖自己撐就開始講好聽的說話\n覺得女兒像垃圾之後就自責自己沒好好培養\n\n很討厭 為什麼要包裝給自己看\n這些包裝會刺到我啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 126,
+          "like_count": 12649,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 6277
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-09T17:13:11.000Z",
+        "description": "ℂ𝕙𝕒𝕠𝕥𝕚𝕔｜ 𝕡𝕒𝕟 ｜𝕤𝕨𝕚𝕥𝕔𝕙｜網癮女大｜只看不做的變態 ｜分身@yorutorei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "yorutorei"
+              }
+            ]
+          }
+        },
+        "id": "906566164582612992",
+        "location": "Hong Kong",
+        "name": "澪♱",
+        "pinned_tweet_id": "1867974380489519528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832095718296723456/7uVswivY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21308,
+          "following_count": 615,
+          "like_count": 9240,
+          "listed_count": 31,
+          "media_count": 177,
+          "tweet_count": 2638
+        },
+        "username": "Yorutomei",
+        "verified": false
+      }
+    ]
+  }
+}

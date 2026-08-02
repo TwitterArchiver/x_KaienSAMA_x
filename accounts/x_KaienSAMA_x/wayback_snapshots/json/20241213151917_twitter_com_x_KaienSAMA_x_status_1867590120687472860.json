@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1867590120687472860",
+    "created_at": "2024-12-13T15:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T16:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867590120687472860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_kaiensama_x/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/x_kaiensama_x/status/1848291585160532173",
+          "start": 32,
+          "url": "https://t.co/0i1MQwsGrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867590120687472860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848291585160532173",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阿sir話星期一講作文\n我我我星期一請假 我屌咩\n好想聽... https://t.co/0i1MQwsGrM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1867590120687472860",
+        "created_at": "2024-12-13T15:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T16:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867590120687472860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_kaiensama_x/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/x_kaiensama_x/status/1848291585160532173",
+              "start": 32,
+              "url": "https://t.co/0i1MQwsGrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867590120687472860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848291585160532173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿sir話星期一講作文\n我我我星期一請假 我屌咩\n好想聽... https://t.co/0i1MQwsGrM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1848291070721003520",
+            "3_1848291070716887040",
+            "3_1848291070721077248",
+            "3_1848291070733643776"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1848291585160532173",
+        "created_at": "2024-10-21T09:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T10:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848291585160532173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVrBuq47i3",
+              "end": 40,
+              "expanded_url": "https://x.com/01_deadangel/status/1848291585160532173/photo/1",
+              "media_key": "3_1848291070721003520",
+              "start": 17,
+              "url": "https://t.co/aVrBuq47i3"
+            },
+            {
+              "display_url": "pic.x.com/aVrBuq47i3",
+              "end": 40,
+              "expanded_url": "https://x.com/01_deadangel/status/1848291585160532173/photo/1",
+              "media_key": "3_1848291070716887040",
+              "start": 17,
+              "url": "https://t.co/aVrBuq47i3"
+            },
+            {
+              "display_url": "pic.x.com/aVrBuq47i3",
+              "end": 40,
+              "expanded_url": "https://x.com/01_deadangel/status/1848291585160532173/photo/1",
+              "media_key": "3_1848291070721077248",
+              "start": 17,
+              "url": "https://t.co/aVrBuq47i3"
+            },
+            {
+              "display_url": "pic.x.com/aVrBuq47i3",
+              "end": 40,
+              "expanded_url": "https://x.com/01_deadangel/status/1848291585160532173/photo/1",
+              "media_key": "3_1848291070733643776",
+              "start": 17,
+              "url": "https://t.co/aVrBuq47i3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848291585160532173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 695,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的作文最終版寫好了！！\n（1） https://t.co/aVrBuq47i3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 100,
+          "like_count": 11816,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 3414
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

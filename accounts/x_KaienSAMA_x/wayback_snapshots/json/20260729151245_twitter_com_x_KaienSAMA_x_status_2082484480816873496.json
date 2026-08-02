@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2082484480816873496",
+    "created_at": "2026-07-29T15:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082484480816873496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1158756732664872962",
+          "start": 3,
+          "username": "linying36052780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082484480816873496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081632237519519886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linying36052780: 我是遺灰，我號又炸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2082484480816873496",
+        "created_at": "2026-07-29T15:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082484480816873496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1158756732664872962",
+              "start": 3,
+              "username": "linying36052780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082484480816873496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081632237519519886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linying36052780: 我是遺灰，我號又炸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1158756732664872962",
+        "conversation_id": "2081632237519519886",
+        "created_at": "2026-07-27T06:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081632237519519886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081632237519519886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是遺灰，我號又炸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 107,
+          "like_count": 13097,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 7452
+        },
+        "url": "",
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T15:08:28.000Z",
+        "description": "msk你無敵了，不發血圖也封我號",
+        "id": "1158756732664872962",
+        "name": "遺灰6.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081632135363125248/KPI4bG_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 113,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "linying36052780",
+        "verified": false
+      }
+    ]
+  }
+}

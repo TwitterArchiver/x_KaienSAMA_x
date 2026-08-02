@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1898342753735716864"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1898342862112391224",
+    "created_at": "2025-03-08T11:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T12:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898342862112391224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KY69hTcE3A",
+          "end": 23,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1898342862112391224/video/1",
+          "media_key": "13_1898342753735716864",
+          "start": 0,
+          "url": "https://t.co/KY69hTcE3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898342862112391224",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/KY69hTcE3A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_1898342753735716864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1898342753735716864/img/BeM6y4ICknUMQ05r.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898342753735716864/vid/avc1/320x568/W8zSMNQ6WGttiChI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898342753735716864/vid/avc1/480x852/BTpL7_ZDhfgwQRBj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898342753735716864/vid/avc1/720x1280/t5bSqOU-YCHnNKOj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1898342753735716864/pl/rF0-HOgfgEmhea4h.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1898342753735716864"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1898342862112391224",
+        "created_at": "2025-03-08T11:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T12:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898342862112391224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KY69hTcE3A",
+              "end": 23,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1898342862112391224/video/1",
+              "media_key": "13_1898342753735716864",
+              "start": 0,
+              "url": "https://t.co/KY69hTcE3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898342862112391224",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KY69hTcE3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "私　頭がおかしい @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894730110961655808/e5CKLvjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 129,
+          "like_count": 12879,
+          "listed_count": 3,
+          "media_count": 210,
+          "tweet_count": 4551
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

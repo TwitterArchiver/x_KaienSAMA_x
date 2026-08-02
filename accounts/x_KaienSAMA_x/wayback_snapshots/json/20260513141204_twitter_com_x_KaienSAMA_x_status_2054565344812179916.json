@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2054565344812179916",
+    "created_at": "2026-05-13T14:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054565344812179916"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054565344812179916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "係屋企呻覺得帶飯好煩 老豆就黎屌臭我 話我一返屋企到依家講左幾多句煩 又唔諗下係咪自己問題所以先要帶飯 真係聽到我把聲都煩\n我有你呢啲仆街老豆真係慘 心情唔好鍾意屌就屌鳩我 一係就睇老母唔順眼鬧交 你要唔要諗下點解我咁鍾意講煩呢個字 你生出黎嘅係咩環境長大就學樣㗎啦 同你一樣咋 性格臭到爆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2054565344812179916",
+        "created_at": "2026-05-13T14:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054565344812179916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054565344812179916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "係屋企呻覺得帶飯好煩 老豆就黎屌臭我 話我一返屋企到依家講左幾多句煩 又唔諗下係咪自己問題所以先要帶飯 真係聽到我把聲都煩\n我有你呢啲仆街老豆真係慘 心情唔好鍾意屌就屌鳩我 一係就睇老母唔順眼鬧交 你要唔要諗下點解我咁鍾意講煩呢個字 你生出黎嘅係咩環境長大就學樣㗎啦 同你一樣咋 性格臭到爆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 110,
+          "like_count": 13113,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 7241
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

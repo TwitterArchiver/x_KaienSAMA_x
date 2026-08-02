@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2000238055073190029",
+    "created_at": "2025-12-14T16:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000238055073190029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1750497889623896064",
+          "start": 3,
+          "username": "kiki1975422577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000238055073190029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 568
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999721189137375384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiki1975422577: 什么叫逃避啊 我本来就不应该承受那么多痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2000238055073190029",
+        "created_at": "2025-12-14T16:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000238055073190029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1750497889623896064",
+              "start": 3,
+              "username": "kiki1975422577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000238055073190029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 568
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999721189137375384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiki1975422577: 什么叫逃避啊 我本来就不应该承受那么多痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750497889623896064",
+        "conversation_id": "1999721189137375384",
+        "created_at": "2025-12-13T06:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999721189137375384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999721189137375384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 110037,
+          "like_count": 2789,
+          "quote_count": 28,
+          "reply_count": 23,
+          "retweet_count": 568
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫逃避啊 我本来就不应该承受那么多痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人之黑暗面 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 125,
+          "like_count": 12876,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 6761
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T12:36:52.000Z",
+        "description": "",
+        "id": "1750497889623896064",
+        "name": "青苹果🍏",
+        "pinned_tweet_id": "1958378353586741656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925594241415397376/iK2gjXyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 808,
+          "like_count": 3463,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1156
+        },
+        "username": "kiki1975422577",
+        "verified": false
+      }
+    ]
+  }
+}

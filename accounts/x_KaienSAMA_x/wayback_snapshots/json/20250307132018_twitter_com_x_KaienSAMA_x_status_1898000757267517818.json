@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896231419627941888"
+      ],
+      "media_source_tweet_id": [
+        "1896231423159439402"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1898000757267517818",
+    "created_at": "2025-03-07T13:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T14:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898000757267517818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370809768126783488",
+          "start": 3,
+          "username": "JULYSAMA2155282"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WLQIyXakSN",
+          "end": 52,
+          "expanded_url": "https://x.com/JULYSAMA2155282/status/1896231423159439402/photo/1",
+          "media_key": "3_1896231419627941888",
+          "start": 29,
+          "url": "https://t.co/WLQIyXakSN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898000757267517818",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896231423159439402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JULYSAMA2155282: Kawaii？ https://t.co/WLQIyXakSN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898000757267517818].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898000757267517818",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898000757267517818"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896231419627941888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDEbfLbsAAXk9j.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896231419627941888"
+          ]
+        },
+        "author_id": "1370809768126783488",
+        "conversation_id": "1896231423159439402",
+        "created_at": "2025-03-02T16:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T17:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896231423159439402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLQIyXakSN",
+              "end": 31,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1896231423159439402/photo/1",
+              "media_key": "3_1896231419627941888",
+              "start": 8,
+              "url": "https://t.co/WLQIyXakSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896231423159439402",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Kawaii？ https://t.co/WLQIyXakSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "@kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894730110961655808/e5CKLvjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 128,
+          "like_count": 12863,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 4536
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:51:43.000Z",
+        "description": "×芥川夢×喜歡我的可以給我打賞 討厭我的求你不要罵我 女孩子不用過門 @july_akuryu0409 裹垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "july_akuryu0409"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/july._.cos_215…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/july._.cos_21552821",
+                "start": 0,
+                "url": "https://t.co/YC8Kl27WoJ"
+              }
+            ]
+          }
+        },
+        "id": "1370809768126783488",
+        "location": "我在你後方100米",
+        "name": "七月",
+        "pinned_tweet_id": "1850468053340897414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829312777586155520/dh_zhKcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 200,
+          "like_count": 9478,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1329
+        },
+        "url": "https://t.co/YC8Kl27WoJ",
+        "username": "JULYSAMA2155282",
+        "verified": false
+      }
+    ]
+  }
+}

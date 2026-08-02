@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1951476502765223938"
+      ],
+      "media_source_tweet_id": [
+        "1951476517055205589"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1951654405687894106",
+    "created_at": "2025-08-02T14:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T15:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951654405687894106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1659032738014347266",
+          "start": 3,
+          "username": "madokaburra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g7FlOje3XH",
+          "end": 40,
+          "expanded_url": "https://x.com/madokaburra/status/1951476517055205589/photo/1",
+          "media_key": "16_1951476502765223938",
+          "start": 17,
+          "url": "https://t.co/g7FlOje3XH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951654405687894106",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1192
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951476517055205589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madokaburra: https://t.co/g7FlOje3XH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "16_1951476502765223938",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GxUJijbXwAIHuid.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GxUJijbXwAIHuid.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1951476502765223938"
+          ],
+          "media_source_tweet_id": [
+            "1951476517055205589"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1951654405687894106",
+        "created_at": "2025-08-02T14:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T15:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951654405687894106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1659032738014347266",
+              "start": 3,
+              "username": "madokaburra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7FlOje3XH",
+              "end": 40,
+              "expanded_url": "https://x.com/madokaburra/status/1951476517055205589/photo/1",
+              "media_key": "16_1951476502765223938",
+              "start": 17,
+              "url": "https://t.co/g7FlOje3XH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951654405687894106",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1192
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951476517055205589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madokaburra: https://t.co/g7FlOje3XH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1951476502765223938"
+          ]
+        },
+        "author_id": "1659032738014347266",
+        "conversation_id": "1951476517055205589",
+        "created_at": "2025-08-02T02:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T03:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951476517055205589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7FlOje3XH",
+              "end": 23,
+              "expanded_url": "https://x.com/madokaburra/status/1951476517055205589/photo/1",
+              "media_key": "16_1951476502765223938",
+              "start": 0,
+              "url": "https://t.co/g7FlOje3XH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951476517055205589",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 379,
+          "impression_count": 47021,
+          "like_count": 4552,
+          "quote_count": 22,
+          "reply_count": 5,
+          "retweet_count": 1192
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g7FlOje3XH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 129,
+          "like_count": 12518,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 5974
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T03:07:15.000Z",
+        "description": "collage flowers\ncontato comercial: madokaburra@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolita.♡",
+                "end": 23,
+                "expanded_url": "http://lolita.xn--c6h",
+                "start": 0,
+                "url": "https://t.co/laSGxDM3Dm"
+              }
+            ]
+          }
+        },
+        "id": "1659032738014347266",
+        "name": "madoka..",
+        "pinned_tweet_id": "1916343093030174935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950309234828029952/GavHG-oG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8812,
+          "following_count": 137,
+          "like_count": 2688,
+          "listed_count": 5,
+          "media_count": 950,
+          "tweet_count": 3885
+        },
+        "url": "https://t.co/laSGxDM3Dm",
+        "username": "madokaburra",
+        "verified": false
+      }
+    ]
+  }
+}

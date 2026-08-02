@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1858174809219420322",
+    "created_at": "2024-11-17T15:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T16:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858174809219420322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1641488087011188736",
+          "start": 3,
+          "username": "COOLBEANS_1414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858174809219420322",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857973451350298679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @COOLBEANS_1414: i need to cut myself\ni need to cut mysel\ni need to cut myse\ni need to cut mys\ni need to cut my\ni need to cut m\ni need t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1858174809219420322",
+        "created_at": "2024-11-17T15:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T16:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858174809219420322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1641488087011188736",
+              "start": 3,
+              "username": "COOLBEANS_1414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858174809219420322",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857973451350298679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @COOLBEANS_1414: i need to cut myself\ni need to cut mysel\ni need to cut myse\ni need to cut mys\ni need to cut my\ni need to cut m\ni need t…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641488087011188736",
+        "conversation_id": "1857973451350298679",
+        "created_at": "2024-11-17T02:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T03:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857973451350298679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857973451350298679",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3246,
+          "like_count": 436,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "i need to cut myself\ni need to cut mysel\ni need to cut myse\ni need to cut mys\ni need to cut my\ni need to cut m\ni need to cut\ni need to c\ni need to\ni need to k\ni need to ki\ni need to kill\ni need to kill m\ni need to kill my\ni need to kill myself"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "泡爛的屍體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858144314830016512/fh5rb-bQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 84,
+          "like_count": 11208,
+          "listed_count": 0,
+          "tweet_count": 2991
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T17:11:00.000Z",
+        "description": "🏳️‍⚧️ She/Her 🏳️‍⚧️\n||  14  ||\npriv acc; @pukeoutmygutzz\n\n||  i interact w/ arttwt, shtwt, (shedtwt)  & edtwt\nim open to be mooties!! (˶˃ ᵕ ˂˶)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "pukeoutmygutzz"
+              }
+            ]
+          }
+        },
+        "id": "1641488087011188736",
+        "location": "papa's freezeria",
+        "name": "♡ Dorthy ♡ || shedtwt",
+        "pinned_tweet_id": "1854715723710349682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854714305733599243/zlyzrxsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 1173,
+          "like_count": 8164,
+          "listed_count": 1,
+          "tweet_count": 1551
+        },
+        "username": "COOLBEANS_1414",
+        "verified": false
+      }
+    ]
+  }
+}

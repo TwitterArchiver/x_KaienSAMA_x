@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867876523526811648"
+      ],
+      "media_source_tweet_id": [
+        "1867876529889538415"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1868422577825448289",
+    "created_at": "2024-12-15T22:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T23:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868422577825448289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1623648254524280834",
+          "start": 3,
+          "username": "SupperMax999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zo3kadmIV3",
+          "end": 60,
+          "expanded_url": "https://x.com/SupperMax999/status/1867876529889538415/photo/1",
+          "media_key": "3_1867876523526811648",
+          "start": 37,
+          "url": "https://t.co/zo3kadmIV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868422577825448289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867876529889538415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SupperMax999: 牛子皇帝提醒众爱卿，现在是撸管时间！ https://t.co/zo3kadmIV3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 686,
+        "media_key": "3_1867876523526811648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GewHzT0bcAAHdxz.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867876523526811648"
+          ],
+          "media_source_tweet_id": [
+            "1867876529889538415"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1868422577825448289",
+        "created_at": "2024-12-15T22:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T23:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868422577825448289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1623648254524280834",
+              "start": 3,
+              "username": "SupperMax999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zo3kadmIV3",
+              "end": 60,
+              "expanded_url": "https://x.com/SupperMax999/status/1867876529889538415/photo/1",
+              "media_key": "3_1867876523526811648",
+              "start": 37,
+              "url": "https://t.co/zo3kadmIV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868422577825448289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867876529889538415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SupperMax999: 牛子皇帝提醒众爱卿，现在是撸管时间！ https://t.co/zo3kadmIV3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867876523526811648"
+          ]
+        },
+        "author_id": "1623648254524280834",
+        "conversation_id": "1867876529889538415",
+        "created_at": "2024-12-14T10:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T11:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867876529889538415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zo3kadmIV3",
+              "end": 42,
+              "expanded_url": "https://x.com/SupperMax999/status/1867876529889538415/photo/1",
+              "media_key": "3_1867876523526811648",
+              "start": 19,
+              "url": "https://t.co/zo3kadmIV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867876529889538415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 152907,
+          "like_count": 1910,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "牛子皇帝提醒众爱卿，现在是撸管时间！ https://t.co/zo3kadmIV3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868333295408410624/a-QiuFaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 101,
+          "like_count": 11845,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 3439
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-09T11:41:36.000Z",
+        "description": "和朕聊天不需要🚪，因为朕是高贵的牛子皇帝！朕不在乎为什么没人爱朕，因为朕是牛子之王！",
+        "id": "1623648254524280834",
+        "location": "朕在睡觉，吃点褪黑素果然没什么作用。",
+        "name": "牛子皇帝",
+        "pinned_tweet_id": "1862182653396754800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859507230003118080/QsYZcmNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 13,
+          "like_count": 921,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 171
+        },
+        "username": "SupperMax999",
+        "verified": false
+      }
+    ]
+  }
+}

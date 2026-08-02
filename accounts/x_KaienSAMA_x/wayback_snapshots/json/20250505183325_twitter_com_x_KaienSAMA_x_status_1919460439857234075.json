@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919443507846250496"
+      ],
+      "media_source_tweet_id": [
+        "1919443510677430646"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1919460439857234075",
+    "created_at": "2025-05-05T18:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T19:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919460439857234075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512834058820022281",
+          "start": 3,
+          "username": "yins_chan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GHXpoiyliW",
+          "end": 66,
+          "expanded_url": "https://x.com/yins_chan_/status/1919443510677430646/photo/1",
+          "media_key": "3_1919443507846250496",
+          "start": 43,
+          "url": "https://t.co/GHXpoiyliW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919460439857234075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919443510677430646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yins_chan_: bb，我幫你課左斑馬線會員\n以後你紅燈都可以照過馬路 https://t.co/GHXpoiyliW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919443507846250496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqM7s2ObAAAJe_5.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919443507846250496"
+          ],
+          "media_source_tweet_id": [
+            "1919443510677430646"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1919460439857234075",
+        "created_at": "2025-05-05T18:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T19:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919460439857234075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512834058820022281",
+              "start": 3,
+              "username": "yins_chan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHXpoiyliW",
+              "end": 66,
+              "expanded_url": "https://x.com/yins_chan_/status/1919443510677430646/photo/1",
+              "media_key": "3_1919443507846250496",
+              "start": 43,
+              "url": "https://t.co/GHXpoiyliW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919460439857234075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919443510677430646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yins_chan_: bb，我幫你課左斑馬線會員\n以後你紅燈都可以照過馬路 https://t.co/GHXpoiyliW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919443507846250496"
+          ]
+        },
+        "author_id": "1512834058820022281",
+        "conversation_id": "1919443510677430646",
+        "created_at": "2025-05-05T17:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T18:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919443510677430646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHXpoiyliW",
+              "end": 50,
+              "expanded_url": "https://x.com/yins_chan_/status/1919443510677430646/photo/1",
+              "media_key": "3_1919443507846250496",
+              "start": 27,
+              "url": "https://t.co/GHXpoiyliW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919443510677430646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "bb，我幫你課左斑馬線會員\n以後你紅燈都可以照過馬路 https://t.co/GHXpoiyliW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 130,
+          "like_count": 12334,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 5236
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T16:45:27.000Z",
+        "description": "只是要對世界保持依戀實在太難了",
+        "id": "1512834058820022281",
+        "location": "Hell 距離你所在的地方100米以內",
+        "name": "意志蠶食者",
+        "pinned_tweet_id": "1884301640192385506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545350024845881346/DZLFap_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 261,
+          "like_count": 91985,
+          "listed_count": 4,
+          "media_count": 490,
+          "tweet_count": 11398
+        },
+        "username": "yins_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

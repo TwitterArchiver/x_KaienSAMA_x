@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1909589681395974235",
+    "created_at": "2025-04-09T06:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T07:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909859236139687960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1285531839776436225",
+          "start": 0,
+          "username": "ka0402long"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909859236139687960",
+    "in_reply_to_user_id": "1285531839776436225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909770046437777473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ka0402long 草 好的ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1909589681395974235",
+        "created_at": "2025-04-09T06:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T07:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909859236139687960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1285531839776436225",
+              "start": 0,
+              "username": "ka0402long"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909859236139687960",
+        "in_reply_to_user_id": "1285531839776436225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909770046437777473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ka0402long 草 好的ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285531839776436225",
+        "conversation_id": "1909589681395974235",
+        "created_at": "2025-04-09T00:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T01:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909770046437777473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909770046437777473",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909589681395974235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 本來好看~ 是他們不配\n中學的男孩子滿腦子都是 玩和色色\n\n沒有辦法因為根據研究 男孩子的思想是比同年女孩子幼稚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906626426033553408/DC8Yr8_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 131,
+          "like_count": 12334,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 5085
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T11:07:43.000Z",
+        "description": "水滴魚人\n7月控",
+        "id": "1285531839776436225",
+        "location": "你心中",
+        "name": "夜色良月",
+        "pinned_tweet_id": "1850698674688725432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909396501140586497/AABkL27D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 285,
+          "like_count": 3667,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1267
+        },
+        "username": "ka0402long",
+        "verified": false
+      }
+    ]
+  }
+}

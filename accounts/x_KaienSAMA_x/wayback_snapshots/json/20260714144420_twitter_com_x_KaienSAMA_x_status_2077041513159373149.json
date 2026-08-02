@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2077041513159373149",
+    "created_at": "2026-07-14T14:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077041513159373149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2068388744454098944",
+          "start": 3,
+          "username": "ggghonneeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077041513159373149",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077015975376150684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggghonneeee: 境界性パーソナリティあるある\n\n相手の愛を確かめる一番の方法が\n\"目の前からいなくなること\"だと思ってるバグ。\n\n本当にいなくなったら死ぬほど泣き叫ぶくせに、失うことでしか相手の存在の大きさを実感できないの、本当に業が深すぎる。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2077041513159373149",
+        "created_at": "2026-07-14T14:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077041513159373149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2068388744454098944",
+              "start": 3,
+              "username": "ggghonneeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077041513159373149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077015975376150684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggghonneeee: 境界性パーソナリティあるある\n\n相手の愛を確かめる一番の方法が\n\"目の前からいなくなること\"だと思ってるバグ。\n\n本当にいなくなったら死ぬほど泣き叫ぶくせに、失うことでしか相手の存在の大きさを実感できないの、本当に業が深すぎる。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068388744454098944",
+        "conversation_id": "2077015975376150684",
+        "created_at": "2026-07-14T13:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077015975376150684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077015975376150684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 6835,
+          "like_count": 328,
+          "quote_count": 18,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "境界性パーソナリティあるある\n\n相手の愛を確かめる一番の方法が\n\"目の前からいなくなること\"だと思ってるバグ。\n\n本当にいなくなったら死ぬほど泣き叫ぶくせに、失うことでしか相手の存在の大きさを実感できないの、本当に業が深すぎる。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 107,
+          "like_count": 13106,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 7434
+        },
+        "url": "",
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T17:44:32.000Z",
+        "description": "普通に生きられてる奴の言葉を信じるな",
+        "id": "2068388744454098944",
+        "name": "限界ぼーだーちゃん",
+        "pinned_tweet_id": "2069505248675471459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069512070559940608/_P5vYBiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 828,
+          "like_count": 182,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "ggghonneeee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928526315457753090"
+      ],
+      "media_source_tweet_id": [
+        "1932015564811354270"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1932496231458353175",
+    "created_at": "2025-06-10T17:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T18:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932496231458353175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2799223760",
+          "start": 3,
+          "username": "youderua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R1kTAwRPqJ",
+          "end": 46,
+          "expanded_url": "https://x.com/youderua/status/1932015564811354270/photo/1",
+          "media_key": "3_1928526315457753090",
+          "start": 23,
+          "url": "https://t.co/R1kTAwRPqJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932496231458353175",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 607
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932015564811354270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youderua: メンヘラの頭の中 https://t.co/R1kTAwRPqJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_1928526315457753090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsOAd1TaMAINwP6.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928526315457753090"
+          ],
+          "media_source_tweet_id": [
+            "1932015564811354270"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1932496231458353175",
+        "created_at": "2025-06-10T17:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T18:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932496231458353175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2799223760",
+              "start": 3,
+              "username": "youderua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1kTAwRPqJ",
+              "end": 46,
+              "expanded_url": "https://x.com/youderua/status/1932015564811354270/photo/1",
+              "media_key": "3_1928526315457753090",
+              "start": 23,
+              "url": "https://t.co/R1kTAwRPqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932496231458353175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 607
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932015564811354270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youderua: メンヘラの頭の中 https://t.co/R1kTAwRPqJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928526315457753090"
+          ]
+        },
+        "author_id": "2799223760",
+        "conversation_id": "1932015564811354270",
+        "created_at": "2025-06-09T10:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932015564811354270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1kTAwRPqJ",
+              "end": 32,
+              "expanded_url": "https://x.com/youderua/status/1932015564811354270/photo/1",
+              "media_key": "3_1928526315457753090",
+              "start": 9,
+              "url": "https://t.co/R1kTAwRPqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932015564811354270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 417,
+          "impression_count": 488528,
+          "like_count": 6193,
+          "quote_count": 181,
+          "reply_count": 6,
+          "retweet_count": 607
+        },
+        "reply_settings": "everyone",
+        "text": "メンヘラの頭の中 https://t.co/R1kTAwRPqJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 130,
+          "like_count": 12300,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 5543
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-09T05:07:21.000Z",
+        "description": "私しかみない彼氏どこ？",
+        "id": "2799223760",
+        "name": "裏少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883005043198365696/TUhlWW7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6180,
+          "following_count": 2339,
+          "like_count": 23,
+          "listed_count": 13,
+          "media_count": 37,
+          "tweet_count": 478
+        },
+        "username": "youderua",
+        "verified": false
+      }
+    ]
+  }
+}

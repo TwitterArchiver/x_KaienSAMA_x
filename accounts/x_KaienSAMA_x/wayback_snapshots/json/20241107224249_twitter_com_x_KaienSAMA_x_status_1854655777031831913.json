@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1854655777031831913",
+    "created_at": "2024-11-07T22:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T23:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854655777031831913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1620109063190368256",
+          "start": 3,
+          "username": "pochacooQQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854655777031831913",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854207067969749057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pochacooQQ: 好想在被發現割手以後被安慰 然後窩進應該溫暖的懷抱裡.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1854655777031831913",
+        "created_at": "2024-11-07T22:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T23:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854655777031831913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1620109063190368256",
+              "start": 3,
+              "username": "pochacooQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854655777031831913",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854207067969749057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pochacooQQ: 好想在被發現割手以後被安慰 然後窩進應該溫暖的懷抱裡.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620109063190368256",
+        "conversation_id": "1854207067969749057",
+        "created_at": "2024-11-06T16:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T17:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854207067969749057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854207067969749057",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 863,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想在被發現割手以後被安慰 然後窩進應該溫暖的懷抱裡.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "雨下被沖洗的塵埃",
+        "name": "海塩SAMA",
+        "pinned_tweet_id": "1852755428591177880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852738899996733440/96WoqhQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 82,
+          "like_count": 11170,
+          "listed_count": 0,
+          "tweet_count": 2874
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T17:18:07.000Z",
+        "description": "08｜抑鬱症/焦慮症/社交焦慮症｜叫春｜帕恰狗激推｜ 別問了 純綠不線下 過門僅聊天｜不過門不回信息｜🐔🥶❌🤢｜寶寶@m7kr4我的兄弟有律師金牙🫰🏻@ayk_707_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 58,
+                "username": "m7kr4"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "ayk_707_"
+              }
+            ]
+          }
+        },
+        "id": "1620109063190368256",
+        "location": "🚪40",
+        "name": "絕望的直女🤓🙏🏿",
+        "pinned_tweet_id": "1829137252125159912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833360090080153601/hefPLoHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3024,
+          "following_count": 56,
+          "like_count": 7034,
+          "listed_count": 4,
+          "tweet_count": 3414
+        },
+        "username": "pochacooQQ",
+        "verified": false
+      }
+    ]
+  }
+}

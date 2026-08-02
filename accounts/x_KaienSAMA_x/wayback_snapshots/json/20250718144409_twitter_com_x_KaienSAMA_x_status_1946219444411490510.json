@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945696629165584384"
+      ],
+      "media_source_tweet_id": [
+        "1945696632114188546"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1946219444411490510",
+    "created_at": "2025-07-18T14:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T15:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946219444411490510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641294345553805312",
+          "start": 3,
+          "username": "oumarexic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kUgRB3sT9F",
+          "end": 41,
+          "expanded_url": "https://x.com/oumarexic/status/1945696632114188546/photo/1",
+          "media_key": "3_1945696629165584384",
+          "start": 18,
+          "url": "https://t.co/kUgRB3sT9F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946219444411490510",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 852
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945696632114188546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oumarexic: me https://t.co/kUgRB3sT9F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_1945696629165584384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCAxoYW8AATUM7.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945696629165584384"
+          ],
+          "media_source_tweet_id": [
+            "1945696632114188546"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1946219444411490510",
+        "created_at": "2025-07-18T14:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T15:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946219444411490510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641294345553805312",
+              "start": 3,
+              "username": "oumarexic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUgRB3sT9F",
+              "end": 41,
+              "expanded_url": "https://x.com/oumarexic/status/1945696632114188546/photo/1",
+              "media_key": "3_1945696629165584384",
+              "start": 18,
+              "url": "https://t.co/kUgRB3sT9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946219444411490510",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 852
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945696632114188546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oumarexic: me https://t.co/kUgRB3sT9F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945696629165584384"
+          ]
+        },
+        "author_id": "1641294345553805312",
+        "conversation_id": "1945696632114188546",
+        "created_at": "2025-07-17T04:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T05:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945696632114188546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUgRB3sT9F",
+              "end": 26,
+              "expanded_url": "https://x.com/oumarexic/status/1945696632114188546/photo/1",
+              "media_key": "3_1945696629165584384",
+              "start": 3,
+              "url": "https://t.co/kUgRB3sT9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945696632114188546",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 25626,
+          "like_count": 3015,
+          "quote_count": 13,
+          "reply_count": 11,
+          "retweet_count": 852
+        },
+        "reply_settings": "everyone",
+        "text": "me https://t.co/kUgRB3sT9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 128,
+          "like_count": 12500,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 5867
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T04:20:48.000Z",
+        "description": "kokichi ouma of #shedtwt + irl vampire ☘️ he/him 🔎 de : ♡ @looser_7v7 @miun0rex1c ♡ really really missing @petoricc #jinx match @looser_7v7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 16,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 121,
+                "start": 116,
+                "tag": "jinx"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "looser_7v7"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "miun0rex1c"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "petoricc"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "looser_7v7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oumarexic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oumarexic",
+                "start": 0,
+                "url": "https://t.co/Rdm0FoWh1I"
+              }
+            ]
+          }
+        },
+        "id": "1641294345553805312",
+        "location": "19★⠀HE/HIM 🩸 entp   ᶻᶻᶻ ",
+        "name": "🔪 ࣪˖ Momazos randal ᶻ 𝗓 𐰁 ⚫️🔴",
+        "pinned_tweet_id": "1918398256876535961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945673318746542080/oJRv7Stu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6847,
+          "following_count": 3279,
+          "like_count": 18345,
+          "listed_count": 33,
+          "media_count": 4249,
+          "tweet_count": 24865
+        },
+        "url": "https://t.co/Rdm0FoWh1I",
+        "username": "oumarexic",
+        "verified": false
+      }
+    ]
+  }
+}

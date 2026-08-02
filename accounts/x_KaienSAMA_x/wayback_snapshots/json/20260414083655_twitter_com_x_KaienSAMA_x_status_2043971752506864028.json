@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2043971752506864028",
+    "created_at": "2026-04-14T08:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043971752506864028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/d0llface_shiok…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/d0llface_shioko/status/2043676206974013489",
+          "start": 10,
+          "url": "https://t.co/j9RUl2N8ss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043971752506864028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043676206974013489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "窮也不知道怎麼辦了 https://t.co/j9RUl2N8ss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 231,
+        "media_key": "3_2043676202511327232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyYraabYAAytLn.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2043971752506864028",
+        "created_at": "2026-04-14T08:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043971752506864028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/d0llface_shiok…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/d0llface_shioko/status/2043676206974013489",
+              "start": 10,
+              "url": "https://t.co/j9RUl2N8ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043971752506864028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043676206974013489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窮也不知道怎麼辦了 https://t.co/j9RUl2N8ss"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043676202511327232"
+          ]
+        },
+        "author_id": "2029854517685284864",
+        "conversation_id": "2043676206974013489",
+        "created_at": "2026-04-13T13:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043676206974013489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0uzQXCkUv",
+              "end": 101,
+              "expanded_url": "https://x.com/d0llface_shioko/status/2043676206974013489/photo/1",
+              "media_key": "3_2043676202511327232",
+              "start": 78,
+              "url": "https://t.co/r0uzQXCkUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043676206974013489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5475,
+          "like_count": 196,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "alright, here is someone saying a real jirai wont wear dupes, what do we say? https://t.co/r0uzQXCkUv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 115,
+          "like_count": 13131,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 7165
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T09:40:17.000Z",
+        "description": "INTERNET ❤︎ ANGEL ꒰ა ♡ ໒꒱ \n:¨ ·.· ¨ ꔫ#地雷女 🇭🇰⸝⸝ #hsrtwt #yumetwt\n`· .🐰推し: #刃 𝟎𝟕.𝟎𝟑.𝟐𝟎𝟐𝟑 ♡\n⤷#夢女 🩷⸝⸝ 中文.ᐟ日語.ᐟENG \ninsta/disc/tt: d0llface_shioko ⁺໒꒱ི",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 47,
+                "tag": "hsrtwt"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "tag": "yumetwt"
+              },
+              {
+                "end": 75,
+                "start": 73,
+                "tag": "刃"
+              },
+              {
+                "end": 93,
+                "start": 90,
+                "tag": "夢女"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/d0llface_shioko",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/d0llface_shioko",
+                "start": 0,
+                "url": "https://t.co/mI2hDEu6DK"
+              }
+            ]
+          }
+        },
+        "id": "2029854517685284864",
+        "location": "yume acc: @itz_shioko",
+        "name": "SHIOKO/刃の愛 ☆‧₊˚",
+        "pinned_tweet_id": "2042606565484814830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029854930283139072/VFet0LK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 1085,
+          "like_count": 2526,
+          "listed_count": 27,
+          "media_count": 251,
+          "tweet_count": 1371
+        },
+        "url": "https://t.co/mI2hDEu6DK",
+        "username": "d0llface_shioko",
+        "verified": false
+      }
+    ]
+  }
+}

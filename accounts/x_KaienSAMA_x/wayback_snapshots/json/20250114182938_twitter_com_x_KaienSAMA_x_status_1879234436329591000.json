@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1879234436329591000",
+    "created_at": "2025-01-14T18:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T19:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879234436329591000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906566164582612992",
+          "start": 3,
+          "username": "Yorutomei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879234436329591000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879109735045283980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yorutomei: 原來昨晚害朋友失眠了\n今早他說 聽完我的經歷挺難過 一直在想 睡不著\n\n他的經歷很戲劇化ww在奇怪的地方共鳴了\n\n我一般不會說 以前跟好朋友講過一次\n她聽完當場哭出來\n\n挺好笑的 \n認真說真的不慘 開心的地方很多 \n而我自己也無法被判無辜\n介乎被壓…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1879234436329591000",
+        "created_at": "2025-01-14T18:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T19:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879234436329591000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906566164582612992",
+              "start": 3,
+              "username": "Yorutomei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879234436329591000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879109735045283980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yorutomei: 原來昨晚害朋友失眠了\n今早他說 聽完我的經歷挺難過 一直在想 睡不著\n\n他的經歷很戲劇化ww在奇怪的地方共鳴了\n\n我一般不會說 以前跟好朋友講過一次\n她聽完當場哭出來\n\n挺好笑的 \n認真說真的不慘 開心的地方很多 \n而我自己也無法被判無辜\n介乎被壓…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906566164582612992",
+        "conversation_id": "1878845399282393179",
+        "created_at": "2025-01-14T10:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T11:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879109735045283980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879109735045283980",
+        "in_reply_to_user_id": "906566164582612992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1104,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878845399282393179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原來昨晚害朋友失眠了\n今早他說 聽完我的經歷挺難過 一直在想 睡不著\n\n他的經歷很戲劇化ww在奇怪的地方共鳴了\n\n我一般不會說 以前跟好朋友講過一次\n她聽完當場哭出來\n\n挺好笑的 \n認真說真的不慘 開心的地方很多 \n而我自己也無法被判無辜\n介乎被壓榨和自找之間"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "推是我的發洩地方垃圾桶嘔吐袋 熟人繞路別逼我改名重生 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 110,
+          "like_count": 11938,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 3800
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-09T17:13:11.000Z",
+        "description": "ℂ𝕙𝕒𝕠𝕥𝕚𝕔｜ 𝕡𝕒𝕟 ｜𝕤𝕨𝕚𝕥𝕔𝕙｜網癮女大｜只看不做的變態",
+        "id": "906566164582612992",
+        "location": "Hong Kong",
+        "name": "澪♱",
+        "pinned_tweet_id": "1867974380489519528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832095718296723456/7uVswivY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9377,
+          "following_count": 550,
+          "like_count": 5565,
+          "listed_count": 30,
+          "media_count": 84,
+          "tweet_count": 1277
+        },
+        "username": "Yorutomei",
+        "verified": false
+      }
+    ]
+  }
+}

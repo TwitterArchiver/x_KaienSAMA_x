@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2069058604699931001",
+    "created_at": "2026-06-26T08:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070430852249719259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1550593157876060160",
+          "start": 0,
+          "username": "Fumi_uowou_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070430852249719259",
+    "in_reply_to_user_id": "1550593157876060160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069162612768862310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fumi_uowou_ 我算地中黨 家裡人也給我出cos 只是家比較小 他們說我東西太多 佔了好多位置 想讓我把不用的賣掉 我嘗試賣服但也賣不出而已qq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2069058604699931001",
+        "created_at": "2026-06-26T08:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070430852249719259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1550593157876060160",
+              "start": 0,
+              "username": "Fumi_uowou_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070430852249719259",
+        "in_reply_to_user_id": "1550593157876060160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069162612768862310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fumi_uowou_ 我算地中黨 家裡人也給我出cos 只是家比較小 他們說我東西太多 佔了好多位置 想讓我把不用的賣掉 我嘗試賣服但也賣不出而已qq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550593157876060160",
+        "conversation_id": "2069058604699931001",
+        "created_at": "2026-06-22T20:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069162612768862310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069162612768862310",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069058604699931001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 拍拍寶寶 ，我也有朋友是這樣一直被家人罵，可能你需要藏好自己有關於cos的東西，因為很有可能會被家人掉去垃圾桶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 110,
+          "like_count": 13125,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 7375
+        },
+        "url": "",
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷系｜永遠の16歳 ｜社不\n和社會對立",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "ふみわんちゃん🦭🌧️",
+        "pinned_tweet_id": "2020858399106248987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990852953499185154/HwgnW6Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 135,
+          "like_count": 20526,
+          "listed_count": 5,
+          "media_count": 298,
+          "tweet_count": 2780
+        },
+        "url": "",
+        "username": "Fumi_uowou_",
+        "verified": false
+      }
+    ]
+  }
+}

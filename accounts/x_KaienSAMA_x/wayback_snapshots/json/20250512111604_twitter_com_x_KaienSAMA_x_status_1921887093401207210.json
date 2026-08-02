@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1921887093401207210",
+    "created_at": "2025-05-12T11:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T12:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921887093401207210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1712099097728241664",
+          "start": 3,
+          "username": "aaaakiiii0910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921887093401207210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921603318607970448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaakiiii0910: 如果可以我也想不自殘不od 活得跟個正常人一樣\n但是傷害已經造成了\n他就像那些腿上的疤一樣\n已經不疼了但卻凹凸不平\n那些人早就變了也沒那麼痛苦了\n卻依然對我的性格造成了很大的改變"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1921887093401207210",
+        "created_at": "2025-05-12T11:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T12:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921887093401207210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1712099097728241664",
+              "start": 3,
+              "username": "aaaakiiii0910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921887093401207210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921603318607970448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaakiiii0910: 如果可以我也想不自殘不od 活得跟個正常人一樣\n但是傷害已經造成了\n他就像那些腿上的疤一樣\n已經不疼了但卻凹凸不平\n那些人早就變了也沒那麼痛苦了\n卻依然對我的性格造成了很大的改變"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712099097728241664",
+        "conversation_id": "1921603318607970448",
+        "created_at": "2025-05-11T16:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T17:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921603318607970448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921603318607970448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果可以我也想不自殘不od 活得跟個正常人一樣\n但是傷害已經造成了\n他就像那些腿上的疤一樣\n已經不疼了但卻凹凸不平\n那些人早就變了也沒那麼痛苦了\n卻依然對我的性格造成了很大的改變"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 130,
+          "like_count": 12167,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 5274
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T13:34:01.000Z",
+        "description": "看黃男請繞道 成分：自傷｜OD ｜負面 私信查成分回fo 不接爸爸活",
+        "id": "1712099097728241664",
+        "location": "理想的天國",
+        "name": "アキ",
+        "pinned_tweet_id": "1910327624435666965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909995231577309184/In8J6d9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 103,
+          "like_count": 2874,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2920
+        },
+        "username": "aaaakiiii0910",
+        "verified": false
+      }
+    ]
+  }
+}

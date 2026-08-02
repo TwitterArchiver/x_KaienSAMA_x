@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895469448859107328"
+      ],
+      "media_source_tweet_id": [
+        "1895469557420282116"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1895705625927303519",
+    "created_at": "2025-03-01T05:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T06:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895705625927303519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1724674446819241984",
+          "start": 3,
+          "username": "No_1Ekora"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AITjCzyvwL",
+          "end": 42,
+          "expanded_url": "https://x.com/No_1Ekora/status/1895469557420282116/photo/1",
+          "media_key": "3_1895469448859107328",
+          "start": 19,
+          "url": "https://t.co/AITjCzyvwL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895705625927303519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895469557420282116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @No_1Ekora: 是本人 https://t.co/AITjCzyvwL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895469448859107328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4Pa83aQAA8bEU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895469448859107328"
+          ],
+          "media_source_tweet_id": [
+            "1895469557420282116"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1895705625927303519",
+        "created_at": "2025-03-01T05:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T06:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895705625927303519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1724674446819241984",
+              "start": 3,
+              "username": "No_1Ekora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AITjCzyvwL",
+              "end": 42,
+              "expanded_url": "https://x.com/No_1Ekora/status/1895469557420282116/photo/1",
+              "media_key": "3_1895469448859107328",
+              "start": 19,
+              "url": "https://t.co/AITjCzyvwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895705625927303519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895469557420282116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @No_1Ekora: 是本人 https://t.co/AITjCzyvwL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895469448859107328"
+          ]
+        },
+        "author_id": "1724674446819241984",
+        "conversation_id": "1895469557420282116",
+        "created_at": "2025-02-28T13:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895469557420282116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AITjCzyvwL",
+              "end": 27,
+              "expanded_url": "https://x.com/No_1Ekora/status/1895469557420282116/photo/1",
+              "media_key": "3_1895469448859107328",
+              "start": 4,
+              "url": "https://t.co/AITjCzyvwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895469557420282116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "是本人 https://t.co/AITjCzyvwL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "@kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894730110961655808/e5CKLvjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 130,
+          "like_count": 12826,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 4479
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T06:23:33.000Z",
+        "description": "「かっこいいのほうがいい」",
+        "id": "1724674446819241984",
+        "location": "天國",
+        "name": "桃沢ねこら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895460827303727104/jzCL3oeg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "No_1Ekora",
+        "verified": false
+      }
+    ]
+  }
+}

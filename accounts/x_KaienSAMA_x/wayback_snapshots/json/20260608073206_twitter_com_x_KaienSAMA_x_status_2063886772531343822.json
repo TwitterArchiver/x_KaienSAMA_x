@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2063886772531343822",
+    "created_at": "2026-06-08T07:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063886772531343822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1136627173480181761",
+          "start": 3,
+          "username": "recovery_your"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063886772531343822",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 747
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063639812934860920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @recovery_your: Suicidal thoughts don’t always sound like\n“I want to die.”\n\nSometimes they sound like:\n• “I can’t keep doing this.”\n• “I…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2063886772531343822",
+        "created_at": "2026-06-08T07:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063886772531343822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1136627173480181761",
+              "start": 3,
+              "username": "recovery_your"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063886772531343822",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 747
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063639812934860920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @recovery_your: Suicidal thoughts don’t always sound like\n“I want to die.”\n\nSometimes they sound like:\n• “I can’t keep doing this.”\n• “I…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1136627173480181761",
+        "conversation_id": "2063639812934860920",
+        "created_at": "2026-06-07T15:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063639812934860920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063639812934860920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Suicidal thoughts don’t always sound like\n“I want to die.”\n\nSometimes they sound like:\n• “I can’t keep doing this.”\n• “I don’t want to wake up tomorrow.”\n• “I’m tired of being strong.”\n• “I feel trapped in my own life.”\n• “I don’t belong here.”\n• “Everything feels too heavy.”\n\nThese aren’t attention seeking thoughts.\nThey’re pain and it’s unbearable."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 649,
+          "impression_count": 74914,
+          "like_count": 3611,
+          "quote_count": 28,
+          "reply_count": 23,
+          "retweet_count": 747
+        },
+        "reply_settings": "everyone",
+        "text": "Suicidal thoughts don’t always sound like\n“I want to die.”\n\nSometimes they sound like:\n• “I can’t keep doing this.”\n• “I don’t want to wake up tomorrow.”\n• “I’m tired of being strong.”\n• “I feel trapped in my own life.”\n• “I don’t belong here.”\n• “Everything feels too"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 110,
+          "like_count": 13129,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 7345
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-06T13:33:30.000Z",
+        "description": "Mentalhealth & addiction/suicide & childabuse survivor. ADHD. ASD, BPD/CPTSD (peer supporter) Sharing content to make others feel less alone. GEN X. Awkward AF.",
+        "id": "1136627173480181761",
+        "location": "Co durham",
+        "name": "lets heal and recover",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063698310053941248/ma-5bifC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44607,
+          "following_count": 7933,
+          "like_count": 40962,
+          "listed_count": 117,
+          "media_count": 779,
+          "tweet_count": 20967
+        },
+        "username": "recovery_your",
+        "verified": true
+      }
+    ]
+  }
+}

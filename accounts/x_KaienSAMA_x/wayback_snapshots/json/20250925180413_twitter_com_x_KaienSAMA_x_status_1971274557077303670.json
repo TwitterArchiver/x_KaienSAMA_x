@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1971248805149651167",
+    "created_at": "2025-09-25T18:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T19:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971274557077303670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1266884280459816960",
+          "start": 0,
+          "username": "Kagetsuki9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971274557077303670",
+    "in_reply_to_user_id": "1266884280459816960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971254131961778600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagetsuki9 謝謝～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1971248805149651167",
+        "created_at": "2025-09-25T18:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T19:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971274557077303670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1266884280459816960",
+              "start": 0,
+              "username": "Kagetsuki9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971274557077303670",
+        "in_reply_to_user_id": "1266884280459816960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971254131961778600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagetsuki9 謝謝～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266884280459816960",
+        "conversation_id": "1971248805149651167",
+        "created_at": "2025-09-25T16:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T17:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971254131961778600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971254131961778600",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971248805149651167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 生日快樂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 127,
+          "like_count": 12735,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 6377
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-31T00:09:08.000Z",
+        "description": "",
+        "id": "1266884280459816960",
+        "name": "kagetsuki_911911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1267774310090895361/i25eY1S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 535,
+          "like_count": 1959,
+          "listed_count": 0,
+          "media_count": 1575,
+          "tweet_count": 2225
+        },
+        "username": "Kagetsuki9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1951854451091792236",
+    "created_at": "2025-08-03T03:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T04:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951854451091792236"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 18,
+          "tag": "ニディガ東名阪POPUPSTORE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790319108875227136",
+          "start": 3,
+          "username": "needygirl_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/d0esqUU",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/d0esqUU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951854451091792236",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951840458667089964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_o: 💎#ニディガ東名阪POPUPSTORE お品書きのご紹介💎\n\nPOPUPSTOREの当日分のお品書きを紹介‼️‼️\n一部会場限定のグッズもあるよ👊👊💫\n当日をお楽しみに🥰🎀\n\n▼特設サイトはこちらから▼\nhttps://t.co/d0esqUU…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1698,
+        "media_key": "3_1951554931204431872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVQ3sIaIAAT8_K.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1698,
+        "media_key": "3_1951554945788125184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVQ4idboAAFjMD.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1698,
+        "media_key": "3_1951554958148640769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVQ5QgaIAE-Mos.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1698,
+        "media_key": "3_1951554969729114112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVQ57paIAALgmR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1951854451091792236",
+        "created_at": "2025-08-03T03:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T04:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951854451091792236"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 18,
+              "tag": "ニディガ東名阪POPUPSTORE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790319108875227136",
+              "start": 3,
+              "username": "needygirl_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/d0esqUU",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/d0esqUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951854451091792236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951840458667089964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_o: 💎#ニディガ東名阪POPUPSTORE お品書きのご紹介💎\n\nPOPUPSTOREの当日分のお品書きを紹介‼️‼️\n一部会場限定のグッズもあるよ👊👊💫\n当日をお楽しみに🥰🎀\n\n▼特設サイトはこちらから▼\nhttps://t.co/d0esqUU…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951554931204431872",
+            "3_1951554945788125184",
+            "3_1951554958148640769",
+            "3_1951554969729114112"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1951840458667089964",
+        "created_at": "2025-08-03T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951840458667089964"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 1,
+              "tag": "ニディガ東名阪POPUPSTORE"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NEEDY GIRL OVERDOSEの夏イベント『ニディガ東名阪POPUPSTORE2025』が、2025年8月8日（金）〜9月14日（日）に東京・大阪・名古屋で開催！！",
+              "display_url": "internetangelevent.jp/2025summer/ind…",
+              "end": 125,
+              "expanded_url": "https://internetangelevent.jp/2025summer/index.html",
+              "start": 102,
+              "status": 200,
+              "title": "ニディガ東名阪POPUPSTORE2025 特設サイト",
+              "unwound_url": "https://internetangelevent.jp/2025summer/index.html",
+              "url": "https://t.co/d0esqUUeZa"
+            },
+            {
+              "display_url": "pic.x.com/YJaSQzBda1",
+              "end": 149,
+              "expanded_url": "https://x.com/needygirl_o/status/1951840458667089964/photo/1",
+              "media_key": "3_1951554931204431872",
+              "start": 126,
+              "url": "https://t.co/YJaSQzBda1"
+            },
+            {
+              "display_url": "pic.x.com/YJaSQzBda1",
+              "end": 149,
+              "expanded_url": "https://x.com/needygirl_o/status/1951840458667089964/photo/1",
+              "media_key": "3_1951554945788125184",
+              "start": 126,
+              "url": "https://t.co/YJaSQzBda1"
+            },
+            {
+              "display_url": "pic.x.com/YJaSQzBda1",
+              "end": 149,
+              "expanded_url": "https://x.com/needygirl_o/status/1951840458667089964/photo/1",
+              "media_key": "3_1951554958148640769",
+              "start": 126,
+              "url": "https://t.co/YJaSQzBda1"
+            },
+            {
+              "display_url": "pic.x.com/YJaSQzBda1",
+              "end": 149,
+              "expanded_url": "https://x.com/needygirl_o/status/1951840458667089964/photo/1",
+              "media_key": "3_1951554969729114112",
+              "start": 126,
+              "url": "https://t.co/YJaSQzBda1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951840458667089964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 16415,
+          "like_count": 747,
+          "quote_count": 48,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "💎#ニディガ東名阪POPUPSTORE お品書きのご紹介💎\n\nPOPUPSTOREの当日分のお品書きを紹介‼️‼️\n一部会場限定のグッズもあるよ👊👊💫\n当日をお楽しみに🥰🎀\n\n▼特設サイトはこちらから▼\nhttps://t.co/d0esqUUeZa https://t.co/YJaSQzBda1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "愛我請轉帳、 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 129,
+          "like_count": 12524,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 5983
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/nXwN8xhR49",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "angelkawaii.com",
+                "end": 137,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 114,
+                "url": "https://t.co/nXwN8xhR49"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52174,
+          "following_count": 7,
+          "like_count": 11,
+          "listed_count": 57,
+          "media_count": 452,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      }
+    ]
+  }
+}

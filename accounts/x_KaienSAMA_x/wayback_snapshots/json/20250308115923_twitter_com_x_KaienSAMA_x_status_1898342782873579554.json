@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898145535976148992"
+      ],
+      "media_source_tweet_id": [
+        "1898145543802830868"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1898342782873579554",
+    "created_at": "2025-03-08T11:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T12:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898342782873579554"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "火威青へ愛を叫ぶ"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "ぷち幸"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "893489787411222528",
+          "start": 3,
+          "username": "kuren_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q3E7R2YSzB",
+          "end": 70,
+          "expanded_url": "https://x.com/kuren_chan/status/1898145543802830868/photo/1",
+          "media_key": "3_1898145535976148992",
+          "start": 47,
+          "url": "https://t.co/Q3E7R2YSzB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898342782873579554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898145543802830868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuren_chan: 現地で愛してるを伝いたい!\n\n#火威青へ愛を叫ぶ \n#ぷち幸 https://t.co/Q3E7R2YSzB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898145535976148992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GleRTuPaEAAqs8z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898145535976148992"
+          ],
+          "media_source_tweet_id": [
+            "1898145543802830868"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1898342782873579554",
+        "created_at": "2025-03-08T11:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T12:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898342782873579554"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "火威青へ愛を叫ぶ"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "ぷち幸"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "893489787411222528",
+              "start": 3,
+              "username": "kuren_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3E7R2YSzB",
+              "end": 70,
+              "expanded_url": "https://x.com/kuren_chan/status/1898145543802830868/photo/1",
+              "media_key": "3_1898145535976148992",
+              "start": 47,
+              "url": "https://t.co/Q3E7R2YSzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898342782873579554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898145543802830868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuren_chan: 現地で愛してるを伝いたい!\n\n#火威青へ愛を叫ぶ \n#ぷち幸 https://t.co/Q3E7R2YSzB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898145535976148992"
+          ]
+        },
+        "author_id": "893489787411222528",
+        "conversation_id": "1898145543802830868",
+        "created_at": "2025-03-07T22:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T23:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898145543802830868"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "火威青へ愛を叫ぶ"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "ぷち幸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3E7R2YSzB",
+              "end": 54,
+              "expanded_url": "https://x.com/kuren_chan/status/1898145543802830868/photo/1",
+              "media_key": "3_1898145535976148992",
+              "start": 31,
+              "url": "https://t.co/Q3E7R2YSzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898145543802830868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 14699,
+          "like_count": 678,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "現地で愛してるを伝いたい!\n\n#火威青へ愛を叫ぶ \n#ぷち幸 https://t.co/Q3E7R2YSzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "私　頭がおかしい @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894730110961655808/e5CKLvjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 129,
+          "like_count": 12879,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 4549
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-04T15:12:20.000Z",
+        "description": "まくらです(՞ . .՞)੭” / Chinese cosplayer / @hiodoshiao 青くんの火女読者🖋️ガチ恋勢💙眩しい君が世界一! / 時々変な日本語しゃべる‼︎メンタル弱い。 Link必読🔗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "hiodoshiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/hanasakimak…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/hanasakimakura",
+                "start": 0,
+                "url": "https://t.co/YE30KRnuWS"
+              }
+            ]
+          }
+        },
+        "id": "893489787411222528",
+        "location": "お仕事、 企業案件はDMへお願いします。",
+        "name": "花崎Makura",
+        "pinned_tweet_id": "1894767279096856825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805443287186292737/VYbrsza2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176098,
+          "following_count": 991,
+          "like_count": 87790,
+          "listed_count": 705,
+          "media_count": 969,
+          "tweet_count": 25885
+        },
+        "url": "https://t.co/YE30KRnuWS",
+        "username": "kuren_chan",
+        "verified": true
+      }
+    ]
+  }
+}

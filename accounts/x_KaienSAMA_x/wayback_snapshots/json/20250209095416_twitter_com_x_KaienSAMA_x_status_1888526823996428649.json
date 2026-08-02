@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1888525545992024115",
+    "created_at": "2025-02-09T09:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T10:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888526823996428649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639894055948816387",
+          "start": 0,
+          "username": "sakumamutsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888526823996428649",
+    "in_reply_to_user_id": "1639894055948816387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888526009936363692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakumamutsuki 嗚嗚嗚嗚嗚嗚嗚嗚抱緊😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1888525545992024115",
+        "created_at": "2025-02-09T09:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T10:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888526823996428649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639894055948816387",
+              "start": 0,
+              "username": "sakumamutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888526823996428649",
+        "in_reply_to_user_id": "1639894055948816387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888526009936363692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakumamutsuki 嗚嗚嗚嗚嗚嗚嗚嗚抱緊😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639894055948816387",
+        "conversation_id": "1888525545992024115",
+        "created_at": "2025-02-09T09:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T10:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888526009936363692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888526009936363692",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888525545992024115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 抱抱你 來我懷裏哭吧🫂我會保護你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 129,
+          "like_count": 12565,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 4227
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T07:36:33.000Z",
+        "description": "我好累，好痛苦，求你們不要再討厭我了好嗎？我一遇到困難就想逃避，你\n逼我只會讓我逃走，我幫不上任何人，只能把事情搞得更糟糕，總是在麻煩別人，總是賣慘，逃避現實，對不起，真的很對不起。丨我最最最好的學妹@_but_i_love_u_丨小號@Pheeveen 但我只會開最信任的和同類🥹很多血圖就不影響大家心情了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "_but_i_love_u_"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Pheeveen"
+              }
+            ]
+          }
+        },
+        "id": "1639894055948816387",
+        "name": "kayo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884251214893993984/NPAAXZb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 731,
+          "like_count": 19198,
+          "listed_count": 4,
+          "media_count": 274,
+          "tweet_count": 6663
+        },
+        "username": "sakumamutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

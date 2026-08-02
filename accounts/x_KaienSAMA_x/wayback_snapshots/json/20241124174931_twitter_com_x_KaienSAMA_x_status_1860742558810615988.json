@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1860742558810615988",
+    "created_at": "2024-11-24T17:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T18:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860742558810615988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1750917708470992896",
+          "start": 3,
+          "username": "ynhihyu129044"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860742558810615988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860696199357165915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ynhihyu129044: 我好羨慕你們為什麼你們成績這麼好 我怎麼讀怎麼努力 就是學不起來阿 我真的努力過了 相信我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1860742558810615988",
+        "created_at": "2024-11-24T17:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T18:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860742558810615988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1750917708470992896",
+              "start": 3,
+              "username": "ynhihyu129044"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860742558810615988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860696199357165915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ynhihyu129044: 我好羨慕你們為什麼你們成績這麼好 我怎麼讀怎麼努力 就是學不起來阿 我真的努力過了 相信我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750917708470992896",
+        "conversation_id": "1860696199357165915",
+        "created_at": "2024-11-24T14:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T15:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860696199357165915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860696199357165915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好羨慕你們為什麼你們成績這麼好 我怎麼讀怎麼努力 就是學不起來阿 我真的努力過了 相信我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩味薯條",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858797048113586176/qXOd1Vqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 87,
+          "like_count": 11429,
+          "listed_count": 0,
+          "tweet_count": 3125
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T16:25:39.000Z",
+        "description": "@xioyu421123 防炸號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "xioyu421123"
+              }
+            ]
+          }
+        },
+        "id": "1750917708470992896",
+        "location": "下水溝",
+        "name": "陶瓷玻璃",
+        "pinned_tweet_id": "1858810557547376874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844331509144240128/d2hrf-M6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 301,
+          "like_count": 16457,
+          "listed_count": 1,
+          "tweet_count": 2773
+        },
+        "username": "ynhihyu129044",
+        "verified": false
+      }
+    ]
+  }
+}

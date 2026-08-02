@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1889825633485856840",
+    "created_at": "2025-02-12T23:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T00:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889825633485856840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812797664347717632",
+          "start": 3,
+          "username": "kurushi_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889825633485856840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889789553226993882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurushi_qwq: 人們總是跟我說“那我上了班怎麼辦”我也想知道怎麼辦，我其實很無力，但是無論是朋友還是誰都叫我要堅強不然長大了怎麼辦不然怎麼工作，這種無形的壓力下，你們稱之為鼓勵，點醒我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1889825633485856840",
+        "created_at": "2025-02-12T23:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T00:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889825633485856840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812797664347717632",
+              "start": 3,
+              "username": "kurushi_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889825633485856840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889789553226993882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurushi_qwq: 人們總是跟我說“那我上了班怎麼辦”我也想知道怎麼辦，我其實很無力，但是無論是朋友還是誰都叫我要堅強不然長大了怎麼辦不然怎麼工作，這種無形的壓力下，你們稱之為鼓勵，點醒我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812797664347717632",
+        "conversation_id": "1889789553226993882",
+        "created_at": "2025-02-12T21:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T22:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889789553226993882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889789553226993882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人們總是跟我說“那我上了班怎麼辦”我也想知道怎麼辦，我其實很無力，但是無論是朋友還是誰都叫我要堅強不然長大了怎麼辦不然怎麼工作，這種無形的壓力下，你們稱之為鼓勵，點醒我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 128,
+          "like_count": 12655,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 4292
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T10:33:49.000Z",
+        "description": "來自香港的血液草莓",
+        "id": "1812797664347717632",
+        "location": "蒼白天國",
+        "name": "usagi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861727078774898691/AWUBOMVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 245,
+          "like_count": 4122,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 764
+        },
+        "username": "kurushi_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

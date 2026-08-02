@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1922278070653743107",
+    "created_at": "2025-05-13T13:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T14:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922278070653743107"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922278070653743107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "さんはい　「この世には愛も知らない人が沢山いるんですよ」\n好請開始　「在這世上有許多連愛都不知道的人啊」\n\n共感　羨望　嫉妬　逆恨み　黒い涙がこぼれ落ち\n同感　羨慕　嫉妒　反被怨恨　漆黑眼淚掉了下來\n\n醜い感情が吹き出し　真っ白い鳥になるんだな\n噴出醜陋的感情　要變成潔白的小鳥啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1922278070653743107",
+        "created_at": "2025-05-13T13:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T14:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922278070653743107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922278070653743107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "さんはい　「この世には愛も知らない人が沢山いるんですよ」\n好請開始　「在這世上有許多連愛都不知道的人啊」\n\n共感　羨望　嫉妬　逆恨み　黒い涙がこぼれ落ち\n同感　羨慕　嫉妒　反被怨恨　漆黑眼淚掉了下來\n\n醜い感情が吹き出し　真っ白い鳥になるんだな\n噴出醜陋的感情　要變成潔白的小鳥啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 130,
+          "like_count": 12179,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 5279
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

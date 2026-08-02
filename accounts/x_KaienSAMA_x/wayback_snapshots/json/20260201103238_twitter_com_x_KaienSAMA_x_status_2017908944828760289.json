@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017185932101963776"
+      ],
+      "media_source_tweet_id": [
+        "2017185934668951630"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "2017908944828760289",
+    "created_at": "2026-02-01T10:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T11:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017908944828760289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cSllGa0ZLB",
+          "end": 40,
+          "expanded_url": "https://x.com/IzayoiMarin/status/2017185934668951630/photo/1",
+          "media_key": "3_2017185932101963776",
+          "start": 17,
+          "url": "https://t.co/cSllGa0ZLB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017908944828760289",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 464
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017185934668951630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: https://t.co/cSllGa0ZLB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2017185932101963776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_576vDaUAA3JEg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017185932101963776"
+          ],
+          "media_source_tweet_id": [
+            "2017185934668951630"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "2017908944828760289",
+        "created_at": "2026-02-01T10:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017908944828760289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSllGa0ZLB",
+              "end": 40,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2017185934668951630/photo/1",
+              "media_key": "3_2017185932101963776",
+              "start": 17,
+              "url": "https://t.co/cSllGa0ZLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017908944828760289",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 464
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017185934668951630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: https://t.co/cSllGa0ZLB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017185932101963776"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2017185934668951630",
+        "created_at": "2026-01-30T10:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T11:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017185934668951630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSllGa0ZLB",
+              "end": 23,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2017185934668951630/photo/1",
+              "media_key": "3_2017185932101963776",
+              "start": 0,
+              "url": "https://t.co/cSllGa0ZLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017185934668951630",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 242610,
+          "like_count": 8240,
+          "quote_count": 30,
+          "reply_count": 78,
+          "retweet_count": 464
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cSllGa0ZLB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 125,
+          "like_count": 12979,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 6883
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "びゃくやこう",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "KIRIHARA RYUJI",
+        "name": "まりん",
+        "pinned_tweet_id": "2016895277324783953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011846547357777923/79zd_F7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 2376,
+          "like_count": 35195,
+          "listed_count": 4,
+          "media_count": 1307,
+          "tweet_count": 16244
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

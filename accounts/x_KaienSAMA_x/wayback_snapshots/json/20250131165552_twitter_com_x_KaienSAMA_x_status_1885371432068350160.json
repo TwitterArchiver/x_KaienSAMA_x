@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1885371432068350160",
+    "created_at": "2025-01-31T16:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T17:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885371432068350160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843607857973047296",
+          "start": 3,
+          "username": "Namidaa02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885371432068350160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885364323104776420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Namidaa02: 我和她絕交了 以後誰和她玩都不要來和我說話 我不想跟這種神經病認識 上班早退就為了和男朋友早點去開房做愛是有什麼毛病 談的男朋友年紀比自己大一輪相差20年怕不是給自己做了個爸爸 這麼騷喜歡做愛就不要上班好不好 去酒店開房慢慢和大叔做好不好🤣🤣🤣 h…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1885371432068350160",
+        "created_at": "2025-01-31T16:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T17:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885371432068350160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843607857973047296",
+              "start": 3,
+              "username": "Namidaa02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885371432068350160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885364323104776420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Namidaa02: 我和她絕交了 以後誰和她玩都不要來和我說話 我不想跟這種神經病認識 上班早退就為了和男朋友早點去開房做愛是有什麼毛病 談的男朋友年紀比自己大一輪相差20年怕不是給自己做了個爸爸 這麼騷喜歡做愛就不要上班好不好 去酒店開房慢慢和大叔做好不好🤣🤣🤣 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885364310253420544"
+          ]
+        },
+        "author_id": "1843607857973047296",
+        "conversation_id": "1885364323104776420",
+        "created_at": "2025-01-31T16:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T17:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885364323104776420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fs0hBlIDy",
+              "end": 146,
+              "expanded_url": "https://x.com/Namidaa02/status/1885364323104776420/photo/1",
+              "media_key": "3_1885364310253420544",
+              "start": 123,
+              "url": "https://t.co/7fs0hBlIDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885364323104776420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我和她絕交了 以後誰和她玩都不要來和我說話 我不想跟這種神經病認識 上班早退就為了和男朋友早點去開房做愛是有什麼毛病 談的男朋友年紀比自己大一輪相差20年怕不是給自己做了個爸爸 這麼騷喜歡做愛就不要上班好不好 去酒店開房慢慢和大叔做好不好🤣🤣🤣 https://t.co/7fs0hBlIDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 122,
+          "like_count": 12255,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4036
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:02:40.000Z",
+        "description": "淚水打濕了信件 而你不在我身邊 永遠追隨@Maorou_K8M🐭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Maorou_K8M"
+              }
+            ]
+          }
+        },
+        "id": "1843607857973047296",
+        "location": "你的心裡",
+        "name": "涙",
+        "pinned_tweet_id": "1878796781708021927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843607988847947778/XUhP47FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 241,
+          "like_count": 12351,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1304
+        },
+        "username": "Namidaa02",
+        "verified": false
+      }
+    ]
+  }
+}

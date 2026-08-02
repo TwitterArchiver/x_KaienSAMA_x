@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1936700629117698048"
+      ],
+      "media_source_tweet_id": [
+        "1936700696713429108"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1936873786512716032",
+    "created_at": "2025-06-22T19:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T20:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936873786512716032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1581350595247865857",
+          "start": 3,
+          "username": "rainyuyuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5STiJka299",
+          "end": 51,
+          "expanded_url": "https://x.com/rainyuyuu/status/1936700696713429108/video/1",
+          "media_key": "13_1936700629117698048",
+          "start": 28,
+          "url": "https://t.co/5STiJka299"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936873786512716032",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936700696713429108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rainyuyuu: Darling&lt;3 https://t.co/5STiJka299"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15966,
+        "height": 1280,
+        "media_key": "13_1936700629117698048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936700629117698048/img/nGoCXoB6xGHTR-1b.jpg",
+        "public_metrics": {
+          "view_count": 97
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936700629117698048/vid/avc1/320x568/ErDAqx9ebTBSWNHB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936700629117698048/vid/avc1/480x852/77dkMIfWW0ZEuyQ1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936700629117698048/vid/avc1/720x1280/aQSHn3SP0GrI4nAe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936700629117698048/pl/WuY-u2HSdqlKhtM2.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936700629117698048"
+          ],
+          "media_source_tweet_id": [
+            "1936700696713429108"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1936873786512716032",
+        "created_at": "2025-06-22T19:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T20:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936873786512716032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1581350595247865857",
+              "start": 3,
+              "username": "rainyuyuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5STiJka299",
+              "end": 51,
+              "expanded_url": "https://x.com/rainyuyuu/status/1936700696713429108/video/1",
+              "media_key": "13_1936700629117698048",
+              "start": 28,
+              "url": "https://t.co/5STiJka299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936873786512716032",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936700696713429108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rainyuyuu: Darling&lt;3 https://t.co/5STiJka299"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936700629117698048"
+          ]
+        },
+        "author_id": "1581350595247865857",
+        "conversation_id": "1936700696713429108",
+        "created_at": "2025-06-22T08:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T09:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936700696713429108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5STiJka299",
+              "end": 36,
+              "expanded_url": "https://x.com/rainyuyuu/status/1936700696713429108/video/1",
+              "media_key": "13_1936700629117698048",
+              "start": 13,
+              "url": "https://t.co/5STiJka299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936700696713429108",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 349,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Darling&lt;3 https://t.co/5STiJka299"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 131,
+          "like_count": 12416,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 5644
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T18:25:59.000Z",
+        "description": "🇭🇰09｜是一個壞小孩｜🚪128/228",
+        "id": "1581350595247865857",
+        "location": "你的手心^⌯𖥦⌯^ ੭",
+        "name": "芋雨",
+        "pinned_tweet_id": "1936392082882695437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916934819386429443/AMWfffgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 232,
+          "like_count": 8880,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 4193
+        },
+        "username": "rainyuyuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1935648104222691392",
+    "created_at": "2025-06-19T10:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T11:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935648104222691392"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1935648104222691392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天都在痛苦裡泡著\n幸福感有時候麻醉掉我 使我感受不到痛苦\n時而在海底深處 時而被拉上水面\n好痛苦 好幸福 切換著\n我不知道 我不懂 我好麻木但我又好累...\n好煩啊 我好討厭 又在說一堆聽不懂的話了、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1935648104222691392",
+        "created_at": "2025-06-19T10:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T11:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935648104222691392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935648104222691392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都在痛苦裡泡著\n幸福感有時候麻醉掉我 使我感受不到痛苦\n時而在海底深處 時而被拉上水面\n好痛苦 好幸福 切換著\n我不知道 我不懂 我好麻木但我又好累...\n好煩啊 我好討厭 又在說一堆聽不懂的話了、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 131,
+          "like_count": 12373,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 5611
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

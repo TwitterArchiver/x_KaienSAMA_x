@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2077384800911212596",
+    "created_at": "2026-07-15T13:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077384800911212596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1203659547384016896",
+          "start": 3,
+          "username": "wara_kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077384800911212596",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077138489519513840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wara_kokoro: 心療内科の先生に聞いた。\n\n『眠くて限界なのに、スマホだけは手放せないのって、なんでですか？』って\n\n先生は、\n「意志が弱いから」でもなく、\n「スマホに依存しているから」でもなく、\n「生活習慣が乱れているから」でもなく、\n\n先生から返ってきた、…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2077384800911212596",
+        "created_at": "2026-07-15T13:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077384800911212596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1203659547384016896",
+              "start": 3,
+              "username": "wara_kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077384800911212596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077138489519513840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wara_kokoro: 心療内科の先生に聞いた。\n\n『眠くて限界なのに、スマホだけは手放せないのって、なんでですか？』って\n\n先生は、\n「意志が弱いから」でもなく、\n「スマホに依存しているから」でもなく、\n「生活習慣が乱れているから」でもなく、\n\n先生から返ってきた、…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1203659547384016896",
+        "conversation_id": "2077138489519513840",
+        "created_at": "2026-07-14T21:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T22:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077138489519513840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077138489519513840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 101823,
+          "like_count": 571,
+          "quote_count": 17,
+          "reply_count": 33,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "心療内科の先生に聞いた。\n\n『眠くて限界なのに、スマホだけは手放せないのって、なんでですか？』って\n\n先生は、\n「意志が弱いから」でもなく、\n「スマホに依存しているから」でもなく、\n「生活習慣が乱れているから」でもなく、\n\n先生から返ってきた、目からウロコの答えが『→"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 107,
+          "like_count": 13109,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 7437
+        },
+        "url": "",
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-08T12:56:31.000Z",
+        "description": "元・繊細すぎる会社員→回復経験あり｜ストレスケア×自己成長を発信｜心がラクになる言葉を届けます｜しんどい毎日を抱える“がんばり屋さん”へ｜フォローすると自分に優しくなれる🌈✨",
+        "id": "1203659547384016896",
+        "location": "お仕事の依頼はDMへ📩",
+        "name": "笑（わら）",
+        "pinned_tweet_id": "2014077781219410209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955196615037423616/Zz74sq6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14128,
+          "following_count": 176,
+          "like_count": 123256,
+          "listed_count": 62,
+          "media_count": 691,
+          "tweet_count": 50904
+        },
+        "url": "",
+        "username": "wara_kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

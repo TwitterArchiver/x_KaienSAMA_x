@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1861801084802744631",
+    "created_at": "2024-11-27T15:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T16:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861801084802744631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1568115812489400321",
+          "start": 3,
+          "username": "topclassgourmet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861801084802744631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861741436724781561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @topclassgourmet: 事到如今這一切都是對我之前做的報應..我應得的報應.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1861801084802744631",
+        "created_at": "2024-11-27T15:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T16:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861801084802744631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1568115812489400321",
+              "start": 3,
+              "username": "topclassgourmet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861801084802744631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861741436724781561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @topclassgourmet: 事到如今這一切都是對我之前做的報應..我應得的報應.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568115812489400321",
+        "conversation_id": "1861741436724781561",
+        "created_at": "2024-11-27T11:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T12:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861741436724781561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861741436724781561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事到如今這一切都是對我之前做的報應..我應得的報應.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩味薯條",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858797048113586176/qXOd1Vqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 88,
+          "like_count": 11493,
+          "listed_count": 0,
+          "tweet_count": 3175
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T05:55:25.000Z",
+        "description": "歡迎勾搭\n艾琳醬在這裡 @linyeshitoude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "linyeshitoude"
+              }
+            ]
+          }
+        },
+        "id": "1568115812489400321",
+        "name": "我不是艾琳是彤",
+        "pinned_tweet_id": "1637570928455585792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854215946489237505/_uzxYpxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 612,
+          "like_count": 14509,
+          "listed_count": 0,
+          "tweet_count": 3439
+        },
+        "username": "topclassgourmet",
+        "verified": false
+      }
+    ]
+  }
+}

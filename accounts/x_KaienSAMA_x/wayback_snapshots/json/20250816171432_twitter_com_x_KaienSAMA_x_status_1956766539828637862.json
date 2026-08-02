@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1956766539828637862",
+    "created_at": "2025-08-16T17:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T18:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956766539828637862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_kaiensama_x/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/x_kaiensama_x/status/1840358888929165644",
+          "start": 18,
+          "url": "https://t.co/X2Kax6i7aV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956766539828637862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840358888929165644",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回看一下 以前疤少一點 也沒那麼深 https://t.co/X2Kax6i7aV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1840358882381828096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYpEpyOakAAcms7.jpg",
+        "width": 1354
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1956766539828637862",
+        "created_at": "2025-08-16T17:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T18:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956766539828637862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_kaiensama_x/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/x_kaiensama_x/status/1840358888929165644",
+              "start": 18,
+              "url": "https://t.co/X2Kax6i7aV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956766539828637862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840358888929165644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回看一下 以前疤少一點 也沒那麼深 https://t.co/X2Kax6i7aV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840358882381828096"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1840358888929165644",
+        "created_at": "2024-09-29T11:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T12:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840358888929165644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKDVlG7FnT",
+              "end": 23,
+              "expanded_url": "https://x.com/01_deadangel/status/1840358888929165644/photo/1",
+              "media_key": "3_1840358882381828096",
+              "start": 0,
+              "url": "https://t.co/jKDVlG7FnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840358888929165644",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jKDVlG7FnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "愛我請轉帳、 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 130,
+          "like_count": 12620,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 6126
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

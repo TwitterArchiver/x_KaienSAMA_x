@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2052160578827993587",
+    "created_at": "2026-05-08T14:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052761167014285624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1336214326009425921",
+          "start": 0,
+          "username": "meiyauluna39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052761167014285624",
+    "in_reply_to_user_id": "1336214326009425921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052311235476267071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiyauluna39 欸嘿🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2052160578827993587",
+        "created_at": "2026-05-08T14:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052761167014285624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1336214326009425921",
+              "start": 0,
+              "username": "meiyauluna39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052761167014285624",
+        "in_reply_to_user_id": "1336214326009425921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052311235476267071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiyauluna39 欸嘿🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336214326009425921",
+        "conversation_id": "2052160578827993587",
+        "created_at": "2026-05-07T08:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052311235476267071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052311235476267071",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052160578827993587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 美麗得令我跪在地上叫主人\\(//∇//)\\"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 111,
+          "like_count": 13119,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 7234
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-08T07:41:47.000Z",
+        "description": "愚者千面，遊戲人間……\n你，會找到答案嗎？\n#odtwt #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 22,
+                "tag": "odtwt"
+              },
+              {
+                "end": 35,
+                "start": 29,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1336214326009425921",
+        "location": "某人的心房吧？",
+        "name": "夏莉♍️",
+        "pinned_tweet_id": "2041550121620652381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037035441980137473/URNYOnyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 1002,
+          "like_count": 18507,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 177
+        },
+        "username": "meiyauluna39",
+        "verified": false
+      }
+    ]
+  }
+}

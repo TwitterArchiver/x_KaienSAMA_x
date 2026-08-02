@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919376619829088257"
+      ],
+      "media_source_tweet_id": [
+        "1919376627106013582"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1919399361731014981",
+    "created_at": "2025-05-05T14:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T15:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919399361731014981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370809768126783488",
+          "start": 3,
+          "username": "JULYSAMA2155282"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kSjEaxEv0X",
+          "end": 80,
+          "expanded_url": "https://x.com/JULYSAMA2155282/status/1919376627106013582/photo/1",
+          "media_key": "3_1919376619829088257",
+          "start": 57,
+          "url": "https://t.co/kSjEaxEv0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919399361731014981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919376627106013582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JULYSAMA2155282: 其實把妹王文案我一句都背不下來\n看見你的一瞬間說出口的全是拙劣的真心話 https://t.co/kSjEaxEv0X"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1919399361731014981].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1919399361731014981",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919399361731014981"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919376619829088257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqL-3c8aUAE2nIc.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919376619829088257"
+          ]
+        },
+        "author_id": "1370809768126783488",
+        "conversation_id": "1919376627106013582",
+        "created_at": "2025-05-05T13:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T14:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919376627106013582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSjEaxEv0X",
+              "end": 59,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1919376627106013582/photo/1",
+              "media_key": "3_1919376619829088257",
+              "start": 36,
+              "url": "https://t.co/kSjEaxEv0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919376627106013582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其實把妹王文案我一句都背不下來\n看見你的一瞬間說出口的全是拙劣的真心話 https://t.co/kSjEaxEv0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 130,
+          "like_count": 12330,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 5234
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:51:43.000Z",
+        "description": "×芥川夢×喜歡我的可以給我打賞 討厭我的求你不要罵我 女孩子不用過門 @july_akuryu0409 裹垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "july_akuryu0409"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/july._.cos_215…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/july._.cos_21552821",
+                "start": 0,
+                "url": "https://t.co/YC8Kl27WoJ"
+              }
+            ]
+          }
+        },
+        "id": "1370809768126783488",
+        "location": "我在你後方100米",
+        "name": "七月",
+        "pinned_tweet_id": "1850468053340897414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915012561466183680/CezeivVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 202,
+          "like_count": 9290,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 1424
+        },
+        "url": "https://t.co/YC8Kl27WoJ",
+        "username": "JULYSAMA2155282",
+        "verified": false
+      }
+    ]
+  }
+}

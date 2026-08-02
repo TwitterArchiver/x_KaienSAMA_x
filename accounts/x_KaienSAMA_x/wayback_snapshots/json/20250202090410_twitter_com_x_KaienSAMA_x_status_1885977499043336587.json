@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885668081315528704"
+      ],
+      "media_source_tweet_id": [
+        "1885668100575760626"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1885977499043336587",
+    "created_at": "2025-02-02T09:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T10:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885977499043336587"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "kangel"
+        },
+        {
+          "end": 48,
+          "start": 40,
+          "tag": "amechan"
+        },
+        {
+          "end": 69,
+          "start": 49,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 77,
+          "start": 70,
+          "tag": "nsotwt"
+        },
+        {
+          "end": 100,
+          "start": 78,
+          "tag": "needystreameroverload"
+        },
+        {
+          "end": 111,
+          "start": 101,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1723177835102363648",
+          "start": 3,
+          "username": "ame_daily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n9eQfpNHSf",
+          "end": 135,
+          "expanded_url": "https://x.com/ame_daily/status/1885668100575760626/photo/1",
+          "media_key": "3_1885668081315528704",
+          "start": 112,
+          "url": "https://t.co/n9eQfpNHSf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885977499043336587",
+    "lang": "ka",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885668100575760626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ame_daily: ˚₊‧꒰ა ♱ ໒꒱ ‧₊˚ : #kangel #amechan #NEEDY_GIRL_OVERDOSE #nsotwt #needystreameroverload #NEEDY_pic https://t.co/n9eQfpNHSf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_1885668081315528704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gis9IRcawAAo5gR.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885668081315528704"
+          ],
+          "media_source_tweet_id": [
+            "1885668100575760626"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1885977499043336587",
+        "created_at": "2025-02-02T09:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T10:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885977499043336587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "kangel"
+            },
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "amechan"
+            },
+            {
+              "end": 69,
+              "start": 49,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 77,
+              "start": 70,
+              "tag": "nsotwt"
+            },
+            {
+              "end": 100,
+              "start": 78,
+              "tag": "needystreameroverload"
+            },
+            {
+              "end": 111,
+              "start": 101,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1723177835102363648",
+              "start": 3,
+              "username": "ame_daily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9eQfpNHSf",
+              "end": 135,
+              "expanded_url": "https://x.com/ame_daily/status/1885668100575760626/photo/1",
+              "media_key": "3_1885668081315528704",
+              "start": 112,
+              "url": "https://t.co/n9eQfpNHSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885977499043336587",
+        "lang": "ka",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885668100575760626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ame_daily: ˚₊‧꒰ა ♱ ໒꒱ ‧₊˚ : #kangel #amechan #NEEDY_GIRL_OVERDOSE #nsotwt #needystreameroverload #NEEDY_pic https://t.co/n9eQfpNHSf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885668081315528704"
+          ]
+        },
+        "author_id": "1723177835102363648",
+        "conversation_id": "1885668100575760626",
+        "created_at": "2025-02-01T12:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T13:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885668100575760626"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "kangel"
+            },
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "amechan"
+            },
+            {
+              "end": 54,
+              "start": 34,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 62,
+              "start": 55,
+              "tag": "nsotwt"
+            },
+            {
+              "end": 85,
+              "start": 63,
+              "tag": "needystreameroverload"
+            },
+            {
+              "end": 96,
+              "start": 86,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9eQfpNHSf",
+              "end": 120,
+              "expanded_url": "https://x.com/ame_daily/status/1885668100575760626/photo/1",
+              "media_key": "3_1885668081315528704",
+              "start": 97,
+              "url": "https://t.co/n9eQfpNHSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885668100575760626",
+        "lang": "ka",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 5274,
+          "like_count": 525,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "˚₊‧꒰ა ♱ ໒꒱ ‧₊˚ : #kangel #amechan #NEEDY_GIRL_OVERDOSE #nsotwt #needystreameroverload #NEEDY_pic https://t.co/n9eQfpNHSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 123,
+          "like_count": 12304,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4072
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T03:16:50.000Z",
+        "description": "daily account for #amechan from #NEEDY_GIRL_OVERDOSE ˚₊‧꒰ა ♱ ໒꒱ ‧₊˚ spoilers + tws !",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 18,
+                "tag": "amechan"
+              },
+              {
+                "end": 52,
+                "start": 32,
+                "tag": "NEEDY_GIRL_OVERDOSE"
+              }
+            ]
+          }
+        },
+        "id": "1723177835102363648",
+        "location": "中国",
+        "name": "daily ame🥀(and some kangel)",
+        "pinned_tweet_id": "1841393068349808978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852758439208042496/p0V3Enyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6081,
+          "following_count": 9,
+          "like_count": 961,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 1089
+        },
+        "username": "ame_daily",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032010723875074048",
+        "3_2032010723854016513"
+      ],
+      "media_source_tweet_id": [
+        "2032010735363244348",
+        "2032010735363244348"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032800860124905485",
+    "created_at": "2026-03-14T12:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032800860124905485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007125031277719553",
+          "start": 3,
+          "username": "kkkkkara810"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PMBRlAvJJT",
+          "end": 56,
+          "expanded_url": "https://x.com/kkkkkara810/status/2032010735363244348/photo/1",
+          "media_key": "3_2032010723875074048",
+          "start": 33,
+          "url": "https://t.co/PMBRlAvJJT"
+        },
+        {
+          "display_url": "pic.x.com/PMBRlAvJJT",
+          "end": 56,
+          "expanded_url": "https://x.com/kkkkkara810/status/2032010735363244348/photo/1",
+          "media_key": "3_2032010723854016513",
+          "start": 33,
+          "url": "https://t.co/PMBRlAvJJT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032800860124905485",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 372
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032010735363244348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkkkkara810: ← 八°キってる時　その代償→ https://t.co/PMBRlAvJJT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2032010723875074048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMm_MBbsAAXp5Z.jpg",
+        "width": 1200
+      },
+      {
+        "height": 614,
+        "media_key": "3_2032010723854016513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMm_L8aYAEvsr5.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032010723875074048",
+            "3_2032010723854016513"
+          ],
+          "media_source_tweet_id": [
+            "2032010735363244348",
+            "2032010735363244348"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032800860124905485",
+        "created_at": "2026-03-14T12:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032800860124905485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007125031277719553",
+              "start": 3,
+              "username": "kkkkkara810"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMBRlAvJJT",
+              "end": 56,
+              "expanded_url": "https://x.com/kkkkkara810/status/2032010735363244348/photo/1",
+              "media_key": "3_2032010723875074048",
+              "start": 33,
+              "url": "https://t.co/PMBRlAvJJT"
+            },
+            {
+              "display_url": "pic.x.com/PMBRlAvJJT",
+              "end": 56,
+              "expanded_url": "https://x.com/kkkkkara810/status/2032010735363244348/photo/1",
+              "media_key": "3_2032010723854016513",
+              "start": 33,
+              "url": "https://t.co/PMBRlAvJJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032800860124905485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 372
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032010735363244348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kkkkkara810: ← 八°キってる時　その代償→ https://t.co/PMBRlAvJJT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032010723875074048",
+            "3_2032010723854016513"
+          ]
+        },
+        "author_id": "2007125031277719553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032010735363244348",
+        "created_at": "2026-03-12T08:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T09:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032010735363244348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMBRlAvJJT",
+              "end": 39,
+              "expanded_url": "https://x.com/kkkkkara810/status/2032010735363244348/photo/1",
+              "media_key": "3_2032010723875074048",
+              "start": 16,
+              "url": "https://t.co/PMBRlAvJJT"
+            },
+            {
+              "display_url": "pic.x.com/PMBRlAvJJT",
+              "end": 39,
+              "expanded_url": "https://x.com/kkkkkara810/status/2032010735363244348/photo/1",
+              "media_key": "3_2032010723854016513",
+              "start": 16,
+              "url": "https://t.co/PMBRlAvJJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032010735363244348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 213642,
+          "like_count": 6711,
+          "quote_count": 40,
+          "reply_count": 4,
+          "retweet_count": 372
+        },
+        "reply_settings": "everyone",
+        "text": "← 八°キってる時　その代償→ https://t.co/PMBRlAvJJT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 120,
+          "like_count": 13031,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 7020
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T16:21:22.000Z",
+        "description": "14才男子\nからちゃんって呼んでください\n問題児。気になった人フォロバ。\n♡💍@Fox_udon_s\n　　　　サブ@810aaaakaaaa810              \nDMとマシュマロいつでもください！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Fox_udon_s"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "810aaaakaaaa810"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nq76w2ime1b9rx…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/nq76w2ime1b9rxk?t=vEz4Qi&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/U1t64cWkga"
+              }
+            ]
+          }
+        },
+        "id": "2007125031277719553",
+        "location": "万×3 千×29",
+        "name": "ヤ⁹中男児から🦊",
+        "pinned_tweet_id": "2015284367564910816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007125682430918656/oueTHYiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 147,
+          "like_count": 5105,
+          "listed_count": 8,
+          "media_count": 139,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/U1t64cWkga",
+        "username": "kkkkkara810",
+        "verified": false
+      }
+    ]
+  }
+}

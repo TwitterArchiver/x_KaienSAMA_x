@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1894994648072102126",
+    "created_at": "2025-02-27T07:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T08:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895017571461771594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639894055948816387",
+          "start": 0,
+          "username": "sakumamutsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895017571461771594",
+    "in_reply_to_user_id": "1639894055948816387",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895001678442905766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakumamutsuki 🥺🥺🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1894994648072102126",
+        "created_at": "2025-02-27T07:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T08:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895017571461771594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639894055948816387",
+              "start": 0,
+              "username": "sakumamutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895017571461771594",
+        "in_reply_to_user_id": "1639894055948816387",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895001678442905766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakumamutsuki 🥺🥺🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639894055948816387",
+        "conversation_id": "1894994648072102126",
+        "created_at": "2025-02-27T06:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T07:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895001678442905766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895001678442905766",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894994648072102126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 一點都不賤啊啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "@kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894730110961655808/e5CKLvjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 131,
+          "like_count": 12875,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 4475
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T07:36:33.000Z",
+        "description": "=kayo丨我最最最好的學妹@_but_i_love_u_｜サブ垢@Pheeveen｜咱最喜歡的人@iIQEFr1PJ9yaW5Q｜唯一的女神@Miao_Pardon｜最欠揍的人：@zhreeesy丨萌萌小夜寶@lonelyxiaoye丨亞撒西的toki 醬@TokiDustNights",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "_but_i_love_u_"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "Pheeveen"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "iIQEFr1PJ9yaW5Q"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Miao_Pardon"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "zhreeesy"
+              },
+              {
+                "end": 118,
+                "start": 105,
+                "username": "lonelyxiaoye"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "TokiDustNights"
+              }
+            ]
+          }
+        },
+        "id": "1639894055948816387",
+        "name": "kayo",
+        "pinned_tweet_id": "1889807288204140796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894997112687050752/QKtMhKHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 784,
+          "like_count": 21796,
+          "listed_count": 5,
+          "media_count": 336,
+          "tweet_count": 7776
+        },
+        "username": "sakumamutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

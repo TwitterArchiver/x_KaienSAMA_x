@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1881701532091244653",
+    "created_at": "2025-01-21T13:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T14:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881701532091244653"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1881701532091244653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我蠻多朋友的 家裡人對我也不太差 成績差但對學業的心態蠻好 聽起來我好像長得不算太差 其他好像還不錯 \n我好像也不是特別的差 我到底在這裡什麼賣慘啊\n我好像其實沒有病吧 最近心情都沒什麼大變化 也沒有想得很極端 我沒病吧 應該"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1881701532091244653",
+        "created_at": "2025-01-21T13:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T14:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881701532091244653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881701532091244653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我蠻多朋友的 家裡人對我也不太差 成績差但對學業的心態蠻好 聽起來我好像長得不算太差 其他好像還不錯 \n我好像也不是特別的差 我到底在這裡什麼賣慘啊\n我好像其實沒有病吧 最近心情都沒什麼大變化 也沒有想得很極端 我沒病吧 應該"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 118,
+          "like_count": 12110,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 3903
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

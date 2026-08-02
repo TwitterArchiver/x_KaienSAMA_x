@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882433525389185024"
+      ],
+      "media_source_tweet_id": [
+        "1882433536894083372"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1882585444363456661",
+    "created_at": "2025-01-24T00:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T01:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882585444363456661"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 23,
+          "tag": "ニディガ展3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1545223952",
+          "start": 3,
+          "username": "berryverrine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KD0egKQdM4",
+          "end": 54,
+          "expanded_url": "https://x.com/berryverrine/status/1882433536894083372/photo/1",
+          "media_key": "3_1882433525389185024",
+          "start": 31,
+          "url": "https://t.co/KD0egKQdM4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882585444363456661",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 386
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882433536894083372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @berryverrine: ❤️💙\n #ニディガ展3 https://t.co/KD0egKQdM4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1882433525389185024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh-_UVob0AAzNDU.jpg",
+        "width": 1776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882433525389185024"
+          ],
+          "media_source_tweet_id": [
+            "1882433536894083372"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882585444363456661",
+        "created_at": "2025-01-24T00:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T01:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882585444363456661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "ニディガ展3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545223952",
+              "start": 3,
+              "username": "berryverrine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KD0egKQdM4",
+              "end": 54,
+              "expanded_url": "https://x.com/berryverrine/status/1882433536894083372/photo/1",
+              "media_key": "3_1882433525389185024",
+              "start": 31,
+              "url": "https://t.co/KD0egKQdM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882585444363456661",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 386
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882433536894083372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @berryverrine: ❤️💙\n #ニディガ展3 https://t.co/KD0egKQdM4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882433525389185024"
+          ]
+        },
+        "author_id": "1545223952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882433536894083372",
+        "created_at": "2025-01-23T14:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T15:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882433536894083372"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "ニディガ展3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KD0egKQdM4",
+              "end": 36,
+              "expanded_url": "https://x.com/berryverrine/status/1882433536894083372/photo/1",
+              "media_key": "3_1882433525389185024",
+              "start": 13,
+              "url": "https://t.co/KD0egKQdM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882433536894083372",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 223,
+          "impression_count": 37075,
+          "like_count": 2507,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 386
+        },
+        "reply_settings": "everyone",
+        "text": "❤️💙\n #ニディガ展3 https://t.co/KD0egKQdM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 119,
+          "like_count": 12118,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 3926
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-25T09:04:25.000Z",
+        "description": "Illustrator／ METEORA st.所属／絵：https://t.co/ebWIvrZ3bC ／FANBOX：https://t.co/4J8PtHyVbK ／依頼/連絡▷ info@meteora-st.jp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/13167207",
+                "end": 52,
+                "expanded_url": "http://pixiv.net/users/13167207",
+                "start": 29,
+                "url": "https://t.co/ebWIvrZ3bC"
+              },
+              {
+                "display_url": "x.gd/K4zhK",
+                "end": 84,
+                "expanded_url": "https://x.gd/K4zhK",
+                "start": 61,
+                "url": "https://t.co/4J8PtHyVbK"
+              }
+            ]
+          }
+        },
+        "id": "1545223952",
+        "location": "※DON' T USE MY WORK※",
+        "name": "BerryVerrine⬛︎3月〜の絵仕事募集中！",
+        "pinned_tweet_id": "1868924329062498477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730545350644232192/URc-Dr2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239643,
+          "following_count": 4589,
+          "like_count": 237979,
+          "listed_count": 2633,
+          "media_count": 408,
+          "tweet_count": 149148
+        },
+        "username": "berryverrine",
+        "verified": false
+      }
+    ]
+  }
+}

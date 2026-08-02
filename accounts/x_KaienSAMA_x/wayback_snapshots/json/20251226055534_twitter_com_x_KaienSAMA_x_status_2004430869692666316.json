@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004430862902087680"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "2004430869692666316",
+    "created_at": "2025-12-26T05:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T06:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004430869692666316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cKu14tyNRE",
+          "end": 38,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/2004430869692666316/photo/1",
+          "media_key": "3_2004430862902087680",
+          "start": 15,
+          "url": "https://t.co/cKu14tyNRE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004430869692666316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天去迪迪尼了 窮到錢包空了 https://t.co/cKu14tyNRE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2071,
+        "media_key": "3_2004430862902087680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ErP_gb0AAWrfp.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004430862902087680"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "2004430869692666316",
+        "created_at": "2025-12-26T05:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T06:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004430869692666316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKu14tyNRE",
+              "end": 38,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/2004430869692666316/photo/1",
+              "media_key": "3_2004430862902087680",
+              "start": 15,
+              "url": "https://t.co/cKu14tyNRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004430869692666316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天去迪迪尼了 窮到錢包空了 https://t.co/cKu14tyNRE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人之黑暗面 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 126,
+          "like_count": 12875,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 6779
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

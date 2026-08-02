@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1910368785565180059",
+    "created_at": "2025-04-10T16:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T17:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910368785565180059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845844455095762944",
+          "start": 3,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910368785565180059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910223478286143592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ankyo127: 我已经实施自杀不知道多少次了\n卧轨等半天没火车，烧炭半夜炭自己灭了，跳楼层数太低p事没有，跳河被同学抓回去，上吊都能摔下来\n我的自杀史和我的人生一样失败"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1910368785565180059",
+        "created_at": "2025-04-10T16:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T17:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910368785565180059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845844455095762944",
+              "start": 3,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910368785565180059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910223478286143592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ankyo127: 我已经实施自杀不知道多少次了\n卧轨等半天没火车，烧炭半夜炭自己灭了，跳楼层数太低p事没有，跳河被同学抓回去，上吊都能摔下来\n我的自杀史和我的人生一样失败"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845844455095762944",
+        "conversation_id": "1910223478286143592",
+        "created_at": "2025-04-10T06:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T07:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910223478286143592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910223478286143592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8042,
+          "like_count": 121,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我已经实施自杀不知道多少次了\n卧轨等半天没火车，烧炭半夜炭自己灭了，跳楼层数太低p事没有，跳河被同学抓回去，上吊都能摔下来\n我的自杀史和我的人生一样失败"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906626426033553408/DC8Yr8_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 131,
+          "like_count": 12358,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 5110
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "Ankyo🩵可以简称AQ丨友跨丨已确诊：精分+重抑+中焦+强迫+BPD丨自伤od警告丨喜欢所有性少数群体╹ヮ╹",
+        "id": "1845844455095762944",
+        "name": "Ankyo꙳.†",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845846041545019392/2n5ZnMZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 44,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 75
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

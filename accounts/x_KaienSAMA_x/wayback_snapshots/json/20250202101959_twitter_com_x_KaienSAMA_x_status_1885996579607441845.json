@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1885996579607441845",
+    "created_at": "2025-02-02T10:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T11:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885996579607441845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513909585672736769",
+          "start": 3,
+          "username": "tianmei001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885996579607441845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885962732585009194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tianmei001: 喜欢我就给我打钱呀，我就是这么肤浅。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1885996579607441845",
+        "created_at": "2025-02-02T10:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885996579607441845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513909585672736769",
+              "start": 3,
+              "username": "tianmei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885996579607441845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885962732585009194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tianmei001: 喜欢我就给我打钱呀，我就是这么肤浅。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513909585672736769",
+        "conversation_id": "1885962732585009194",
+        "created_at": "2025-02-02T08:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T09:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885962732585009194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885962732585009194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1726,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我就给我打钱呀，我就是这么肤浅。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 123,
+          "like_count": 12322,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4085
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:59:16.000Z",
+        "description": "我是坏蛋 🚪520/888/1314",
+        "id": "1513909585672736769",
+        "name": "黯淡星",
+        "pinned_tweet_id": "1885606011635110022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757795319704961024/VYVDFtb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32887,
+          "following_count": 279,
+          "like_count": 30378,
+          "listed_count": 67,
+          "media_count": 1878,
+          "tweet_count": 29854
+        },
+        "username": "tianmei001",
+        "verified": false
+      }
+    ]
+  }
+}

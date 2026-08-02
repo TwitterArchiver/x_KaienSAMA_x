@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1866152587818676487",
+    "created_at": "2024-12-09T16:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T17:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866152587818676487"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1866152587818676487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明明已經疲累不堪了 每日拖著傷痕累累的身體上學 明明我可以曠課可以遲到可以逃課可以睡多那麼一點點 但我至今仍然全勤無遲到 明明已經因為功課和學校崩潰了無數次 但我現在還是沒有欠交過功課 我這麼努力拼命為了什麼啊 未來早就被自己毀掉了 為什麼現在也不選擇讓自己輕鬆一點 我不懂啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1866152587818676487",
+        "created_at": "2024-12-09T16:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T17:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866152587818676487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866152587818676487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明已經疲累不堪了 每日拖著傷痕累累的身體上學 明明我可以曠課可以遲到可以逃課可以睡多那麼一點點 但我至今仍然全勤無遲到 明明已經因為功課和學校崩潰了無數次 但我現在還是沒有欠交過功課 我這麼努力拼命為了什麼啊 未來早就被自己毀掉了 為什麼現在也不選擇讓自己輕鬆一點 我不懂啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 95,
+          "like_count": 11726,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 3346
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

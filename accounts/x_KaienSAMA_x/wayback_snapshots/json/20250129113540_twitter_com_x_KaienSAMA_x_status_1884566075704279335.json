@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1881352973684797464",
+    "created_at": "2025-01-29T11:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T12:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884566075704279335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1645857818808025090",
+          "start": 0,
+          "username": "choco_030_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884566075704279335",
+    "in_reply_to_user_id": "1645857818808025090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881716356296646721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choco_030_ovo 沒關係 下次大膽集 都沒幾個人找我集郵😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1881352973684797464",
+        "created_at": "2025-01-29T11:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T12:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884566075704279335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1645857818808025090",
+              "start": 0,
+              "username": "choco_030_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884566075704279335",
+        "in_reply_to_user_id": "1645857818808025090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881716356296646721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choco_030_ovo 沒關係 下次大膽集 都沒幾個人找我集郵😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645857818808025090",
+        "conversation_id": "1881352973684797464",
+        "created_at": "2025-01-21T14:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T15:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881716356296646721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881716356296646721",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881352973684797464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 寶寶你是去曉之出的嗎qwq 有見到太偉大了 沒敢集郵（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 121,
+          "like_count": 12163,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3982
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T18:34:54.000Z",
+        "description": "可可🍫🍫 陰暗b一隻 經常發癲 萌新考蛇 地雷系女子    想和女孩子貼貼 成分複雜 雜食cp 死宅女 偶爾紫餐 \nweeeee(=｀ω´=) 夢想可以冬眠100年",
+        "id": "1645857818808025090",
+        "location": "香港",
+        "name": "可可choco",
+        "pinned_tweet_id": "1827782526200652098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796924195148009473/5Pl8xD7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 24,
+          "like_count": 5380,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 777
+        },
+        "username": "choco_030_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

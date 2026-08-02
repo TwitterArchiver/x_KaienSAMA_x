@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1897225325123395589"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1897225386519642187",
+    "created_at": "2025-03-05T09:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T10:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897225386519642187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aRRJB8YtOw",
+          "end": 30,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1897225386519642187/video/1",
+          "media_key": "13_1897225325123395589",
+          "start": 7,
+          "url": "https://t.co/aRRJB8YtOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897225386519642187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "還是king https://t.co/aRRJB8YtOw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20650,
+        "height": 720,
+        "media_key": "13_1897225325123395589",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1897225325123395589/img/HvVDqV9-4ee9AyZr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897225325123395589/vid/avc1/480x270/O36EzrneP6e_0Yj4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897225325123395589/vid/avc1/640x360/pXvSaMc7P2UwOh1t.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897225325123395589/vid/avc1/1280x720/4o2_D5QUzGTp-1sO.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1897225325123395589/pl/lvy-5lm545XzCz1a.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1897225325123395589"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1897225386519642187",
+        "created_at": "2025-03-05T09:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T10:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897225386519642187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRRJB8YtOw",
+              "end": 30,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1897225386519642187/video/1",
+              "media_key": "13_1897225325123395589",
+              "start": 7,
+              "url": "https://t.co/aRRJB8YtOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897225386519642187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "還是king https://t.co/aRRJB8YtOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "@kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894730110961655808/e5CKLvjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 129,
+          "like_count": 12849,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 4516
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

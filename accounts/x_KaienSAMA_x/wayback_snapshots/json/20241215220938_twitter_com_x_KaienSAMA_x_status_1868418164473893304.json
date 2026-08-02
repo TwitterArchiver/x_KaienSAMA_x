@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1868418164473893304",
+    "created_at": "2024-12-15T22:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T23:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868418164473893304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700173709301166080",
+          "start": 3,
+          "username": "K423_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868418164473893304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868343259640287403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K423_404: 阿梅｜Hong Kong｜13y\n\n⌫ 自殘°躁鬱°潔癖°cosplay°毛娘\n⌫ 潔癖，請不要與我有肢體接觸/碰到我的任何物。除非我接受到你 sorryyyy我沒有惡意\n⌫ 歡迎勾搭，可以找我當搭子出cos👁️👄👁️\n⌫ 情緒不穩定，情緒過山車一位…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1868418164473893304].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1868418164473893304",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1868418164473893304"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868343243605471232",
+            "3_1868343243605512192",
+            "3_1868343243597033472"
+          ]
+        },
+        "author_id": "1700173709301166080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1868343259640287403",
+        "created_at": "2024-12-15T17:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T18:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868343259640287403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfMuEKAR8f",
+              "end": 150,
+              "expanded_url": "https://x.com/K423_404/status/1868343259640287403/photo/1",
+              "media_key": "3_1868343243605471232",
+              "start": 127,
+              "url": "https://t.co/lfMuEKAR8f"
+            },
+            {
+              "display_url": "pic.x.com/lfMuEKAR8f",
+              "end": 150,
+              "expanded_url": "https://x.com/K423_404/status/1868343259640287403/photo/1",
+              "media_key": "3_1868343243605512192",
+              "start": 127,
+              "url": "https://t.co/lfMuEKAR8f"
+            },
+            {
+              "display_url": "pic.x.com/lfMuEKAR8f",
+              "end": 150,
+              "expanded_url": "https://x.com/K423_404/status/1868343259640287403/photo/1",
+              "media_key": "3_1868343243597033472",
+              "start": 127,
+              "url": "https://t.co/lfMuEKAR8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868343259640287403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "阿梅｜Hong Kong｜13y\n\n⌫ 自殘°躁鬱°潔癖°cosplay°毛娘\n⌫ 潔癖，請不要與我有肢體接觸/碰到我的任何物。除非我接受到你 sorryyyy我沒有惡意\n⌫ 歡迎勾搭，可以找我當搭子出cos👁️👄👁️\n⌫ 情緒不穩定，情緒過山車一位。 https://t.co/lfMuEKAR8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868333295408410624/a-QiuFaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 101,
+          "like_count": 11841,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 3437
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T15:46:42.000Z",
+        "description": "+852HKG 自殘癖 名字mayuki/隨你叫 我有潔癖，請不要與我有肢體接觸/碰到我的任何物。",
+        "id": "1700173709301166080",
+        "name": "加入你的名稱",
+        "pinned_tweet_id": "1868343259640287403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814344102424784900/bEHjfTNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 262,
+          "like_count": 3951,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 232
+        },
+        "username": "K423_404",
+        "verified": false
+      }
+    ]
+  }
+}

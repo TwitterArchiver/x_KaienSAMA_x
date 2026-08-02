@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1890429748657991752",
+    "created_at": "2025-02-14T15:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T16:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890429748657991752"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890429748657991752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實我也想談戀愛 只是我不適合 我不懂得怎樣與異性相處 愛著愛著突然有幾個瞬間就突然厭惡起了人類 連自己都覺得噁心得想吐 突然又有幾個瞬間厭惡起了外界 討厭所有的東西 朋友也是 然後後來又會突然很喜歡很沉很着迷\n我果然很有問題吧 但我就是這個樣子的 怪人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1890429748657991752",
+        "created_at": "2025-02-14T15:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T16:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890429748657991752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890429748657991752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我也想談戀愛 只是我不適合 我不懂得怎樣與異性相處 愛著愛著突然有幾個瞬間就突然厭惡起了人類 連自己都覺得噁心得想吐 突然又有幾個瞬間厭惡起了外界 討厭所有的東西 朋友也是 然後後來又會突然很喜歡很沉很着迷\n我果然很有問題吧 但我就是這個樣子的 怪人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 130,
+          "like_count": 12710,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 4343
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

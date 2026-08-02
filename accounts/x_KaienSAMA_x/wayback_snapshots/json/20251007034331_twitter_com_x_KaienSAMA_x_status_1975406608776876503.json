@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1975379561841107363",
+    "created_at": "2025-10-07T03:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T04:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975406608776876503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838523253230571521",
+          "start": 0,
+          "username": "54mlXN82Zl30826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975406608776876503",
+    "in_reply_to_user_id": "1838523253230571521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975389865824166282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@54mlXN82Zl30826 謝謝你qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1975379561841107363",
+        "created_at": "2025-10-07T03:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975406608776876503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838523253230571521",
+              "start": 0,
+              "username": "54mlXN82Zl30826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975406608776876503",
+        "in_reply_to_user_id": "1838523253230571521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975389865824166282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@54mlXN82Zl30826 謝謝你qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838523253230571521",
+        "conversation_id": "1975379561841107363",
+        "created_at": "2025-10-07T02:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T03:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975389865824166282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975389865824166282",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975379561841107363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 我会永远陪住海塩的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "希望有一天可以退推 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 127,
+          "like_count": 12771,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 6442
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T10:18:18.000Z",
+        "description": "",
+        "id": "1838523253230571521",
+        "location": "Hong Kong",
+        "name": "zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875182492594188288/Nn0-xEXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 349,
+          "like_count": 1334,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 150
+        },
+        "username": "54mlXN82Zl30826",
+        "verified": false
+      }
+    ]
+  }
+}

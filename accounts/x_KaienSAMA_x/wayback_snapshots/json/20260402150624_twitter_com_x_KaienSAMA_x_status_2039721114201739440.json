@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      }
+    ],
+    "conversation_id": "2039721114201739440",
+    "created_at": "2026-04-02T15:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039721114201739440"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "ニディガ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2393854393",
+          "start": 3,
+          "username": "canaria_tokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039721114201739440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039521510596165768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @canaria_tokyo: アニメ「NEEDY GIRL OVERDOSE」より、アクリルフレークパーツが登場🎉\n\n2026年5月下旬より順次発売予定🎀\n\nグッズ専門店様・通販サイト様にて予約受付中✨\n【4月17日(木)】までのご予約がおすすめです！\n\n#ニディガ h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1989,
+        "media_key": "3_2039521490136346624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3V_UtaMAAGX5h.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2039721114201739440",
+        "created_at": "2026-04-02T15:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039721114201739440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "ニディガ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2393854393",
+              "start": 3,
+              "username": "canaria_tokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039721114201739440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039521510596165768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @canaria_tokyo: アニメ「NEEDY GIRL OVERDOSE」より、アクリルフレークパーツが登場🎉\n\n2026年5月下旬より順次発売予定🎀\n\nグッズ専門店様・通販サイト様にて予約受付中✨\n【4月17日(木)】までのご予約がおすすめです！\n\n#ニディガ h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039521490136346624"
+          ]
+        },
+        "author_id": "2393854393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2039521510596165768",
+        "created_at": "2026-04-02T01:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039521510596165768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/asWI3FYSxk",
+              "end": 142,
+              "expanded_url": "https://x.com/canaria_tokyo/status/2039521510596165768/photo/1",
+              "media_key": "3_2039521490136346624",
+              "start": 119,
+              "url": "https://t.co/asWI3FYSxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039521510596165768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 15728,
+          "like_count": 767,
+          "quote_count": 20,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "アニメ「NEEDY GIRL OVERDOSE」より、アクリルフレークパーツが登場🎉\n\n2026年5月下旬より順次発売予定🎀\n\nグッズ専門店様・通販サイト様にて予約受付中✨\n【4月17日(木)】までのご予約がおすすめです！\n\n#ニディガ https://t.co/asWI3FYSxk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "哪怕有一天我撐不住了 也請不要恨我 請原諒我 好嗎\n此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 119,
+          "like_count": 13067,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 7095
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-17T05:33:31.000Z",
+        "description": "アニメやゲームグッズの企画・制作会社カナリアです(*゜Θ゜*)Twitter担当が商品情報などをご紹介しております☆　●よくあるご質問につきましては固定ツイートをご覧ください。　※個別の質問には基本的にはお答え致しませんので何卒ご了承下さい。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "canaria-tokyo.co.jp",
+                "end": 22,
+                "expanded_url": "http://canaria-tokyo.co.jp/",
+                "start": 0,
+                "url": "http://t.co/Re0c4lYaeK"
+              }
+            ]
+          }
+        },
+        "id": "2393854393",
+        "location": "東京都台東区",
+        "name": "株式会社カナリア",
+        "pinned_tweet_id": "768746624742924288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/884385201358426112/GWqC_VtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13047,
+          "following_count": 57,
+          "like_count": 12,
+          "listed_count": 119,
+          "media_count": 2059,
+          "tweet_count": 3534
+        },
+        "url": "http://t.co/Re0c4lYaeK",
+        "username": "canaria_tokyo",
+        "verified": false
+      }
+    ]
+  }
+}

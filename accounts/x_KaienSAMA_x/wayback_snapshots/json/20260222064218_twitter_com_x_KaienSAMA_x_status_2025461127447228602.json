@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024870997443461120",
+        "3_2024870997439205376"
+      ],
+      "media_source_tweet_id": [
+        "2024871006515695798",
+        "2024871006515695798"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2025461127447228602",
+    "created_at": "2026-02-22T06:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025461127447228602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700917352064561152",
+          "start": 3,
+          "username": "jing1234560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YZtZ33w3L7",
+          "end": 62,
+          "expanded_url": "https://x.com/jing1234560/status/2024871006515695798/photo/1",
+          "media_key": "3_2024870997443461120",
+          "start": 39,
+          "url": "https://t.co/YZtZ33w3L7"
+        },
+        {
+          "display_url": "pic.x.com/YZtZ33w3L7",
+          "end": 62,
+          "expanded_url": "https://x.com/jing1234560/status/2024871006515695798/photo/1",
+          "media_key": "3_2024870997439205376",
+          "start": 39,
+          "url": "https://t.co/YZtZ33w3L7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025461127447228602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024871006515695798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jing1234560: 下辈子我们一起躲进避孕套里 不要被命运找到 https://t.co/YZtZ33w3L7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024870997443461120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnJcaabwAA2zx_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024870997439205376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnJcaZa0AAuYID.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024870997443461120",
+            "3_2024870997439205376"
+          ],
+          "media_source_tweet_id": [
+            "2024871006515695798",
+            "2024871006515695798"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025461127447228602",
+        "created_at": "2026-02-22T06:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025461127447228602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700917352064561152",
+              "start": 3,
+              "username": "jing1234560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZtZ33w3L7",
+              "end": 62,
+              "expanded_url": "https://x.com/jing1234560/status/2024871006515695798/photo/1",
+              "media_key": "3_2024870997443461120",
+              "start": 39,
+              "url": "https://t.co/YZtZ33w3L7"
+            },
+            {
+              "display_url": "pic.x.com/YZtZ33w3L7",
+              "end": 62,
+              "expanded_url": "https://x.com/jing1234560/status/2024871006515695798/photo/1",
+              "media_key": "3_2024870997439205376",
+              "start": 39,
+              "url": "https://t.co/YZtZ33w3L7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025461127447228602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024871006515695798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jing1234560: 下辈子我们一起躲进避孕套里 不要被命运找到 https://t.co/YZtZ33w3L7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024870997443461120",
+            "3_2024870997439205376"
+          ]
+        },
+        "author_id": "1700917352064561152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024871006515695798",
+        "created_at": "2026-02-20T15:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024871006515695798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZtZ33w3L7",
+              "end": 45,
+              "expanded_url": "https://x.com/jing1234560/status/2024871006515695798/photo/1",
+              "media_key": "3_2024870997443461120",
+              "start": 22,
+              "url": "https://t.co/YZtZ33w3L7"
+            },
+            {
+              "display_url": "pic.x.com/YZtZ33w3L7",
+              "end": 45,
+              "expanded_url": "https://x.com/jing1234560/status/2024871006515695798/photo/1",
+              "media_key": "3_2024870997439205376",
+              "start": 22,
+              "url": "https://t.co/YZtZ33w3L7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024871006515695798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 52268,
+          "like_count": 508,
+          "quote_count": 3,
+          "reply_count": 41,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "下辈子我们一起躲进避孕套里 不要被命运找到 https://t.co/YZtZ33w3L7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處為本人發洩用 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 123,
+          "like_count": 13070,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 6960
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "2010703913289490783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5966,
+          "following_count": 119,
+          "like_count": 10421,
+          "listed_count": 11,
+          "media_count": 262,
+          "tweet_count": 5591
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

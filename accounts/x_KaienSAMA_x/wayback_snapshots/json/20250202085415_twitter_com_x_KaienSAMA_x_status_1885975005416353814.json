@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1885975005416353814",
+    "created_at": "2025-02-02T08:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T09:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885975005416353814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1537708619629678592",
+          "start": 3,
+          "username": "nightkings14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885975005416353814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885632452867301477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nightkings14: 服了，被飞机杯烫了，今天玩杯子的时候总感觉杯子凉的没感觉，然后就突发奇想用微波炉加热，热了半分钟我摸着外面是温的，感觉可以了，想都没想直接进去了，结果差点牛子烫掉，微波炉是从内部加热的，里面的润滑烫的跟岩浆似的，牛子已经疼了一天了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1885975005416353814",
+        "created_at": "2025-02-02T08:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T09:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885975005416353814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1537708619629678592",
+              "start": 3,
+              "username": "nightkings14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885975005416353814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885632452867301477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nightkings14: 服了，被飞机杯烫了，今天玩杯子的时候总感觉杯子凉的没感觉，然后就突发奇想用微波炉加热，热了半分钟我摸着外面是温的，感觉可以了，想都没想直接进去了，结果差点牛子烫掉，微波炉是从内部加热的，里面的润滑烫的跟岩浆似的，牛子已经疼了一天了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537708619629678592",
+        "conversation_id": "1885632452867301477",
+        "created_at": "2025-02-01T10:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T11:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885632452867301477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885632452867301477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 95908,
+          "like_count": 746,
+          "quote_count": 6,
+          "reply_count": 82,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "服了，被飞机杯烫了，今天玩杯子的时候总感觉杯子凉的没感觉，然后就突发奇想用微波炉加热，热了半分钟我摸着外面是温的，感觉可以了，想都没想直接进去了，结果差点牛子烫掉，微波炉是从内部加热的，里面的润滑烫的跟岩浆似的，牛子已经疼了一天了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 123,
+          "like_count": 12302,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4071
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T08:08:05.000Z",
+        "description": "是四爱男受\n喜欢对朋友犯贱\nENFP\n坐标山西/上海\n大家可以叫我狼崽/小狼/雨尘叶\nhttps://t.co/2eKl5Lm66t\n（匿名提问！可以来找我玩！）\n可以找我打游戏！\n永劫无间/铲铲/联盟/派派/等解限机ing",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nightkings141",
+                "end": 66,
+                "expanded_url": "https://ngl.link/nightkings141",
+                "start": 43,
+                "url": "https://t.co/2eKl5Lm66t"
+              }
+            ]
+          }
+        },
+        "id": "1537708619629678592",
+        "location": "狼崽破破烂烂的小草窝",
+        "name": "ᖰ超᳐级小狼崽᳐ᖳ੭",
+        "pinned_tweet_id": "1786930184698143117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872122959411994624/S6UZ35qS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 567,
+          "like_count": 7199,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 5240
+        },
+        "username": "nightkings14",
+        "verified": false
+      }
+    ]
+  }
+}

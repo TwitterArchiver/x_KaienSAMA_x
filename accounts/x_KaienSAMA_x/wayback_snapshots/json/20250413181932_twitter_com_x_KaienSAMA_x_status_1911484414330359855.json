@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1911473319427342827",
+    "created_at": "2025-04-13T18:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T19:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911484414330359855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1563916821849591814",
+          "start": 0,
+          "username": "2Z0uk7vvgH5tLyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911484414330359855",
+    "in_reply_to_user_id": "1563916821849591814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911479896909746194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2Z0uk7vvgH5tLyz 好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1911479896909746194].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1911479896909746194",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1911479896909746194"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1911473319427342827",
+        "created_at": "2025-04-13T18:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T19:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911484414330359855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563916821849591814",
+              "start": 0,
+              "username": "2Z0uk7vvgH5tLyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911484414330359855",
+        "in_reply_to_user_id": "1563916821849591814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911479896909746194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2Z0uk7vvgH5tLyz 好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906626426033553408/DC8Yr8_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 131,
+          "like_count": 12391,
+          "listed_count": 3,
+          "media_count": 228,
+          "tweet_count": 5152
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T15:50:25.000Z",
+        "description": "Hk。。。鹹魚的奮鬥日記(隱藏版) -___-！！！！\n\n有緣無份，只好默默地祝願她未來幸福美滿。。_。。\n\n重點再提一次：現今嘅男人要好好保護自己。\n\nLosers don’t deserve to embrace happiness",
+        "id": "1563916821849591814",
+        "location": "Hong Kong",
+        "name": "恭仔(破裂)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854828448331730944/B6ZmEacd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 96,
+          "like_count": 4032,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2301
+        },
+        "username": "2Z0uk7vvgH5tLyz",
+        "verified": false
+      }
+    ]
+  }
+}

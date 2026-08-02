@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "2067546094062743849",
+    "created_at": "2026-06-18T10:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067555753070842329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518743656475156480",
+          "start": 0,
+          "username": "reversecross_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067555753070842329",
+    "in_reply_to_user_id": "1518743656475156480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067546094062743849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reversecross_ 不醜 我的寶寶最可愛最漂亮了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067546094062743849].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067546094062743849",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067546094062743849"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "2067546094062743849",
+        "created_at": "2026-06-18T10:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067555753070842329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518743656475156480",
+              "start": 0,
+              "username": "reversecross_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067555753070842329",
+        "in_reply_to_user_id": "1518743656475156480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067546094062743849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reversecross_ 不醜 我的寶寶最可愛最漂亮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "絕望",
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 110,
+          "like_count": 13122,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 7362
+        },
+        "url": "",
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-26T00:08:06.000Z",
+        "description": "發洩用 這裡是我的垃圾桶",
+        "id": "1518743656475156480",
+        "location": "銀河列車",
+        "name": "倒十字",
+        "pinned_tweet_id": "1950451303160897612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746098313357864960/5buimFeG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 99,
+          "like_count": 2343,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1782
+        },
+        "url": "",
+        "username": "reversecross_",
+        "verified": false
+      }
+    ]
+  }
+}

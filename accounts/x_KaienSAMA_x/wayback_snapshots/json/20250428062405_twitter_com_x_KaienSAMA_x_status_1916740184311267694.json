@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1916726886098677950",
+    "created_at": "2025-04-28T06:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T07:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916740184311267694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1285531839776436225",
+          "start": 0,
+          "username": "ka0402long"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916740184311267694",
+    "in_reply_to_user_id": "1285531839776436225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916728252980408825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ka0402long 不是💀💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1916726886098677950",
+        "created_at": "2025-04-28T06:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T07:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916740184311267694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1285531839776436225",
+              "start": 0,
+              "username": "ka0402long"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916740184311267694",
+        "in_reply_to_user_id": "1285531839776436225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916728252980408825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ka0402long 不是💀💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285531839776436225",
+        "conversation_id": "1916726886098677950",
+        "created_at": "2025-04-28T05:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T06:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916728252980408825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916728252980408825",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916726886098677950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x 是幻想到學校大爆炸了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "海裡",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 131,
+          "like_count": 12381,
+          "listed_count": 3,
+          "media_count": 231,
+          "tweet_count": 5293
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T11:07:43.000Z",
+        "description": "水滴魚人\n7月控",
+        "id": "1285531839776436225",
+        "location": "你心中",
+        "name": "夜色良月",
+        "pinned_tweet_id": "1850698674688725432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909396501140586497/AABkL27D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 286,
+          "like_count": 3888,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1320
+        },
+        "username": "ka0402long",
+        "verified": false
+      }
+    ]
+  }
+}

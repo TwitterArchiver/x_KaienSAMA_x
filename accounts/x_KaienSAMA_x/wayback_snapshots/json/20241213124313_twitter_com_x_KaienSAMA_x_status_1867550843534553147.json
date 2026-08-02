@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867550834890092547",
+        "3_1867550834919452676",
+        "3_1867550834894270464"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1867550843534553147",
+    "created_at": "2024-12-13T12:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T13:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867550843534553147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7qbc0L42it",
+          "end": 25,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1867550843534553147/photo/1",
+          "media_key": "3_1867550834890092547",
+          "start": 2,
+          "url": "https://t.co/7qbc0L42it"
+        },
+        {
+          "display_url": "pic.x.com/7qbc0L42it",
+          "end": 25,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1867550843534553147/photo/1",
+          "media_key": "3_1867550834919452676",
+          "start": 2,
+          "url": "https://t.co/7qbc0L42it"
+        },
+        {
+          "display_url": "pic.x.com/7qbc0L42it",
+          "end": 25,
+          "expanded_url": "https://x.com/x_KaienSAMA_x/status/1867550843534553147/photo/1",
+          "media_key": "3_1867550834894270464",
+          "start": 2,
+          "url": "https://t.co/7qbc0L42it"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867550843534553147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "弦 https://t.co/7qbc0L42it"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1867550834890092547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GerflvGbsAMPeqT.jpg",
+        "width": 1640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1867550834919452676",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GerflvNbsAQaRCI.jpg",
+        "width": 1678
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1867550834894270464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GerflvHbcAAOUOL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867550834890092547",
+            "3_1867550834919452676",
+            "3_1867550834894270464"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1867550843534553147",
+        "created_at": "2024-12-13T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867550843534553147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qbc0L42it",
+              "end": 25,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1867550843534553147/photo/1",
+              "media_key": "3_1867550834890092547",
+              "start": 2,
+              "url": "https://t.co/7qbc0L42it"
+            },
+            {
+              "display_url": "pic.x.com/7qbc0L42it",
+              "end": 25,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1867550843534553147/photo/1",
+              "media_key": "3_1867550834919452676",
+              "start": 2,
+              "url": "https://t.co/7qbc0L42it"
+            },
+            {
+              "display_url": "pic.x.com/7qbc0L42it",
+              "end": 25,
+              "expanded_url": "https://x.com/x_KaienSAMA_x/status/1867550843534553147/photo/1",
+              "media_key": "3_1867550834894270464",
+              "start": 2,
+              "url": "https://t.co/7qbc0L42it"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867550843534553147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弦 https://t.co/7qbc0L42it"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "人類沒有資格獲得幸福與自由 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "海塩の死体。",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177854256644096/bIHdTiKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 100,
+          "like_count": 11810,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 3405
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}

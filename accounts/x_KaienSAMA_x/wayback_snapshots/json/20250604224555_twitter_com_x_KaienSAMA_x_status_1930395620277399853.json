@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930291652343803906"
+      ],
+      "media_source_tweet_id": [
+        "1930291658148765745"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1930395620277399853",
+    "created_at": "2025-06-04T22:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T23:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930395620277399853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370809768126783488",
+          "start": 3,
+          "username": "JULYSAMA2155282"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6gTk9dsv9O",
+          "end": 49,
+          "expanded_url": "https://x.com/JULYSAMA2155282/status/1930291658148765745/photo/1",
+          "media_key": "3_1930291652343803906",
+          "start": 26,
+          "url": "https://t.co/6gTk9dsv9O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930395620277399853",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930291658148765745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JULYSAMA2155282: 牛郎一位 https://t.co/6gTk9dsv9O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930291652343803906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnGB9rasAI6Fgf.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930291652343803906"
+          ],
+          "media_source_tweet_id": [
+            "1930291658148765745"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1930395620277399853",
+        "created_at": "2025-06-04T22:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T23:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930395620277399853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1370809768126783488",
+              "start": 3,
+              "username": "JULYSAMA2155282"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gTk9dsv9O",
+              "end": 49,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1930291658148765745/photo/1",
+              "media_key": "3_1930291652343803906",
+              "start": 26,
+              "url": "https://t.co/6gTk9dsv9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930395620277399853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930291658148765745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JULYSAMA2155282: 牛郎一位 https://t.co/6gTk9dsv9O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930291652343803906"
+          ]
+        },
+        "author_id": "1370809768126783488",
+        "conversation_id": "1930291658148765745",
+        "created_at": "2025-06-04T15:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930291658148765745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gTk9dsv9O",
+              "end": 28,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1930291658148765745/photo/1",
+              "media_key": "3_1930291652343803906",
+              "start": 5,
+              "url": "https://t.co/6gTk9dsv9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930291658148765745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "牛郎一位 https://t.co/6gTk9dsv9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此帳用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913640679366119424/J_qKMDVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 132,
+          "like_count": 12228,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 5477
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:51:43.000Z",
+        "description": "永遠  @july_akuryu0409 裹垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "july_akuryu0409"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/july._.cos_215…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/july._.cos_21552821",
+                "start": 0,
+                "url": "https://t.co/YC8Kl27WoJ"
+              }
+            ]
+          }
+        },
+        "id": "1370809768126783488",
+        "location": "我在你後方100米",
+        "name": "七月",
+        "pinned_tweet_id": "1850468053340897414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915012561466183680/CezeivVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 204,
+          "like_count": 9344,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/YC8Kl27WoJ",
+        "username": "JULYSAMA2155282",
+        "verified": false
+      }
+    ]
+  }
+}

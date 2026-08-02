@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1889624011509772600",
+    "created_at": "2025-02-12T10:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T11:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889624011509772600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812797664347717632",
+          "start": 3,
+          "username": "kurushi_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889624011509772600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889453660897456211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurushi_qwq: 我很失落，不是因為要上學，而是我好像一直都在失去著什麼微小的東西，但其實很重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1889624011509772600",
+        "created_at": "2025-02-12T10:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T11:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889624011509772600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812797664347717632",
+              "start": 3,
+              "username": "kurushi_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889624011509772600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889453660897456211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurushi_qwq: 我很失落，不是因為要上學，而是我好像一直都在失去著什麼微小的東西，但其實很重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812797664347717632",
+        "conversation_id": "1889453660897456211",
+        "created_at": "2025-02-11T23:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T00:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889453660897456211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889453660897456211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我很失落，不是因為要上學，而是我好像一直都在失去著什麼微小的東西，但其實很重要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "無論如何 心裡那片陰暗潮濕地 也不會放晴了 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "烏托邦",
+        "name": "海洋污染物⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 127,
+          "like_count": 12638,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 4272
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T10:33:49.000Z",
+        "description": "來自香港的血液草莓",
+        "id": "1812797664347717632",
+        "location": "蒼白天國",
+        "name": "usagi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861727078774898691/AWUBOMVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 245,
+          "like_count": 4121,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 760
+        },
+        "username": "kurushi_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

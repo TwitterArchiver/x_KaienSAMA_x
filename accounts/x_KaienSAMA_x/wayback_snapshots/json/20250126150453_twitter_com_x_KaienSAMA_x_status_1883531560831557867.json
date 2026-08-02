@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1883531560831557867",
+    "created_at": "2025-01-26T15:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T16:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883531560831557867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1285531839776436225",
+          "start": 3,
+          "username": "ka0402long"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883531560831557867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883524895667368271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ka0402long: 在想要不要接爸爸活~我沒錢了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1883531560831557867",
+        "created_at": "2025-01-26T15:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T16:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883531560831557867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1285531839776436225",
+              "start": 3,
+              "username": "ka0402long"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883531560831557867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883524895667368271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ka0402long: 在想要不要接爸爸活~我沒錢了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285531839776436225",
+        "conversation_id": "1883524895667368271",
+        "created_at": "2025-01-26T14:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T15:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883524895667368271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883524895667368271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在想要不要接爸爸活~我沒錢了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "...？ 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1881620197024673811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 120,
+          "like_count": 12145,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 3960
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T11:07:43.000Z",
+        "description": "哥布林奴隸🧌\n7月唯一認證奴隸",
+        "id": "1285531839776436225",
+        "location": "你心中",
+        "name": "歡樂憐憐",
+        "pinned_tweet_id": "1850698674688725432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883522171412353024/zNrH7z2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 320,
+          "like_count": 3356,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1213
+        },
+        "username": "ka0402long",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1980620766162157873",
+    "created_at": "2025-10-21T13:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980620766162157873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725683921763905536",
+          "start": 3,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980620766162157873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980264544502206795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luonbe69: 感觉，缺爱的人好恐怖啊\n不顾一切想要用爱把自己塞满\n就像一个快要溺死的人拼尽全力抓住稻草\n他们不在乎稻草是怎么想的\n这是一种偏向于求生的状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1980620766162157873",
+        "created_at": "2025-10-21T13:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980620766162157873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725683921763905536",
+              "start": 3,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980620766162157873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980264544502206795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luonbe69: 感觉，缺爱的人好恐怖啊\n不顾一切想要用爱把自己塞满\n就像一个快要溺死的人拼尽全力抓住稻草\n他们不在乎稻草是怎么想的\n这是一种偏向于求生的状态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "1980264544502206795",
+        "created_at": "2025-10-20T13:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980264544502206795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980264544502206795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 39618,
+          "like_count": 815,
+          "quote_count": 16,
+          "reply_count": 54,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "感觉，缺爱的人好恐怖啊\n不顾一切想要用爱把自己塞满\n就像一个快要溺死的人拼尽全力抓住稻草\n他们不在乎稻草是怎么想的\n这是一种偏向于求生的状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1956767534528794748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 127,
+          "like_count": 12794,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 6529
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 寂寞 世界 空心 呢喃 命运 废死 流浪 列车 白梦 闪烁 凝视 傲慢 节制 内脏 终焉 彷徨 憎恶 白躁 黄铜 血 糜烂 负荷 荒芜 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "发霉茄子",
+        "pinned_tweet_id": "1980222340962353648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850527858571325440/tCL5f4k4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 6458,
+          "like_count": 48005,
+          "listed_count": 8,
+          "media_count": 750,
+          "tweet_count": 19478
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

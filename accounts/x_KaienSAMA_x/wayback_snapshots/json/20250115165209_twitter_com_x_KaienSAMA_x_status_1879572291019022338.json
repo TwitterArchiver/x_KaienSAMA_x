@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1861553529800065490",
+    "created_at": "2025-01-15T16:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T17:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879572291019022338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "879051703558881281",
+          "start": 0,
+          "username": "walkeralone945"
+        },
+        {
+          "end": 29,
+          "id": "1833114994743062528",
+          "start": 16,
+          "username": "kaienSAMA_02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879572291019022338",
+    "in_reply_to_user_id": "879051703558881281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879571294913769951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@walkeralone945 @kaienSAMA_02 支付寶過數 僅在推閒聊喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1861553529800065490",
+        "created_at": "2025-01-15T16:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T17:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879572291019022338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "879051703558881281",
+              "start": 0,
+              "username": "walkeralone945"
+            },
+            {
+              "end": 29,
+              "id": "1833114994743062528",
+              "start": 16,
+              "username": "kaienSAMA_02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879572291019022338",
+        "in_reply_to_user_id": "879051703558881281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879571294913769951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@walkeralone945 @kaienSAMA_02 支付寶過數 僅在推閒聊喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "879051703558881281",
+        "conversation_id": "1861553529800065490",
+        "created_at": "2025-01-15T16:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T17:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879571294913769951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787170522381615104",
+              "start": 0,
+              "username": "x_KaienSAMA_x"
+            },
+            {
+              "end": 28,
+              "id": "1833114994743062528",
+              "start": 15,
+              "username": "kaienSAMA_02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879571294913769951",
+        "in_reply_to_user_id": "1787170522381615104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861553529800065490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_KaienSAMA_x @kaienSAMA_02 想入門如何PM加你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "再愛我多次。像最初那樣... 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 112,
+          "like_count": 11973,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 3836
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-25T19:00:32.000Z",
+        "description": "black",
+        "id": "879051703558881281",
+        "name": "Walkeralone#945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1313481108529569794/EpCP28Rt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "walkeralone945",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T12:07:38.000Z",
+        "description": "生存靠VALZ",
+        "id": "1833114994743062528",
+        "location": "晴天下被曬乾的浮屍",
+        "name": "海洋垃圾",
+        "pinned_tweet_id": "1850770408917905615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878452965113286656/Cj494DxB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 11,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 261
+        },
+        "username": "kaienSAMA_02",
+        "verified": false
+      }
+    ]
+  }
+}

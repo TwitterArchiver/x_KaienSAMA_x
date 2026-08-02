@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950173785577197568"
+      ],
+      "media_source_tweet_id": [
+        "1950173792875270498"
+      ]
+    },
+    "author_id": "1787170522381615104",
+    "conversation_id": "1950189643074241009",
+    "created_at": "2025-07-29T13:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T14:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950189643074241009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370809768126783488",
+          "start": 3,
+          "username": "JULYSAMA2155282"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eMvyZImR97",
+          "end": 53,
+          "expanded_url": "https://x.com/JULYSAMA2155282/status/1950173792875270498/photo/1",
+          "media_key": "3_1950173785577197568",
+          "start": 30,
+          "url": "https://t.co/eMvyZImR97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950189643074241009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950173792875270498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JULYSAMA2155282: 拍照拍到飯都涼了 https://t.co/eMvyZImR97"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950173785577197568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxBoububkAA__uQ.jpg",
+        "width": 1442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950173785577197568"
+          ],
+          "media_source_tweet_id": [
+            "1950173792875270498"
+          ]
+        },
+        "author_id": "1787170522381615104",
+        "conversation_id": "1950189643074241009",
+        "created_at": "2025-07-29T13:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950189643074241009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1370809768126783488",
+              "start": 3,
+              "username": "JULYSAMA2155282"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMvyZImR97",
+              "end": 53,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1950173792875270498/photo/1",
+              "media_key": "3_1950173785577197568",
+              "start": 30,
+              "url": "https://t.co/eMvyZImR97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950189643074241009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950173792875270498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JULYSAMA2155282: 拍照拍到飯都涼了 https://t.co/eMvyZImR97"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950173785577197568"
+          ]
+        },
+        "author_id": "1370809768126783488",
+        "conversation_id": "1950173792875270498",
+        "created_at": "2025-07-29T12:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T13:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950173792875270498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMvyZImR97",
+              "end": 32,
+              "expanded_url": "https://x.com/JULYSAMA2155282/status/1950173792875270498/photo/1",
+              "media_key": "3_1950173785577197568",
+              "start": 9,
+              "url": "https://t.co/eMvyZImR97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950173792875270498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拍照拍到飯都涼了 https://t.co/eMvyZImR97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1909562895480111310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 129,
+          "like_count": 12515,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 5936
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:51:43.000Z",
+        "description": "永遠  @july_akuryu0409 裹垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "july_akuryu0409"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/july._.cos_215…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/july._.cos_21552821",
+                "start": 0,
+                "url": "https://t.co/YC8Kl27WoJ"
+              }
+            ]
+          }
+        },
+        "id": "1370809768126783488",
+        "location": "我在你後方100米",
+        "name": "七月",
+        "pinned_tweet_id": "1850468053340897414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915012561466183680/CezeivVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 202,
+          "like_count": 9374,
+          "listed_count": 1,
+          "media_count": 374,
+          "tweet_count": 1628
+        },
+        "url": "https://t.co/YC8Kl27WoJ",
+        "username": "JULYSAMA2155282",
+        "verified": false
+      }
+    ]
+  }
+}

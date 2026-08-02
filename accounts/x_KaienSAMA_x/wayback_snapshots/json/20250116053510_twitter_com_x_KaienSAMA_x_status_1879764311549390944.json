@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1879764311549390944",
+    "created_at": "2025-01-16T05:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T06:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879764311549390944"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1879764311549390944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "いつからか解らない事よりも\n不知從何時起　比起不明白的事情\n\n解ってしまった事が何より苦しくて\n已經理解的事情要更痛苦得多\n\n向き合うほど\n每當我們面對面時\n\n気づいてしまったんだこの\n便會注意到這個世界\n\nセカイは思ったよりも歪んでいる\n比我們想像中的還要扭曲不已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1879764311549390944",
+        "created_at": "2025-01-16T05:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T06:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879764311549390944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879764311549390944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "いつからか解らない事よりも\n不知從何時起　比起不明白的事情\n\n解ってしまった事が何より苦しくて\n已經理解的事情要更痛苦得多\n\n向き合うほど\n每當我們面對面時\n\n気づいてしまったんだこの\n便會注意到這個世界\n\nセカイは思ったよりも歪んでいる\n比我們想像中的還要扭曲不已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "再愛我多次。像最初那樣... 裏垢 @kaienSAMA_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "kaienSAMA_02"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "在絕望的海裡浸泡著",
+        "name": "_海塩",
+        "pinned_tweet_id": "1861553529800065490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878453045090279425/InPGyYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 112,
+          "like_count": 11977,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 3842
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      }
+    ]
+  }
+}
