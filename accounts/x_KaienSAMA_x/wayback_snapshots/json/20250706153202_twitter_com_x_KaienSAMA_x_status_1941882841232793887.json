@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1941882841232793887",
+    "created_at": "2025-07-06T15:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T16:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941882841232793887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790319108875227136",
+          "start": 3,
+          "username": "needygirl_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941882841232793887",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 222
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941875031681749347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_o: 🎀超てんちゃん生誕祭2025お品書き公開🎀\n\n動画はチェックしてくれたかな❔🥺🥺\n超てんちゃんの動画で紹介された魅力的なグッズが勢ぞろい❣️❣️😍\nノベルティもチェックしてね🫵🫵✨✨✨💫💫💫\n\n▼ご購入はこちらから▼\nhttps://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3579,
+        "media_key": "3_1941742030394384384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvJ0Fr8aYAAoaVV.jpg",
+        "width": 2551
+      },
+      {
+        "height": 3579,
+        "media_key": "3_1941742043677519872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvJ0GdbW8AAm3RC.jpg",
+        "width": 2551
+      },
+      {
+        "height": 3579,
+        "media_key": "3_1941742057430695937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvJ0HQqXwAExNoj.jpg",
+        "width": 2551
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1941882841232793887",
+        "created_at": "2025-07-06T15:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T16:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941882841232793887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790319108875227136",
+              "start": 3,
+              "username": "needygirl_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941882841232793887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 222
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941875031681749347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_o: 🎀超てんちゃん生誕祭2025お品書き公開🎀\n\n動画はチェックしてくれたかな❔🥺🥺\n超てんちゃんの動画で紹介された魅力的なグッズが勢ぞろい❣️❣️😍\nノベルティもチェックしてね🫵🫵✨✨✨💫💫💫\n\n▼ご購入はこちらから▼\nhttps://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941742030394384384",
+            "3_1941742043677519872",
+            "3_1941742057430695937"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "conversation_id": "1941875031681749347",
+        "created_at": "2025-07-06T15:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T16:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941875031681749347"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "超てんちゃん",
+              "probability": 0.2448,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NEEDY GIRL OVERDOSE OFFICIAL STOREオフィシャルグッズストアです。",
+              "display_url": "internetangel.shop",
+              "end": 132,
+              "expanded_url": "https://internetangel.shop/",
+              "images": [
+                {
+                  "height": 77,
+                  "url": "https://pbs.twimg.com/news_img/1939824867311808512/4hvUsloo?format=png&name=orig",
+                  "width": 143
+                },
+                {
+                  "height": 77,
+                  "url": "https://pbs.twimg.com/news_img/1939824867311808512/4hvUsloo?format=png&name=150x150",
+                  "width": 77
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "NEEDY GIRL OVERDOSE OFFICIAL STORE",
+              "unwound_url": "https://internetangel.shop/",
+              "url": "https://t.co/zTIqopmyWs"
+            },
+            {
+              "display_url": "pic.x.com/U932LC3UOi",
+              "end": 156,
+              "expanded_url": "https://x.com/needygirl_o/status/1941875031681749347/photo/1",
+              "media_key": "3_1941742030394384384",
+              "start": 133,
+              "url": "https://t.co/U932LC3UOi"
+            },
+            {
+              "display_url": "pic.x.com/U932LC3UOi",
+              "end": 156,
+              "expanded_url": "https://x.com/needygirl_o/status/1941875031681749347/photo/1",
+              "media_key": "3_1941742043677519872",
+              "start": 133,
+              "url": "https://t.co/U932LC3UOi"
+            },
+            {
+              "display_url": "pic.x.com/U932LC3UOi",
+              "end": 156,
+              "expanded_url": "https://x.com/needygirl_o/status/1941875031681749347/photo/1",
+              "media_key": "3_1941742057430695937",
+              "start": 133,
+              "url": "https://t.co/U932LC3UOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941875031681749347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 13733,
+          "like_count": 831,
+          "quote_count": 55,
+          "reply_count": 0,
+          "retweet_count": 222
+        },
+        "reply_settings": "everyone",
+        "text": "🎀超てんちゃん生誕祭2025お品書き公開🎀\n\n動画はチェックしてくれたかな❔🥺🥺\n超てんちゃんの動画で紹介された魅力的なグッズが勢ぞろい❣️❣️😍\nノベルティもチェックしてね🫵🫵✨✨✨💫💫💫\n\n▼ご購入はこちらから▼\nhttps://t.co/zTIqopmyWs https://t.co/U932LC3UOi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "此處用作吐苦水放負碎唸 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937388734883995648/w12PLFKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 130,
+          "like_count": 12476,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 5752
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/nXwN8xhR49",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "angelkawaii.com",
+                "end": 137,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 114,
+                "url": "https://t.co/nXwN8xhR49"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50064,
+          "following_count": 7,
+          "like_count": 11,
+          "listed_count": 57,
+          "media_count": 430,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      }
+    ]
+  }
+}

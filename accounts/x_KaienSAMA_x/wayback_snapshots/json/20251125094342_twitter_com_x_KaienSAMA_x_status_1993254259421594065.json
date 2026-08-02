@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1993254259421594065",
+    "created_at": "2025-11-25T09:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T10:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993254259421594065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1135334607199490048",
+          "start": 3,
+          "username": "CPyTQBzKGNBmcXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993254259421594065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993199268686069952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CPyTQBzKGNBmcXQ: 我真的不知道該怎麼辦 滿腦都是想死的想法 被生活拖著走 一切都變得不可控 做什麼都很疲憊 看著這樣糟糕的自己 我只想把自己殺了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1993254259421594065",
+        "created_at": "2025-11-25T09:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993254259421594065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1135334607199490048",
+              "start": 3,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993254259421594065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993199268686069952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CPyTQBzKGNBmcXQ: 我真的不知道該怎麼辦 滿腦都是想死的想法 被生活拖著走 一切都變得不可控 做什麼都很疲憊 看著這樣糟糕的自己 我只想把自己殺了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1993199268686069952",
+        "created_at": "2025-11-25T06:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993199268686069952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993199268686069952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不知道該怎麼辦 滿腦都是想死的想法 被生活拖著走 一切都變得不可控 做什麼都很疲憊 看著這樣糟糕的自己 我只想把自己殺了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1986012257122480303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 124,
+          "like_count": 12921,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 6713
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "終點站現實 已無法逃脫",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 324,
+          "like_count": 86189,
+          "listed_count": 15,
+          "media_count": 462,
+          "tweet_count": 9827
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

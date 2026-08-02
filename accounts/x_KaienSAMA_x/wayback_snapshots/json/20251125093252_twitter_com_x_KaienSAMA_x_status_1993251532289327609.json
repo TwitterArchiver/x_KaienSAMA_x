@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1787170522381615104",
+    "conversation_id": "1993251532289327609",
+    "created_at": "2025-11-25T09:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T10:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993251532289327609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697158457450012672",
+          "start": 3,
+          "username": "ayawo11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993251532289327609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993002473108521474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayawo11_: 如果世界上真有吐真剂就好了，我要悄悄让你喝掉，这样你就可以告诉我，我是特别的那个吗，你对我抱有的感情超出朋友范围吗，你对我做出的在我看来暧昧的举动是朋友间的亲昵吗?，你喜欢我吗?你讨厌我吗?，你排斥我对你的亲密吗?你想我吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787170522381615104",
+        "conversation_id": "1993251532289327609",
+        "created_at": "2025-11-25T09:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993251532289327609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697158457450012672",
+              "start": 3,
+              "username": "ayawo11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993251532289327609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993002473108521474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayawo11_: 如果世界上真有吐真剂就好了，我要悄悄让你喝掉，这样你就可以告诉我，我是特别的那个吗，你对我抱有的感情超出朋友范围吗，你对我做出的在我看来暧昧的举动是朋友间的亲昵吗?，你喜欢我吗?你讨厌我吗?，你排斥我对你的亲密吗?你想我吗?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697158457450012672",
+        "conversation_id": "1993002473108521474",
+        "created_at": "2025-11-24T17:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993002473108521474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993002473108521474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 23263,
+          "like_count": 449,
+          "quote_count": 6,
+          "reply_count": 19,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "如果世界上真有吐真剂就好了，我要悄悄让你喝掉，这样你就可以告诉我，我是特别的那个吗，你对我抱有的感情超出朋友范围吗，你对我做出的在我看来暧昧的举动是朋友间的亲昵吗?，你喜欢我吗?你讨厌我吗?，你排斥我对你的亲密吗?你想我吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-05T17:20:51.000Z",
+        "description": "喜歡我可以過錢 裏垢@DeadKAiEn_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DeadKAiEn_2"
+              }
+            ]
+          }
+        },
+        "id": "1787170522381615104",
+        "location": "冥海",
+        "name": "海塩⊹ｶｲｴﾝ",
+        "pinned_tweet_id": "1986012257122480303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234017155518467/DSxNzQ8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 124,
+          "like_count": 12920,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 6712
+        },
+        "username": "x_KaienSAMA_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T08:04:48.000Z",
+        "description": "当朋友圈玩 看到有趣的碎碎念都会关注喵不聊骚不约｜本人素质低下^ ^｜有喜欢的小男生了所以不看私信咪｜置顶推广转发推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aya1136304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aya1136304",
+                "start": 0,
+                "url": "https://t.co/l517hVsKSx"
+              }
+            ]
+          }
+        },
+        "id": "1697158457450012672",
+        "name": "小夜",
+        "pinned_tweet_id": "1983883542334730360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204301942083584/u2mumVAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 132,
+          "like_count": 3785,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 2510
+        },
+        "url": "https://t.co/l517hVsKSx",
+        "username": "ayawo11_",
+        "verified": false
+      }
+    ]
+  }
+}
